@@ -16,9 +16,11 @@ Searchable, daily-updated dashboard of Louisville Metro / Jefferson County local
 - [x] PrimeGov public-API scraper — replaces `civic-scraper` since the direct API turned out cleaner and supports all 40 public-portal bodies, not just Metro Council.
 - [x] PDF agenda fetch + pdfminer text extraction + sha256 dedup.
 - [x] Best-effort agenda-item parser for the Metro Council "N. ID YY-NNNN <title>" format.
-- [x] Smoke-tested: 3 Metro Council meetings written to `data/meetings/metro-council/2026/`.
-- [ ] Run full-year scrape across all 40 bodies and inspect output.
-- [ ] JCPS BoardDocs scraper.
+- [x] **KSBA Public Portal scraper for JCPS Board of Education** — the original plan said BoardDocs; turns out JCPS uses KSBA (`portal.ksba.org`, agency id 89). Items are extracted from outline-numbered (I, II.A, III.B…) spans. ~73-91 items per regular meeting, ~80 attachments.
+- [x] Multi-source orchestrator — `--sources primegov,ksba` (both by default).
+- [x] Smoke-tested: 3 Metro Council + 3 JCPS Board meetings written under `data/meetings/`.
+- [ ] Run full-year scrape across all bodies and inspect output.
+- [ ] KSBA pagination (Phase 1 only fetches page 1 = ~25 most recent JCPS meetings, ~12 months).
 - [ ] Astro + Pagefind dashboard in `/site/`.
 - [ ] GitHub Actions cron + Pages deploy.
 
