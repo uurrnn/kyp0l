@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Astro / Node
+node_modules/
+site/dist/
+site/.astro/
+
+# Phase-1 development: don't commit smoke-test data dumps yet.
+# Once Phase 1 is production-ready and runs cleanly, flip this to commit /data/
+# (the original plan treats /data/ as the repo-backed database).
+data/
+
+# Probes/throwaway scripts kept around for reference but not shipped
+# (we DO commit scratch/ in this branch — useful breadcrumbs for next session).
+# scratch/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
