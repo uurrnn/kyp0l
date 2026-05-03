@@ -9,6 +9,7 @@ export function getStaticPaths() {
 const { id } = Astro.params;
 const body = getBodyById(id!);
 const meetings = body ? getMeetingsByBody(body.id) : [];
+const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title={`${body?.name ?? "Body"} — Louisville Local Politics`}>
@@ -16,7 +17,7 @@ const meetings = body ? getMeetingsByBody(body.id) : [];
     <p class="empty-state">No such body.</p>
   ) : (
     <>
-      <p><a href="/">&larr; All bodies</a></p>
+      <p><a href={base}>&larr; All bodies</a></p>
       <h1>{body.name}</h1>
       <p class="meta" style="color: var(--fg-muted);">
         Source: <strong>{body.source_type}</strong> ·
@@ -25,7 +26,7 @@ const meetings = body ? getMeetingsByBody(body.id) : [];
 
       <div data-pagefind-ignore>
         {meetings.map((m) => (
-          <a class="meeting-card" href={`/meeting/${m.id}`}>
+          <a class="meeting-card" href={`${base}meeting/${m.id}`}>
             <div class="date">{formatMeetingDate(m)}</div>
             <div class="title">{m.title}</div>
             <div class="meta">{m.items.length} items · {m.attachments.length} attachments</div>

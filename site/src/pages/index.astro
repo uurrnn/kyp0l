@@ -5,6 +5,7 @@ import { getMeetings, getBodies, formatMeetingDate, getBodyById } from "~/lib/da
 const meetings = getMeetings();
 const bodies = getBodies();
 const recent = meetings.slice(0, 50);
+const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title="Louisville Local Politics" description="Searchable index of Louisville Metro and JCPS Board agendas.">
@@ -21,7 +22,7 @@ const recent = meetings.slice(0, 50);
     {recent.map((m) => {
       const body = getBodyById(m.body_id);
       return (
-        <a class="meeting-card" href={`/meeting/${m.id}`}>
+        <a class="meeting-card" href={`${base}meeting/${m.id}`}>
           <div class="date">{formatMeetingDate(m)}</div>
           <div class="body-name">{body?.name ?? m.body_id}</div>
           <div class="title">{m.title}</div>
@@ -36,7 +37,7 @@ const recent = meetings.slice(0, 50);
       <h2>Browse by body</h2>
       <p>
         {bodies.map((b) => (
-          <a class="body-pill" href={`/body/${b.id}`}>{b.name}</a>
+          <a class="body-pill" href={`${base}body/${b.id}`}>{b.name}</a>
         ))}
       </p>
     </section>

@@ -1,0 +1,105 @@
+name: Scrape, build, and deploy
+
+# Triggers:
+#  - schedule: every 6h, scrape upstream and rebuild if anything changed
+#  - workflow_dispatch: manual run from the Actions tab
+#  - push: rebuild + redeploy when scrapers/, site/, or data/ change.
+#    GITHUB_TOKEN-pushed commits don't trigger workflows (GH guard), so
+#    the auto-commit from the scrape step won't loop back into another run.
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scrapers/**"
+      - "site/**"
+      - "data/**"
+      - "pyproject.toml"
+      - ".github/workflows/**"
+
+permissions:
+  contents: write   # to commit fresh data/
+  pages: write
+  id-token: write   # required by actions/deploy-pages
+
+# Don't let a long scrape get killed by the next cron tick mid-commit.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.14
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install scraper dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Scrape (skip on push events that didn't touch data sources)
+        if: github.event_name != 'push'
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python -m scrapers --year "$(date -u +%Y)" --no-upcoming
+          # Also pull upcoming meetings into the index
+          python -m scrapers --year "$(date -u +%Y)" --sources primegov
+
+      - name: Commit fresh data (if changed)
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "Louisville Politics Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Auto-scrape $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Set up Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install site dependencies
+        working-directory: site
+        run: npm ci
+
+      - name: Build site (Astro + Pagefind)
+        working-directory: site
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          SITE_URL: ${{ steps.pages.outputs.origin }}
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -4,7 +4,8 @@ version = "0.1.0"
 description = "Searchable dashboard of Louisville Metro Council + JCPS Board meetings."
 requires-python = ">=3.10"
 dependencies = [
-    "civic-scraper>=0.2",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
     "pdfminer.six>=20231228",
     "requests>=2.31",
 ]

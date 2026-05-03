@@ -32,6 +32,26 @@ npm run build       # produces site/dist/ with Pagefind index baked in
 npm run preview     # serves site/dist/ at http://localhost:4321
 ```
 
+For non-root deploys (e.g. GitHub Pages at `/<repo>/`), set:
+
+```bash
+BASE_PATH=/louisville-politics/ SITE_URL=https://<user>.github.io npm run build
+```
+
+## GitHub Pages deploy
+
+[`.github/workflows/scrape-build-deploy.yml`](.github/workflows/scrape-build-deploy.yml)
+runs every 6 hours, scrapes upstream, commits any `data/` deltas back to `main`,
+rebuilds the Astro site, and publishes to GitHub Pages.
+
+One-time setup after pushing the repo to GitHub:
+
+1. **Settings → Pages → Source = "GitHub Actions"** (not "Deploy from a branch").
+2. **Settings → Actions → General → Workflow permissions = "Read and write"**
+   so the bot can commit fresh `data/` back to `main`.
+3. Trigger the workflow once manually (Actions tab → "Scrape, build, and deploy" → "Run workflow")
+   to confirm it goes green and Pages gets its first deploy.
+
 See [scratch/](scratch/) for the throwaway probes that established the API surface — useful breadcrumbs.
 
 ## Local dev
