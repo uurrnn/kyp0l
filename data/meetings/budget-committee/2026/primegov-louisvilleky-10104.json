@@ -1,0 +1,35 @@
+{
+  "id": "primegov-louisvilleky-10104",
+  "body_id": "budget-committee",
+  "title": "Budget Committee",
+  "date": "2026-03-19",
+  "time": "16:30",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10104",
+  "source_meeting_id": "10104",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/378661",
+  "attachments": [
+    {
+      "sha256": "d142d142148f5b4527e420638650225ce794ae74ecbdb38c776bf548459aedbd",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10104/Agenda_20260318182947719.pdf?sv=2017-04-17&sr=b&sig=rTKtjI2Ecs0hQ5nPkyqTxM0NZXQrGg%2FGJE1RIEH36c8%3D&st=2026-05-02T05%3A48%3A02Z&se=2026-05-04T05%3A48%3A02Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/d142d142148f5b4527e420638650225ce794ae74ecbdb38c776bf548459aedbd.txt"
+    },
+    {
+      "sha256": "0329b7721250efeffc0da22432abb3eda911026d44d36fd10fe3a23f975c50a8",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10104/Minutes_20260326112842313.pdf?sv=2017-04-17&sr=b&sig=MRX0hz1INyHg9qA8pfMUbWFoHvg%2BqqPUWQUyEYhoT9A%3D&st=2026-05-02T05%3A48%3A03Z&se=2026-05-04T05%3A48%3A03Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/0329b7721250efeffc0da22432abb3eda911026d44d36fd10fe3a23f975c50a8.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0038",
+      "title": "REPORT ON SPACE STUDY \u2013 Sean Woods, Facilities & Fleet Management",
+      "section": null
+    }
+  ]
+}

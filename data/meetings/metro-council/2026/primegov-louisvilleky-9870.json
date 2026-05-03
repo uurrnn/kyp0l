@@ -1,0 +1,107 @@
+{
+  "id": "primegov-louisvilleky-9870",
+  "body_id": "metro-council",
+  "title": "Metro Council",
+  "date": "2026-01-29",
+  "time": "18:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9870",
+  "source_meeting_id": "9870",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/373625",
+  "attachments": [
+    {
+      "sha256": "bf067185ef15f80fc5bb085097fde98fc342d88e9ad69bff7b5fa64afae576d4",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9870/Agenda_20260129200743432.pdf?sv=2017-04-17&sr=b&sig=aBerp6mkREsoCq84Yy1LPxFN0ay9se88EWY%2FstruHyA%3D&st=2026-05-02T05%3A46%3A11Z&se=2026-05-04T05%3A46%3A11Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/bf067185ef15f80fc5bb085097fde98fc342d88e9ad69bff7b5fa64afae576d4.txt"
+    },
+    {
+      "sha256": "317bf8ccb1f76f39b0eeeac783d4b0c3b4b4995ed9e5b485c643dcb972f93e97",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9870/Minutes_20260213155159147.pdf?sv=2017-04-17&sr=b&sig=9r7AYil1to4rmC7i4%2FaBmBhlbC8P5m6TUfRhZRojiKQ%3D&st=2026-05-02T05%3A46%3A12Z&se=2026-05-04T05%3A46%3A12Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/317bf8ccb1f76f39b0eeeac783d4b0c3b4b4995ed9e5b485c643dcb972f93e97.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0030",
+      "title": "Addresses to Council \u2013 January 29, 2026",
+      "section": "Addresses to the Council"
+    },
+    {
+      "item_number": "2",
+      "file_number": "26-0009",
+      "title": "Special:  Metro Council \u2013 January 8, 2026",
+      "section": "Council Minutes"
+    },
+    {
+      "item_number": "7",
+      "file_number": "26-0021",
+      "title": "Special:  Planning and Zoning Committee \u2013 January 20, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "4",
+      "file_number": "26-0022",
+      "title": "Special:  Government Oversight/Audit and Appointments Committee \u2013 January 20, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "5",
+      "file_number": "26-0023",
+      "title": "Special:  Appropriations Committee \u2013 January 21, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "6",
+      "file_number": "26-0024",
+      "title": "Special:  Budget Committee \u2013 January 22, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "7",
+      "file_number": "26-0033",
+      "title": "Special:  Committee on Committees \u2013 January 27, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "8",
+      "file_number": "26-0014",
+      "title": "Chickasaw Architectural Review Committee \u2013 Ameerah Granger, Donovan Taylor, and Dr. Frank M. Smith, Jr. (New Appointments)",
+      "section": "Communications to the Council"
+    },
+    {
+      "item_number": "9",
+      "file_number": "26-0025",
+      "title": "Waste Management District 109 Board \u2013 Antonio Brown (New Appointment)",
+      "section": "Communications to the Council"
+    },
+    {
+      "item_number": "10",
+      "file_number": "26-0026",
+      "title": "Metropolitan Sewer District Board \u2013 Ricky Mason (Reappointment)",
+      "section": "Communications to the Council"
+    },
+    {
+      "item_number": "11",
+      "file_number": "26-0027",
+      "title": "Juneteenth Jubilee Commission \u2013 Ben Robinson (New Appointment)",
+      "section": "Communications to the Council"
+    },
+    {
+      "item_number": "12",
+      "file_number": "26-0028",
+      "title": "Ethics Commission \u2013 Louis Straub (New Appointment)",
+      "section": "Communications to the Council"
+    },
+    {
+      "item_number": "13",
+      "file_number": "26-0029",
+      "title": "Zoo Foundation Board \u2013 Cory Skolnick (New Appointment) Metro Council approval is not required.",
+      "section": "Communications to the Council"
+    }
+  ]
+}

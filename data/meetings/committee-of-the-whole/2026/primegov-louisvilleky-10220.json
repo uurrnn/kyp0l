@@ -1,0 +1,35 @@
+{
+  "id": "primegov-louisvilleky-10220",
+  "body_id": "committee-of-the-whole",
+  "title": "Committee of the Whole - THIS IS CONSIDERED A SPECIAL MEETING",
+  "date": "2026-04-16",
+  "time": "13:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10220",
+  "source_meeting_id": "10220",
+  "video_url": "https://louisvilleky.new.swagit.com/events/46145",
+  "attachments": [
+    {
+      "sha256": "3094be9eec1a41102867700a534dca65542eccba6f53a3e6e6a0913ee6b1e7e3",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10220/Agenda_20260415211339737.pdf?sv=2017-04-17&sr=b&sig=3BVk0P970LCWv5l9wTHFM0Zlk4RTRcrayXBymU3qqpU%3D&st=2026-05-02T05%3A48%3A32Z&se=2026-05-04T05%3A48%3A32Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/3094be9eec1a41102867700a534dca65542eccba6f53a3e6e6a0913ee6b1e7e3.txt"
+    },
+    {
+      "sha256": "37e8568a73ca5c2bd496b80271c97ea1d4225087520477d4b01a990440f8b21a",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10220/Minutes_20260417184959042.pdf?sv=2017-04-17&sr=b&sig=f9u4bd9Aoo1bhY73fsal8EUdzbaxFZgXhPNvhlf%2Fp0k%3D&st=2026-05-02T05%3A48%3A33Z&se=2026-05-04T05%3A48%3A33Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/37e8568a73ca5c2bd496b80271c97ea1d4225087520477d4b01a990440f8b21a.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0154",
+      "title": "PARLIAMENTARIAN TRAINING FOR METRO COUNCIL:  John Berg, Professional Registered Parliamentarian",
+      "section": null
+    }
+  ]
+}

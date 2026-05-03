@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-9931",
+  "body_id": "budget-committee",
+  "title": "Budget Committee - THIS IS CONSIDERED A SPECIAL MEETING",
+  "date": "2026-01-22",
+  "time": "16:30",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9931",
+  "source_meeting_id": "9931",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/372957",
+  "attachments": [
+    {
+      "sha256": "d31090ac9dd8b78bff35a7e74b0085c6e381e4e2aba918e5a6d842e9c8c49c09",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9931/Agenda_20260116162641552.pdf?sv=2017-04-17&sr=b&sig=L6Nm9qyVJFETxNi4f80n4Drkqt0mrlqwBQVG65WezGo%3D&st=2026-05-02T05%3A45%3A59Z&se=2026-05-04T05%3A45%3A59Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/d31090ac9dd8b78bff35a7e74b0085c6e381e4e2aba918e5a6d842e9c8c49c09.txt"
+    },
+    {
+      "sha256": "6a92fc8e73b4462e8a14e8c8c00f40b3429864edfad3887cc85de87d7e341f34",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9931/Minutes_202601291518211.pdf?sv=2017-04-17&sr=b&sig=Fihn2xUuRo%2FAxupA92gyLRdk11v7SViDNtkwdHULElM%3D&st=2026-05-02T05%3A46%3A00Z&se=2026-05-04T05%3A46%3A00Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/6a92fc8e73b4462e8a14e8c8c00f40b3429864edfad3887cc85de87d7e341f34.txt"
+    }
+  ],
+  "items": []
+}

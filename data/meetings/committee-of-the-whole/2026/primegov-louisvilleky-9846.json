@@ -1,0 +1,41 @@
+{
+  "id": "primegov-louisvilleky-9846",
+  "body_id": "committee-of-the-whole",
+  "title": "Committee of the Whole",
+  "date": "2026-03-12",
+  "time": "17:15",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9846",
+  "source_meeting_id": "9846",
+  "video_url": "https://louisvilleky.new.swagit.com/events/45525",
+  "attachments": [
+    {
+      "sha256": "f7380f83cd0aba070c0a497a67b56666df57a494fe59aea23fc200e277b41a2d",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9846/Agenda_20260311163407682.pdf?sv=2017-04-17&sr=b&sig=tXdSfNon%2FltuC8rzNC7qjZFz4n3nklZBRezdkTSXhlo%3D&st=2026-05-02T05%3A47%3A41Z&se=2026-05-04T05%3A47%3A41Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/f7380f83cd0aba070c0a497a67b56666df57a494fe59aea23fc200e277b41a2d.txt"
+    },
+    {
+      "sha256": "968b130d0beb730c902c26ef2b6f5576f66728f2987706a0bafaff55cfdbc483",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9846/Minutes_20260324204037879.pdf?sv=2017-04-17&sr=b&sig=B2klknAJ2b3HnauW9HDil0D9cYBrttlxu0hZzMq5y6M%3D&st=2026-05-02T05%3A47%3A42Z&se=2026-05-04T05%3A47%3A42Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/968b130d0beb730c902c26ef2b6f5576f66728f2987706a0bafaff55cfdbc483.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0128",
+      "title": "Metro Council Agenda \u2013 March 12, 2026",
+      "section": null
+    },
+    {
+      "item_number": "2",
+      "file_number": "26-0125",
+      "title": "Addresses to Council \u2013 March 12, 2026",
+      "section": null
+    }
+  ]
+}

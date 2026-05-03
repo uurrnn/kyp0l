@@ -1,0 +1,784 @@
+{
+  "id": "ksba-89-51034",
+  "body_id": "jcps-board-of-education",
+  "title": "Work Session",
+  "date": "2025-07-08",
+  "time": "18:00",
+  "source_type": "ksba",
+  "source_url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=51034&AgencyTypeID=",
+  "source_meeting_id": "51034",
+  "video_url": null,
+  "attachments": [
+    {
+      "sha256": "70904612bba9e0767e5ab28b7d02848d4fdbbdeacdfbac8674e0831127dc498a",
+      "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=51034&AgencyTypeID=",
+      "mime": "text/html",
+      "template_name": "KSBA Meeting Page",
+      "extracted_text_path": "data/attachments/70904612bba9e0767e5ab28b7d02848d4fdbbdeacdfbac8674e0831127dc498a.txt"
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894166",
+      "mime": "application/pdf",
+      "template_name": "7 8 25 Agenda",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894161",
+      "mime": "application/pdf",
+      "template_name": "6 24 25 Minutes.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=895301",
+      "mime": "application/pdf",
+      "template_name": "Human Resources JCBE Report July 8",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894151",
+      "mime": "application/pdf",
+      "template_name": "CERTIFIED LEAVES 2025-07-08",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894152",
+      "mime": "application/pdf",
+      "template_name": "PERSONNEL ACTIONS 2025-07-08",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=895173",
+      "mime": "application/pdf",
+      "template_name": "HUMAN RESOURCES 2025-07-08",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894691",
+      "mime": "application/pdf",
+      "template_name": "JCPS POLICE DEPARTMENT 2025-07-08",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894692",
+      "mime": "application/pdf",
+      "template_name": "SCHOOLS 2025-07-08",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892800",
+      "mime": "application/pdf",
+      "template_name": "Field Trips",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894406",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Atkinson ES - Phase I HVAC Renovation",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894407",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Barret TMS - Boiler and Chiller Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894408",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Eastern HS - Boiler Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894409",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Jeffersontown HS - Chiller Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894410",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Iroquois HS - Chiller Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894411",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Ramsey MS - Boiler Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894412",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Luhr ES - Boiler Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894413",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Watterson ES - Boiler and Chiller Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892694",
+      "mime": "application/pdf",
+      "template_name": "BG-4 Wilkerson ES - New ES Dixie Corridor",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892701",
+      "mime": "application/pdf",
+      "template_name": "BG-5 Newcomer Academy - Boiler Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892700",
+      "mime": "application/pdf",
+      "template_name": "BG-5 Breckinridge-Franklin ES - Boiler and Chiller Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892705",
+      "mime": "application/pdf",
+      "template_name": "Change Orders and Descriptions 7-8-25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=893040",
+      "mime": "application/pdf",
+      "template_name": "*Competitive Negotiations, Bid Tabulations, and Contract Renewals_07 08 25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892920",
+      "mime": "application/pdf",
+      "template_name": "Automotive Bus Repair Parts & Services (Line Item)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=893033",
+      "mime": "application/pdf",
+      "template_name": "Bus Service School Runs (Junior Achievement)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892880",
+      "mime": "application/pdf",
+      "template_name": "C/N for Datacenter Firewall Solution",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=893029",
+      "mime": "application/pdf",
+      "template_name": "C/N for Security Information and Event Management (SIEM) Solution",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892907",
+      "mime": "application/pdf",
+      "template_name": "Paper (Materials Production)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892886",
+      "mime": "application/pdf",
+      "template_name": "Property, Boiler & Machinery Insurance",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892882",
+      "mime": "application/pdf",
+      "template_name": "SCNS Lunchroom Products (School Delivery)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892895",
+      "mime": "application/pdf",
+      "template_name": "SCNS Lunchroom Products (Warehouse Delivery)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894150",
+      "mime": "application/pdf",
+      "template_name": "List of Contracts 07.08.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892277",
+      "mime": "application/pdf",
+      "template_name": "01 - The Collaborative for Teaching and Learning (FY25-26)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894396",
+      "mime": "application/pdf",
+      "template_name": "02 - CS Educational Services (FY25-26)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894397",
+      "mime": "application/pdf",
+      "template_name": "03 - Mosaic Minds Education Consultants, LLC. (FY25-26)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894505",
+      "mime": "application/pdf",
+      "template_name": "04 - Advanced Environmental Services (FY25-28)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894520",
+      "mime": "application/pdf",
+      "template_name": "05 - Ohio Valley Education Cooperative - Amendment to PSC",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=893985",
+      "mime": "application/pdf",
+      "template_name": "Monthly Financial Report for PE 05.31.2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=893986",
+      "mime": "application/pdf",
+      "template_name": "Notes of Interest May 2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=891930",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - Invoice Report 06.02.25 - 06.15.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=891931",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - PO's by Department 06.02.25 - 06.15.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=891932",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - PO's by Vendor 06.02.25 - 06.15.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=891933",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - Vouchers 06.02.25 - 06.15.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892760",
+      "mime": "application/pdf",
+      "template_name": "Donations and Small Grants Report July 8 2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894445",
+      "mime": "application/pdf",
+      "template_name": "Grant - Wallace Foundation.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892358",
+      "mime": "application/pdf",
+      "template_name": "_MOA Fern Creek Fire Dept",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892543",
+      "mime": "application/pdf",
+      "template_name": "MOA-Heuser Hearing and Language Academy",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892355",
+      "mime": "application/pdf",
+      "template_name": "Agreement - GoFan",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892285",
+      "mime": "application/pdf",
+      "template_name": "MOA-Options Unlimited Inc",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892339",
+      "mime": "application/pdf",
+      "template_name": "MOA - Pace Contracting LLC",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892330",
+      "mime": "application/pdf",
+      "template_name": "MOA - Thieneman Construction Inc",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892883",
+      "mime": "application/pdf",
+      "template_name": "MOU - The University of The Cumberlands - Option 9",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892327",
+      "mime": "application/pdf",
+      "template_name": "MOA - UOFL CEHD",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892434",
+      "mime": "application/pdf",
+      "template_name": "MOA - YOUNG AUTHORS GREENHOUSE",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=893742",
+      "mime": "application/pdf",
+      "template_name": "Amendment to Sale and Purchase Agreement - 5500 Terry Road - Rigoberto Mejia",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892463",
+      "mime": "application/pdf",
+      "template_name": "BOARD APPROVED JCPS External Support & Boosters (Cummulative List) - BOARD APPROVED BOOSTERS",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892464",
+      "mime": "application/pdf",
+      "template_name": "FY26 School Booster Requests",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=892334",
+      "mime": "application/pdf",
+      "template_name": "Rename Dr. Grace M. James Academy of Excellence",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894138",
+      "mime": "application/pdf",
+      "template_name": "KSBA Annual Board Policy and Administrative Procedure Update 2nd Reading",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894372",
+      "mime": "application/pdf",
+      "template_name": "FY25-26 Salary Schedules 07.09.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=894373",
+      "mime": "application/pdf",
+      "template_name": "Salary Placement Rules 2025 2026 July 8 Final",
+      "extracted_text_path": null
+    }
+  ],
+  "items": [
+    {
+      "item_number": "I",
+      "file_number": null,
+      "title": "Call to Order",
+      "section": null
+    },
+    {
+      "item_number": "II",
+      "file_number": null,
+      "title": "Recommendation for Approval of Meeting Agenda",
+      "section": null
+    },
+    {
+      "item_number": "III",
+      "file_number": null,
+      "title": "Recommendation for Approval of Minutes of Previous Meeting",
+      "section": null
+    },
+    {
+      "item_number": "IV",
+      "file_number": null,
+      "title": "Student Outcomes-Focused Governance Update",
+      "section": null
+    },
+    {
+      "item_number": "V",
+      "file_number": null,
+      "title": "Persons Requesting to Address the Board on Consent Calendar Items to be Voted Upon Separately at Board Member Request",
+      "section": null
+    },
+    {
+      "item_number": "VI",
+      "file_number": null,
+      "title": "Work Sessions",
+      "section": null
+    },
+    {
+      "item_number": "VI.A",
+      "file_number": null,
+      "title": "Review of District Applicant Data",
+      "section": null
+    },
+    {
+      "item_number": "VII",
+      "file_number": null,
+      "title": "Consent Calendar",
+      "section": null
+    },
+    {
+      "item_number": "VII.A",
+      "file_number": null,
+      "title": "Report of Certified Leaves",
+      "section": null
+    },
+    {
+      "item_number": "VII.B",
+      "file_number": null,
+      "title": "Report of Personnel Actions",
+      "section": null
+    },
+    {
+      "item_number": "VII.C",
+      "file_number": null,
+      "title": "Recommendation for Approval of Organizational Charts and/or Job Descriptions",
+      "section": null
+    },
+    {
+      "item_number": "VII.C",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 Human Resources",
+      "section": null
+    },
+    {
+      "item_number": "VII.C",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 JCPS Police Department",
+      "section": null
+    },
+    {
+      "item_number": "VII.C",
+      "file_number": null,
+      "title": "3. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 Schools",
+      "section": null
+    },
+    {
+      "item_number": "VII.D",
+      "file_number": null,
+      "title": "Recommendation for Approval of Field Trip Request",
+      "section": null
+    },
+    {
+      "item_number": "VII.E",
+      "file_number": null,
+      "title": "Recommendation for Approval of Projects, Assignment of Architects/Engineers, and BG-1 Forms",
+      "section": null
+    },
+    {
+      "item_number": "VII.E",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of the Project, Assignment of Architects/Engineers, and BG-1 Form for Phase I HVAC Renovation at Atkinson Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "VII.E",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of the Project, Assignment of Architect/Engineer, and BG-1 Form for Boiler and Chiller Replacement at Barret Traditional Middle School",
+      "section": null
+    },
+    {
+      "item_number": "VII.E",
+      "file_number": null,
+      "title": "3. Recommendation for Approval of the Project, Assignment of Architect/Engineer, and BG-1 Form for Boiler Replacement at Eastern High School",
+      "section": null
+    },
+    {
+      "item_number": "VII.E",
+      "file_number": null,
+      "title": "4. Recommendation for Approval of the Project, Assignment of Architect/Engineer, and BG-1 Form for Chiller Replacement at Jeffersontown High School",
+      "section": null
+    },
+    {
+      "item_number": "VII.E",
+      "file_number": null,
+      "title": "5. Recommendation for Approval of the Project, Assignment of Architect/Engineer, and BG-1 Form for Chiller Replacement at Iroquois High School",
+      "section": null
+    },
+    {
+      "item_number": "VII.E",
+      "file_number": null,
+      "title": "6. Recommendation for Approval of the Project, Assignment of Architect/Engineer, and BG-1 Form for Boiler Replacement at Ramsey Middle School",
+      "section": null
+    },
+    {
+      "item_number": "VII.E",
+      "file_number": null,
+      "title": "7. Recommendation for Approval of the Project, Assignment of Architect/Engineer, and BG-1 Form for Boiler Replacement at Luhr Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "VII.E",
+      "file_number": null,
+      "title": "8. Recommendation for Approval of the Project, Assignment of Architect/Engineer, and BG-1 Form for Boiler and Chiller Replacement at Watterson Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "VII.F",
+      "file_number": null,
+      "title": "Approval of Contract Completion and BG-4 Form for New Elementary School \u2013 Dixie Corridor at Wilkerson Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "VII.G",
+      "file_number": null,
+      "title": "Recommendation for Approval of Project Closeouts and BG-5 Forms",
+      "section": null
+    },
+    {
+      "item_number": "VII.G",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of Project Closeout and BG-5 Form for Boiler Replacement at Newcomer Academy",
+      "section": null
+    },
+    {
+      "item_number": "VII.G",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of Project Closeout and BG-5 Form for Boiler and Chiller Replacement at Breckinridge-Franklin Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "VII.H",
+      "file_number": null,
+      "title": "Recommendation for Approval of Construction Change Orders",
+      "section": null
+    },
+    {
+      "item_number": "VII.I",
+      "file_number": null,
+      "title": "Recommendation for Approval of Competitive Negotiations, Bid Tabulations, and Contract Renewals",
+      "section": null
+    },
+    {
+      "item_number": "VII.J",
+      "file_number": null,
+      "title": "Recommendation for Approval of Professional Services Contracts of $20,000 or More",
+      "section": null
+    },
+    {
+      "item_number": "VII.K",
+      "file_number": null,
+      "title": "Acceptance of Monthly Financial Report for Period Ended May 31, 2025",
+      "section": null
+    },
+    {
+      "item_number": "VII.L",
+      "file_number": null,
+      "title": "Acceptance of Orders of the Treasurer",
+      "section": null
+    },
+    {
+      "item_number": "VII.L",
+      "file_number": null,
+      "title": "1. Acceptance of Orders of the Treasurer-Invoices",
+      "section": null
+    },
+    {
+      "item_number": "VII.L",
+      "file_number": null,
+      "title": "2. Acceptance of Orders of the Treasurer-Purchase Orders",
+      "section": null
+    },
+    {
+      "item_number": "VII.L",
+      "file_number": null,
+      "title": "3. Acceptance of Orders of the Treasurer-Vouchers",
+      "section": null
+    },
+    {
+      "item_number": "VII.M",
+      "file_number": null,
+      "title": "Acceptance of Donations, Grants, and Funding",
+      "section": null
+    },
+    {
+      "item_number": "VII.M",
+      "file_number": null,
+      "title": "1. Acceptance of Donations and Small Grants",
+      "section": null
+    },
+    {
+      "item_number": "VII.M",
+      "file_number": null,
+      "title": "2. Acceptance of Additional Funding from the Wallace Foundation",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "Recommendation for Approval of Agreements",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of Memorandum of Agreement with Fern Creek Fire Protection District, Inc.",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of Memorandum of Agreement with Heuser Hearing and Language Academy",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "3. Recommendation for Approval of Memorandum of Agreement with Huddle Tickets, LLC dba GoFan",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "4. Recommendation for Approval of Memorandum of Agreement with Options Unlimited, Inc.",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "5. Recommendation for Approval of Memorandum of Agreement with Pace Contracting LLC",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "6. Recommendation for Approval of Memorandum of Agreement with Thieneman Construction, Inc.",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "7. Recommendation for Approval of Memorandum of Understanding with the University of the Cumberlands",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "8. Recommendation for Approval of Teacher Apprenticeship Memorandum of Agreement with the University of Louisville",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "9. Recommendation for Approval of Agreement with the Young Authors Greenhouse",
+      "section": null
+    },
+    {
+      "item_number": "VII.N",
+      "file_number": null,
+      "title": "10. Recommendation for Approval of Amendment to Sale and Purchase Agreement for the Purchase of 5500 Terry Road",
+      "section": null
+    },
+    {
+      "item_number": "VII.O",
+      "file_number": null,
+      "title": "Recommendation for Approval of Shortened School Day for Four ECE Students",
+      "section": null
+    },
+    {
+      "item_number": "VII.P",
+      "file_number": null,
+      "title": "Recommendation for Approval of External Support/Booster Organizations",
+      "section": null
+    },
+    {
+      "item_number": "VII.Q",
+      "file_number": null,
+      "title": "Recommendation for Approval to Rename Grace M. James Academy of Excellence to Dr. Grace M. James Academy of Excellence",
+      "section": null
+    },
+    {
+      "item_number": "VII.R",
+      "file_number": null,
+      "title": "Adoption of Board Policies (2nd Reading) and Review of Administrative Procedures",
+      "section": null
+    },
+    {
+      "item_number": "VII.S",
+      "file_number": null,
+      "title": "Recommendation to Make One Administrative Correction on the Salary Schedule, Make Corrections to Clarify Procedures in the Salary Placement Rules, and Recommend Authorization of a Substitute Administrator Rate Commensurate With a Superintendent's Responsibilities and Experience",
+      "section": null
+    },
+    {
+      "item_number": "VIII",
+      "file_number": null,
+      "title": "Persons Requesting to Address the Board (If Necessary)",
+      "section": null
+    },
+    {
+      "item_number": "IX",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
+}

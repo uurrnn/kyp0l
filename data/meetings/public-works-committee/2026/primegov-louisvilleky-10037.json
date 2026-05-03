@@ -1,0 +1,35 @@
+{
+  "id": "primegov-louisvilleky-10037",
+  "body_id": "public-works-committee",
+  "title": "Public Works Committee",
+  "date": "2026-02-17",
+  "time": "16:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10037",
+  "source_meeting_id": "10037",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/375352",
+  "attachments": [
+    {
+      "sha256": "bd2c83077a0def7b59df5edda430fdc0507f82069e2d97823ca44d2910c238d5",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10037/Agenda_20260217154830141.pdf?sv=2017-04-17&sr=b&sig=6VHhTNM6Y1PIdd6l6u6un7ZFW24jhQ6UPXNoAD8%2FjR0%3D&st=2026-05-02T05%3A46%3A48Z&se=2026-05-04T05%3A46%3A48Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/bd2c83077a0def7b59df5edda430fdc0507f82069e2d97823ca44d2910c238d5.txt"
+    },
+    {
+      "sha256": "a3faea596743ea9e4cce3e7ad354fb1668ee2bf89f7ae0e190275899c115a70d",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10037/Minutes_20260227141223892.pdf?sv=2017-04-17&sr=b&sig=PmPKY55qrENDU0HDnpOfct7By3VkKR0njkh0RouZr8g%3D&st=2026-05-02T05%3A46%3A48Z&se=2026-05-04T05%3A46%3A48Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/a3faea596743ea9e4cce3e7ad354fb1668ee2bf89f7ae0e190275899c115a70d.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0069",
+      "title": "SNOW EVENT AFTER ACTION REPORT \u2013 Wesley Sydnor, Bill Bell, Public Works",
+      "section": null
+    }
+  ]
+}

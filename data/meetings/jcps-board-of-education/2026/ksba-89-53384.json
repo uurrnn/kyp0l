@@ -1,0 +1,957 @@
+{
+  "id": "ksba-89-53384",
+  "body_id": "jcps-board-of-education",
+  "title": "Regular Business Meeting",
+  "date": "2026-03-10",
+  "time": "18:00",
+  "source_type": "ksba",
+  "source_url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=53384&AgencyTypeID=",
+  "source_meeting_id": "53384",
+  "video_url": null,
+  "attachments": [
+    {
+      "sha256": "73e251243374b18785c29b1584de1df6d815a1b8923c4c299cfd2fcc8ff687ef",
+      "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=53384&AgencyTypeID=",
+      "mime": "text/html",
+      "template_name": "KSBA Meeting Page",
+      "extracted_text_path": "data/attachments/73e251243374b18785c29b1584de1df6d815a1b8923c4c299cfd2fcc8ff687ef.txt"
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943041",
+      "mime": "application/pdf",
+      "template_name": "3 10 26 Agenda",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943037",
+      "mime": "application/pdf",
+      "template_name": "Resolution Regarding Study of Street Lighting for JCPS Bus Stops v2",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943715",
+      "mime": "application/pdf",
+      "template_name": "JCPS March 2026 Board Presentation",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=944408",
+      "mime": "application/pdf",
+      "template_name": "SB Cell Phone Midyear Internal Audit Presentation",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943023",
+      "mime": "application/pdf",
+      "template_name": "CERTIFIED LEAVES 2026-03-10.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943024",
+      "mime": "application/pdf",
+      "template_name": "PERSONNEL ACTIONS 2026-03-10.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943153",
+      "mime": "application/pdf",
+      "template_name": "ACADEMICS 2026-03-10 (3)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943048",
+      "mime": "application/pdf",
+      "template_name": "ADMINISTRATION 2026-03-10",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943060",
+      "mime": "application/pdf",
+      "template_name": "ECE 2026-03-10 Job Descriptions 3/10",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943061",
+      "mime": "application/pdf",
+      "template_name": "ECE Org Charts 2026-02-10   3/10",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941905",
+      "mime": "application/pdf",
+      "template_name": "FIELD TRIP REQUESTS: APPROVED BY THE SUPERINTENDENT 3-10-2026",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941906",
+      "mime": "application/pdf",
+      "template_name": "FIELD TRIPS 03-10-2026",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941266",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Jeffersontown HS - CTE Lab Renovation",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941265",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Alex R. Kennedy ES - Partial Roof Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942110",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Atkinson ES - Phase I HVAC Renovation",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941272",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Coral Ridge ES - Partial Roof Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941271",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Chenoweth ES - Partial Roof Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941273",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Doss HS - Partial Roof Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941275",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Jeffersontown HS - Partial Roof Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941274",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Eastern HS - Boiler Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941276",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Marion C. Moore School - Lift Station Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941277",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Norton ES - Partial Roof Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941278",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Price ES - Partial Roof Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941279",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Various Schools - Operable Partition Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941280",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 Western HS - Partial Roof Replacement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941268",
+      "mime": "application/pdf",
+      "template_name": "Rev BG-1 duPont Manual HS - Athletic Stadium Renovation - CO Contingency",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941338",
+      "mime": "application/pdf",
+      "template_name": "Change Orders and Descriptions 3-10-26",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941331",
+      "mime": "application/pdf",
+      "template_name": "BG-1 King ES - Site Disposition",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941332",
+      "mime": "application/pdf",
+      "template_name": "BG-1 Roosevelt-Perry ES - Site Disposition",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941179",
+      "mime": "application/pdf",
+      "template_name": "Notification of Easement - Seneca HS - LG&E - Blue Stamp 2-3-2026",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942104",
+      "mime": "application/pdf",
+      "template_name": "List of Contracts 03.10.26 (2)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941805",
+      "mime": "application/pdf",
+      "template_name": "01 - Waterford Institute (FY25-26 & 26-27)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941858",
+      "mime": "application/pdf",
+      "template_name": "02 - Drama by George (FY26)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941888",
+      "mime": "application/pdf",
+      "template_name": "03 - Ky Dance Council Inc, dba Louisville Ballet (FY26)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942079",
+      "mime": "application/pdf",
+      "template_name": "04 - Urban Barbers of Louisville (FY26)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942312",
+      "mime": "application/pdf",
+      "template_name": "05 - Chef II Impress, LLC. (FY26)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942313",
+      "mime": "application/pdf",
+      "template_name": "06 - Ky Shakespeare Festival, Inc. (FY26) (1)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942929",
+      "mime": "application/pdf",
+      "template_name": "07 - Girls on The Run of Louisville, Inc. (FY26)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943029",
+      "mime": "application/pdf",
+      "template_name": "08 - Catapult Learning LLC",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941871",
+      "mime": "application/pdf",
+      "template_name": "Summary of Professional Services Contracts - 03.10.2026",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941859",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - Invoice Report 01.19.26 - 02.15.26",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941866",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - PO's by Department 01.19.26 - 02.15.26",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941867",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - PO's by Vendor 01.19.26 - 02.15.26",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941868",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - Vouchers 01.19.26 - 02.15.26",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941937",
+      "mime": "application/pdf",
+      "template_name": "Board Financials_01.26",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941938",
+      "mime": "application/pdf",
+      "template_name": "Notes of Interest_JANUARY 2026",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942185",
+      "mime": "application/pdf",
+      "template_name": "Donation and Small Grant Report March 10 2026 Final",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=940912",
+      "mime": "application/pdf",
+      "template_name": "Contract - KDE -Spark - Revised",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941640",
+      "mime": "application/pdf",
+      "template_name": "Agreement - NCAC Inc",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941635",
+      "mime": "application/pdf",
+      "template_name": "DPA- Solid Professor LLC",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941878",
+      "mime": "application/pdf",
+      "template_name": "Agreement - Handshake - Blue Stamp Handshake Signed",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942125",
+      "mime": "application/pdf",
+      "template_name": "Student Teacher Agreement - Western Governors University",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943022",
+      "mime": "application/pdf",
+      "template_name": "Agreement - UofL Speech Language Program.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943058",
+      "mime": "application/pdf",
+      "template_name": "MOA - AFSCME - Reduction in Force.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942957",
+      "mime": "application/pdf",
+      "template_name": "Amendment to DPA - My School Bucks",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941845",
+      "mime": "application/pdf",
+      "template_name": "WC Self-Insured Board Resolution 2026-27",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941366",
+      "mime": "application/pdf",
+      "template_name": "CSIP GAP Goals For TSI 2026",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=941661",
+      "mime": "application/pdf",
+      "template_name": "25-26 Proposed Graduation Schedule - JCBE Final Opt1-3",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=943042",
+      "mime": "application/pdf",
+      "template_name": "Planning Calendar",
+      "extracted_text_path": null
+    }
+  ],
+  "items": [
+    {
+      "item_number": "I",
+      "file_number": null,
+      "title": "Moment of Silence",
+      "section": null
+    },
+    {
+      "item_number": "II",
+      "file_number": null,
+      "title": "The Pledge of Allegiance",
+      "section": null
+    },
+    {
+      "item_number": "II.A",
+      "file_number": null,
+      "title": "Vision Statement",
+      "section": null
+    },
+    {
+      "item_number": "III",
+      "file_number": null,
+      "title": "Recognitions and Resolutions",
+      "section": null
+    },
+    {
+      "item_number": "III.A",
+      "file_number": null,
+      "title": "Recognition of JCPS Police Officer Bruce Turner for Helping During an Apartment Fire",
+      "section": null
+    },
+    {
+      "item_number": "III.B",
+      "file_number": null,
+      "title": "Recognition of duPont Manual Student Mihira Tangelloju for Being a YoungArts Competition Winner",
+      "section": null
+    },
+    {
+      "item_number": "III.C",
+      "file_number": null,
+      "title": "Recognition of All 27 Early Childhood Locations Earning Family Friendly Certification",
+      "section": null
+    },
+    {
+      "item_number": "III.D",
+      "file_number": null,
+      "title": "Recognition of Brown In-School Security Monitor Josh Luttrell for Jumping into Action and Saving a Student from Choking",
+      "section": null
+    },
+    {
+      "item_number": "III.E",
+      "file_number": null,
+      "title": "Recognition of Louisville Male High School Boys\u2019 Basketball for Winning the King of the Bluegrass Holiday Classic for the First Time Since 2007",
+      "section": null
+    },
+    {
+      "item_number": "III.F",
+      "file_number": null,
+      "title": "Recognition of duPont Manual High School\u2019s Dance Team, The Dazzlers, for Winning Its Seventh Consecutive State Championship",
+      "section": null
+    },
+    {
+      "item_number": "III.G",
+      "file_number": null,
+      "title": "Recognition of duPont Manual Senior Trisha Paily for Being Selected as the Distinguished Young Woman of Kentucky",
+      "section": null
+    },
+    {
+      "item_number": "III.H",
+      "file_number": null,
+      "title": "Recognition of the J. Graham Brown School for Being Named a 2026 Magnet School of Distinction",
+      "section": null
+    },
+    {
+      "item_number": "III.I",
+      "file_number": null,
+      "title": "Recognition of Echo Trail Middle School and duPont Manual High School as Winners of the 2025-26 NASA TechRise Student Challenge",
+      "section": null
+    },
+    {
+      "item_number": "III.J",
+      "file_number": null,
+      "title": "Recognition of Pleasure Ridge Park High School, J. Graham Brown School, and Ballard High School\u2019s Student Magazines for Earning National Recognition",
+      "section": null
+    },
+    {
+      "item_number": "III.K",
+      "file_number": null,
+      "title": "Recognition of 20 JCPS Educators Who Earned National Board Certification in 2025",
+      "section": null
+    },
+    {
+      "item_number": "IV",
+      "file_number": null,
+      "title": "Recommendation for Approval of Meeting Agenda",
+      "section": null
+    },
+    {
+      "item_number": "V",
+      "file_number": null,
+      "title": "Recommendation for Approval of Minutes of Previous Meeting",
+      "section": null
+    },
+    {
+      "item_number": "VI",
+      "file_number": null,
+      "title": "Superintendent's Report",
+      "section": null
+    },
+    {
+      "item_number": "VII",
+      "file_number": null,
+      "title": "Persons Requesting to Address the Board on Action Items or Consent Calendar Items to be Voted Upon Separately at Board Member Request",
+      "section": null
+    },
+    {
+      "item_number": "VIII",
+      "file_number": null,
+      "title": "Action Items",
+      "section": null
+    },
+    {
+      "item_number": "VIII.A",
+      "file_number": null,
+      "title": "Recommendation for Approval of a Resolution Regarding a Collaboration to Study the Safety and Placement of School Bus Stops in Relation to Street Lighting",
+      "section": null
+    },
+    {
+      "item_number": "IX",
+      "file_number": null,
+      "title": "Information Items",
+      "section": null
+    },
+    {
+      "item_number": "IX.A",
+      "file_number": null,
+      "title": "Acceptance of the Plante Moran Board Requested Fiscal Administration and Budget Shortfall Assessment",
+      "section": null
+    },
+    {
+      "item_number": "IX.B",
+      "file_number": null,
+      "title": "Acceptance of the School-Based Cell Phone Policy Implementation Review (Mid-Year) Report",
+      "section": null
+    },
+    {
+      "item_number": "X",
+      "file_number": null,
+      "title": "Consent Calendar",
+      "section": null
+    },
+    {
+      "item_number": "X.A",
+      "file_number": null,
+      "title": "Report of Certified Leaves",
+      "section": null
+    },
+    {
+      "item_number": "X.B",
+      "file_number": null,
+      "title": "Report of Personnel Actions",
+      "section": null
+    },
+    {
+      "item_number": "X.C",
+      "file_number": null,
+      "title": "Recommendation for Approval of Organizational Charts and/or Job Descriptions",
+      "section": null
+    },
+    {
+      "item_number": "X.C",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 Academics",
+      "section": null
+    },
+    {
+      "item_number": "X.C",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 Administration",
+      "section": null
+    },
+    {
+      "item_number": "X.C",
+      "file_number": null,
+      "title": "3. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 Exceptional Child Education",
+      "section": null
+    },
+    {
+      "item_number": "X.D",
+      "file_number": null,
+      "title": "Recommendation of Approval of Field Trips Request and Receipt of Report of Field Trips Approved by the Superintendent",
+      "section": null
+    },
+    {
+      "item_number": "X.E",
+      "file_number": null,
+      "title": "Recommendation for Approval of the Projects, Assignment of Architects/Engineers, and BG-1 Forms",
+      "section": null
+    },
+    {
+      "item_number": "X.E",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of the Project, Assignment of Architect/Engineer, and BG-1 Form for Career and Technical Education Lab Renovation at Jeffersontown High School",
+      "section": null
+    },
+    {
+      "item_number": "X.E",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of the Project, Assignment of Architects/Engineers, and BG-1 Form for Partial Roof Replacement at Alex R. Kennedy Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "Recommendation for Approval of Bids and Revised BG-1 Forms",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of Bid and Revised BG-1 Form for Phase I HVAC Renovation at Atkinson Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of Bid and Revised BG-1 Form for Partial Roof Replacement at Coral Ridge Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "3. Recommendation for Approval of Bid and Revised BG-1 Form for Partial Roof Replacement at Chenoweth Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "4. Recommendation for Approval of Bid and Revised BG-1 Form for Partial Roof Replacement at Doss High School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "5. Recommendation for Approval of Bid and Revised BG-1 Form for Partial Roof Replacement at Jeffersontown High School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "6. Recommendation for Approval of Bid and Revised BG-1 Form for Boiler Replacement at Eastern High School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "7. Recommendation for Approval of Bid and Revised BG-1 Form for Lift Station Replacement at Marion C. Moore School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "8. Recommendation for Approval of Bid and Revised BG-1 Form for Partial Roof Replacement at Norton Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "9. Recommendation for Approval of Bid and Revised BG-1 Form for Partial Roof Replacement at Price Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "10. Recommendation for Approval of Bid and Revised BG-1 Form for Operable Partition Replacement at Various Schools",
+      "section": null
+    },
+    {
+      "item_number": "X.F",
+      "file_number": null,
+      "title": "11. Recommendation for Approval of Bid and Revised BG-1 Form for Partial Roof Replacement at Western High School",
+      "section": null
+    },
+    {
+      "item_number": "X.G",
+      "file_number": null,
+      "title": "Recommendation for Approval of Revised BG-1 Form for Athletic Stadium Renovation at duPont Manual High School",
+      "section": null
+    },
+    {
+      "item_number": "X.H",
+      "file_number": null,
+      "title": "Recommendation for Approval of Reassignment of Architect/Engineer for Secure Vestibule at Fern Creek Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "X.I",
+      "file_number": null,
+      "title": "Recommendation for Approval of Construction Change Orders",
+      "section": null
+    },
+    {
+      "item_number": "X.J",
+      "file_number": null,
+      "title": "Recommendation for Approval of BG-1 Forms to Dispose of the Real Property and Declare the Real Property as Surplus to the Educational Program Needs of the District",
+      "section": null
+    },
+    {
+      "item_number": "X.J",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of BG-1 Form to Dispose of the Real Property and Declare the Real Property as Surplus to the Educational Program Needs of the District at King Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "X.J",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of BG-1 Form to Dispose of the Real Property and Declare the Real Property as Surplus to the Educational Program Needs of the District at Roosevelt-Perry Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "X.K",
+      "file_number": null,
+      "title": "Notification of Utility Easement at Seneca High School",
+      "section": null
+    },
+    {
+      "item_number": "X.L",
+      "file_number": null,
+      "title": "Recommendation for Approval of Bid Tabulations, Contract Renewals, and Amendments",
+      "section": null
+    },
+    {
+      "item_number": "X.M",
+      "file_number": null,
+      "title": "Recommendation for Approval of Professional Services Contracts of $20,000 or More",
+      "section": null
+    },
+    {
+      "item_number": "X.N",
+      "file_number": null,
+      "title": "Acceptance of Summary of Professional Services Contracts",
+      "section": null
+    },
+    {
+      "item_number": "X.O",
+      "file_number": null,
+      "title": "Acceptance of Orders of the Treasurer",
+      "section": null
+    },
+    {
+      "item_number": "X.O",
+      "file_number": null,
+      "title": "1. Acceptance of Orders of the Treasurer-Invoices",
+      "section": null
+    },
+    {
+      "item_number": "X.O",
+      "file_number": null,
+      "title": "2. Acceptance of Orders of the Treasurer-Purchase Orders",
+      "section": null
+    },
+    {
+      "item_number": "X.O",
+      "file_number": null,
+      "title": "3. Acceptance of Orders of the Treasurer-Vouchers",
+      "section": null
+    },
+    {
+      "item_number": "X.P",
+      "file_number": null,
+      "title": "Acceptance of Monthly Financial Report for Period Ended January 31, 2026",
+      "section": null
+    },
+    {
+      "item_number": "X.Q",
+      "file_number": null,
+      "title": "Acceptance of Donations, Grants, and Funding",
+      "section": null
+    },
+    {
+      "item_number": "X.Q",
+      "file_number": null,
+      "title": "1. Acceptance of Small Grants and Donations",
+      "section": null
+    },
+    {
+      "item_number": "X.Q",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of Memorandum of Agreement with the Kentucky Department of Education and Acceptance of Grant Funds",
+      "section": null
+    },
+    {
+      "item_number": "X.Q",
+      "file_number": null,
+      "title": "3. Acceptance of Funding from the Jefferson County Public Education Foundation",
+      "section": null
+    },
+    {
+      "item_number": "X.R",
+      "file_number": null,
+      "title": "Recommendation for Approval of Agreements",
+      "section": null
+    },
+    {
+      "item_number": "X.R",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of Memorandum of Agreement with the National Career Academy Coalition",
+      "section": null
+    },
+    {
+      "item_number": "X.R",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of the Data Privacy Agreement with Solid Professor",
+      "section": null
+    },
+    {
+      "item_number": "X.R",
+      "file_number": null,
+      "title": "3. Recommendation for Approval of Agreement with Stryder Corp. dba Handshake",
+      "section": null
+    },
+    {
+      "item_number": "X.R",
+      "file_number": null,
+      "title": "4. Recommendation for Approval of Student Teacher Agreement with the Western Governors University",
+      "section": null
+    },
+    {
+      "item_number": "X.R",
+      "file_number": null,
+      "title": "5. Recommendation for Approval of Memorandum of Agreement with the University of Louisville",
+      "section": null
+    },
+    {
+      "item_number": "X.R",
+      "file_number": null,
+      "title": "6. WITHDRAWN: Recommendation for Approval of a Memorandum of Agreement between the Jefferson County Board of Education (JCBE) and the Jefferson County Teachers Association (JCTA)",
+      "section": null
+    },
+    {
+      "item_number": "X.R",
+      "file_number": null,
+      "title": "7. Recommendation for Approval of a Memorandum of Agreement between the Jefferson County Board of Education (JCBE) and the Jefferson County Association of Educational Support Personnel/American Federation of State, County, and Municipal Employees on behalf of Local 4011",
+      "section": null
+    },
+    {
+      "item_number": "X.R",
+      "file_number": null,
+      "title": "8. Recommendation for Approval of an Amendment to the Data Privacy Agreement with Heartland School Solutions",
+      "section": null
+    },
+    {
+      "item_number": "X.S",
+      "file_number": null,
+      "title": "Recommendation for Approval of Resolution for Workers Compensation Self-Insured Program",
+      "section": null
+    },
+    {
+      "item_number": "X.T",
+      "file_number": null,
+      "title": "Recommendation for Approval of Payment of Out-of-District Expenses for Board Member",
+      "section": null
+    },
+    {
+      "item_number": "X.U",
+      "file_number": null,
+      "title": "Recommendation for Approval of Comprehensive School Improvement Plans of TSI Schools and Review of Gap Goals",
+      "section": null
+    },
+    {
+      "item_number": "X.V",
+      "file_number": null,
+      "title": "Recommendation for Approval of the 2026 High School Graduation Schedule",
+      "section": null
+    },
+    {
+      "item_number": "X.W",
+      "file_number": null,
+      "title": "Recommendation for Approval of Shortened School Day for One Exceptional Child Education Student",
+      "section": null
+    },
+    {
+      "item_number": "XI",
+      "file_number": null,
+      "title": "Board Planning Calendar",
+      "section": null
+    },
+    {
+      "item_number": "XII",
+      "file_number": null,
+      "title": "Committee Reports",
+      "section": null
+    },
+    {
+      "item_number": "XIII",
+      "file_number": null,
+      "title": "Board Reports",
+      "section": null
+    },
+    {
+      "item_number": "XIV",
+      "file_number": null,
+      "title": "Persons Requesting to Address the Board (If Necessary)",
+      "section": null
+    },
+    {
+      "item_number": "XV",
+      "file_number": null,
+      "title": "Executive Session (If Necessary)",
+      "section": null
+    },
+    {
+      "item_number": "XVI",
+      "file_number": null,
+      "title": "Action Item (If Necessary)",
+      "section": null
+    },
+    {
+      "item_number": "XVII",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
+}

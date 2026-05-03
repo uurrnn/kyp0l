@@ -1,0 +1,35 @@
+{
+  "id": "primegov-louisvilleky-10018",
+  "body_id": "public-safety-committee",
+  "title": "Public Safety Committee",
+  "date": "2026-02-04",
+  "time": "16:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10018",
+  "source_meeting_id": "10018",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/374129",
+  "attachments": [
+    {
+      "sha256": "868b8636b5dfb2adf52b467f143d3ef89ea450de09967096100f2b2f2e1e1eae",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10018/Agenda_20260204164950708.pdf?sv=2017-04-17&sr=b&sig=Td7UobGPsXJv2RVCDEBeGI%2FLJcRcfOnUzQrfYehdEpo%3D&st=2026-05-02T05%3A46%3A25Z&se=2026-05-04T05%3A46%3A25Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/868b8636b5dfb2adf52b467f143d3ef89ea450de09967096100f2b2f2e1e1eae.txt"
+    },
+    {
+      "sha256": "93332ad180e341ea05ea8fa34adfab436efebce8f3e69ee898f402b75f7e7fc0",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10018/Minutes_20260206173130738.pdf?sv=2017-04-17&sr=b&sig=O0atKhmcQQ8on3%2BhImtGncuwUDGxrpZtMUiAZVdji8g%3D&st=2026-05-02T05%3A46%3A26Z&se=2026-05-04T05%3A46%3A26Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/93332ad180e341ea05ea8fa34adfab436efebce8f3e69ee898f402b75f7e7fc0.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0013",
+      "title": "UPDATE ON SMOKE FREE ACTIVITIES AND HUMAN TRAFFICKING ORDINANCES \u2013 Connie Mendel, Julia Mack, Louisville Metro Public Health & Wellness",
+      "section": null
+    }
+  ]
+}

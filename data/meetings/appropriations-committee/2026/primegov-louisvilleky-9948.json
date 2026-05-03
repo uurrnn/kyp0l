@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-9948",
+  "body_id": "appropriations-committee",
+  "title": "Appropriations Committee",
+  "date": "2026-03-04",
+  "time": "15:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9948",
+  "source_meeting_id": "9948",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/377100",
+  "attachments": [
+    {
+      "sha256": "45643cf2d196002e8ae02b2642fd915a36849f96906c7d7be5d509dd5374414e",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9948/Agenda_20260304153712471.pdf?sv=2017-04-17&sr=b&sig=R9MLnQQFqNFzAPWKD5UUUYfwg%2FWKIDBWlS4V5Xi9W30%3D&st=2026-05-02T05%3A47%3A27Z&se=2026-05-04T05%3A47%3A27Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/45643cf2d196002e8ae02b2642fd915a36849f96906c7d7be5d509dd5374414e.txt"
+    },
+    {
+      "sha256": "4ef9cd08636e0f884ba37f4bd1addde3f8fa9de84ddd838ec3f00e407379cdb2",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9948/Minutes_20260413170807458.pdf?sv=2017-04-17&sr=b&sig=yXUzRPHmYO5G1Jmn10crY6dZruGnadoXZqxVLSEhuE4%3D&st=2026-05-02T05%3A47%3A28Z&se=2026-05-04T05%3A47%3A28Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/4ef9cd08636e0f884ba37f4bd1addde3f8fa9de84ddd838ec3f00e407379cdb2.txt"
+    }
+  ],
+  "items": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "ksba-89-52470",
+  "body_id": "jcps-board-of-education",
+  "title": "Finance Corporation Meeting",
+  "date": "2025-11-18",
+  "time": "17:45",
+  "source_type": "ksba",
+  "source_url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=52470&AgencyTypeID=",
+  "source_meeting_id": "52470",
+  "video_url": null,
+  "attachments": [
+    {
+      "sha256": "c60ccd3ccccd235158f5c480dabd7d579539dd29a2d628a8499f8b6b050370be",
+      "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=52470&AgencyTypeID=",
+      "mime": "text/html",
+      "template_name": "KSBA Meeting Page",
+      "extracted_text_path": "data/attachments/c60ccd3ccccd235158f5c480dabd7d579539dd29a2d628a8499f8b6b050370be.txt"
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=921556",
+      "mime": "application/pdf",
+      "template_name": "Agenda 11 18 25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=921557",
+      "mime": "application/pdf",
+      "template_name": "Call to Order",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=921558",
+      "mime": "application/pdf",
+      "template_name": "Meeting Notice 11 18  25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=921559",
+      "mime": "application/pdf",
+      "template_name": "7 29 25 JCSDFC Minutes",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=921560",
+      "mime": "application/pdf",
+      "template_name": "KYTC - ROW Surplus Property Purchase Agreement",
+      "extracted_text_path": null
+    }
+  ],
+  "items": [
+    {
+      "item_number": "I",
+      "file_number": null,
+      "title": "Call to Order",
+      "section": null
+    },
+    {
+      "item_number": "II",
+      "file_number": null,
+      "title": "Approval of Minutes of Previous Meeting of Board of Directors",
+      "section": null
+    },
+    {
+      "item_number": "III",
+      "file_number": null,
+      "title": "Approval of Purchase Agreement with the Kentucky Transportation Cabinet for the Purchase of Surplus Property on Dixie Highway",
+      "section": null
+    },
+    {
+      "item_number": "IV",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
+}

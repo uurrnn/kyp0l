@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-9756",
+  "body_id": "development-review-committee",
+  "title": "Development Review Committee",
+  "date": "2026-03-04",
+  "time": "13:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9756",
+  "source_meeting_id": "9756",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/377087",
+  "attachments": [
+    {
+      "sha256": "a85336d2b84de652f16c99deaa1bdf1be446ce9f964c43906aab24022f584a01",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9756/Agenda_20260302133711543.pdf?sv=2017-04-17&sr=b&sig=CDokpN1JGURfOgHOOVV7pGNvDKNvQzRNfSJizhdlMCo%3D&st=2026-05-02T05%3A47%3A23Z&se=2026-05-04T05%3A47%3A23Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/a85336d2b84de652f16c99deaa1bdf1be446ce9f964c43906aab24022f584a01.txt"
+    },
+    {
+      "sha256": "8577593074efa46ee56559a696f193528f19421ea4e7579a6a40e619a97f8c14",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9756/Minutes_20260318191602162.pdf?sv=2017-04-17&sr=b&sig=Tjf9NyO52eR%2FGfav7IF8IEzU5ALTFu6mKDx%2Fk6KFN4k%3D&st=2026-05-02T05%3A47%3A24Z&se=2026-05-04T05%3A47%3A24Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/8577593074efa46ee56559a696f193528f19421ea4e7579a6a40e619a97f8c14.txt"
+    }
+  ],
+  "items": []
+}

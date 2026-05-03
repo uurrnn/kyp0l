@@ -1,0 +1,964 @@
+{
+  "meetings": {
+    "primegov-louisvilleky-9477": {
+      "primary_sha": "ac64d7f25b15faa5fe69b6baaff7f74baaf58fad18ee5cbc940d96f0b3aac137",
+      "items_count": 2,
+      "path": "data/meetings/metro-council/2026/primegov-louisvilleky-9477.json"
+    },
+    "ksba-89-53915": {
+      "primary_sha": "e14d5fa50f64915a8185b3a09dd02f28062dc8b0c2f6fba765ee5481cb5ef39b",
+      "items_count": 73,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53915.json"
+    },
+    "ksba-89-54036": {
+      "primary_sha": "daa6ce2e145eb7fa3e26a9fa2041fbfe4f6c95c2b73df9b531483f59cc0ff13d",
+      "items_count": 5,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-54036.json"
+    },
+    "ksba-89-53705": {
+      "primary_sha": "cc949d180d7dfe0345392068196c8b4bacb74de971487d0185d9232123a4f191",
+      "items_count": 91,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53705.json"
+    },
+    "primegov-louisvilleky-9836": {
+      "primary_sha": "18cf6fd4f449cfc1a3bd378029985eddf46774e9040bd9fa1cec0b27533c3261",
+      "items_count": 0,
+      "path": "data/meetings/planning-committee/2026/primegov-louisvilleky-9836.json"
+    },
+    "primegov-louisvilleky-10206": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/nulu-review-overlay-district-committee/2026/primegov-louisvilleky-10206.json"
+    },
+    "primegov-louisvilleky-9835": {
+      "primary_sha": "8e2911441cd73cdac0e6bacdb181bcb2b9274d754bc52ee08a188dce01ab3c9c",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-9835.json"
+    },
+    "primegov-louisvilleky-9760": {
+      "primary_sha": "4f2d74f19da010fcb933a52b3eebc8c0b6d6fcdc64c8991e2e450ec4c6fc02f9",
+      "items_count": 0,
+      "path": "data/meetings/land-development-transportation-committee/2026/primegov-louisvilleky-9760.json"
+    },
+    "primegov-louisvilleky-9834": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-9834.json"
+    },
+    "primegov-louisvilleky-9839": {
+      "primary_sha": "f3db2cbb6028281905c60b7c204391b275b3ddcb03cb479e4a4f75610da3a3cd",
+      "items_count": 0,
+      "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-9839.json"
+    },
+    "primegov-louisvilleky-9848": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/vapstat-joint-meeting/2026/primegov-louisvilleky-9848.json"
+    },
+    "primegov-louisvilleky-9867": {
+      "primary_sha": "2ef8dd04792c0128f94c6ae915a0ed81463b21f894df4b13ddc73462bb9f3795",
+      "items_count": 0,
+      "path": "data/meetings/america250ky-committee/2026/primegov-louisvilleky-9867.json"
+    },
+    "primegov-louisvilleky-10207": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/downtown-development-review-overlay-district-committee/2026/primegov-louisvilleky-10207.json"
+    },
+    "primegov-louisvilleky-9752": {
+      "primary_sha": "af9c71bcce1ff5cd0f9faaf6e8aaa7acbf0a723993b78b367be790ba98fe6e3f",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-9752.json"
+    },
+    "primegov-louisvilleky-9866": {
+      "primary_sha": "e3b073cba6b886e16fac782314ba310231fc6b53ab87377a88b5f7c610a2dc97",
+      "items_count": 0,
+      "path": "data/meetings/historic-landmarks-preservation-districts-commission/2026/primegov-louisvilleky-9866.json"
+    },
+    "primegov-louisvilleky-9840": {
+      "primary_sha": "39a7284f5e9f20531e6ccabcfe7a32431c39c2584427daa1f341a374f4f925f6",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-9840.json"
+    },
+    "primegov-louisvilleky-9864": {
+      "primary_sha": "e2f77e0f5dd991d275016954745ae610a7471ac62ce72a41452f11be90ed9bb0",
+      "items_count": 0,
+      "path": "data/meetings/louisville-jefferson-county-environmental-trust-oversight-board/2026/primegov-louisvilleky-9864.json"
+    },
+    "primegov-louisvilleky-9767": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/bardstown-road-baxter-avenue-review-overlay-district-committee/2026/primegov-louisvilleky-9767.json"
+    },
+    "primegov-louisvilleky-9939": {
+      "primary_sha": "1694502cebb81ca8327e313acdd06d5d96bfb6cf18499eef29c448f8666bcfed",
+      "items_count": 0,
+      "path": "data/meetings/planning-and-zoning-committee/2026/primegov-louisvilleky-9939.json"
+    },
+    "primegov-louisvilleky-9945": {
+      "primary_sha": "455f37062c48dbffb77f66824d95c54d9a2c22f45514dff2d7f7ffeed6deca5a",
+      "items_count": 0,
+      "path": "data/meetings/government-oversight-audit-and-appointments-committee/2026/primegov-louisvilleky-9945.json"
+    },
+    "primegov-louisvilleky-9944": {
+      "primary_sha": "adecc014da4ffe163d4afc6220d35163e89231f01bca9921dc9ca7e78a5ff6fa",
+      "items_count": 0,
+      "path": "data/meetings/appropriations-committee/2026/primegov-louisvilleky-9944.json"
+    },
+    "primegov-louisvilleky-9761": {
+      "primary_sha": "ba392d4dc29739408c90481d81f42212dbbc631720d9dd126a25ae9f4348daf6",
+      "items_count": 0,
+      "path": "data/meetings/land-development-transportation-committee/2026/primegov-louisvilleky-9761.json"
+    },
+    "primegov-louisvilleky-9931": {
+      "primary_sha": "d31090ac9dd8b78bff35a7e74b0085c6e381e4e2aba918e5a6d842e9c8c49c09",
+      "items_count": 0,
+      "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-9931.json"
+    },
+    "primegov-louisvilleky-9916": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-9916.json"
+    },
+    "primegov-louisvilleky-10055": {
+      "primary_sha": "39e333e547a8239e61237e64cb76474a5e71b11f9b4a2e01101fd58cbaacaf03",
+      "items_count": 0,
+      "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-10055.json"
+    },
+    "primegov-louisvilleky-9869": {
+      "primary_sha": "72e3212623838c903ff970b495c13ba907a6cbdf9de18646d332a31009a7b3c0",
+      "items_count": 6,
+      "path": "data/meetings/committee-on-committees/2026/primegov-louisvilleky-9869.json"
+    },
+    "primegov-louisvilleky-10057": {
+      "primary_sha": "4fdfd785bd1ec909c38e3c219cd667010259dfe6b72e44e43ed5d09308720b4f",
+      "items_count": 0,
+      "path": "data/meetings/nulu-review-overlay-district-committee/2026/primegov-louisvilleky-10057.json"
+    },
+    "primegov-louisvilleky-9753": {
+      "primary_sha": "ba16e413c6e5fc7c3d5a5c9b68998290e7b38369ec98c1d7e92c676523260bd6",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-9753.json"
+    },
+    "primegov-louisvilleky-10059": {
+      "primary_sha": "d050fd03fca378070a5c62d31405d825da586a3d2cd228f78b5cd57f2040b5d5",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-10059.json"
+    },
+    "primegov-louisvilleky-9865": {
+      "primary_sha": "8a08ff6e59a21183785eb67cb07e916aee44b0868944e859782edc29cc9213ea",
+      "items_count": 3,
+      "path": "data/meetings/committee-of-the-whole/2026/primegov-louisvilleky-9865.json"
+    },
+    "primegov-louisvilleky-9870": {
+      "primary_sha": "bf067185ef15f80fc5bb085097fde98fc342d88e9ad69bff7b5fa64afae576d4",
+      "items_count": 13,
+      "path": "data/meetings/metro-council/2026/primegov-louisvilleky-9870.json"
+    },
+    "primegov-louisvilleky-10058": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10058.json"
+    },
+    "primegov-louisvilleky-10091": {
+      "primary_sha": "7da634dc676767c40d080464fd348a2c6b7da4e24486046cc28c3679a0285b1d",
+      "items_count": 0,
+      "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-10091.json"
+    },
+    "primegov-louisvilleky-10000": {
+      "primary_sha": "bbd10bb761fa360a988a6d022d632e92c6a0c1d69e68e46a0eec4927f041ccce",
+      "items_count": 0,
+      "path": "data/meetings/planning-and-zoning-committee/2026/primegov-louisvilleky-10000.json"
+    },
+    "primegov-louisvilleky-9951": {
+      "primary_sha": "e58ddbaa1b1fb95530db3b4c7d14369644674661707f31c4388b82a96f5f8e1a",
+      "items_count": 1,
+      "path": "data/meetings/labor-and-economic-development-committee/2026/primegov-louisvilleky-9951.json"
+    },
+    "primegov-louisvilleky-10036": {
+      "primary_sha": "7b26415623b0042b189cbfeecda6fffde0fa90f411acd0480ee245fcce9dfde9",
+      "items_count": 0,
+      "path": "data/meetings/public-works-committee/2026/primegov-louisvilleky-10036.json"
+    },
+    "primegov-louisvilleky-9938": {
+      "primary_sha": "a61b4d82bd7278075b4a092beeca8aa0e40ba2f8dff367c39cccd9ecab4d39f0",
+      "items_count": 1,
+      "path": "data/meetings/government-oversight-audit-and-appointments-committee/2026/primegov-louisvilleky-9938.json"
+    },
+    "primegov-louisvilleky-10165": {
+      "primary_sha": "0411924c214ac49cad288e34db57092e508976024a231a85abe2e0d70214d236",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-10165.json"
+    },
+    "primegov-louisvilleky-9935": {
+      "primary_sha": "cf8bb547b3a6f2b12aac01ed2f47c7b8e6f5b842dcff3a9d0a7d52019d19b9b4",
+      "items_count": 0,
+      "path": "data/meetings/equity-community-affairs-housing-health-and-education-committee/2026/primegov-louisvilleky-9935.json"
+    },
+    "primegov-louisvilleky-9937": {
+      "primary_sha": "b3342c314fdd3b634a7285c9a5810449570081ab8fe5b9e7f88952e3024c14d7",
+      "items_count": 0,
+      "path": "data/meetings/appropriations-committee/2026/primegov-louisvilleky-9937.json"
+    },
+    "primegov-louisvilleky-10018": {
+      "primary_sha": "868b8636b5dfb2adf52b467f143d3ef89ea450de09967096100f2b2f2e1e1eae",
+      "items_count": 1,
+      "path": "data/meetings/public-safety-committee/2026/primegov-louisvilleky-10018.json"
+    },
+    "primegov-louisvilleky-10168": {
+      "primary_sha": "783be1b9e4fc9db26458c236c62230ee944d8a0432bea4746ee3b4c1718fba94",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-10168.json"
+    },
+    "primegov-louisvilleky-9946": {
+      "primary_sha": "712ee6975fcd3ce2357f1426913214bf67886046be65c9e0cd9d7f220874b280",
+      "items_count": 0,
+      "path": "data/meetings/parks-and-sustainability-committee/2026/primegov-louisvilleky-9946.json"
+    },
+    "primegov-louisvilleky-9933": {
+      "primary_sha": "7a91648c86f6be9b1cb5c83bd65d78360ea888ab7871864dd774dcddd95d975c",
+      "items_count": 0,
+      "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-9933.json"
+    },
+    "primegov-louisvilleky-10166": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10166.json"
+    },
+    "primegov-louisvilleky-10092": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/vapstat-joint-meeting/2026/primegov-louisvilleky-10092.json"
+    },
+    "primegov-louisvilleky-10179": {
+      "primary_sha": "c661d632e3b36fdc7e8d9c35ac69c8c0e46ab68f17568995172d6cabb0154f2b",
+      "items_count": 0,
+      "path": "data/meetings/planning-committee/2026/primegov-louisvilleky-10179.json"
+    },
+    "primegov-louisvilleky-10170": {
+      "primary_sha": "33f1f9fec7dd24a7b7800be529df808c9a8ab4edaac9c981da79033c0f2521fd",
+      "items_count": 0,
+      "path": "data/meetings/america250ky-committee/2026/primegov-louisvilleky-10170.json"
+    },
+    "primegov-louisvilleky-9772": {
+      "primary_sha": "f6fe7989ef0e1fbc5a5fc7cff0bde53e239ef996e1dacc8db1121a66bf8d7cf0",
+      "items_count": 0,
+      "path": "data/meetings/downtown-development-review-overlay-district-committee/2026/primegov-louisvilleky-9772.json"
+    },
+    "primegov-louisvilleky-10173": {
+      "primary_sha": "0c430b01373796a54a42de3c37fa01b46c93ba15c77d078e09830b0c54071707",
+      "items_count": 0,
+      "path": "data/meetings/old-louisville-architectural-review-committee/2026/primegov-louisvilleky-10173.json"
+    },
+    "primegov-louisvilleky-10167": {
+      "primary_sha": "61cfc66445a1ecd011b8481350e6306f9079d1ca2a28d46d33a0eef1a62bf54b",
+      "items_count": 0,
+      "path": "data/meetings/nulu-review-overlay-district-committee/2026/primegov-louisvilleky-10167.json"
+    },
+    "primegov-louisvilleky-9762": {
+      "primary_sha": "ee9a647abd52cb7c4d666027b25a3fea8612827719cff7ec95b43dac718e2348",
+      "items_count": 0,
+      "path": "data/meetings/land-development-transportation-committee/2026/primegov-louisvilleky-9762.json"
+    },
+    "primegov-louisvilleky-9844": {
+      "primary_sha": "474aa62ed4ec5f0cb366c2e415b2ca8c378b990511f8505932f6ca29da41096e",
+      "items_count": 2,
+      "path": "data/meetings/committee-of-the-whole/2026/primegov-louisvilleky-9844.json"
+    },
+    "primegov-louisvilleky-9871": {
+      "primary_sha": "9d8a2efd0752aa25007d45ced8c7c0a987aa1664368c1c8fbdbfa07470cf18f4",
+      "items_count": 16,
+      "path": "data/meetings/metro-council/2026/primegov-louisvilleky-9871.json"
+    },
+    "primegov-louisvilleky-10171": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10171.json"
+    },
+    "primegov-louisvilleky-10178": {
+      "primary_sha": "1d4a496825e6389cfccc1a83aa6783dd34dfce2eebc4866d2e4309c9b5b0322e",
+      "items_count": 0,
+      "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-10178.json"
+    },
+    "primegov-louisvilleky-9768": {
+      "primary_sha": "2b3e34a8ef57abbf285e2ebf805525e0437817d9cf097c3795f11619e4ce03af",
+      "items_count": 0,
+      "path": "data/meetings/bardstown-road-baxter-avenue-review-overlay-district-committee/2026/primegov-louisvilleky-9768.json"
+    },
+    "primegov-louisvilleky-10001": {
+      "primary_sha": "01092e2f307df4d345e5807adbf8d3b8a35a2748e1b40f531d17a8483c3a7ff0",
+      "items_count": 0,
+      "path": "data/meetings/planning-and-zoning-committee/2026/primegov-louisvilleky-10001.json"
+    },
+    "primegov-louisvilleky-10098": {
+      "primary_sha": "5b6b7cf2ce6ec792044b379e9a7cb9bcf9e61965a67f0d27804ed7e7721d55fb",
+      "items_count": 0,
+      "path": "data/meetings/labor-and-economic-development-committee/2026/primegov-louisvilleky-10098.json"
+    },
+    "primegov-louisvilleky-10037": {
+      "primary_sha": "bd2c83077a0def7b59df5edda430fdc0507f82069e2d97823ca44d2910c238d5",
+      "items_count": 1,
+      "path": "data/meetings/public-works-committee/2026/primegov-louisvilleky-10037.json"
+    },
+    "primegov-louisvilleky-9965": {
+      "primary_sha": "54b541a7bea98f8ffb7a6ab402afdf7198eb5c979472e686fce5bcf487d383d4",
+      "items_count": 0,
+      "path": "data/meetings/government-oversight-audit-and-appointments-committee/2026/primegov-louisvilleky-9965.json"
+    },
+    "primegov-louisvilleky-9755": {
+      "primary_sha": "403aad3860ac12899aded50be54c729943401c55e415036f5a14464121e15bdc",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-9755.json"
+    },
+    "primegov-louisvilleky-10097": {
+      "primary_sha": "d8d9978bdd3b72db4d9f4c97314b91a68963891407ef346da156cf7c1fab0023",
+      "items_count": 0,
+      "path": "data/meetings/equity-community-affairs-housing-health-and-education-committee/2026/primegov-louisvilleky-10097.json"
+    },
+    "primegov-louisvilleky-9947": {
+      "primary_sha": "f65be95007688b009d76191056beb9b11527464a5ee56a20057594bfbab3c96f",
+      "items_count": 0,
+      "path": "data/meetings/appropriations-committee/2026/primegov-louisvilleky-9947.json"
+    },
+    "primegov-louisvilleky-10019": {
+      "primary_sha": "4ae1a620ffa831636db8fe0424097d87e51d9591781a73830fcabe85f28a0c52",
+      "items_count": 1,
+      "path": "data/meetings/public-safety-committee/2026/primegov-louisvilleky-10019.json"
+    },
+    "primegov-louisvilleky-10182": {
+      "primary_sha": "759b50f35b10621029548414a5a2f474b5db997944f3e01219a5b87c98a6f228",
+      "items_count": 0,
+      "path": "data/meetings/limerick-architectural-review-committee/2026/primegov-louisvilleky-10182.json"
+    },
+    "primegov-louisvilleky-10180": {
+      "primary_sha": "b4f9c110a22424897ae9a4ed5e4540d9e4fe782fc2a1a21bdd65b4cb82d264da",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-10180.json"
+    },
+    "primegov-louisvilleky-10181": {
+      "primary_sha": "14f12cd4f77c4ac893f7bc4faec5634681f505c8197bad05e54328e8033a846f",
+      "items_count": 0,
+      "path": "data/meetings/historic-landmarks-preservation-districts-commission/2026/primegov-louisvilleky-10181.json"
+    },
+    "primegov-louisvilleky-10061": {
+      "primary_sha": "dbdeb48d879e83e73dfdd2355c9a4677cd8a0d64d603cc7951230ab3164bbf63",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-10061.json"
+    },
+    "primegov-louisvilleky-9982": {
+      "primary_sha": "0469a732b3a712d08933fe6d8317a4d94f63322219ac15fb6f033ee221fc0a7a",
+      "items_count": 1,
+      "path": "data/meetings/parks-and-sustainability-committee/2026/primegov-louisvilleky-9982.json"
+    },
+    "primegov-louisvilleky-10096": {
+      "primary_sha": "df220b014a3868c856c415a2ef2132c593676639034c65568713a3d036c63195",
+      "items_count": 0,
+      "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-10096.json"
+    },
+    "primegov-louisvilleky-10183": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10183.json"
+    },
+    "primegov-louisvilleky-10172": {
+      "primary_sha": "057fc41d7c8590239c3cf917a98cb576a7f049b0ba55e913559cf185b4cca547",
+      "items_count": 0,
+      "path": "data/meetings/louisville-jefferson-county-environmental-trust-oversight-board/2026/primegov-louisvilleky-10172.json"
+    },
+    "primegov-louisvilleky-9888": {
+      "primary_sha": "54ccba9a131e1f74d935d6bcd8fe5b3f4e711d2be6ff753e45cb35cee1c85607",
+      "items_count": 5,
+      "path": "data/meetings/committee-on-committees/2026/primegov-louisvilleky-9888.json"
+    },
+    "primegov-louisvilleky-10186": {
+      "primary_sha": "70a50f0468e06fc559c87fc1a5090601156b503086811aec13d05c537a1b4bd3",
+      "items_count": 0,
+      "path": "data/meetings/cherokee-triangle-architectural-review-committee/2026/primegov-louisvilleky-10186.json"
+    },
+    "primegov-louisvilleky-10184": {
+      "primary_sha": "1d14a707276a2f599cc48e24c0dea1f61b886cc5eeb0f2899a01121722f35fcb",
+      "items_count": 1,
+      "path": "data/meetings/equity-community-affairs-housing-health-and-education-committee/2026/primegov-louisvilleky-10184.json"
+    },
+    "primegov-louisvilleky-9845": {
+      "primary_sha": "2a5f70561a4c9812e11270afa415ddcf160b7cfa3db096f2e02129f35a30abd4",
+      "items_count": 2,
+      "path": "data/meetings/committee-of-the-whole/2026/primegov-louisvilleky-9845.json"
+    },
+    "primegov-louisvilleky-9872": {
+      "primary_sha": "d8aa66d9acfa1066f9e0287b9e10958b85a045b6a3c073ed504291af2e72be42",
+      "items_count": 17,
+      "path": "data/meetings/metro-council/2026/primegov-louisvilleky-9872.json"
+    },
+    "primegov-louisvilleky-10191": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10191.json"
+    },
+    "primegov-louisvilleky-10188": {
+      "primary_sha": "3ff1e06c2b7eb9bf8a688678424a97a690051881bfc3ad0d82432f30c8d0201b",
+      "items_count": 0,
+      "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-10188.json"
+    },
+    "primegov-louisvilleky-10002": {
+      "primary_sha": "22d243c2af86d940247e0be2bbafc1b5b9d6045ee127819195de2fb27b5aa9e6",
+      "items_count": 0,
+      "path": "data/meetings/planning-and-zoning-committee/2026/primegov-louisvilleky-10002.json"
+    },
+    "primegov-louisvilleky-10099": {
+      "primary_sha": "f700110838ad078588a805a5c72484b72bd053cc34959599a6996759bee3f27c",
+      "items_count": 0,
+      "path": "data/meetings/labor-and-economic-development-committee/2026/primegov-louisvilleky-10099.json"
+    },
+    "primegov-louisvilleky-10038": {
+      "primary_sha": "0459685bff35c5cd5f50af2842b558eb1458a182aa5c4e4074c6816c69865843",
+      "items_count": 1,
+      "path": "data/meetings/public-works-committee/2026/primegov-louisvilleky-10038.json"
+    },
+    "primegov-louisvilleky-9966": {
+      "primary_sha": "a99ac39713677660d2dc6332495278b0e88c669d093689658fbb4793dabffa0a",
+      "items_count": 1,
+      "path": "data/meetings/government-oversight-audit-and-appointments-committee/2026/primegov-louisvilleky-9966.json"
+    },
+    "primegov-louisvilleky-10208": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/nulu-review-overlay-district-committee/2026/primegov-louisvilleky-10208.json"
+    },
+    "primegov-louisvilleky-9756": {
+      "primary_sha": "a85336d2b84de652f16c99deaa1bdf1be446ce9f964c43906aab24022f584a01",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-9756.json"
+    },
+    "primegov-louisvilleky-10101": {
+      "primary_sha": "2d1f8a33684617eeb89d7b597580f515da640649cd97e5f298db0a6e66f53c30",
+      "items_count": 0,
+      "path": "data/meetings/equity-community-affairs-housing-health-and-education-committee/2026/primegov-louisvilleky-10101.json"
+    },
+    "primegov-louisvilleky-9948": {
+      "primary_sha": "45643cf2d196002e8ae02b2642fd915a36849f96906c7d7be5d509dd5374414e",
+      "items_count": 0,
+      "path": "data/meetings/appropriations-committee/2026/primegov-louisvilleky-9948.json"
+    },
+    "primegov-louisvilleky-10020": {
+      "primary_sha": "1fb62de029bfc990398998a12095743e492f1de69b454cbb90f82fc9dfba56bc",
+      "items_count": 1,
+      "path": "data/meetings/public-safety-committee/2026/primegov-louisvilleky-10020.json"
+    },
+    "primegov-louisvilleky-10062": {
+      "primary_sha": "629676cad82e7d35e2b896c95ccb7cec280ba631a2e7b929cbaa23cb33fb3eed",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-10062.json"
+    },
+    "primegov-louisvilleky-9983": {
+      "primary_sha": "8088a00943af38060c1b05ace656f5d622e78ef5f435742458d3713ab16f4a34",
+      "items_count": 1,
+      "path": "data/meetings/parks-and-sustainability-committee/2026/primegov-louisvilleky-9983.json"
+    },
+    "primegov-louisvilleky-10193": {
+      "primary_sha": "acf8f47edf68874e495be0e1348512847a5e224f7a38dabf697c0e72fcb9ce1b",
+      "items_count": 0,
+      "path": "data/meetings/individual-landmarks-architectural-review-committee/2026/primegov-louisvilleky-10193.json"
+    },
+    "primegov-louisvilleky-10103": {
+      "primary_sha": "8a92659ff58b2707e862aa6f62d0fc063f14b0e3b983030b9d2a47b9901d75cd",
+      "items_count": 0,
+      "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-10103.json"
+    },
+    "primegov-louisvilleky-10195": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10195.json"
+    },
+    "primegov-louisvilleky-10205": {
+      "primary_sha": "f84f6da05740841152eec47053c90ac60ccb9c29f97dc6ac8bf1f18be8263bc9",
+      "items_count": 0,
+      "path": "data/meetings/america250ky-committee/2026/primegov-louisvilleky-10205.json"
+    },
+    "primegov-louisvilleky-9889": {
+      "primary_sha": "9f460d7cbbc2002d8ee267003b335da6683c929cdb0a944e845802e591913cb8",
+      "items_count": 4,
+      "path": "data/meetings/committee-on-committees/2026/primegov-louisvilleky-9889.json"
+    },
+    "primegov-louisvilleky-9773": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/downtown-development-review-overlay-district-committee/2026/primegov-louisvilleky-9773.json"
+    },
+    "primegov-louisvilleky-10197": {
+      "primary_sha": "5560540993dbf8190934bd1a31476c4119b85faf44474eaf99061ca3254a4a0c",
+      "items_count": 0,
+      "path": "data/meetings/clifton-architectural-review-committee/2026/primegov-louisvilleky-10197.json"
+    },
+    "primegov-louisvilleky-10194": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/vapstat-joint-meeting/2026/primegov-louisvilleky-10194.json"
+    },
+    "primegov-louisvilleky-9846": {
+      "primary_sha": "f7380f83cd0aba070c0a497a67b56666df57a494fe59aea23fc200e277b41a2d",
+      "items_count": 2,
+      "path": "data/meetings/committee-of-the-whole/2026/primegov-louisvilleky-9846.json"
+    },
+    "primegov-louisvilleky-10093": {
+      "primary_sha": "91dc6ed712e1d54b9aa38f192234b29e5a40b0d2ae4eaa75fe3a58b58cf087f4",
+      "items_count": 18,
+      "path": "data/meetings/metro-council/2026/primegov-louisvilleky-10093.json"
+    },
+    "primegov-louisvilleky-10211": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10211.json"
+    },
+    "primegov-louisvilleky-10210": {
+      "primary_sha": "804138b6e4ad031b4673e5b56bf2575ad8d6fefd57484ee18042cb1de090cb57",
+      "items_count": 0,
+      "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-10210.json"
+    },
+    "primegov-louisvilleky-9769": {
+      "primary_sha": "23427f79eae168b7afbf64f4d75cfe18d30eb301c9ec8682d87b3474f3b28f00",
+      "items_count": 0,
+      "path": "data/meetings/bardstown-road-baxter-avenue-review-overlay-district-committee/2026/primegov-louisvilleky-9769.json"
+    },
+    "primegov-louisvilleky-10003": {
+      "primary_sha": "4b14b6d7d0246bba3c8141bc449ad240cccd021636cf70296e321425017bce8b",
+      "items_count": 0,
+      "path": "data/meetings/planning-and-zoning-committee/2026/primegov-louisvilleky-10003.json"
+    },
+    "primegov-louisvilleky-10209": {
+      "primary_sha": "04d6508361a0d0879dd72f4200f02f2b66bd7df5e55bbee77af51b29facffc0b",
+      "items_count": 0,
+      "path": "data/meetings/labor-and-economic-development-committee/2026/primegov-louisvilleky-10209.json"
+    },
+    "primegov-louisvilleky-10039": {
+      "primary_sha": "d7dba1a9dd552cfb9372222bbb6cbf046ebe7a866cbe93864db86aadd8a9394c",
+      "items_count": 1,
+      "path": "data/meetings/public-works-committee/2026/primegov-louisvilleky-10039.json"
+    },
+    "primegov-louisvilleky-9967": {
+      "primary_sha": "6890dcffb5a3f92b2db0ad3d88a25397060ea5946d2438de08f7066293600bbb",
+      "items_count": 1,
+      "path": "data/meetings/government-oversight-audit-and-appointments-committee/2026/primegov-louisvilleky-9967.json"
+    },
+    "primegov-louisvilleky-9757": {
+      "primary_sha": "42571cf1cffb01bb3306ae363fc719107f3f1916349bb978f3c843eb98b0686d",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-9757.json"
+    },
+    "primegov-louisvilleky-10102": {
+      "primary_sha": "370ffcb9287b0897858a92ad4f5886b74e112bbda9667ffbda0f55fbd3134c19",
+      "items_count": 1,
+      "path": "data/meetings/equity-community-affairs-housing-health-and-education-committee/2026/primegov-louisvilleky-10102.json"
+    },
+    "primegov-louisvilleky-9949": {
+      "primary_sha": "e2edd6b978cac1417583849383bde7e3dc235e6a978e2b8747bdc95d3f69d138",
+      "items_count": 0,
+      "path": "data/meetings/appropriations-committee/2026/primegov-louisvilleky-9949.json"
+    },
+    "primegov-louisvilleky-10021": {
+      "primary_sha": "bc578d2afeaf828188e114f4491350cffc0f94c345f741116b87afa4053c5c2c",
+      "items_count": 1,
+      "path": "data/meetings/public-safety-committee/2026/primegov-louisvilleky-10021.json"
+    },
+    "primegov-louisvilleky-10214": {
+      "primary_sha": "cbd5151e5324dedd402c5cd48a9d429d6f6b2f6803b171bf6854eeb3e99c7dd8",
+      "items_count": 0,
+      "path": "data/meetings/limerick-architectural-review-committee/2026/primegov-louisvilleky-10214.json"
+    },
+    "primegov-louisvilleky-10212": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/historic-landmarks-preservation-districts-commission/2026/primegov-louisvilleky-10212.json"
+    },
+    "primegov-louisvilleky-10063": {
+      "primary_sha": "9e7a7c2732a63e97784a843bdfd881693fc26a913c0bfe53381bf9ab469435c7",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-10063.json"
+    },
+    "primegov-louisvilleky-9984": {
+      "primary_sha": "bb43ab0cd90e0a90d3fa2c01190da9968e4c5a1f308a22d7827e6cc898b955b5",
+      "items_count": 1,
+      "path": "data/meetings/parks-and-sustainability-committee/2026/primegov-louisvilleky-9984.json"
+    },
+    "primegov-louisvilleky-10104": {
+      "primary_sha": "d142d142148f5b4527e420638650225ce794ae74ecbdb38c776bf548459aedbd",
+      "items_count": 1,
+      "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-10104.json"
+    },
+    "primegov-louisvilleky-10215": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10215.json"
+    },
+    "primegov-louisvilleky-10213": {
+      "primary_sha": "37dd15316867d0090cb85a4b300a8f8f26bf0b3cb990021e7382f3b2111f28f2",
+      "items_count": 0,
+      "path": "data/meetings/louisville-jefferson-county-environmental-trust-oversight-board/2026/primegov-louisvilleky-10213.json"
+    },
+    "primegov-louisvilleky-10216": {
+      "primary_sha": "3ab13a7ca37593ff2b13304d69bc28d4c7badbc0507b2074d6ee8163fdc56273",
+      "items_count": 0,
+      "path": "data/meetings/labor-and-economic-development-committee/2026/primegov-louisvilleky-10216.json"
+    },
+    "primegov-louisvilleky-9890": {
+      "primary_sha": "ad4342cf940dce9fd3c4e8706286adbee547d31fe502b67c488fcbb63ba59848",
+      "items_count": 2,
+      "path": "data/meetings/committee-on-committees/2026/primegov-louisvilleky-9890.json"
+    },
+    "primegov-louisvilleky-9847": {
+      "primary_sha": "eda79a9968d1ec8e1a6b693749ead39645bcf5fea4372189d63711fe9f4754ed",
+      "items_count": 2,
+      "path": "data/meetings/committee-of-the-whole/2026/primegov-louisvilleky-9847.json"
+    },
+    "primegov-louisvilleky-9906": {
+      "primary_sha": "65c11807cd1404ea134bb24d36adf1228927e544f6aeef5c9c580a851789f5a3",
+      "items_count": 13,
+      "path": "data/meetings/metro-council/2026/primegov-louisvilleky-9906.json"
+    },
+    "primegov-louisvilleky-10219": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10219.json"
+    },
+    "primegov-louisvilleky-10217": {
+      "primary_sha": "a296bc6b122a7093dd15f228d3ae9bc0c29797ee3a31d4745ddc40de46fea555",
+      "items_count": 0,
+      "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-10217.json"
+    },
+    "primegov-louisvilleky-9778": {
+      "primary_sha": "32fe0dc241172766cf7b9dc14079df8a87470d0a8a51cefa54a969434a951950",
+      "items_count": 0,
+      "path": "data/meetings/nulu-review-overlay-district-committee/2026/primegov-louisvilleky-9778.json"
+    },
+    "primegov-louisvilleky-10218": {
+      "primary_sha": "f5c6f8f34b23c12abcc7043bc21c3f10bc280a54c444fabf6f0879384a1198a5",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-10218.json"
+    },
+    "primegov-louisvilleky-10064": {
+      "primary_sha": "3fb9075a97d01578f382718023c391be0f7f8fad242946ac4c267f33fb434d9c",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-10064.json"
+    },
+    "primegov-louisvilleky-10221": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10221.json"
+    },
+    "primegov-louisvilleky-10222": {
+      "primary_sha": "275bf2b338e2c0ff7915c9229067ac6d103fd32cbce576a5caac958a95b37f00",
+      "items_count": 0,
+      "path": "data/meetings/old-louisville-architectural-review-committee/2026/primegov-louisvilleky-10222.json"
+    },
+    "primegov-louisvilleky-10224": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10224.json"
+    },
+    "primegov-louisvilleky-10223": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/vapstat-joint-meeting/2026/primegov-louisvilleky-10223.json"
+    },
+    "primegov-louisvilleky-10004": {
+      "primary_sha": "551f2561a3e3ef80ecc146baa22b5a118cf96080fd08229bbddff3f2265a1d57",
+      "items_count": 0,
+      "path": "data/meetings/planning-and-zoning-committee/2026/primegov-louisvilleky-10004.json"
+    },
+    "primegov-louisvilleky-10225": {
+      "primary_sha": "e605d52238c3585cda1b856ed3e9a1b7723b966a794260e31b42b85491b7ec95",
+      "items_count": 0,
+      "path": "data/meetings/america250ky-committee/2026/primegov-louisvilleky-10225.json"
+    },
+    "primegov-louisvilleky-10105": {
+      "primary_sha": "dbb4685c2f22bd9e9fc22aefc55fe999ac6efb4f93e056241ca9b25e86ae46d7",
+      "items_count": 1,
+      "path": "data/meetings/labor-and-economic-development-committee/2026/primegov-louisvilleky-10105.json"
+    },
+    "primegov-louisvilleky-10040": {
+      "primary_sha": "02f078f3559222cd62a847d433daf3e805c713d9315963a4533d5c865c7fe222",
+      "items_count": 1,
+      "path": "data/meetings/public-works-committee/2026/primegov-louisvilleky-10040.json"
+    },
+    "primegov-louisvilleky-9968": {
+      "primary_sha": "a70beb8c66b916c072441aaef698c24d4204421d39241eb62768632be70f593a",
+      "items_count": 1,
+      "path": "data/meetings/government-oversight-audit-and-appointments-committee/2026/primegov-louisvilleky-9968.json"
+    },
+    "primegov-louisvilleky-10226": {
+      "primary_sha": "a70e62168b6855f16d0573c054d56750f1a36cd4a44ad5fdf6134939eef04bf2",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-10226.json"
+    },
+    "primegov-louisvilleky-10106": {
+      "primary_sha": "de88a8cfba30e92c228d53b0bbda2702aaac2e089d475d846e7b8061ab7e2913",
+      "items_count": 0,
+      "path": "data/meetings/equity-community-affairs-housing-health-and-education-committee/2026/primegov-louisvilleky-10106.json"
+    },
+    "primegov-louisvilleky-9950": {
+      "primary_sha": "bd6cea6094ce220e4afc2689e8c232b98c54fd50b46507e8a99d4d412359fff2",
+      "items_count": 0,
+      "path": "data/meetings/appropriations-committee/2026/primegov-louisvilleky-9950.json"
+    },
+    "primegov-louisvilleky-10022": {
+      "primary_sha": "64ca8b1aeb56404bb7ec0de3b8fc2abf99260fe44b8dfa972630327bfb080671",
+      "items_count": 1,
+      "path": "data/meetings/public-safety-committee/2026/primegov-louisvilleky-10022.json"
+    },
+    "primegov-louisvilleky-10234": {
+      "primary_sha": "cba3ddb77dba688fdeaac11cf90870dc02923c4ae76ba9043fba512534adeb66",
+      "items_count": 0,
+      "path": "data/meetings/cherokee-triangle-architectural-review-committee/2026/primegov-louisvilleky-10234.json"
+    },
+    "primegov-louisvilleky-10227": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/historic-landmarks-preservation-districts-commission/2026/primegov-louisvilleky-10227.json"
+    },
+    "primegov-louisvilleky-10220": {
+      "primary_sha": "3094be9eec1a41102867700a534dca65542eccba6f53a3e6e6a0913ee6b1e7e3",
+      "items_count": 1,
+      "path": "data/meetings/committee-of-the-whole/2026/primegov-louisvilleky-10220.json"
+    },
+    "primegov-louisvilleky-9986": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/parks-and-sustainability-committee/2026/primegov-louisvilleky-9986.json"
+    },
+    "primegov-louisvilleky-10107": {
+      "primary_sha": "3f42f764a3d3e838e0511a2581a1197fb79b7458becbef7c3514487e34c1ce52",
+      "items_count": 0,
+      "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-10107.json"
+    },
+    "primegov-louisvilleky-10236": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10236.json"
+    },
+    "primegov-louisvilleky-10232": {
+      "primary_sha": "97c78bd8cbbf66e2e32040c535d878962265f4605206e40a48adc31401ba598d",
+      "items_count": 0,
+      "path": "data/meetings/louisville-jefferson-county-environmental-trust-oversight-board/2026/primegov-louisvilleky-10232.json"
+    },
+    "primegov-louisvilleky-10230": {
+      "primary_sha": "7974fa8bc54f34da94d7fd1b2ea39e855effe42e4e5cb6544bdfbe873da882f8",
+      "items_count": 0,
+      "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-10230.json"
+    },
+    "primegov-louisvilleky-10235": {
+      "primary_sha": "971d2168717c64d601f78501fcdce1bcd8ee2f1ad187d9f2826b8cc92887db9e",
+      "items_count": 0,
+      "path": "data/meetings/bardstown-road-baxter-avenue-review-overlay-district-committee/2026/primegov-louisvilleky-10235.json"
+    },
+    "primegov-louisvilleky-9891": {
+      "primary_sha": "d2c79edebcfc64faa7e2cd8d90635f24de58ad6690485e802e95600a66c5f980",
+      "items_count": 8,
+      "path": "data/meetings/committee-on-committees/2026/primegov-louisvilleky-9891.json"
+    },
+    "primegov-louisvilleky-10238": {
+      "primary_sha": "6c1283174a8b386fc8c0a1c459f5542af52dcad188bff99b85866fbd34be2701",
+      "items_count": 0,
+      "path": "data/meetings/clifton-architectural-review-committee/2026/primegov-louisvilleky-10238.json"
+    },
+    "primegov-louisvilleky-10237": {
+      "primary_sha": "5fcff936762a62de78ddfafcfe9bbb2b6752e1460e33060d2a2fb3887999648d",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-10237.json"
+    },
+    "primegov-louisvilleky-9850": {
+      "primary_sha": "b6fa2e52f9c408bb114c65b3921b5d085789118e73e64523e17d0eae5a2e2afa",
+      "items_count": 1,
+      "path": "data/meetings/committee-of-the-whole/2026/primegov-louisvilleky-9850.json"
+    },
+    "primegov-louisvilleky-9873": {
+      "primary_sha": "c91156e1553f4e9e1e94a0277949808c388db6b06e8850bc1187d5881dd6b3ea",
+      "items_count": 22,
+      "path": "data/meetings/metro-council/2026/primegov-louisvilleky-9873.json"
+    },
+    "primegov-louisvilleky-10239": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10239.json"
+    },
+    "primegov-louisvilleky-10066": {
+      "primary_sha": "aa876336f2923aaeb0a9309787ee3e961ed28208667b5652a9c0ce9723b5f033",
+      "items_count": 0,
+      "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-10066.json"
+    },
+    "primegov-louisvilleky-10005": {
+      "primary_sha": "c61673c0929f53a809149827ef0d4a27beb2deb0bcbb749838360206c9c4d1cb",
+      "items_count": 0,
+      "path": "data/meetings/planning-and-zoning-committee/2026/primegov-louisvilleky-10005.json"
+    },
+    "primegov-louisvilleky-10108": {
+      "primary_sha": "9f4340ee3aefe963615dc60a73f7125475b822318383530879e85302b85a6a1f",
+      "items_count": 1,
+      "path": "data/meetings/labor-and-economic-development-committee/2026/primegov-louisvilleky-10108.json"
+    },
+    "primegov-louisvilleky-10041": {
+      "primary_sha": "4edb0dc5410cc981def17cae0371dc91fc4635c78bbd583cdddd7cee04584845",
+      "items_count": 1,
+      "path": "data/meetings/public-works-committee/2026/primegov-louisvilleky-10041.json"
+    },
+    "primegov-louisvilleky-9969": {
+      "primary_sha": "e1feae20d32c403726b08aceaa35761a9c0bde6835359fe6641b69921795a307",
+      "items_count": 0,
+      "path": "data/meetings/government-oversight-audit-and-appointments-committee/2026/primegov-louisvilleky-9969.json"
+    },
+    "primegov-louisvilleky-10240": {
+      "primary_sha": "23e04825c3be26b66e6d636db7411dd3018dacba7b5b412b108f44b999e7d8b6",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-10240.json"
+    },
+    "primegov-louisvilleky-10109": {
+      "primary_sha": "510e6e27a2c48763f3545a44b466be0a2553f516fc64184f45436165ba697af2",
+      "items_count": 1,
+      "path": "data/meetings/equity-community-affairs-housing-health-and-education-committee/2026/primegov-louisvilleky-10109.json"
+    },
+    "primegov-louisvilleky-9952": {
+      "primary_sha": "72c1af6353afcade670b5e59754873e494830c41be1aeaf763e3d87676b108be",
+      "items_count": 0,
+      "path": "data/meetings/appropriations-committee/2026/primegov-louisvilleky-9952.json"
+    },
+    "primegov-louisvilleky-10023": {
+      "primary_sha": "8aaf25fae010ff921420b64468dcaece032204f11b6fd715c0d18968d3bb0fe5",
+      "items_count": 0,
+      "path": "data/meetings/public-safety-committee/2026/primegov-louisvilleky-10023.json"
+    },
+    "primegov-louisvilleky-10244": {
+      "primary_sha": "0780ccdd0061d736d14328fe772bb4f170e72f98e6a40e491bcc0ecf16bd5282",
+      "items_count": 0,
+      "path": "data/meetings/cherokee-triangle-architectural-review-committee/2026/primegov-louisvilleky-10244.json"
+    },
+    "primegov-louisvilleky-9780": {
+      "primary_sha": "6f01f818b905b14d9b19489688266d85a7167b1687a964c917c2c2f3488d214d",
+      "items_count": 0,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-9780.json"
+    },
+    "primegov-louisvilleky-9987": {
+      "primary_sha": "a40c154450e3a065c50f6c8c76a1db959a24fa5e6d9ad2cd7c66b7f181b0b7fd",
+      "items_count": 1,
+      "path": "data/meetings/parks-and-sustainability-committee/2026/primegov-louisvilleky-9987.json"
+    },
+    "primegov-louisvilleky-10110": {
+      "primary_sha": "00edcbe8e547ac6c80b7370853230d07512823efc04a00286254c915f0ea04aa",
+      "items_count": 0,
+      "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-10110.json"
+    },
+    "primegov-louisvilleky-10242": {
+      "primary_sha": "e7034910cf5066c52b5d79f52c47df62d779876a52a0afdd9933bab8f395f0b0",
+      "items_count": 4,
+      "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-10242.json"
+    },
+    "ksba-89-53384": {
+      "primary_sha": "73e251243374b18785c29b1584de1df6d815a1b8923c4c299cfd2fcc8ff687ef",
+      "items_count": 87,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53384.json"
+    },
+    "ksba-89-53628": {
+      "primary_sha": "31a4eeeab64f66d6757e1adc0a92a678a873be2121f63a87c37b7b9c476c3154",
+      "items_count": 1,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53628.json"
+    },
+    "ksba-89-53497": {
+      "primary_sha": "f2d4b70a154995022dfe5a359aaaf539b51e74d0a5643c13f8d50f424a430fc3",
+      "items_count": 20,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53497.json"
+    },
+    "ksba-89-53174": {
+      "primary_sha": "6a7be868de6f37bf3a570eeda891ed5a5406d1f71b6bda29fc0f28a51a400e94",
+      "items_count": 91,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53174.json"
+    },
+    "ksba-89-53286": {
+      "primary_sha": "6fc2591b80bba07a6ae922c9e10218a20883cad8158a130d70963ec0e2d84817",
+      "items_count": 5,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53286.json"
+    },
+    "ksba-89-52767": {
+      "primary_sha": "bc4785e14c4441ecdd33a56abcc7d2f7cb4efabdb7ded71a1fec66e31ef23d07",
+      "items_count": 91,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-52767.json"
+    },
+    "ksba-89-53045": {
+      "primary_sha": "4fd1c7ce4a89f38cac0e4eaa85b5e3d30272cd80991a4903efbd18b60bb9f57f",
+      "items_count": 5,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53045.json"
+    },
+    "ksba-89-52597": {
+      "primary_sha": "47ba175663b3d0ac3a9c67c52ec2853e4055b69d26abd445835d55ea5567c5ae",
+      "items_count": 88,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-52597.json"
+    },
+    "ksba-89-52247": {
+      "primary_sha": "a2130dad9fadccda23f7909ebfc2f5a218560a4eda4508e2e94129ca6e9f17ae",
+      "items_count": 72,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-52247.json"
+    },
+    "ksba-89-52470": {
+      "primary_sha": "c60ccd3ccccd235158f5c480dabd7d579539dd29a2d628a8499f8b6b050370be",
+      "items_count": 4,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-52470.json"
+    },
+    "ksba-89-52471": {
+      "primary_sha": "c415824e62a8741546783eee05ceaf569c9a3d43be756646ab722882ba0691ab",
+      "items_count": 5,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-52471.json"
+    },
+    "ksba-89-51925": {
+      "primary_sha": "89862e12936c756786a554aec4233149b01c082c178b4be281e5f3731e2b1501",
+      "items_count": 77,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-51925.json"
+    },
+    "ksba-89-52222": {
+      "primary_sha": "80567d2edcb54036122344685d45722c363ddd10b321e8d3e1a06a3cc883cbec",
+      "items_count": 5,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-52222.json"
+    },
+    "ksba-89-52207": {
+      "primary_sha": "a8b39cd7d853d0b4df0ba9bf16f11489244625a954141ac7cd4351f07b89e088",
+      "items_count": 6,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-52207.json"
+    },
+    "ksba-89-51751": {
+      "primary_sha": "deb68af465a63cd4d16764080cc60ba8c8ae4c770654e5a38ba766e6e8fb3bc5",
+      "items_count": 48,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-51751.json"
+    },
+    "ksba-89-51619": {
+      "primary_sha": "bac04081a4f8ba8a930385b9f3368ce02228b5043fbb8a608320f8113b5950e6",
+      "items_count": 59,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-51619.json"
+    },
+    "ksba-89-51432": {
+      "primary_sha": "2945d29ff2d8f9ad1d941f302362a66215108b569f52f1c67ae1579b1b99d1b6",
+      "items_count": 69,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-51432.json"
+    },
+    "ksba-89-51178": {
+      "primary_sha": "5c3ec584606c62f055cc0ca2293a7ce271ea1b6e4c6e38b6aaa78852958095c9",
+      "items_count": 80,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-51178.json"
+    },
+    "ksba-89-51212": {
+      "primary_sha": "60b0d7d740d9a02ce4879b668a0f9c50dbfe5099f7af79f11012cd707d8438dd",
+      "items_count": 5,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-51212.json"
+    },
+    "ksba-89-51034": {
+      "primary_sha": "70904612bba9e0767e5ab28b7d02848d4fdbbdeacdfbac8674e0831127dc498a",
+      "items_count": 57,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-51034.json"
+    },
+    "ksba-89-49877": {
+      "primary_sha": "741efdf040f57bd175ec3c9db3049cfad125351c2956c51bbad5804b4dfb0505",
+      "items_count": 75,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-49877.json"
+    },
+    "ksba-89-49975": {
+      "primary_sha": "02eacc3d6b346943d6e888f9b22a8f27b8b6513336430fb1c51370ab16a78043",
+      "items_count": 5,
+      "path": "data/meetings/jcps-board-of-education/2025/ksba-89-49975.json"
+    }
+  }
+}

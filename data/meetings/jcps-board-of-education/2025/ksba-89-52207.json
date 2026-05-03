@@ -1,0 +1,65 @@
+{
+  "id": "ksba-89-52207",
+  "body_id": "jcps-board-of-education",
+  "title": "Special Meeting",
+  "date": "2025-09-30",
+  "time": "18:00",
+  "source_type": "ksba",
+  "source_url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=52207&AgencyTypeID=",
+  "source_meeting_id": "52207",
+  "video_url": null,
+  "attachments": [
+    {
+      "sha256": "a8b39cd7d853d0b4df0ba9bf16f11489244625a954141ac7cd4351f07b89e088",
+      "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=52207&AgencyTypeID=",
+      "mime": "text/html",
+      "template_name": "KSBA Meeting Page",
+      "extracted_text_path": "data/attachments/a8b39cd7d853d0b4df0ba9bf16f11489244625a954141ac7cd4351f07b89e088.txt"
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914230",
+      "mime": "application/pdf",
+      "template_name": "9 30 25 Special JCBE Meeting Notice",
+      "extracted_text_path": null
+    }
+  ],
+  "items": [
+    {
+      "item_number": "I",
+      "file_number": null,
+      "title": "Call to Order",
+      "section": null
+    },
+    {
+      "item_number": "II",
+      "file_number": null,
+      "title": "Recommendation for Approval of Professional Services Contract for Financial Audit and Consulting Services",
+      "section": null
+    },
+    {
+      "item_number": "III",
+      "file_number": null,
+      "title": "Enter Closed Executive Session for Discussions Regarding Proposed Litigation on Behalf of the District Pursuant to KRS 61.810(1)(c)",
+      "section": null
+    },
+    {
+      "item_number": "IV",
+      "file_number": null,
+      "title": "Adjourn from Executive Session",
+      "section": null
+    },
+    {
+      "item_number": "V",
+      "file_number": null,
+      "title": "Possible Consideration of a Motion on Proposed Litigation on Behalf of the District",
+      "section": null
+    },
+    {
+      "item_number": "VI",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
+}

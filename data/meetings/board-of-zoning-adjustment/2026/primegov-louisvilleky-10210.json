@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-10210",
+  "body_id": "board-of-zoning-adjustment",
+  "title": "Board of Zoning Adjustment",
+  "date": "2026-03-16",
+  "time": "13:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10210",
+  "source_meeting_id": "10210",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/378237",
+  "attachments": [
+    {
+      "sha256": "804138b6e4ad031b4673e5b56bf2575ad8d6fefd57484ee18042cb1de090cb57",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10210/Agenda_20260311170603279.pdf?sv=2017-04-17&sr=b&sig=LiwpP7GuvuzrjoHdOWdEQmP%2FTsAagSjIy4v%2BjvNsxsc%3D&st=2026-05-02T05%3A47%3A45Z&se=2026-05-04T05%3A47%3A45Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/804138b6e4ad031b4673e5b56bf2575ad8d6fefd57484ee18042cb1de090cb57.txt"
+    },
+    {
+      "sha256": "babe4f893d61ae3302e98b84d769bc073cb302ca81cf173c95f9defaebf9be91",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10210/Minutes_20260401192520341.pdf?sv=2017-04-17&sr=b&sig=HoABZQozx0FUXEGT5nNlHztGVnZ9mHEly3qke8pIV%2Fk%3D&st=2026-05-02T05%3A47%3A46Z&se=2026-05-04T05%3A47%3A46Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/babe4f893d61ae3302e98b84d769bc073cb302ca81cf173c95f9defaebf9be91.txt"
+    }
+  ],
+  "items": []
+}

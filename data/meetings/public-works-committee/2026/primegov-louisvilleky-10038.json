@@ -1,0 +1,35 @@
+{
+  "id": "primegov-louisvilleky-10038",
+  "body_id": "public-works-committee",
+  "title": "Public Works Committee",
+  "date": "2026-03-03",
+  "time": "16:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10038",
+  "source_meeting_id": "10038",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/376889",
+  "attachments": [
+    {
+      "sha256": "0459685bff35c5cd5f50af2842b558eb1458a182aa5c4e4074c6816c69865843",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10038/Agenda_20260306184335871.pdf?sv=2017-04-17&sr=b&sig=Zl1pZqLuZq1GbYf6MQhfPIDSC3CxBwCc%2F8RAXPWBbbM%3D&st=2026-05-02T05%3A47%3A20Z&se=2026-05-04T05%3A47%3A20Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/0459685bff35c5cd5f50af2842b558eb1458a182aa5c4e4074c6816c69865843.txt"
+    },
+    {
+      "sha256": "bd7481de48da640d2aa9c739bd848701f161155fe64104ad2e86299e8bd33c8b",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10038/Minutes_20260317183054852.pdf?sv=2017-04-17&sr=b&sig=%2FSzTLr%2FwnTtKDO5Gw8Ouxdlb5zE7mv3uDk%2BMjJG3%2Foc%3D&st=2026-05-02T05%3A47%3A21Z&se=2026-05-04T05%3A47%3A21Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/bd7481de48da640d2aa9c739bd848701f161155fe64104ad2e86299e8bd33c8b.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0100",
+      "title": "LOUISVILLE DEPARTMENT OF TRANSPORTATION UPDATE \u2013 Bill Bell, Louisville Department of Transportation",
+      "section": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-10000",
+  "body_id": "planning-and-zoning-committee",
+  "title": "Planning and Zoning Committee",
+  "date": "2026-02-03",
+  "time": "13:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10000",
+  "source_meeting_id": "10000",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/373870",
+  "attachments": [
+    {
+      "sha256": "bbd10bb761fa360a988a6d022d632e92c6a0c1d69e68e46a0eec4927f041ccce",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10000/Agenda_20260203171330808.pdf?sv=2017-04-17&sr=b&sig=NRGCZsqpP%2BBua%2B4SmuqJBHvSk%2BfYaBUZgzDa2MKYCPQ%3D&st=2026-05-02T05%3A46%3A15Z&se=2026-05-04T05%3A46%3A15Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/bbd10bb761fa360a988a6d022d632e92c6a0c1d69e68e46a0eec4927f041ccce.txt"
+    },
+    {
+      "sha256": "e22c38e784f3c35d0ee3df95bcd9ab9131849f112bdaa829177cc8a3990811c2",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10000/Minutes_20260204212344751.pdf?sv=2017-04-17&sr=b&sig=end6ORGS0qc1ZIlte3GAPsQFbvW%2BKKd%2BTE35aqdWaL0%3D&st=2026-05-02T05%3A46%3A15Z&se=2026-05-04T05%3A46%3A15Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/e22c38e784f3c35d0ee3df95bcd9ab9131849f112bdaa829177cc8a3990811c2.txt"
+    }
+  ],
+  "items": []
+}

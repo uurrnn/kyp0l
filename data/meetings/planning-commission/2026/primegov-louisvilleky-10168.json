@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-10168",
+  "body_id": "planning-commission",
+  "title": "Planning Commission",
+  "date": "2026-02-05",
+  "time": "13:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10168",
+  "source_meeting_id": "10168",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/374433",
+  "attachments": [
+    {
+      "sha256": "783be1b9e4fc9db26458c236c62230ee944d8a0432bea4746ee3b4c1718fba94",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10168/Agenda_20260204195649134.pdf?sv=2017-04-17&sr=b&sig=dmr%2Fp4xZdXmmI%2FKmaLvNb0VEdOSr8Rc4hrZokrrmIIo%3D&st=2026-05-02T05%3A46%3A26Z&se=2026-05-04T05%3A46%3A26Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/783be1b9e4fc9db26458c236c62230ee944d8a0432bea4746ee3b4c1718fba94.txt"
+    },
+    {
+      "sha256": "89080e8b2401ace3f4843d1709c6f787f64e244d26a74d38a32605d2ee49cc26",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10168/Minutes_20260402181733163.pdf?sv=2017-04-17&sr=b&sig=cgfRZ3ePmaMLxYKd3A2RBCPGMX%2BgyPMDdHeCEwUMRyc%3D&st=2026-05-02T05%3A46%3A27Z&se=2026-05-04T05%3A46%3A27Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/89080e8b2401ace3f4843d1709c6f787f64e244d26a74d38a32605d2ee49cc26.txt"
+    }
+  ],
+  "items": []
+}

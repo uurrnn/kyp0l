@@ -1,0 +1,47 @@
+{
+  "id": "primegov-louisvilleky-9865",
+  "body_id": "committee-of-the-whole",
+  "title": "Committee of the Whole - THIS IS CONSIDERED A SPECIAL MEETING",
+  "date": "2026-01-29",
+  "time": "17:15",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9865",
+  "source_meeting_id": "9865",
+  "video_url": "https://louisvilleky.new.swagit.com/events/44542",
+  "attachments": [
+    {
+      "sha256": "8a08ff6e59a21183785eb67cb07e916aee44b0868944e859782edc29cc9213ea",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9865/Agenda_20260128175940892.pdf?sv=2017-04-17&sr=b&sig=hjCj%2BzSlKI%2B0Hve0kIiVv%2B7sp%2BWnZwtaNdIFPnxhvKg%3D&st=2026-05-02T05%3A46%3A09Z&se=2026-05-04T05%3A46%3A09Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/8a08ff6e59a21183785eb67cb07e916aee44b0868944e859782edc29cc9213ea.txt"
+    },
+    {
+      "sha256": "1eadd9096a93364daa64117f4add20edf414c54f67bc2246bc543af1162463db",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9865/Minutes_20260219160047941.pdf?sv=2017-04-17&sr=b&sig=4iIXXDLXbHJ1LSZaI8YNTis8%2BU0JVF368tZOJJ0ccZk%3D&st=2026-05-02T05%3A46%3A10Z&se=2026-05-04T05%3A46%3A10Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/1eadd9096a93364daa64117f4add20edf414c54f67bc2246bc543af1162463db.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0034",
+      "title": "Metro Council\u2019s Legislation Software \u2013 PrimeGov vs. Legistar",
+      "section": null
+    },
+    {
+      "item_number": "2",
+      "file_number": "26-0031",
+      "title": "Metro Council Agenda \u2013 January 29, 2026",
+      "section": null
+    },
+    {
+      "item_number": "3",
+      "file_number": "26-0030",
+      "title": "Addresses to Council \u2013 January 29, 2026",
+      "section": null
+    }
+  ]
+}

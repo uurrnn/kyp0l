@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-10103",
+  "body_id": "budget-committee",
+  "title": "Budget Committee",
+  "date": "2026-03-05",
+  "time": "16:30",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10103",
+  "source_meeting_id": "10103",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/377234",
+  "attachments": [
+    {
+      "sha256": "8a92659ff58b2707e862aa6f62d0fc063f14b0e3b983030b9d2a47b9901d75cd",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10103/Agenda_2026030514053557.pdf?sv=2017-04-17&sr=b&sig=%2BY8%2BNJ3S0xsnoAHk4ftA4rZYN0NXrP6ODqhMvZLkvKk%3D&st=2026-05-02T05%3A47%3A36Z&se=2026-05-04T05%3A47%3A36Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/8a92659ff58b2707e862aa6f62d0fc063f14b0e3b983030b9d2a47b9901d75cd.txt"
+    },
+    {
+      "sha256": "874c0f94ad3ba9c253a2fb49cb4cb81811ad731ada3dd9edcda98e6feda01d5d",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10103/Minutes_20260320150534817.pdf?sv=2017-04-17&sr=b&sig=11tzRyn716s%2B3QdWFx0fYNR1AWPgLcnRGrLCvAbSH0c%3D&st=2026-05-02T05%3A47%3A36Z&se=2026-05-04T05%3A47%3A36Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/874c0f94ad3ba9c253a2fb49cb4cb81811ad731ada3dd9edcda98e6feda01d5d.txt"
+    }
+  ],
+  "items": []
+}

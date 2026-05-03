@@ -1,0 +1,35 @@
+{
+  "id": "primegov-louisvilleky-10020",
+  "body_id": "public-safety-committee",
+  "title": "Public Safety Committee",
+  "date": "2026-03-04",
+  "time": "16:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10020",
+  "source_meeting_id": "10020",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/377110",
+  "attachments": [
+    {
+      "sha256": "1fb62de029bfc990398998a12095743e492f1de69b454cbb90f82fc9dfba56bc",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10020/Agenda_20260305160346701.pdf?sv=2017-04-17&sr=b&sig=oHJZraaPc99bbg6dbj2W%2ByI2UVVreGnXl8St9GmTlkA%3D&st=2026-05-02T05%3A47%3A29Z&se=2026-05-04T05%3A47%3A29Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/1fb62de029bfc990398998a12095743e492f1de69b454cbb90f82fc9dfba56bc.txt"
+    },
+    {
+      "sha256": "8adb0144cc0fe51fd329d60c846a15e11b19d8e08e6924ae43c0b8a3f419946e",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10020/Minutes_20260317183255862.pdf?sv=2017-04-17&sr=b&sig=%2FwRfjs1fEhXkUPysFgqatRVbzZtS3851wJWmtXlsHCU%3D&st=2026-05-02T05%3A47%3A29Z&se=2026-05-04T05%3A47%3A29Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/8adb0144cc0fe51fd329d60c846a15e11b19d8e08e6924ae43c0b8a3f419946e.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0073",
+      "title": "LOUISVILLE METRO DEPARTMENT OF CORRECTIONS STAFFING \u2013 Chief Jerry Collins, Deputy Chief David Heacock, Louisville Metro Department of Corrections",
+      "section": null
+    }
+  ]
+}

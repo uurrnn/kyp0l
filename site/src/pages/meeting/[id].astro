@@ -1,0 +1,82 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import {
+  getMeetings,
+  getMeetingById,
+  getBodyById,
+  formatMeetingDate,
+  readExtractedText,
+} from "~/lib/data";
+
+export function getStaticPaths() {
+  return getMeetings().map((m) => ({ params: { id: m.id } }));
+}
+
+const { id } = Astro.params;
+const m = getMeetingById(id!);
+const body = m ? getBodyById(m.body_id) : undefined;
+
+// Pull the longest extracted-text attachment as the search corpus to inline.
+const corpusAttachment = m
+  ? m.attachments
+      .filter((a) => a.extracted_text_path)
+      .sort((a, b) => (b.template_name?.length ?? 0) - (a.template_name?.length ?? 0))[0]
+  : undefined;
+const corpusText = readExtractedText(corpusAttachment?.extracted_text_path ?? null);
+---
+
+<Layout
+  title={m ? `${m.title} — ${body?.name ?? ""} — ${m.date}` : "Meeting"}
+  description={m?.title}
+>
+  {!m ? (
+    <p class="empty-state">No such meeting.</p>
+  ) : (
+    <article data-pagefind-body>
+      <p>
+        <a href="/">&larr; Home</a>
+        {body && <> · <a href={`/body/${body.id}`}>{body.name}</a></>}
+      </p>
+      <h1>{m.title}</h1>
+      <p data-pagefind-meta={`date:${m.date}`} style="color: var(--fg-muted);">
+        {formatMeetingDate(m)} ·
+        <span class="body-pill">{body?.name ?? m.body_id}</span>
+        <a href={m.source_url} target="_blank" rel="noopener">View on {m.source_type}</a>
+        {m.video_url && (<>· <a href={m.video_url} target="_blank" rel="noopener">Video</a></>)}
+      </p>
+
+      <h2>Agenda items ({m.items.length})</h2>
+      {m.items.length === 0 ? (
+        <p class="empty-state">No structured items parsed for this meeting. Try the full-text search below.</p>
+      ) : (
+        <ul class="items">
+          {m.items.map((it) => (
+            <li>
+              <span class="num">{it.item_number}.</span>
+              {it.file_number && <span class="file">{it.file_number}</span>}
+              <span>{it.title}</span>
+              {it.section && <span class="section-tag">{it.section}</span>}
+            </li>
+          ))}
+        </ul>
+      )}
+
+      <h2 style="margin-top: 2rem;">Attachments ({m.attachments.length})</h2>
+      <ul class="items">
+        {m.attachments.map((a) => (
+          <li>
+            <a href={a.url} target="_blank" rel="noopener">{a.template_name || "(untitled)"}</a>
+            <span class="section-tag">{a.mime}</span>
+          </li>
+        ))}
+      </ul>
+
+      {corpusText && (
+        <details class="corpus">
+          <summary>Full agenda text (indexed for search)</summary>
+          <pre>{corpusText}</pre>
+        </details>
+      )}
+    </article>
+  )}
+</Layout>

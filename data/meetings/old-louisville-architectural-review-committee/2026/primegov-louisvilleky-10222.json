@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-10222",
+  "body_id": "old-louisville-architectural-review-committee",
+  "title": "Old Louisville ARC",
+  "date": "2026-04-08",
+  "time": "16:30",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10222",
+  "source_meeting_id": "10222",
+  "video_url": "https://louisvilleky.new.swagit.com/events/46002",
+  "attachments": [
+    {
+      "sha256": "275bf2b338e2c0ff7915c9229067ac6d103fd32cbce576a5caac958a95b37f00",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10222/Agenda_20260403192804949.pdf?sv=2017-04-17&sr=b&sig=S4hZ4HYDeT5ou1Hjnk%2FzOYlwYNG3Z0IwM%2FEzAgM4tdw%3D&st=2026-05-02T05%3A48%3A17Z&se=2026-05-04T05%3A48%3A17Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/275bf2b338e2c0ff7915c9229067ac6d103fd32cbce576a5caac958a95b37f00.txt"
+    },
+    {
+      "sha256": "7ef6654651f4ee6816f99c1492bbae0400792281a008cf434cf22acebb6c89c2",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10222/Minutes_2026042919493783.pdf?sv=2017-04-17&sr=b&sig=z3ANUx82lfe5mGoryUdGLUrfvbnKaLjn8bny%2BM04zdU%3D&st=2026-05-02T05%3A48%3A18Z&se=2026-05-04T05%3A48%3A18Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/7ef6654651f4ee6816f99c1492bbae0400792281a008cf434cf22acebb6c89c2.txt"
+    }
+  ],
+  "items": []
+}

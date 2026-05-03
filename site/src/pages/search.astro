@@ -1,0 +1,30 @@
+---
+import Layout from "~/layouts/Layout.astro";
+---
+
+<Layout title="Search — Louisville Local Politics" description="Search agenda items, attachments, and meeting text.">
+  <h1>Search</h1>
+  <p>
+    Full-text search across all indexed agenda content. Try
+    <code>budget</code>, <code>zoning</code>, <code>JCPS</code>, or a council member name.
+  </p>
+
+  <div id="search"></div>
+
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script src="/pagefind/pagefind-ui.js" is:inline></script>
+  <script is:inline>
+    window.addEventListener("DOMContentLoaded", () => {
+      // Pagefind UI ships its own widget; safe to instantiate after DOM ready.
+      // If /pagefind/ doesn't exist (dev server / pre-build), this throws and
+      // we just leave a friendly message in #search.
+      try {
+        // eslint-disable-next-line no-undef
+        new PagefindUI({ element: "#search", showSubResults: true });
+      } catch (e) {
+        document.getElementById("search").innerHTML =
+          '<p style="color: var(--fg-muted); font-style: italic">Pagefind index not yet built. Run <code>npm run build</code>.</p>';
+      }
+    });
+  </script>
+</Layout>

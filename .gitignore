@@ -10,10 +10,17 @@ node_modules/
 site/dist/
 site/.astro/
 
-# Phase-1 development: don't commit smoke-test data dumps yet.
-# Once Phase 1 is production-ready and runs cleanly, flip this to commit /data/
-# (the original plan treats /data/ as the repo-backed database).
-data/
+# /data/ is now committed: the static site builds from it, and per the
+# original plan it serves as the repo-backed database. Re-enable this if
+# you want to develop without committing churn.
+# data/
+
+# Astro build artifacts and node_modules
+site/dist/
+site/node_modules/
+site/.astro/
+site/pnpm-lock.yaml
+.astro/
 
 # Probes/throwaway scripts kept around for reference but not shipped
 # (we DO commit scratch/ in this branch — useful breadcrumbs for next session).

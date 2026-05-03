@@ -1,0 +1,35 @@
+{
+  "id": "primegov-louisvilleky-10022",
+  "body_id": "public-safety-committee",
+  "title": "Public Safety Committee",
+  "date": "2026-04-15",
+  "time": "16:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10022",
+  "source_meeting_id": "10022",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/382349",
+  "attachments": [
+    {
+      "sha256": "64ca8b1aeb56404bb7ec0de3b8fc2abf99260fe44b8dfa972630327bfb080671",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10022/Agenda_2026041419472625.pdf?sv=2017-04-17&sr=b&sig=P%2B%2BZgrjBhPEPqQlUn5Gw8UO1FmKimRqr17dTkIWvvII%3D&st=2026-05-02T05%3A48%3A29Z&se=2026-05-04T05%3A48%3A29Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/64ca8b1aeb56404bb7ec0de3b8fc2abf99260fe44b8dfa972630327bfb080671.txt"
+    },
+    {
+      "sha256": "6cfe8be857edd540535aff8cc1ccb20c23af5539285969fa4c53ea8a32140c64",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10022/Minutes_20260423202709955.pdf?sv=2017-04-17&sr=b&sig=fXE0hvJwBz8Q%2Fwt4RC7g5IJlE1%2BZ4WkirZk3g1IEP5g%3D&st=2026-05-02T05%3A48%3A30Z&se=2026-05-04T05%3A48%3A30Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/6cfe8be857edd540535aff8cc1ccb20c23af5539285969fa4c53ea8a32140c64.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0134",
+      "title": "UPDATE ON YOUTH VIOLENCE \u2013 Ashley Webb, Office of Violence Prevention",
+      "section": null
+    }
+  ]
+}

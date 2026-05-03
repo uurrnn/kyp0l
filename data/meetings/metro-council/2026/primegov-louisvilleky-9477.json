@@ -1,0 +1,41 @@
+{
+  "id": "primegov-louisvilleky-9477",
+  "body_id": "metro-council",
+  "title": "Metro Council - THIS IS CONSIDERED A SPECIAL MEETING",
+  "date": "2026-01-08",
+  "time": "16:30",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9477",
+  "source_meeting_id": "9477",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/371509",
+  "attachments": [
+    {
+      "sha256": "ac64d7f25b15faa5fe69b6baaff7f74baaf58fad18ee5cbc940d96f0b3aac137",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9477/Agenda_20260107171124496.pdf?sv=2017-04-17&sr=b&sig=3PGTlWyBCKEfPg23c3sx22TzSnX2rzuMqvVnsU5KZxw%3D&st=2026-05-02T04%3A45%3A37Z&se=2026-05-04T04%3A45%3A37Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/ac64d7f25b15faa5fe69b6baaff7f74baaf58fad18ee5cbc940d96f0b3aac137.txt"
+    },
+    {
+      "sha256": "cfe1df1ad59f8245cad1933c3cad695e708b6bf0b57c43bfdbf7da1de39ccd48",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9477/Minutes_20260130231129846.pdf?sv=2017-04-17&sr=b&sig=M3BlyJZMVb%2Fpfif0PndT%2BqFp%2FLJfd52hmqEQ7TnPR5Y%3D&st=2026-05-02T04%3A45%3A38Z&se=2026-05-04T04%3A45%3A38Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/cfe1df1ad59f8245cad1933c3cad695e708b6bf0b57c43bfdbf7da1de39ccd48.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "25-0781",
+      "title": "Regular:  Metro Council \u2013 December 16, 2025",
+      "section": "Council Minutes"
+    },
+    {
+      "item_number": "2",
+      "file_number": "25-0780",
+      "title": "Regular:  Committee of the Whole \u2013 December 16, 2025",
+      "section": "Committee Minutes"
+    }
+  ]
+}

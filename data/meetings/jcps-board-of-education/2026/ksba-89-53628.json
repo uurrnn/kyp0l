@@ -1,0 +1,35 @@
+{
+  "id": "ksba-89-53628",
+  "body_id": "jcps-board-of-education",
+  "title": "State of the District Address",
+  "date": "2026-02-27",
+  "time": "10:30",
+  "source_type": "ksba",
+  "source_url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=53628&AgencyTypeID=",
+  "source_meeting_id": "53628",
+  "video_url": null,
+  "attachments": [
+    {
+      "sha256": "31a4eeeab64f66d6757e1adc0a92a678a873be2121f63a87c37b7b9c476c3154",
+      "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=53628&AgencyTypeID=",
+      "mime": "text/html",
+      "template_name": "KSBA Meeting Page",
+      "extracted_text_path": "data/attachments/31a4eeeab64f66d6757e1adc0a92a678a873be2121f63a87c37b7b9c476c3154.txt"
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=942754",
+      "mime": "application/pdf",
+      "template_name": "State of the District Address _ Meeting Notice.pdf",
+      "extracted_text_path": null
+    }
+  ],
+  "items": [
+    {
+      "item_number": "I",
+      "file_number": null,
+      "title": "State of the District Address",
+      "section": null
+    }
+  ]
+}

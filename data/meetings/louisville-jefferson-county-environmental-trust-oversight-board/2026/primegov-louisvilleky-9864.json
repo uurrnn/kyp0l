@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-9864",
+  "body_id": "louisville-jefferson-county-environmental-trust-oversight-board",
+  "title": "Louisville/Jefferson County Environmental Trust Oversight Board",
+  "date": "2026-01-16",
+  "time": "10:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9864",
+  "source_meeting_id": "9864",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/373067",
+  "attachments": [
+    {
+      "sha256": "e2f77e0f5dd991d275016954745ae610a7471ac62ce72a41452f11be90ed9bb0",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9864/Agenda_20260109190735993.pdf?sv=2017-04-17&sr=b&sig=mujztOVEUf%2FGcQFJ18Ip%2BJhaMwttoxqK%2FT4L0O1j%2BwE%3D&st=2026-05-02T05%3A45%3A51Z&se=2026-05-04T05%3A45%3A51Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/e2f77e0f5dd991d275016954745ae610a7471ac62ce72a41452f11be90ed9bb0.txt"
+    },
+    {
+      "sha256": "47e375c457345e4f235d048368310d358ef4fa5a0fb861a632116094df2a3618",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9864/Minutes_20260407150710411.pdf?sv=2017-04-17&sr=b&sig=GYtcTBMOXbjrXfT93Yd20GfvpREVqYwj75KXUbOzixg%3D&st=2026-05-02T05%3A45%3A52Z&se=2026-05-04T05%3A45%3A52Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/47e375c457345e4f235d048368310d358ef4fa5a0fb861a632116094df2a3618.txt"
+    }
+  ],
+  "items": []
+}

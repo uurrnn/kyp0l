@@ -70,13 +70,23 @@ COMPILE_OUTPUT_HTML = 3
 
 
 # Louisville's PrimeGov instance leaks operator test events into the public feed
-# with titles like "EVENT 3 - NO AUTOSTART" and "EVENT 4 - NO AUTOSTART - BACK TO BACK EVENTS".
-# These have agendas-but-not-really and should be filtered before any work is done.
-_TEST_EVENT_RE = re.compile(r"^\s*EVENT\s+\d+\s*-\s*NO\s+AUTOSTART", re.IGNORECASE)
+# with titles like "EVENT 3 - NO AUTOSTART", "EVENT 4 - NO AUTOSTART - BACK TO BACK EVENTS",
+# "TEST 2 FOR SWAGIT STREAMING". Filter both before any work is done.
+_TEST_EVENT_RES = (
+    re.compile(r"^\s*EVENT\s+\d+\s*-\s*NO\s+AUTOSTART", re.IGNORECASE),
+    re.compile(r"^\s*TEST\b.*SWAGIT", re.IGNORECASE),
+    re.compile(r"^\s*TEST\s+\d+\b", re.IGNORECASE),
+)
+_TEST_BODY_RE = re.compile(r"^\s*test\b", re.IGNORECASE)
 
 
 def _is_upstream_test_event(title: str) -> bool:
-    return bool(_TEST_EVENT_RE.match(title or ""))
+    t = title or ""
+    return any(r.match(t) for r in _TEST_EVENT_RES)
+
+
+def _is_upstream_test_body(name: str) -> bool:
+    return bool(_TEST_BODY_RE.match(name or ""))
 
 
 @dataclass
@@ -108,7 +118,7 @@ class PrimeGovScraper:
         bodies: list[Body] = []
         for entry in raw:
             name = (entry.get("name") or "").strip()
-            if not name:
+            if not name or _is_upstream_test_body(name):
                 continue
             bodies.append(
                 Body(

@@ -1,0 +1,35 @@
+{
+  "id": "primegov-louisvilleky-10019",
+  "body_id": "public-safety-committee",
+  "title": "Public Safety Committee",
+  "date": "2026-02-18",
+  "time": "16:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10019",
+  "source_meeting_id": "10019",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/375594",
+  "attachments": [
+    {
+      "sha256": "4ae1a620ffa831636db8fe0424097d87e51d9591781a73830fcabe85f28a0c52",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10019/Agenda_20260227141724429.pdf?sv=2017-04-17&sr=b&sig=LlxTZRhX%2BeTG5CiyTFcaAqbGvU%2FgNwRJKi%2Bkk1uKFdI%3D&st=2026-05-02T05%3A46%3A54Z&se=2026-05-04T05%3A46%3A54Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/4ae1a620ffa831636db8fe0424097d87e51d9591781a73830fcabe85f28a0c52.txt"
+    },
+    {
+      "sha256": "72483d69f6da39e9ec11fd47f186f00d14e034ab4af28da47cac748de6da16b4",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10019/Minutes_20260227141619152.pdf?sv=2017-04-17&sr=b&sig=0V7eB7OltAFfCetjtFaoyoOTqa4aA9vZusejmdOnV%2Fg%3D&st=2026-05-02T05%3A46%3A55Z&se=2026-05-04T05%3A46%3A55Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/72483d69f6da39e9ec11fd47f186f00d14e034ab4af28da47cac748de6da16b4.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0072",
+      "title": "UPDATE ON FLOCK AUTOMATED LICENSE PLATE READERS \u2013 Deputy Chief Emily McKinley, Louisville Metro Police Department and Jennifer Corum, Real Time Crime Center",
+      "section": null
+    }
+  ]
+}

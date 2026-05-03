@@ -1,0 +1,107 @@
+{
+  "id": "primegov-louisvilleky-9906",
+  "body_id": "metro-council",
+  "title": "Metro Council",
+  "date": "2026-03-26",
+  "time": "18:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9906",
+  "source_meeting_id": "9906",
+  "video_url": "https://louisvilleky.new.swagit.com/videos/379429",
+  "attachments": [
+    {
+      "sha256": "65c11807cd1404ea134bb24d36adf1228927e544f6aeef5c9c580a851789f5a3",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9906/Agenda_20260326161348332.pdf?sv=2017-04-17&sr=b&sig=vqKc2XQSIX%2BA%2B7LO2fCS98uyBvsS%2Fu4CmXIMBJJuLvE%3D&st=2026-05-02T05%3A48%3A08Z&se=2026-05-04T05%3A48%3A08Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/65c11807cd1404ea134bb24d36adf1228927e544f6aeef5c9c580a851789f5a3.txt"
+    },
+    {
+      "sha256": "e79d9795ce9616f53c1c6540eaaaf80535baae28cf1520ca7c5230f9297ff8f0",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9906/Minutes_20260427144435131.pdf?sv=2017-04-17&sr=b&sig=eAj24QeSIxGY3Omsq1sO1jA7BRN2slWbwqIBsa0IIMk%3D&st=2026-05-02T05%3A48%3A10Z&se=2026-05-04T05%3A48%3A10Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/e79d9795ce9616f53c1c6540eaaaf80535baae28cf1520ca7c5230f9297ff8f0.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0150",
+      "title": "Council Member Lyninger introduced the Page, Petra Lyninger, for District 6.",
+      "section": null
+    },
+    {
+      "item_number": "2",
+      "file_number": "26-0144",
+      "title": "Addresses to Council \u2013 March 26, 2026",
+      "section": "Addresses to the Council"
+    },
+    {
+      "item_number": "3",
+      "file_number": "26-0141",
+      "title": "Regular:  Metro Council \u2013 March 12, 2026",
+      "section": "Council Minutes"
+    },
+    {
+      "item_number": "9",
+      "file_number": "26-0142",
+      "title": "Regular:  Committee of the Whole \u2013 March 12, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "5",
+      "file_number": "26-0136",
+      "title": "Regular:  Planning and Zoning Committee - March 17, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "6",
+      "file_number": "26-0137",
+      "title": "Regular:  Government Oversight/Audit and Appointments Committee - March 17, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "7",
+      "file_number": "26-0138",
+      "title": "Regular:  Equity, Community Affairs, Housing, Health, and Education Committee - March 18, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "8",
+      "file_number": "26-0139",
+      "title": "Regular:  Appropriations Committee - March 18, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "9",
+      "file_number": "26-0140",
+      "title": "Regular:  Budget Committee - March 19, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "10",
+      "file_number": "26-0143",
+      "title": "Special:  Labor and Economic Development Committee \u2013 March 24, 2026",
+      "section": "Committee Minutes"
+    },
+    {
+      "item_number": "11",
+      "file_number": "26-0145",
+      "title": "Criminal Justice Commission \u2013 Tamara Reif, Norma Molestina (New Appointments).",
+      "section": "Communications to the Council"
+    },
+    {
+      "item_number": "13",
+      "file_number": "26-0146",
+      "title": "Commission for Persons with Disabilities \u2013 Christen Byrne, Rebecca Hoffman (New Appointments) and Tihisha Rawlins (Reappointment).",
+      "section": "Communications to the Council"
+    },
+    {
+      "item_number": "13",
+      "file_number": "26-0147",
+      "title": "Zoo Foundation Board \u2013 Jena Stone, Nathan Mulvey, Ronald Murphy (New Appointments). Metro Council approval is not required.",
+      "section": "Communications to the Council"
+    }
+  ]
+}

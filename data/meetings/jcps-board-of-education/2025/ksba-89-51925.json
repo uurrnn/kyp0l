@@ -1,0 +1,946 @@
+{
+  "id": "ksba-89-51925",
+  "body_id": "jcps-board-of-education",
+  "title": "Regular Business Meeting",
+  "date": "2025-10-14",
+  "time": "18:00",
+  "source_type": "ksba",
+  "source_url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=51925&AgencyTypeID=",
+  "source_meeting_id": "51925",
+  "video_url": null,
+  "attachments": [
+    {
+      "sha256": "89862e12936c756786a554aec4233149b01c082c178b4be281e5f3731e2b1501",
+      "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=51925&AgencyTypeID=",
+      "mime": "text/html",
+      "template_name": "KSBA Meeting Page",
+      "extracted_text_path": "data/attachments/89862e12936c756786a554aec4233149b01c082c178b4be281e5f3731e2b1501.txt"
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=916857",
+      "mime": "application/pdf",
+      "template_name": "10 14 25 Board Q&A",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=916856",
+      "mime": "application/pdf",
+      "template_name": "10 14 25 Meeting Notice",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914747",
+      "mime": "application/pdf",
+      "template_name": "10 14 25 Agenda",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=912097",
+      "mime": "application/pdf",
+      "template_name": "9 16 25 Minutes.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914454",
+      "mime": "application/pdf",
+      "template_name": "9 30 25 Minutes",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=917919",
+      "mime": "application/pdf",
+      "template_name": "Yearwood PGP Presentation",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=912975",
+      "mime": "application/pdf",
+      "template_name": "Administrive Procedures - v2",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914075",
+      "mime": "application/pdf",
+      "template_name": "Guardrail 3 Presentation 101425",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913285",
+      "mime": "application/pdf",
+      "template_name": "Draft 2026 Board Meeting Schedule",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913286",
+      "mime": "application/pdf",
+      "template_name": "Presentation - 2026 JCBE Meeting Schedule v2",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914711",
+      "mime": "application/pdf",
+      "template_name": "CERTIFIED LEAVES 2025-10-14.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914712",
+      "mime": "application/pdf",
+      "template_name": "PERSONNEL ACTIONS 2025-10-14.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914713",
+      "mime": "application/pdf",
+      "template_name": "ACADEMICS 2025-10-14.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914714",
+      "mime": "application/pdf",
+      "template_name": "CHIEF OF STAFF 2025-10-14.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914715",
+      "mime": "application/pdf",
+      "template_name": "DEP 2025-10-14.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914716",
+      "mime": "application/pdf",
+      "template_name": "OPERATIONS 2025-10-14.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914068",
+      "mime": "application/pdf",
+      "template_name": "Field Trip Requests Approved by the Superintendent 10-14-2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914066",
+      "mime": "application/pdf",
+      "template_name": "Field Trips 10-14-25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913206",
+      "mime": "application/pdf",
+      "template_name": "BG-4 Middletown ES - Lighting Upgrade",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913207",
+      "mime": "application/pdf",
+      "template_name": "BG-4 PRP HS - CTE Storage Canopy",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913416",
+      "mime": "application/pdf",
+      "template_name": "BG-4 Hazelwood ES - Phase I HVAC Renovation",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913945",
+      "mime": "application/pdf",
+      "template_name": "Change Orders and Descriptions 10-14-25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913980",
+      "mime": "application/pdf",
+      "template_name": "*Bid Tabulations and Amendment_10 14 25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913969",
+      "mime": "application/pdf",
+      "template_name": "Amendment on Instructional and Office Supplies (Line Item)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913960",
+      "mime": "application/pdf",
+      "template_name": "Asbestos Air Monitoring, Lab Analysis and Lead Testing",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913957",
+      "mime": "application/pdf",
+      "template_name": "Paint & Related Items",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913956",
+      "mime": "application/pdf",
+      "template_name": "Plumbing Supplies & Equipment (Line)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913961",
+      "mime": "application/pdf",
+      "template_name": "T-Shirts (Mayors Cup)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913958",
+      "mime": "application/pdf",
+      "template_name": "Tile & Related Items (Including Installation & Removal)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913962",
+      "mime": "application/pdf",
+      "template_name": "Tunics (SCNS)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=916593",
+      "mime": "application/pdf",
+      "template_name": "List of Contracts 10.14.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=916594",
+      "mime": "application/pdf",
+      "template_name": "01 - Tachau Meek PLC - Amendment (FY25-26).pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=916595",
+      "mime": "application/pdf",
+      "template_name": "02 - Girls on the Run Louisville Inc. (FY25-26)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=916596",
+      "mime": "application/pdf",
+      "template_name": "03 - The Boys and Girls Clubs, Inc. dba Boys & Girls Clubs of Kentuckiana - Amendment (FY25-26).pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=916597",
+      "mime": "application/pdf",
+      "template_name": "04 - Ohio Valley Education Cooperative (FY25-26).pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=916598",
+      "mime": "application/pdf",
+      "template_name": "05 - National Center for Families Learning (FY25-26).pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=916599",
+      "mime": "application/pdf",
+      "template_name": "06 - Ally Miller (FY25-26).pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914693",
+      "mime": "application/pdf",
+      "template_name": "Summary of Professional Services Contracts - 10.14.2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913949",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - Invoice Report 08.25.25 - 09.21.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913950",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - PO's by Department 08.25.25 - 09.21.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913951",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - PO's by Vendor 08.25.25 - 09.21.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913952",
+      "mime": "application/pdf",
+      "template_name": "Orders of the Treasurer - Vouchers 08.25.25 - 09.21.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914131",
+      "mime": "application/pdf",
+      "template_name": "Board Financials - August 2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914128",
+      "mime": "application/pdf",
+      "template_name": "Board Financials - July 2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914133",
+      "mime": "application/pdf",
+      "template_name": "Notes of Interest - August 2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914129",
+      "mime": "application/pdf",
+      "template_name": "Notes of Interest - July 2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913882",
+      "mime": "application/pdf",
+      "template_name": "Subaward Grant- Catholic Charities of Louisville Kentucky  Office of Refugees",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913966",
+      "mime": "application/pdf",
+      "template_name": "Donations and Small Grants Report October 14 2025",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913881",
+      "mime": "application/pdf",
+      "template_name": "Agreement - Hilton Garden Louisville Airport",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=909324",
+      "mime": "application/pdf",
+      "template_name": "DPA - InquirED",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=912671",
+      "mime": "application/pdf",
+      "template_name": "Contract - KDE Adult ED - Revising Pages 23 Paragraph 3",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913833",
+      "mime": "application/pdf",
+      "template_name": "Real Estate Donation Agreement KFC Corporation",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913883",
+      "mime": "application/pdf",
+      "template_name": "Contract - KDE Adult ED - Revising Pages 23 Paragraph 3",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913676",
+      "mime": "application/pdf",
+      "template_name": "MOA- Metro United Way",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=910554",
+      "mime": "application/pdf",
+      "template_name": "MOA - UofL CEHD",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913205",
+      "mime": "application/pdf",
+      "template_name": "Water Main Extension Refunding Agreement - Seneca HS - LWC",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913884",
+      "mime": "application/pdf",
+      "template_name": "KDE USDA Permanent Agreement for SCN Agreement",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914453",
+      "mime": "application/pdf",
+      "template_name": "MOA - Jefferson Community & Technical College",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913940",
+      "mime": "application/pdf",
+      "template_name": "Annual Engagement Follow-up Report - Final 9.17.25",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=913877",
+      "mime": "application/pdf",
+      "template_name": "Letters of Recommendations",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914660",
+      "mime": "application/pdf",
+      "template_name": "JCBE GO 25B Bond Resolution.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914537",
+      "mime": "application/pdf",
+      "template_name": "NonDiscrimination Policies v2",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914773",
+      "mime": "application/pdf",
+      "template_name": "Changes to JCPS Allocation Standards FY27.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914774",
+      "mime": "application/pdf",
+      "template_name": "FY25-26 Salary Schedules 10.14.25.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=915391",
+      "mime": "application/pdf",
+      "template_name": "Board-Requested Assessment Scope  Objective \u2013 Root Cause of Budget Shortfall.pdf",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=914701",
+      "mime": "application/pdf",
+      "template_name": "Planning Calendar",
+      "extracted_text_path": null
+    }
+  ],
+  "items": [
+    {
+      "item_number": "I",
+      "file_number": null,
+      "title": "Moment of Silence",
+      "section": null
+    },
+    {
+      "item_number": "II",
+      "file_number": null,
+      "title": "The Pledge of Allegiance",
+      "section": null
+    },
+    {
+      "item_number": "II.A",
+      "file_number": null,
+      "title": "Vision Statement",
+      "section": null
+    },
+    {
+      "item_number": "III",
+      "file_number": null,
+      "title": "Recognitions and Resolutions",
+      "section": null
+    },
+    {
+      "item_number": "III.A",
+      "file_number": null,
+      "title": "Recognition of the Office of School Choice for a Successful Start to the 2025-26 School Year",
+      "section": null
+    },
+    {
+      "item_number": "III.B",
+      "file_number": null,
+      "title": "Recognition of the Noe Middle School Symphonic Band for Being Selected to Perform at National Festival",
+      "section": null
+    },
+    {
+      "item_number": "III.C",
+      "file_number": null,
+      "title": "Recognition of the District\u2019s New Junior Athletic Director Program",
+      "section": null
+    },
+    {
+      "item_number": "III.D",
+      "file_number": null,
+      "title": "Recognition of the Youth Performing Arts School (YPAS) Band Program for Multiple Invitations to Showcase Talent on National Stage",
+      "section": null
+    },
+    {
+      "item_number": "III.E",
+      "file_number": null,
+      "title": "Recognition of the Valley High School Boys Soccer Program",
+      "section": null
+    },
+    {
+      "item_number": "III.F",
+      "file_number": null,
+      "title": "Recognition of Two JCPS Educators Selected to Participate in the Fulbright Teachers for Global Classrooms Program",
+      "section": null
+    },
+    {
+      "item_number": "III.G",
+      "file_number": null,
+      "title": "Recognition of Two JCPS Educators Selected to Serve as 2025-26 Kentucky Innovative Teacher Fellows",
+      "section": null
+    },
+    {
+      "item_number": "III.H",
+      "file_number": null,
+      "title": "Recognition of JCPS\u2019s First-Ever Plant Operator of the Year Alicia Miller",
+      "section": null
+    },
+    {
+      "item_number": "III.I",
+      "file_number": null,
+      "title": "Recognition of Six JCPS High Schools Ranked Among the Top 25 High Schools in Kentucky",
+      "section": null
+    },
+    {
+      "item_number": "III.J",
+      "file_number": null,
+      "title": "Recognition of Individuals Going Above and Beyond to Honor Hispanic Heritage Month in JCPS",
+      "section": null
+    },
+    {
+      "item_number": "IV",
+      "file_number": null,
+      "title": "Recommendation for Approval of Meeting Agenda",
+      "section": null
+    },
+    {
+      "item_number": "V",
+      "file_number": null,
+      "title": "Recommendation for Approval of Minutes of Previous Meeting",
+      "section": null
+    },
+    {
+      "item_number": "VI",
+      "file_number": null,
+      "title": "Superintendent's Report",
+      "section": null
+    },
+    {
+      "item_number": "VII",
+      "file_number": null,
+      "title": "Student Outcomes-Focused Governance Update",
+      "section": null
+    },
+    {
+      "item_number": "VII.A",
+      "file_number": null,
+      "title": "Recommendation to Receive Monitoring Report on Interim Metrics for Guardrail 3: Protect Inclusive Decision Making",
+      "section": null
+    },
+    {
+      "item_number": "VIII",
+      "file_number": null,
+      "title": "Persons Requesting to Address the Board on Action Items or Consent Calendar Items to be Voted Upon Separately at Board Member Request",
+      "section": null
+    },
+    {
+      "item_number": "IX",
+      "file_number": null,
+      "title": "Action Items",
+      "section": null
+    },
+    {
+      "item_number": "X",
+      "file_number": null,
+      "title": "Information Items",
+      "section": null
+    },
+    {
+      "item_number": "X.A",
+      "file_number": null,
+      "title": "Report on the Proposed Regular Board Meeting Schedule for 2026",
+      "section": null
+    },
+    {
+      "item_number": "XI",
+      "file_number": null,
+      "title": "Consent Calendar",
+      "section": null
+    },
+    {
+      "item_number": "XI.A",
+      "file_number": null,
+      "title": "Report of Certified Leaves",
+      "section": null
+    },
+    {
+      "item_number": "XI.B",
+      "file_number": null,
+      "title": "Report of Personnel Actions",
+      "section": null
+    },
+    {
+      "item_number": "XI.C",
+      "file_number": null,
+      "title": "Recommendation for Approval of Organizational Charts and/or Job Descriptions",
+      "section": null
+    },
+    {
+      "item_number": "XI.C",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 Academics",
+      "section": null
+    },
+    {
+      "item_number": "XI.C",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 Chief of Staff",
+      "section": null
+    },
+    {
+      "item_number": "XI.C",
+      "file_number": null,
+      "title": "3. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 Diversity, Equity, and Poverty",
+      "section": null
+    },
+    {
+      "item_number": "XI.C",
+      "file_number": null,
+      "title": "4. Recommendation for Approval of Organizational Charts and/or Job Descriptions \u2013 Operations",
+      "section": null
+    },
+    {
+      "item_number": "XI.D",
+      "file_number": null,
+      "title": "Recommendation of Approval of Field Trip Requests and Receipt of Report of Field Trips Approved by the Superintendent",
+      "section": null
+    },
+    {
+      "item_number": "XI.E",
+      "file_number": null,
+      "title": "WITHDRAWN: Recommendation for Approval of Bid and Revised BG-1 Form for New Middle School \u2013 West Louisville (Hudson MS) Bid Package II \u2013 New Building",
+      "section": null
+    },
+    {
+      "item_number": "XI.F",
+      "file_number": null,
+      "title": "Recommendation for Approval of Contract Completions and BG-4 Forms",
+      "section": null
+    },
+    {
+      "item_number": "XI.F",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of Contract Completion and BG-4 Form for Lighting Upgrade at Middletown Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "XI.F",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of Contract Completion and BG-4 Form for Career and Technical Education Storage Canopy at Pleasure Ridge Park High School",
+      "section": null
+    },
+    {
+      "item_number": "XI.F",
+      "file_number": null,
+      "title": "3. Recommendation for Approval of Contract Completion and BG-4 Form for Phase I HVAC Renovation at Hazelwood Elementary School",
+      "section": null
+    },
+    {
+      "item_number": "XI.G",
+      "file_number": null,
+      "title": "Recommendation for Approval of Construction Change Orders",
+      "section": null
+    },
+    {
+      "item_number": "XI.H",
+      "file_number": null,
+      "title": "Recommendation for Approval of Bid Tabulations and Amendments",
+      "section": null
+    },
+    {
+      "item_number": "XI.I",
+      "file_number": null,
+      "title": "Recommendation for Approval of Professional Services Contracts of $20,000 or More",
+      "section": null
+    },
+    {
+      "item_number": "XI.J",
+      "file_number": null,
+      "title": "Acceptance of Summary of Professional Services Contracts",
+      "section": null
+    },
+    {
+      "item_number": "XI.K",
+      "file_number": null,
+      "title": "Acceptance of Orders of the Treasurer",
+      "section": null
+    },
+    {
+      "item_number": "XI.K",
+      "file_number": null,
+      "title": "1. Acceptance of Orders of the Treasurer-Invoices",
+      "section": null
+    },
+    {
+      "item_number": "XI.K",
+      "file_number": null,
+      "title": "2. Acceptance of Orders of the Treasurer-Purchase Orders",
+      "section": null
+    },
+    {
+      "item_number": "XI.K",
+      "file_number": null,
+      "title": "3. Acceptance of Orders of the Treasurer-Vouchers",
+      "section": null
+    },
+    {
+      "item_number": "XI.L",
+      "file_number": null,
+      "title": "Acceptance of Monthly Financial Report for Periods Ended July 31, 2025, and August 31, 2025",
+      "section": null
+    },
+    {
+      "item_number": "XI.M",
+      "file_number": null,
+      "title": "Acceptance of Donations, Grants, and Funding",
+      "section": null
+    },
+    {
+      "item_number": "XI.M",
+      "file_number": null,
+      "title": "1. Acceptance of Subaward Grant from Catholic Charities of Louisville - Refugee School Impact",
+      "section": null
+    },
+    {
+      "item_number": "XI.M",
+      "file_number": null,
+      "title": "2. Acceptance of Donations and Small Grants",
+      "section": null
+    },
+    {
+      "item_number": "XI.M",
+      "file_number": null,
+      "title": "3. Acceptance of Funding from the Jefferson County Public Education Foundation",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "Recommendation for Approval of Agreements",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "1. Recommendation for Approval of Lease Agreement with Hilton Garden Inn Louisville Airport",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "2. Recommendation for Approval of Data Privacy Agreement with InquirED, LLC",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "3. Recommendation for Approval of Memorandum of Agreement Modification with the Kentucky Department of Education for Adult Education",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "4. Recommendation for Approval of the Real Estate Donation Agreement Between the Jefferson County Public Schools and the KFC Corporation",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "5. Recommendation for Approval of Amended Contract with the Kentucky Department of Education Office of Adult Education",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "6. Recommendation for Approval of Memorandum of Agreement with Metro United Way for Out-of-School Time Programs",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "7. WITHDRAWN: Recommendation for Approval of License Agreement with Okolona Baseball, Inc.",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "8. Recommendation for Approval of Memorandum of Agreement with the University of Louisville College of Education and Human Development",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "9. Recommendation for Approval of Water Main Extension Refunding Agreement with the Louisville Water Company for New School Building at Seneca High School",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "10. Recommendation for Approval of Permanent Agreement for School and Community Nutrition Participation with the Kentucky Department of Education",
+      "section": null
+    },
+    {
+      "item_number": "XI.N",
+      "file_number": null,
+      "title": "11. Recommendation for Approval of Memorandum of Agreement with Jefferson Community & Technical College",
+      "section": null
+    },
+    {
+      "item_number": "XI.O",
+      "file_number": null,
+      "title": "Acceptance of the Internal Audit Summary Annual Engagement Follow-Up Report",
+      "section": null
+    },
+    {
+      "item_number": "XI.P",
+      "file_number": null,
+      "title": "Recommendation for Approval of the Renaming of J. Graham School Gym to The Wade Houston Gymnasium",
+      "section": null
+    },
+    {
+      "item_number": "XI.Q",
+      "file_number": null,
+      "title": "Recommendation for Approval of Resolutions Concerning the Jefferson County School District General Obligation Refunding Bonds",
+      "section": null
+    },
+    {
+      "item_number": "XI.R",
+      "file_number": null,
+      "title": "WITHDRAWN: Recommendation for Approval of Proposed Elementary Satellite and Echo Trail Boundary Adjustments",
+      "section": null
+    },
+    {
+      "item_number": "XI.S",
+      "file_number": null,
+      "title": "Adoption of Attached Board Policies",
+      "section": null
+    },
+    {
+      "item_number": "XI.T",
+      "file_number": null,
+      "title": "Recommendation for Approval of Amendment to the Elementary School Funding Allocation Model in the School Allocation Standards",
+      "section": null
+    },
+    {
+      "item_number": "XI.U",
+      "file_number": null,
+      "title": "Recommendation for Approval of Updated 2025-26 Salary Schedules",
+      "section": null
+    },
+    {
+      "item_number": "XI.V",
+      "file_number": null,
+      "title": "Recommendation for Approval of the Scope and Objective for the Board-Requested Assessment on the Root Causes of the Budget Shortfall",
+      "section": null
+    },
+    {
+      "item_number": "XII",
+      "file_number": null,
+      "title": "Board Planning Calendar",
+      "section": null
+    },
+    {
+      "item_number": "XIII",
+      "file_number": null,
+      "title": "Committee Reports",
+      "section": null
+    },
+    {
+      "item_number": "XIV",
+      "file_number": null,
+      "title": "Board Reports",
+      "section": null
+    },
+    {
+      "item_number": "XV",
+      "file_number": null,
+      "title": "Persons Requesting to Address the Board (If Necessary)",
+      "section": null
+    },
+    {
+      "item_number": "XVI",
+      "file_number": null,
+      "title": "Executive Session (If Necessary)",
+      "section": null
+    },
+    {
+      "item_number": "XVII",
+      "file_number": null,
+      "title": "Action Item (If Necessary)",
+      "section": null
+    },
+    {
+      "item_number": "XVIII",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "abc-board": {
+    "id": "abc-board",
+    "name": "ABC Board",
+    "source_type": "primegov",
+    "source_id": "30"
+  },
+  "america250ky-committee": {
+    "id": "america250ky-committee",
+    "name": "America250KY Committee",
+    "source_type": "primegov",
+    "source_id": "90"
+  },
+  "appropriations-committee": {
+    "id": "appropriations-committee",
+    "name": "Appropriations Committee",
+    "source_type": "primegov",
+    "source_id": "10"
+  },
+  "bardstown-road-baxter-avenue-review-overlay-district-committee": {
+    "id": "bardstown-road-baxter-avenue-review-overlay-district-committee",
+    "name": "Bardstown Road/Baxter Avenue Review Overlay District Committee",
+    "source_type": "primegov",
+    "source_id": "15"
+  },
+  "board-of-health": {
+    "id": "board-of-health",
+    "name": "Board of Health",
+    "source_type": "primegov",
+    "source_id": "58"
+  },
+  "board-of-zoning-adjustment": {
+    "id": "board-of-zoning-adjustment",
+    "name": "Board of Zoning Adjustment",
+    "source_type": "primegov",
+    "source_id": "16"
+  },
+  "budget-committee": {
+    "id": "budget-committee",
+    "name": "Budget Committee",
+    "source_type": "primegov",
+    "source_id": "13"
+  },
+  "butchertown-architectural-review-committee": {
+    "id": "butchertown-architectural-review-committee",
+    "name": "Butchertown Architectural Review Committee",
+    "source_type": "primegov",
+    "source_id": "17"
+  },
+  "cherokee-triangle-architectural-review-committee": {
+    "id": "cherokee-triangle-architectural-review-committee",
+    "name": "Cherokee Triangle Architectural Review Committee",
+    "source_type": "primegov",
+    "source_id": "18"
+  },
+  "clifton-architectural-review-committee": {
+    "id": "clifton-architectural-review-committee",
+    "name": "Clifton Architectural Review Committee",
+    "source_type": "primegov",
+    "source_id": "19"
+  },
+  "code-enforcement-board": {
+    "id": "code-enforcement-board",
+    "name": "Code Enforcement Board",
+    "source_type": "primegov",
+    "source_id": "31"
+  },
+  "commission-on-public-art": {
+    "id": "commission-on-public-art",
+    "name": "Commission on Public Art",
+    "source_type": "primegov",
+    "source_id": "59"
+  },
+  "committee-of-the-whole": {
+    "id": "committee-of-the-whole",
+    "name": "Committee of the Whole",
+    "source_type": "primegov",
+    "source_id": "2"
+  },
+  "committee-on-committees": {
+    "id": "committee-on-committees",
+    "name": "Committee on Committees",
+    "source_type": "primegov",
+    "source_id": "3"
+  },
+  "development-review-committee": {
+    "id": "development-review-committee",
+    "name": "Development Review Committee",
+    "source_type": "primegov",
+    "source_id": "20"
+  },
+  "downtown-development-review-overlay-district-committee": {
+    "id": "downtown-development-review-overlay-district-committee",
+    "name": "Downtown Development Review Overlay District Committee",
+    "source_type": "primegov",
+    "source_id": "21"
+  },
+  "equity-community-affairs-housing-health-and-education-committee": {
+    "id": "equity-community-affairs-housing-health-and-education-committee",
+    "name": "Equity, Community Affairs, Housing, Health and Education Committee",
+    "source_type": "primegov",
+    "source_id": "37"
+  },
+  "government-oversight-audit-and-appointments-committee": {
+    "id": "government-oversight-audit-and-appointments-committee",
+    "name": "Government Oversight/Audit and Appointments Committee",
+    "source_type": "primegov",
+    "source_id": "38"
+  },
+  "historic-landmarks-preservation-districts-commission": {
+    "id": "historic-landmarks-preservation-districts-commission",
+    "name": "Historic Landmarks & Preservation Districts Commission",
+    "source_type": "primegov",
+    "source_id": "22"
+  },
+  "individual-landmarks-architectural-review-committee": {
+    "id": "individual-landmarks-architectural-review-committee",
+    "name": "Individual Landmarks Architectural Review Committee",
+    "source_type": "primegov",
+    "source_id": "23"
+  },
+  "labor-and-economic-development-committee": {
+    "id": "labor-and-economic-development-committee",
+    "name": "Labor and Economic Development Committee",
+    "source_type": "primegov",
+    "source_id": "5"
+  },
+  "land-development-transportation-committee": {
+    "id": "land-development-transportation-committee",
+    "name": "Land Development & Transportation Committee",
+    "source_type": "primegov",
+    "source_id": "24"
+  },
+  "limerick-architectural-review-committee": {
+    "id": "limerick-architectural-review-committee",
+    "name": "Limerick Architectural Review Committee",
+    "source_type": "primegov",
+    "source_id": "25"
+  },
+  "louisville-jefferson-county-environmental-trust-oversight-board": {
+    "id": "louisville-jefferson-county-environmental-trust-oversight-board",
+    "name": "Louisville/Jefferson County Environmental Trust Oversight Board",
+    "source_type": "primegov",
+    "source_id": "89"
+  },
+  "metro-council": {
+    "id": "metro-council",
+    "name": "Metro Council",
+    "source_type": "primegov",
+    "source_id": "1"
+  },
+  "nulu-review-overlay-district-committee": {
+    "id": "nulu-review-overlay-district-committee",
+    "name": "NuLu Review Overlay District Committee",
+    "source_type": "primegov",
+    "source_id": "26"
+  },
+  "old-louisville-architectural-review-committee": {
+    "id": "old-louisville-architectural-review-committee",
+    "name": "Old Louisville Architectural Review Committee",
+    "source_type": "primegov",
+    "source_id": "27"
+  },
+  "parkland-architectural-review-committee": {
+    "id": "parkland-architectural-review-committee",
+    "name": "Parkland Architectural Review Committee",
+    "source_type": "primegov",
+    "source_id": "34"
+  },
+  "parks-and-sustainability-committee": {
+    "id": "parks-and-sustainability-committee",
+    "name": "Parks and Sustainability Committee",
+    "source_type": "primegov",
+    "source_id": "11"
+  },
+  "planning-and-zoning-committee": {
+    "id": "planning-and-zoning-committee",
+    "name": "Planning and Zoning Committee",
+    "source_type": "primegov",
+    "source_id": "4"
+  },
+  "planning-commission": {
+    "id": "planning-commission",
+    "name": "Planning Commission",
+    "source_type": "primegov",
+    "source_id": "14"
+  },
+  "planning-committee": {
+    "id": "planning-committee",
+    "name": "Planning Committee",
+    "source_type": "primegov",
+    "source_id": "35"
+  },
+  "police-merit-board": {
+    "id": "police-merit-board",
+    "name": "Police Merit Board",
+    "source_type": "primegov",
+    "source_id": "33"
+  },
+  "policy-procedures-committee": {
+    "id": "policy-procedures-committee",
+    "name": "Policy & Procedures Committee",
+    "source_type": "primegov",
+    "source_id": "28"
+  },
+  "property-maintenance-nuisance-board": {
+    "id": "property-maintenance-nuisance-board",
+    "name": "Property Maintenance/Nuisance Board",
+    "source_type": "primegov",
+    "source_id": "83"
+  },
+  "public-safety-committee": {
+    "id": "public-safety-committee",
+    "name": "Public Safety Committee",
+    "source_type": "primegov",
+    "source_id": "9"
+  },
+  "public-works-committee": {
+    "id": "public-works-committee",
+    "name": "Public Works Committee",
+    "source_type": "primegov",
+    "source_id": "6"
+  },
+  "vapstat-joint-meeting": {
+    "id": "vapstat-joint-meeting",
+    "name": "VAPStat Joint Meeting",
+    "source_type": "primegov",
+    "source_id": "32"
+  },
+  "west-main-street-architectural-review-committee": {
+    "id": "west-main-street-architectural-review-committee",
+    "name": "West Main Street Architectural Review Committee",
+    "source_type": "primegov",
+    "source_id": "29"
+  }
+}
