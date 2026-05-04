@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-sr65",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 65",
+  "title": "A RESOLUTION honoring John and Debbie Rogers, of Somerset, Kentucky, on the occasion of their 50th wedding anniversary.",
+  "abstract": "Honor and congratulate John and Debbie Rogers on the occasion of their 50th wedding anniversary.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Stivers",
+      "party": null,
+      "district": "25",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-01-30",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e0427c8c-0ed0-42e1-a7f0-95e3b1612b63"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-sr131",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 131",
+  "title": "A RESOLUTION honoring the Blueprint for Kentucky's Children and recognizing Children's Advocacy Week 2026.",
+  "abstract": "Honor the Blueprint for Kentucky's Children and recognize Children's Advocacy Week 2026.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/83f1d626-0a89-4e70-8484-4bca9d70f020"
+}

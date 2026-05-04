@@ -1,0 +1,312 @@
+{
+  "id": "openstates-ky-2026RS-sb152",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 152",
+  "title": "AN ACT relating to education.",
+  "abstract": "Amend KRS 160.345 to define \"school-based policy\"; require that principals provide monthly and annual reports to the local board of education; set notice requirements for school advisory council elections; establish that a superintendent selects the principals for the school district; require that all school-based policies be reviewed and approved by the local board before implementation and provide exceptions; amend KRS 160.370 to permit county school districts with more than 15,000 students to delegate the approval of school-based policies; amend KRS 158.1415 to permit a local school board to adopt a curriculum for human sexuality; amend various sections of KRS Chapters 7, 156, 157, 158, 160, 161, 164, and 605 to transfer duties of school-based decision making councils to advisory councils and principals and to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "S. West",
+      "party": null,
+      "district": "27",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "D. Givens",
+      "party": null,
+      "district": "9",
+      "primary": true
+    },
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Education (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "posted for passage in the Regular Orders of the Day for Thursday, February 19 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-02-19",
+      "description": "3rd reading, passed 27-11 with Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "passage",
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-02-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [
+    {
+      "motion": "PASS SB 152 w/ SCS 1",
+      "date": "2026-02-19",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 27,
+        "no": 11,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Girdler",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Higdon",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Berg",
+          "option": "no"
+        },
+        {
+          "name": "Herron",
+          "option": "no"
+        },
+        {
+          "name": "Smith",
+          "option": "no"
+        },
+        {
+          "name": "Webb",
+          "option": "no"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "no"
+        },
+        {
+          "name": "Neal",
+          "option": "no"
+        },
+        {
+          "name": "Storm",
+          "option": "no"
+        },
+        {
+          "name": "Wheeler",
+          "option": "no"
+        },
+        {
+          "name": "Clemons",
+          "option": "no"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "no"
+        },
+        {
+          "name": "Thomas",
+          "option": "no"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Boards And Commissions",
+    "Education, Elementary And Secondary",
+    "Parental Rights",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate, in House committee",
+  "last_action_date": "2026-02-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/51aafdc7-6e06-42b9-8d85-757d57f3116d"
+}

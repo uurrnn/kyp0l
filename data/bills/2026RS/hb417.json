@@ -1,0 +1,82 @@
+{
+  "id": "openstates-ky-2026RS-hb417",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 417",
+  "title": "AN ACT relating to the Farmland Preservation Loan Program.",
+  "abstract": "Create a new section of KRS 247.940 to 247.978 to define \"participating lender\"; authorize the Kentucky Agricultural Finance Corporation to establish, administer, and fund a Farmland Preservation Loan Program and enter into a loan participation agreement with a qualified participating lender to purchase interests in promissory notes to allow a borrower to purchase or improve an agricultural property located within the Commonwealth; authorize the Kentucky Agricultural Finance Corporation to promulgate administrative regulations to administer the Farmland Preservation Loan Program.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Osborne",
+      "party": null,
+      "district": "59",
+      "primary": true
+    },
+    {
+      "name": "M. Dossett",
+      "party": null,
+      "district": "9",
+      "primary": true
+    },
+    {
+      "name": "R. Bivens",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Agriculture (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Agriculture",
+    "Banks And Financial Institutions",
+    "Land Use",
+    "Loans, Credit, Interest, And Usury"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/01dc3e3e-4ba5-432d-8647-db435dc26b1b"
+}

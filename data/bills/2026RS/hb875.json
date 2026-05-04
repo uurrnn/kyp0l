@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb875",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 875",
+  "title": "AN ACT relating to interscholastic athletics.",
+  "abstract": "Create a new section of KRS Chapter 156 to define terms; establish a nonpublic school student's eligibility for participation in interscholastic athletics at the public school to which the student would be assigned in the student's district of residence; establish requirements, conditions, and procedures for the nonpublic school student's participation in interscholastic athletics.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Raymer",
+      "party": null,
+      "district": "15",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Athletics",
+    "Education, Elementary And Secondary",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/918a5f47-9a96-4e5e-923f-244334cab56c"
+}

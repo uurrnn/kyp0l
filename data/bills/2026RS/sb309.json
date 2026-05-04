@@ -1,0 +1,59 @@
+{
+  "id": "openstates-ky-2026RS-sb309",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 309",
+  "title": "AN ACT relating to the Justice and Public Safety Cabinet.",
+  "abstract": "Amend KRS 15A.020, relating to the Department of Juvenile Justice in the Justice and Public Safety Cabinet, to remove the Office of Program Operations and the Office of Community and Mental Health Services; add the Office of Rehabilitation and Reentry Services and divisions within the office; remove the Division of Program Services from the Office of Support Services and add divisions; amend KRS 15A.064 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Carroll",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d8f19982-22ff-4f98-b580-8e37f28041d6"
+}

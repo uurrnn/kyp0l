@@ -1,0 +1,73 @@
+{
+  "id": "openstates-ky-2026RS-hb125",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 125",
+  "title": "AN ACT relating to firearms possession by domestic abusers.",
+  "abstract": "Amend KRS 527.010 to define \"domestic abuse offense,\" \"domestic violence protective order,\" and \"physical force\"; create new sections of KRS Chapter 527 to create the crimes of possession of a firearm by a convicted domestic abuser and possession of a firearm by the subject of a domestic violence protective order; require the surrender of firearm by individuals subject to protective orders or convicted of specified crimes; amend KRS 403.740 and 456.060 to require courts to inform the subject of a domestic violence order or an interpersonal protective order of the firearm possession prohibition.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Courts",
+    "Crimes And Punishments",
+    "Domestic Relations",
+    "Firearms And Weapons",
+    "Local Mandate",
+    "Peace Officers And Law Enforcement",
+    "Property",
+    "Sheriffs"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/29e256f0-fb76-430a-a3ad-39de08e2a158"
+}

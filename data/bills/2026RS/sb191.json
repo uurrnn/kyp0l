@@ -1,0 +1,353 @@
+{
+  "id": "openstates-ky-2026RS-sb191",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 191",
+  "title": "AN ACT relating to the Kentucky Kindergarten Readiness Performance-Based Child Care Incentive Pilot Program.",
+  "abstract": "Create new sections of KRS Chapter 199 to define terms; create the Kentucky Kindergarten Readiness Performance-Based Child-Care Incentive Pilot Program; require the University of Kentucky to operate the pilot program; establish the purpose and directives of the pilot program; establish completion date and reporting requirements.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Carroll",
+      "party": null,
+      "district": "2",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Families & Children (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "recommitted to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-02-25",
+      "description": "reported favorably, to Rules with Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "posted for passage in the Regular Orders of the Day for Monday, March 02 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-02",
+      "description": "floor amendment (1) filed to Committee Substitute",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "3rd reading, passed 35-1 with Committee Substitute (1) and  Floor Amendment (1)",
+      "chamber": "upper",
+      "classification": [
+        "passage",
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "floor amendment (1) filed",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [
+    {
+      "motion": "PASS SB 191 w/ SCS 1, SFA 1",
+      "date": "2026-03-04",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 35,
+        "no": 1,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Berg",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Herron",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "yes"
+        },
+        {
+          "name": "Webb",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Clemons",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "Neal",
+          "option": "yes"
+        },
+        {
+          "name": "Storm",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "no"
+        },
+        {
+          "name": "Girdler",
+          "option": "not voting"
+        },
+        {
+          "name": "Higdon",
+          "option": "not voting"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Children And Minors",
+    "Fiscal Note",
+    "Occupations And Professions",
+    "Reports Mandated",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate, in House committee",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/8979a3a6-a09c-4795-affd-b7fc8c46d2fb"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-sr60",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 60",
+  "title": "A RESOLUTION honoring the YMCA on the organization's 175th anniversary in the United States.",
+  "abstract": "Honor the YMCA for its 175th anniversary in the United States.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Mays Bledsoe",
+      "party": null,
+      "district": "12",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-02-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4e3fb050-fc55-42bf-9aa7-908580c44a24"
+}

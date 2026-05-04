@@ -1,0 +1,325 @@
+{
+  "id": "openstates-ky-2026RS-sb72",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 72",
+  "title": "AN ACT relating to the recruitment and retention of health care professionals and declaring an emergency.",
+  "abstract": "Create new sections of KRS Chapter 344 to ensure federal law relating to emergency medical treatment and the collection of evidence is not overridden; define terms; prohibit discrimination against health care professionals who decline to perform procedures that violate their conscience; grant health care professionals the right not to participate in services that violate their conscience; exempt health care professionals from liability for exercising these rights; prohibit hiring or licensing authorities from reprimanding health care professionals; require hiring or licensing authorities to provide complaints it has received to health care professionals; establish a civil cause of action for persons injured by violations; provide that the Act may be cited as the Health Care Heroes Recruitment and Retention Act; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "G. Boswell",
+      "party": null,
+      "district": "8",
+      "primary": true
+    },
+    {
+      "name": "G. Elkins",
+      "party": null,
+      "district": "28",
+      "primary": true
+    },
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    },
+    {
+      "name": "S. Rawlings",
+      "party": null,
+      "district": "11",
+      "primary": true
+    },
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    },
+    {
+      "name": "M. Wise",
+      "party": null,
+      "district": "16",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to Health Services (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "posted for passage in the Regular Orders of the Day for Friday, February 13 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-02-13",
+      "description": "3rd reading, passed 28-5",
+      "chamber": "upper",
+      "classification": [
+        "passage",
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-02-17",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [
+    {
+      "motion": "PASS SB 72",
+      "date": "2026-02-13",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 28,
+        "no": 5,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Higdon",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "Webb",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Storm",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "no"
+        },
+        {
+          "name": "Herron",
+          "option": "no"
+        },
+        {
+          "name": "Neal",
+          "option": "no"
+        },
+        {
+          "name": "Thomas",
+          "option": "no"
+        },
+        {
+          "name": "Clemons",
+          "option": "no"
+        },
+        {
+          "name": "Berg",
+          "option": "not voting"
+        },
+        {
+          "name": "Girdler",
+          "option": "not voting"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "not voting"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "not voting"
+        },
+        {
+          "name": "Carpenter",
+          "option": "not voting"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Civil Actions",
+    "Effective Dates, Emergency",
+    "Local Mandate",
+    "Medicaid",
+    "Nurses",
+    "Optometrists",
+    "Personnel And Employment",
+    "Pharmacists",
+    "Public Health",
+    "Short Titles And Popular Names",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate, in House committee",
+  "last_action_date": "2026-02-17",
+  "source_url": "",
+  "openstates_id": "ocd-bill/caa5b90a-c6f1-4351-bc73-50dcf9ee0082"
+}

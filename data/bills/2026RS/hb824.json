@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb824",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 824",
+  "title": "AN ACT relating to state government.",
+  "abstract": "Amend KRS 56.020 to insert gender-neutral language.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Rudy",
+      "party": null,
+      "district": "1",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Public Buildings And Grounds",
+    "Secretary Of State",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/09c69e71-b745-4a43-9f3a-3bbcb635bc38"
+}

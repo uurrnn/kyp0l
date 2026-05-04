@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hcr83",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 83",
+  "title": "A CONCURRENT RESOLUTION directing the establishment of the Sheriff's Office Modernization Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Sheriff's Office Modernization Task Force to study the duties and powers of the office of sheriff, fee collection, salaries, and technological or administrative changes to benefit the office; establish membership; direct the task force to meet during the 2026 Interim and submit findings and recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Counties",
+    "Legislative Research Commission",
+    "Reports Mandated",
+    "Sheriffs",
+    "Studies Directed",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3cbd2685-433a-4382-b91d-3541fda9056e"
+}

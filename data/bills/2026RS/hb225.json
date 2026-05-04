@@ -1,0 +1,111 @@
+{
+  "id": "openstates-ky-2026RS-hb225",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 225",
+  "title": "AN ACT relating to a tax credit for volunteer firefighters.",
+  "abstract": "Create a new section of KRS Chapter 141 to establish a refundable income tax credit for certain volunteer firefighters; declare the purpose of the credit; require annual reporting to the Legislative Research Commission to evaluate the impact of the credit; amend KRS 141.0205 to provide the ordering of the credit; amend KRS 131.190 to allow confidential tax return information to be shared with the Legislative Research Commission.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Tackett Laferty",
+      "party": null,
+      "district": "95",
+      "primary": true
+    },
+    {
+      "name": "T. Bojanowski",
+      "party": null,
+      "district": "32",
+      "primary": true
+    },
+    {
+      "name": "C. Fugate",
+      "party": null,
+      "district": "84",
+      "primary": true
+    },
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    },
+    {
+      "name": "W. Lawrence",
+      "party": null,
+      "district": "70",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "B. Wesley",
+      "party": null,
+      "district": "91",
+      "primary": true
+    },
+    {
+      "name": "R. White",
+      "party": null,
+      "district": "99",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Firefighters And Fire Departments",
+    "Reports Mandated",
+    "Taxation",
+    "Taxation, Income--Individual"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1e9e85db-28ca-4df3-b55c-78201dcf0b6f"
+}

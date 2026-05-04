@@ -1,0 +1,375 @@
+{
+  "id": "openstates-ky-2026RS-sjr62",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SJR 62",
+  "title": "A JOINT RESOLUTION directing the Division of Water to provide recommendations and clear guidance on how local governments can more easily access jurisdictional streams and waterways for cleanup after a flood.",
+  "abstract": "Direct the Energy and Environment Cabinet's Division of Water to prepare and submit a report to the Legislative Research Commission by December 15, 2026, on recommendations for state and local governments to more easily access public waterways after flooding for debris removal and clean-up.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    },
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "S. Funke Frommeyer",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "M. Nemes",
+      "party": null,
+      "district": "38",
+      "primary": true
+    },
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "B. Storm",
+      "party": null,
+      "district": "21",
+      "primary": true
+    },
+    {
+      "name": "R. Webb",
+      "party": null,
+      "district": "18",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to State & Local Government (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "posted for passage in the Regular Orders of the Day for Wednesday, March 11 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-11",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "3rd reading, adopted 38-0",
+      "chamber": "upper",
+      "classification": [
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "description": "taken from Rules",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-04-01",
+      "description": "placed in the Orders of the Day",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-04-15",
+      "description": "taken from the Orders of the Day",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [
+    {
+      "motion": "ADOPT SJR 62",
+      "date": "2026-03-12",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 38,
+        "no": 0,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Berg",
+          "option": "yes"
+        },
+        {
+          "name": "Girdler",
+          "option": "yes"
+        },
+        {
+          "name": "Neal",
+          "option": "yes"
+        },
+        {
+          "name": "Storm",
+          "option": "yes"
+        },
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "yes"
+        },
+        {
+          "name": "Herron",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Higdon",
+          "option": "yes"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "yes"
+        },
+        {
+          "name": "Webb",
+          "option": "yes"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "Clemons",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Environment And Conservation",
+    "Flood Control And Flooding",
+    "Local Government",
+    "Pollution",
+    "Reports Mandated",
+    "Waterways And Dams"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate, in House committee",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f804c7bf-7dfe-4148-8f7c-b62f281e1a6a"
+}

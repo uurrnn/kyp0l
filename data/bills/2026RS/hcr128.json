@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-hcr128",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 128",
+  "title": "A CONCURRENT RESOLUTION establishing the KRS Review Task Force.",
+  "abstract": "Establish the KRS Review Task Force; list the duties and members of the task force; require the task force to meet as necessary during the 2026 Interim of the General Assembly and to submit a report by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-26",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "General Assembly",
+    "Legislative Research Commission",
+    "Reports Mandated",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5c82dedd-511a-4b14-91e2-f1a9007ca385"
+}

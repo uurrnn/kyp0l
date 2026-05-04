@@ -1,0 +1,94 @@
+{
+  "id": "openstates-ky-2026RS-sb169",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 169",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to property exempt from taxation.",
+  "abstract": "Propose to create a new section of the Constitution of Kentucky to exempt disabled United States Armed Forces veterans and unremarried surviving spouses of United States Armed Forces service members killed in action while performing active military duty from property taxation of property owned and maintained as a primary residence and a primary motor vehicle owned and maintained as their primary vehicle after calendar year 2027; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "J. Higdon",
+      "party": null,
+      "district": "14",
+      "primary": true
+    },
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    },
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    },
+    {
+      "name": "S. West",
+      "party": null,
+      "district": "27",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Disabilities",
+    "Elections And Voting",
+    "Local Mandate",
+    "Motor Vehicles",
+    "Property",
+    "Property Valuation Administrators",
+    "Real Estate",
+    "Secretary Of State",
+    "Taxation",
+    "Taxation, Property",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/435f8758-f409-41ad-b36d-486148bc5932"
+}

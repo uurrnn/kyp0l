@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb514",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 514",
+  "title": "AN ACT relating to bridges.",
+  "abstract": "Create a new section of KRS Chapter 177 to allow the Department of Highways to install signs that display the 988 national suicide prevention and mental health crisis hotline on bridges on state-maintained highways.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Highways, Streets, And Bridges",
+    "Mental Health",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3896112b-b891-4158-91d6-a78784951615"
+}

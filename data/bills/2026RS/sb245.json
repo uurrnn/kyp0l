@@ -1,0 +1,1593 @@
+{
+  "id": "openstates-ky-2026RS-sb245",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 245",
+  "title": "AN ACT relating to tobacco, nicotine, or vapor product licensure and declaring an emergency.",
+  "abstract": "Create a new section of KRS 438.305 to 438.350 to establish application form requirements for a tobacco, nicotine, or vapor product license; prohibit the Department of Alcoholic Beverage Control from establishing any additional licensure requirements beyond those prescribed in statute; require the department to publish and maintain on its website the components required for a tobacco, nicotine, or vapor product license; amend various sections of KRS 438.305 to 438.350 to require the Secretary of State to notify retailers that a tobacco, nicotine, or vapor product license is required to sell authorized nicotine vapor products; establish application requirements for a tobacco, nicotine, or vapor product license; require the department to publish the application form on its website within 30 days of the effective date of this Act; require the licensing fee to be refunded to the applicant if a license is not issued; require a licensure renewal form and a licensing fee to be remitted to the department upon the renewal of a tobacco, nicotine, or vapor product license; define \"batch license\"; allow a retailer with a license issued by the department under KRS Chapter 243 to renew a tobacco, nicotine, or vapor product license on the date of its next renewal; allow an applicant or licensee to batch license using a singular application or renewal form; allow a licensee to batch license on the date of its next alcohol licensure renewal or 1 year from the date of issuance of its tobacco, nicotine, or vapor product license; require an applicant or licensee who chooses to batch license to multiply the licensure fee by the number of locations to be licensed or premises to be renewed; require the department to establish a singular application and renewal form for a batch license; allow the department to require a supplemental form for batch licensing if an alcohol license requires further information; grant a grace period to applicants for any error identified in an application by the department; establish requirements for a change of ownership; establish grounds for denial of an application; require the department to promulgate administrative regulations relating to tobacco, nicotine, and vapor licensing within 30 days of the effective date of this Act; repeal KRS 438.3065, which establishes transitional licensing; prohibit this Act from delaying enforcement; require any retailer selling tobacco, nicotine, or vapor products in Kentucky that does not currently hold a license to remit the initial application form and licensing fee within 60 days of the effective date of this Act; credit a licensee's 2025 licensing fee to the licensee's upcoming licensing fee payment for 2026; RETROACTIVE, in part, to January 1, 2026; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Webb",
+      "party": null,
+      "district": "18",
+      "primary": true
+    },
+    {
+      "name": "J. Higdon",
+      "party": null,
+      "district": "14",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Licensing & Occupations (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "posted for passage in the Regular Orders of the Day for Thursday, March 05 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-05",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "floor amendment (1) filed",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "3rd reading",
+      "chamber": "upper",
+      "classification": [
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "floor amendment (1) withdrawn",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-06",
+      "description": "passed 36-0",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "taken from Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-16",
+      "description": "1st reading",
+      "chamber": "upper",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "returned to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-17",
+      "description": "taken from Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-17",
+      "description": "2nd reading",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "returned to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-18",
+      "description": "reported favorably, to Rules with Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "description": "floor amendment (1) filed to Committee Substitute",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "description": "posted for passage in the Regular Orders of the Day for Friday, March 20 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-20",
+      "description": "3rd reading, passed 85-0 with Floor Amendment (1) and  Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "passage",
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "received in Senate",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-24",
+      "description": "to Rules (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "taken from Rules",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-24",
+      "description": "posted for passage for concurrence in House Committee Substitute (1) and  Floor Amendment (1)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-24",
+      "description": "passed over and retained for concurrence in House Committee Substitute (1) and  Floor Amendment (1)",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "description": "passed over and retained for concurrence in House Committee Substitute (1) and House Floor Amendment (1)",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "description": "Senate refused to concur in House Committee Substitute (1) and  Floor Amendment (1)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "to Rules (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "description": "taken from Rules",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "posted for passage for receding from House Committee Substitute (1) and Floor Amendment (1)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "House refused to recede from Committee Substitute (1) and  Floor Amendment (1)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "Conference and Free Conference Committees appointed in House and Senate",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "Conference Committee report filed in House and Senate",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "Conference Committee report adopted in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "Free Conference Committee report filed in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "posted for passage for consideration Free Conference Committee Report in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "Free Conference Committee report adopted in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "passed 78-0",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "received in Senate",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "to Rules (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "taken from Rules",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "posted for passage for consideration of Free Conference Committee Report",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "Free Conference Committee report adopted in Senate",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "passed 35-1",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "enrolled, signed by President of the Senate",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "enrolled, signed by Speaker of the House",
+      "chamber": "lower",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "delivered to Governor",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-04-10",
+      "description": "signed by Governor (Acts Ch. 70)",
+      "chamber": "upper",
+      "classification": [
+        "executive-signature"
+      ]
+    }
+  ],
+  "votes": [
+    {
+      "motion": "Final Passage",
+      "date": "2026-03-27",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 78,
+        "no": 0,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Aull",
+          "option": "yes"
+        },
+        {
+          "name": "Donworth",
+          "option": "yes"
+        },
+        {
+          "name": "Hancock",
+          "option": "yes"
+        },
+        {
+          "name": "Meade",
+          "option": "yes"
+        },
+        {
+          "name": "Stalker",
+          "option": "yes"
+        },
+        {
+          "name": "Baker",
+          "option": "yes"
+        },
+        {
+          "name": "Dossett",
+          "option": "yes"
+        },
+        {
+          "name": "Hart",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Tackett Laferty",
+          "option": "yes"
+        },
+        {
+          "name": "Banta",
+          "option": "yes"
+        },
+        {
+          "name": "Dotson",
+          "option": "yes"
+        },
+        {
+          "name": "Heavrin",
+          "option": "yes"
+        },
+        {
+          "name": "Miles",
+          "option": "yes"
+        },
+        {
+          "name": "Tate",
+          "option": "yes"
+        },
+        {
+          "name": "Bauman",
+          "option": "yes"
+        },
+        {
+          "name": "Duvall",
+          "option": "yes"
+        },
+        {
+          "name": "Hodgson",
+          "option": "yes"
+        },
+        {
+          "name": "Moore",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Bivens",
+          "option": "yes"
+        },
+        {
+          "name": "Elliott",
+          "option": "yes"
+        },
+        {
+          "name": "Huff T",
+          "option": "yes"
+        },
+        {
+          "name": "Moser",
+          "option": "yes"
+        },
+        {
+          "name": "Thompson",
+          "option": "yes"
+        },
+        {
+          "name": "Blanton",
+          "option": "yes"
+        },
+        {
+          "name": "Fister",
+          "option": "yes"
+        },
+        {
+          "name": "Imes",
+          "option": "yes"
+        },
+        {
+          "name": "Neighbors",
+          "option": "yes"
+        },
+        {
+          "name": "Tipton",
+          "option": "yes"
+        },
+        {
+          "name": "Bojanowski",
+          "option": "yes"
+        },
+        {
+          "name": "Flannery",
+          "option": "yes"
+        },
+        {
+          "name": "Jackson",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Truett",
+          "option": "yes"
+        },
+        {
+          "name": "Bowling",
+          "option": "yes"
+        },
+        {
+          "name": "Fleming",
+          "option": "yes"
+        },
+        {
+          "name": "Johnson",
+          "option": "yes"
+        },
+        {
+          "name": "Payne",
+          "option": "yes"
+        },
+        {
+          "name": "Upchurch",
+          "option": "yes"
+        },
+        {
+          "name": "Branscum",
+          "option": "yes"
+        },
+        {
+          "name": "Freeland",
+          "option": "yes"
+        },
+        {
+          "name": "King",
+          "option": "yes"
+        },
+        {
+          "name": "Petrie",
+          "option": "yes"
+        },
+        {
+          "name": "Watkins",
+          "option": "yes"
+        },
+        {
+          "name": "Bray",
+          "option": "yes"
+        },
+        {
+          "name": "Fugate",
+          "option": "yes"
+        },
+        {
+          "name": "Koch",
+          "option": "yes"
+        },
+        {
+          "name": "Pollock",
+          "option": "yes"
+        },
+        {
+          "name": "Wesley",
+          "option": "yes"
+        },
+        {
+          "name": "Bridges",
+          "option": "yes"
+        },
+        {
+          "name": "Gentry",
+          "option": "yes"
+        },
+        {
+          "name": "Kulkarni",
+          "option": "yes"
+        },
+        {
+          "name": "Raymer",
+          "option": "yes"
+        },
+        {
+          "name": "Whitaker",
+          "option": "yes"
+        },
+        {
+          "name": "Brown",
+          "option": "yes"
+        },
+        {
+          "name": "Gooch",
+          "option": "yes"
+        },
+        {
+          "name": "Lehman",
+          "option": "yes"
+        },
+        {
+          "name": "Riley",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Burke",
+          "option": "yes"
+        },
+        {
+          "name": "Gordon",
+          "option": "yes"
+        },
+        {
+          "name": "Lewis C",
+          "option": "yes"
+        },
+        {
+          "name": "Roarx",
+          "option": "yes"
+        },
+        {
+          "name": "Willner",
+          "option": "yes"
+        },
+        {
+          "name": "Chester-Burton",
+          "option": "yes"
+        },
+        {
+          "name": "Griffee",
+          "option": "yes"
+        },
+        {
+          "name": "Lewis S",
+          "option": "yes"
+        },
+        {
+          "name": "Sharp",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Clines",
+          "option": "yes"
+        },
+        {
+          "name": "Grossberg",
+          "option": "yes"
+        },
+        {
+          "name": "McCool",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Witten",
+          "option": "yes"
+        },
+        {
+          "name": "Dietz",
+          "option": "yes"
+        },
+        {
+          "name": "Hale",
+          "option": "yes"
+        },
+        {
+          "name": "McPherson",
+          "option": "yes"
+        },
+        {
+          "name": "Bratcher S.",
+          "option": "not voting"
+        },
+        {
+          "name": "Doan",
+          "option": "not voting"
+        },
+        {
+          "name": "Lewis D",
+          "option": "not voting"
+        },
+        {
+          "name": "Massaroni",
+          "option": "not voting"
+        },
+        {
+          "name": "Roberts",
+          "option": "not voting"
+        },
+        {
+          "name": "Callaway",
+          "option": "not voting"
+        },
+        {
+          "name": "Grossl",
+          "option": "not voting"
+        },
+        {
+          "name": "Lockett",
+          "option": "not voting"
+        },
+        {
+          "name": "Osborne",
+          "option": "not voting"
+        },
+        {
+          "name": "Rudy",
+          "option": "not voting"
+        },
+        {
+          "name": "Calloway",
+          "option": "not voting"
+        },
+        {
+          "name": "Hampton",
+          "option": "not voting"
+        },
+        {
+          "name": "Maddox",
+          "option": "not voting"
+        },
+        {
+          "name": "Proctor",
+          "option": "not voting"
+        },
+        {
+          "name": "Stevenson P",
+          "option": "not voting"
+        },
+        {
+          "name": "Camuel",
+          "option": "not voting"
+        },
+        {
+          "name": "Holloway",
+          "option": "not voting"
+        },
+        {
+          "name": "Marzian",
+          "option": "not voting"
+        },
+        {
+          "name": "Rabourn",
+          "option": "not voting"
+        },
+        {
+          "name": "White",
+          "option": "not voting"
+        },
+        {
+          "name": "Decker",
+          "option": "not voting"
+        },
+        {
+          "name": "Lawrence",
+          "option": "not voting"
+        },
+        {
+          "name": "COMMONWEALTH OF KENTUCKY SENATE",
+          "option": "not voting"
+        }
+      ]
+    },
+    {
+      "motion": "Pass",
+      "date": "2026-03-20",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 85,
+        "no": 0,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Aull",
+          "option": "yes"
+        },
+        {
+          "name": "Dietz",
+          "option": "yes"
+        },
+        {
+          "name": "Hale",
+          "option": "yes"
+        },
+        {
+          "name": "McCool",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Baker",
+          "option": "yes"
+        },
+        {
+          "name": "Donworth",
+          "option": "yes"
+        },
+        {
+          "name": "Hancock",
+          "option": "yes"
+        },
+        {
+          "name": "Meade",
+          "option": "yes"
+        },
+        {
+          "name": "Stalker",
+          "option": "yes"
+        },
+        {
+          "name": "Bauman",
+          "option": "yes"
+        },
+        {
+          "name": "Dossett",
+          "option": "yes"
+        },
+        {
+          "name": "Hart",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Tackett Laferty",
+          "option": "yes"
+        },
+        {
+          "name": "Bivens",
+          "option": "yes"
+        },
+        {
+          "name": "Dotson",
+          "option": "yes"
+        },
+        {
+          "name": "Heavrin",
+          "option": "yes"
+        },
+        {
+          "name": "Miles",
+          "option": "yes"
+        },
+        {
+          "name": "Tate",
+          "option": "yes"
+        },
+        {
+          "name": "Bojanowski",
+          "option": "yes"
+        },
+        {
+          "name": "Duvall",
+          "option": "yes"
+        },
+        {
+          "name": "Hodgson",
+          "option": "yes"
+        },
+        {
+          "name": "Moore",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Bowling",
+          "option": "yes"
+        },
+        {
+          "name": "Elliott",
+          "option": "yes"
+        },
+        {
+          "name": "Imes",
+          "option": "yes"
+        },
+        {
+          "name": "Moser",
+          "option": "yes"
+        },
+        {
+          "name": "Thompson",
+          "option": "yes"
+        },
+        {
+          "name": "Branscum",
+          "option": "yes"
+        },
+        {
+          "name": "Fister",
+          "option": "yes"
+        },
+        {
+          "name": "Jackson",
+          "option": "yes"
+        },
+        {
+          "name": "Neighbors",
+          "option": "yes"
+        },
+        {
+          "name": "Tipton",
+          "option": "yes"
+        },
+        {
+          "name": "Bratcher S.",
+          "option": "yes"
+        },
+        {
+          "name": "Flannery",
+          "option": "yes"
+        },
+        {
+          "name": "Johnson",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Truett",
+          "option": "yes"
+        },
+        {
+          "name": "Bray",
+          "option": "yes"
+        },
+        {
+          "name": "Fleming",
+          "option": "yes"
+        },
+        {
+          "name": "King",
+          "option": "yes"
+        },
+        {
+          "name": "Osborne",
+          "option": "yes"
+        },
+        {
+          "name": "Upchurch",
+          "option": "yes"
+        },
+        {
+          "name": "Bridges",
+          "option": "yes"
+        },
+        {
+          "name": "Freeland",
+          "option": "yes"
+        },
+        {
+          "name": "Koch",
+          "option": "yes"
+        },
+        {
+          "name": "Payne",
+          "option": "yes"
+        },
+        {
+          "name": "Watkins",
+          "option": "yes"
+        },
+        {
+          "name": "Brown",
+          "option": "yes"
+        },
+        {
+          "name": "Fugate",
+          "option": "yes"
+        },
+        {
+          "name": "Kulkarni",
+          "option": "yes"
+        },
+        {
+          "name": "Petrie",
+          "option": "yes"
+        },
+        {
+          "name": "Wesley",
+          "option": "yes"
+        },
+        {
+          "name": "Burke",
+          "option": "yes"
+        },
+        {
+          "name": "Gentry",
+          "option": "yes"
+        },
+        {
+          "name": "Lehman",
+          "option": "yes"
+        },
+        {
+          "name": "Pollock",
+          "option": "yes"
+        },
+        {
+          "name": "Whitaker",
+          "option": "yes"
+        },
+        {
+          "name": "Callaway",
+          "option": "yes"
+        },
+        {
+          "name": "Gooch",
+          "option": "yes"
+        },
+        {
+          "name": "Lewis C",
+          "option": "yes"
+        },
+        {
+          "name": "Proctor",
+          "option": "yes"
+        },
+        {
+          "name": "White",
+          "option": "yes"
+        },
+        {
+          "name": "Camuel",
+          "option": "yes"
+        },
+        {
+          "name": "Gordon",
+          "option": "yes"
+        },
+        {
+          "name": "Lewis D",
+          "option": "yes"
+        },
+        {
+          "name": "Raymer",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Chester-Burton",
+          "option": "yes"
+        },
+        {
+          "name": "Griffee",
+          "option": "yes"
+        },
+        {
+          "name": "Lewis S",
+          "option": "yes"
+        },
+        {
+          "name": "Riley",
+          "option": "yes"
+        },
+        {
+          "name": "Willner",
+          "option": "yes"
+        },
+        {
+          "name": "Clines",
+          "option": "yes"
+        },
+        {
+          "name": "Grossberg",
+          "option": "yes"
+        },
+        {
+          "name": "Lockett",
+          "option": "yes"
+        },
+        {
+          "name": "Roarx",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Decker",
+          "option": "yes"
+        },
+        {
+          "name": "Grossl",
+          "option": "yes"
+        },
+        {
+          "name": "Marzian",
+          "option": "yes"
+        },
+        {
+          "name": "Sharp",
+          "option": "yes"
+        },
+        {
+          "name": "Witten",
+          "option": "yes"
+        },
+        {
+          "name": "Banta",
+          "option": "not voting"
+        },
+        {
+          "name": "Doan",
+          "option": "not voting"
+        },
+        {
+          "name": "Huff T",
+          "option": "not voting"
+        },
+        {
+          "name": "Massaroni",
+          "option": "not voting"
+        },
+        {
+          "name": "Roberts",
+          "option": "not voting"
+        },
+        {
+          "name": "Blanton",
+          "option": "not voting"
+        },
+        {
+          "name": "Hampton",
+          "option": "not voting"
+        },
+        {
+          "name": "Lawrence",
+          "option": "not voting"
+        },
+        {
+          "name": "McPherson",
+          "option": "not voting"
+        },
+        {
+          "name": "Rudy",
+          "option": "not voting"
+        },
+        {
+          "name": "Calloway",
+          "option": "not voting"
+        },
+        {
+          "name": "Holloway",
+          "option": "not voting"
+        },
+        {
+          "name": "Maddox",
+          "option": "not voting"
+        },
+        {
+          "name": "Rabourn",
+          "option": "not voting"
+        },
+        {
+          "name": "Stevenson P",
+          "option": "not voting"
+        },
+        {
+          "name": "Commonwealth of Kentucky",
+          "option": "not voting"
+        }
+      ]
+    },
+    {
+      "motion": "FINAL PASSAGE OF SB 245",
+      "date": "2026-03-27",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 35,
+        "no": 1,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Berg",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "yes"
+        },
+        {
+          "name": "Herron",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Higdon",
+          "option": "yes"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "yes"
+        },
+        {
+          "name": "Webb",
+          "option": "yes"
+        },
+        {
+          "name": "Clemons",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Girdler",
+          "option": "yes"
+        },
+        {
+          "name": "Neal",
+          "option": "yes"
+        },
+        {
+          "name": "Storm",
+          "option": "yes"
+        },
+        {
+          "name": "Boswell",
+          "option": "no"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "not voting"
+        },
+        {
+          "name": "McDaniel",
+          "option": "not voting"
+        }
+      ]
+    },
+    {
+      "motion": "PASS SB 245",
+      "date": "2026-03-06",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 36,
+        "no": 0,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Berg",
+          "option": "yes"
+        },
+        {
+          "name": "Girdler",
+          "option": "yes"
+        },
+        {
+          "name": "Neal",
+          "option": "yes"
+        },
+        {
+          "name": "Storm",
+          "option": "yes"
+        },
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "yes"
+        },
+        {
+          "name": "Herron",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "yes"
+        },
+        {
+          "name": "Webb",
+          "option": "yes"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "Clemons",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "not voting"
+        },
+        {
+          "name": "Higdon",
+          "option": "not voting"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Alcoholic Beverages",
+    "Boards And Commissions",
+    "Effective Dates, Emergency",
+    "Licensing",
+    "Occupations And Professions",
+    "Public Safety",
+    "Retroactive Legislation",
+    "Secretary Of State",
+    "State Agencies",
+    "Tobacco",
+    "Vaping"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": "passed",
+    "governor": "signed"
+  },
+  "current_status": "Signed by governor",
+  "last_action_date": "2026-04-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a79f284f-08a8-4d40-b63f-ea07cd0cd008"
+}

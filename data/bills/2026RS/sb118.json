@@ -1,0 +1,307 @@
+{
+  "id": "openstates-ky-2026RS-sb118",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 118",
+  "title": "AN ACT relating to credit personal property insurance.",
+  "abstract": "Create new sections of Subtitle 19 of KRS Chapter 304 to establish regulatory requirements relating to credit personal property insurance; define terms; establish exemptions from the regulatory requirements; establish limits on the amount and term of credit personal property insurance sold in conjunction with a closed-end credit transaction; require credit personal property insurance to cover a substantial risk of loss of, or damage to, the collateral pledged or secured in the credit transaction; prohibit an insurer from requiring bundling of other credit insurance coverages and from using gross debt in determining premiums; require a creditor to deliver, or cause to be delivered, a policy, certificate, memorandum or other disclosure disclosing the costs and coverage within 30 days after the date of the loan; require policies, certificates, plans, contracts, applications, enrollment forms, and schedules of premiums rates to be filed with the commissioner of the Department of Insurance; establish requirements for the refund of unearned premiums upon cancellation prior to the scheduled maturity date; establish requirements relating to the reporting and payment of claims; provide that a person aggrieved by a decision of the commissioner may request an administrative hearing; provide that a violation by an insurer is subject to the penalty provisions of Subtitle 99 of KRS Chapter 304; amend KRS 304.19-010, 304.19-020, 304.19-080, 304.19-090, and 304.19-130 to conform; direct that certain sections apply to contracts issued or renewed on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Storm",
+      "party": null,
+      "district": "21",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to Banking & Insurance (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "posted for passage in the Regular Orders of the Day for Thursday, February 12 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-02-12",
+      "description": "3rd reading, passed 38-0 with Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "passage",
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "recommitted to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [
+    {
+      "motion": "PASS SB 118 w/ SCS 1",
+      "date": "2026-02-12",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 38,
+        "no": 0,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Berg",
+          "option": "yes"
+        },
+        {
+          "name": "Girdler",
+          "option": "yes"
+        },
+        {
+          "name": "Neal",
+          "option": "yes"
+        },
+        {
+          "name": "Storm",
+          "option": "yes"
+        },
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "yes"
+        },
+        {
+          "name": "Herron",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Higdon",
+          "option": "yes"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "yes"
+        },
+        {
+          "name": "Webb",
+          "option": "yes"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "Clemons",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Banks And Financial Institutions",
+    "Insurance",
+    "Loans, Credit, Interest, And Usury",
+    "Property",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate, in House committee",
+  "last_action_date": "2026-03-12",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3cd63c9b-a62d-42e6-b379-ec280cb8b0fe"
+}

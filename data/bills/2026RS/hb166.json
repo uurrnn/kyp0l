@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb166",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 166",
+  "title": "AN ACT relating to disaster resiliency.",
+  "abstract": "Create a new section of KRS Chapter 39A to establish the position of chief resiliency officer, appointed by the Governor, to lead disaster preparedness and resiliency efforts; amend KRS 39A.070 to include cooperation with chief resiliency officer in the powers, responsibility, and duties of the director of the Division of Emergency Management.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Disasters And Recovery Efforts",
+    "Governor",
+    "Military Affairs And Civil Defense",
+    "Public Officers And Employees",
+    "Public Safety",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/6d6f87da-3d22-4ff7-98f2-b4750ce5904a"
+}

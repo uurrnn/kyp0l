@@ -1,0 +1,90 @@
+{
+  "id": "openstates-ky-2026RS-hb829",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 829",
+  "title": "AN ACT relating to moral instruction.",
+  "abstract": "Amend KRS 158.200 to require the board of education of a local school district to allow students to attend moral instruction when the moral instruction offering complies with the requirements enumerated; create a new section of KRS Chapter 158 to authorize the Attorney General to bring an action for a writ of mandamus to compel a board of education to comply; create a cause of action to permit a qualified individual to file a civil action against a board of education for injunctive relief arising from a violation of this Act; permit recovery of monetary damages for a willful and intentional violation; waive sovereign, governmental, and qualified immunity; prohibit retaliation.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Baker",
+      "party": null,
+      "district": "85",
+      "primary": true
+    },
+    {
+      "name": "J. Petrie",
+      "party": null,
+      "district": "16",
+      "primary": true
+    },
+    {
+      "name": "S. Doan",
+      "party": null,
+      "district": "69",
+      "primary": true
+    },
+    {
+      "name": "D. Fister",
+      "party": null,
+      "district": "56",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Children And Minors",
+    "Civil Actions",
+    "Claims",
+    "Education, Elementary And Secondary",
+    "Education, Vocational",
+    "Religion"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/0cf3f762-7e1c-4dc9-a280-213c38d9574f"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb483",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 483",
+  "title": "AN ACT relating to the purchase of firearms by state employees.",
+  "abstract": "Amend KRS 45A.600 to establish the depreciation in value of a firearm issued to a state employee who wishes to purchase that firearm upon retirement for purposes of calculating the purchase price.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Bratcher",
+      "party": null,
+      "district": "25",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Firearms And Weapons",
+    "Peace Officers And Law Enforcement",
+    "Police, State",
+    "Public Officers And Employees",
+    "State Agencies",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4d240016-6d78-44b8-b92c-1d53a9245bba"
+}

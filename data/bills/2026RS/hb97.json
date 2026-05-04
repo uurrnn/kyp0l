@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb97",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 97",
+  "title": "AN ACT relating to the sports wagering administration fund.",
+  "abstract": "Amend KRS 230.817 to redirect a portion of the amount deposited in the sports wagering administration fund from the permanent pension fund to the Kentucky lottery trust account.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Tipton",
+      "party": null,
+      "district": "53",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Gaming And Wagering",
+    "Lottery",
+    "Retirement And Pensions"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1351a5b6-86ca-436e-9538-7279bf04d397"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "openstates-ky-2026RS-hb261",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 261",
+  "title": "AN ACT relating to the School Psychologist Interstate Licensure Compact.",
+  "abstract": "Create a new section of KRS Chapter 161 to enact and enter into the School Psychologist Interstate Licensure Compact; declare purpose; define terms; set requirements for member states and for school psychologists to participate in the compact; establish provisions for active duty military members or their spouses; designate procedures for adverse actions against a school psychologist; create the School Psychologist Interstate Licensure Compact Commission and establish its internal procedures; provide for the commission to facilitate the exchange of information; establish rulemaking procedures, oversight, financing, dispute resolution, and enforcement provisions of the compact; create member state compact withdrawal procedures; provide for amendments to the compact; specify applicability of the compact to certain Kentucky state law.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "B. McCool",
+      "party": null,
+      "district": "97",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Compacts, Interstate",
+    "Education, Elementary And Secondary",
+    "Health Care Professionals",
+    "Licensing",
+    "Mental Health",
+    "Occupations And Professions"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/bfbf3d61-e5b7-41ca-9443-b051cc40eb05"
+}

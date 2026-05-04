@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb933",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 933",
+  "title": "AN ACT relating to alcoholic beverages.",
+  "abstract": "Amend KRS 241.065 to prohibit licensure for a quota retail package premises less than 1 mile from another quota retail package license premises in a county containing a city of the first class; exempt existing quota retail package license premises; allow for loss of exemption for an existing quota retail package license premises under designated circumstances.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Alcoholic Beverages",
+    "Cities, First Class",
+    "Counties With Cities Of The First Class",
+    "Distilled Spirits",
+    "Foods And Beverages",
+    "Licensing",
+    "Wine And Wineries"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/026ffcd1-bf3b-467b-95c3-f2d7ff5e014f"
+}

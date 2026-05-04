@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb349",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 349",
+  "title": "AN ACT relating to relative and fictive kin caregivers.",
+  "abstract": "Amend KRS 199.462  to make technical correction.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Adams",
+      "party": null,
+      "district": "36",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "State Agencies",
+    "Technical Corrections"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/897f720d-302a-44ef-9096-e1b94ebdfef5"
+}

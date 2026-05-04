@@ -1,0 +1,107 @@
+{
+  "id": "openstates-ky-2026RS-hb466",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 466",
+  "title": "AN ACT relating to immunizations.",
+  "abstract": "Amend KRS 214.034 to delete hepatitis B from the list of required immunizations for children; prohibit additional immunizations from being required by the Cabinet for Health and Family Services without the approval of the General Assembly; delete requirement for hepatitis B immunization for sixth grade school attendance.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "R. Bivens",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "M. Proctor",
+      "party": null,
+      "district": "60",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "N. Tate",
+      "party": null,
+      "district": "27",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Diseases",
+    "Drugs And Medicines",
+    "Education, Elementary And Secondary",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Nurses",
+    "Parental Rights",
+    "Pharmacists",
+    "Physicians",
+    "Public Health",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-29",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7c9ffa71-6039-4c85-99e7-656097afc9df"
+}

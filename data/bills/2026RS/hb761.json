@@ -1,0 +1,96 @@
+{
+  "id": "openstates-ky-2026RS-hb761",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 761",
+  "title": "AN ACT relating to riverport authorities and declaring an emergency.",
+  "abstract": "Amend KRS 65.520 to prohibit riverport authorities from delegating policy-making to outside entities; amend KRS 65.530 to change the purpose of riverport authorities and, unless agreed to in writing, mandate compliance with comprehensive plans, land use, and design regulations of planning units; amend KRS 65.540 to allow for a joint riverport authority to be created by a combination of counties; require adoption of a code of ethics, establish membership, and prohibit direct or indirect interest in the business of the authority; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Amusements And Recreations",
+    "Cities",
+    "Counties",
+    "Effective Dates, Emergency",
+    "Environment And Conservation",
+    "Local Government",
+    "Local Mandate",
+    "Public Ethics",
+    "Tourism",
+    "Transportation",
+    "Waterways And Dams"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f792b3ef-ec58-44cf-bf80-b9be7144da23"
+}

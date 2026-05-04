@@ -1,0 +1,161 @@
+{
+  "id": "openstates-ky-2026RS-hr7",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 7",
+  "title": "A RESOLUTION recognizing the guiding principles of elections in Kentucky.",
+  "abstract": "Recognize the guiding principles of elections in Kentucky.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "S. Baker",
+      "party": null,
+      "district": "85",
+      "primary": true
+    },
+    {
+      "name": "S. Bratcher",
+      "party": null,
+      "district": "25",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "J. Decker",
+      "party": null,
+      "district": "58",
+      "primary": true
+    },
+    {
+      "name": "M. Imes",
+      "party": null,
+      "district": "5",
+      "primary": true
+    },
+    {
+      "name": "K. Jackson",
+      "party": null,
+      "district": "20",
+      "primary": true
+    },
+    {
+      "name": "DJ Johnson",
+      "party": null,
+      "district": "13",
+      "primary": true
+    },
+    {
+      "name": "M. Lockett",
+      "party": null,
+      "district": "39",
+      "primary": true
+    },
+    {
+      "name": "M. Proctor",
+      "party": null,
+      "district": "60",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "taken from Rules",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to House Floor",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "adopted by voice vote",
+      "chamber": "lower",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Elections And Voting",
+    "Secretary Of State",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Passed House",
+  "last_action_date": "2026-02-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/23336b6c-961d-496c-8a13-302490306901"
+}

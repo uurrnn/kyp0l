@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-sr199",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 199",
+  "title": "A RESOLUTION recognizing April 2026 as Child Abuse Prevention Month in Kentucky.",
+  "abstract": "Recognize April 2026 as Child Abuse Prevention Month in Kentucky.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Storm",
+      "party": null,
+      "district": "21",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Commendations And Recognitions",
+    "Crime Victims"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-01",
+  "source_url": "",
+  "openstates_id": "ocd-bill/574c1cb8-3615-4d6c-9fc6-1f2cecabc814"
+}

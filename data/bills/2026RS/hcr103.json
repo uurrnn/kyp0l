@@ -1,0 +1,95 @@
+{
+  "id": "openstates-ky-2026RS-hcr103",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 103",
+  "title": "A CONCURRENT RESOLUTION establishing the Health Care Workforce Task Force to identify strategies to increase the number of health care professionals while maintaining high quality standards of care.",
+  "abstract": "Establish the Health Care Workforce Task Force to identify strategies to increase the number of health care providers while maintaining high quality standards of care; establish task force membership; require the task force to submit a report with recommendations to the Legislative Research Commission for referral to the Interim Joint Committees on Health Services and Education by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Duvall",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "S. Sharp",
+      "party": null,
+      "district": "100",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Higher",
+    "Health Care Professionals",
+    "Legislative Research Commission",
+    "Nurses",
+    "Physicians",
+    "Reports Mandated",
+    "Studies Directed",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1e5ea783-7315-44f2-8bfe-c321aeb35f0c"
+}

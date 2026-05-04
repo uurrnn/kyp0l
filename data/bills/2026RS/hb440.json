@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb440",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 440",
+  "title": "AN ACT relating to the Court of Justice.",
+  "abstract": "Amend KRS 29A.170 to increase juror pay from $5 per day to $15 per day and require that sequestered jurors be paid an additional $15 per day; amend KRS 32.011 to add local governmental units that may provide financial support for the court system and the offices of Commonwealth's attorneys serving that local community.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Charter County Government",
+    "Circuit Clerks",
+    "Civil Procedure",
+    "Consolidated Local Governments",
+    "Courts, Circuit",
+    "Courts, District",
+    "Criminal Procedure",
+    "Juries And Jurors",
+    "Local Government",
+    "Unified Local Governments"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d9c62c2e-db59-4afa-80fd-12f685c5a4c0"
+}

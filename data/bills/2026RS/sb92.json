@@ -1,0 +1,74 @@
+{
+  "id": "openstates-ky-2026RS-sb92",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 92",
+  "title": "AN ACT relating to Medicaid coverage for palliative care.",
+  "abstract": "Create a new section of KRS Chapter 205 to require Medicaid coverage for palliative care services; establish eligibility criteria and service requirements; require the Department for Medicaid Services to promulgate administrative regulations; require the Cabinet for Health and Family Services or the Department for Medicaid Services to seek federal approval if it is determined that such approval is necessary; provide authorization from the General Assembly to make changes to the Medicaid program as required under KRS 205.5372(1).",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Adams",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "D. Carroll",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Fiscal Note",
+    "Health And Medical Services",
+    "Medicaid",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-08",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5dfbfd30-2ce9-47e9-8206-54f88a408026"
+}

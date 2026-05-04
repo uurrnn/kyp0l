@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-hb268",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 268",
+  "title": "AN ACT relating to the Green Star flag.",
+  "abstract": "Create a new section of KRS Chapter 2 to adopt the Green Star flag as the Commonwealth's symbol of continued awareness of military service member and veteran suicide and commitment to recognize and resolve military service member and veteran suicide.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "M. Whitaker",
+      "party": null,
+      "district": "94",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Military Affairs And Civil Defense",
+    "State Symbols And Emblems",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/72f392c0-f879-4e69-9bb7-db5fb75f39b0"
+}

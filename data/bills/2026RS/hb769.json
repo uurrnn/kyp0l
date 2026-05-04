@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-hb769",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 769",
+  "title": "AN ACT relating to Kentucky educational excellence scholarships.",
+  "abstract": "Amend KRS 164.7881 to extend expiration of KEES eligibility from 5 to 8 years after high school graduation; amend KRS 164.7884 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    },
+    {
+      "name": "T. Bojanowski",
+      "party": null,
+      "district": "32",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Finance",
+    "Education, Higher"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7468d5bd-4a5e-423f-bef7-9b2a8216d3b5"
+}

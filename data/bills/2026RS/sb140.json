@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-sb140",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 140",
+  "title": "AN ACT relating to new public school construction.",
+  "abstract": "Amend KRS 162.060 to require a school district to notify the Transportation Cabinet before construction on a new public school building may begin; require the Transportation Cabinet to provide the chief state school officer with a design and cost estimate for any new routes to access the school site and to identify any cost estimates and improvements to existing routes serving the school site.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Webb",
+      "party": null,
+      "district": "18",
+      "primary": true
+    },
+    {
+      "name": "J. Higdon",
+      "party": null,
+      "district": "14",
+      "primary": true
+    },
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Highways, Streets, And Bridges",
+    "Housing, Building, And Construction",
+    "Public Buildings And Grounds",
+    "State Agencies",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-29",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9771f5eb-e338-4c3c-9709-2d4f0404a62c"
+}

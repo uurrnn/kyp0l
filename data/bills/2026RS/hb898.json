@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb898",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 898",
+  "title": "AN ACT relating to collective bargaining agreements.",
+  "abstract": "Create a new section of KRS Chapter 160 to define terms; require local boards of education and local associations to bargain collectively; provide that a party who violates the duty to bargain collectively is required to pay to the aggrieved party no more than $500.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Collective Bargaining",
+    "Education, Elementary And Secondary",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4a6fb9e8-33f7-44b0-b37a-d271a7a089cb"
+}

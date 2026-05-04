@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-sr135",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 135",
+  "title": "A RESOLUTION designating March 2026 as Colorectal Cancer Awareness Month in Kentucky.",
+  "abstract": "Designate March 2026 as Colorectal Cancer Awareness Month in Kentucky.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Diseases"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/51b6a395-a4f1-435f-a4b3-c553828d636f"
+}

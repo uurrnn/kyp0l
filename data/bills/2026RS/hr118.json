@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-hr118",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 118",
+  "title": "A RESOLUTION urging federal policymakers to adopt a uniform definition of \"ultra-processed food.\"",
+  "abstract": "Urge federal policymakers to adopt a uniform definition of \"ultra-processed food of concern\" and \"ultra-processed food.\"",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Fister",
+      "party": null,
+      "district": "56",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Federal Laws And Regulations",
+    "Foods And Beverages"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/13da4273-8e2a-4eed-97a5-e1d371e7dd0b"
+}

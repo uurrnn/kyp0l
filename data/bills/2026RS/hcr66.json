@@ -1,0 +1,100 @@
+{
+  "id": "openstates-ky-2026RS-hcr66",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 66",
+  "title": "A CONCURRENT RESOLUTION reestablishing the Disaster Prevention and Resiliency Task Force to study preparedness, mitigation, response, recovery, risk assessment, infrastructure resilience, and planning for natural disasters that impact the Commonwealth.",
+  "abstract": "Direct the Legislative Research Commission to reestablish the Disaster Prevention and Resiliency Task Force to study disaster mitigation, infrastructure resilience, and planning for natural disasters that impact the Commonwealth; require the task force to submit recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Freeland",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "floor amendment (1) filed",
+      "chamber": "lower",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Disasters And Recovery Efforts",
+    "Flood Control And Flooding",
+    "Legislative Research Commission",
+    "Studies Directed",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/19a8085e-6a0f-4c05-bba2-f7ae48fa1684"
+}

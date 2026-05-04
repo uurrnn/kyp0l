@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-sr92",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 92",
+  "title": "A RESOLUTION adjourning the Senate in loving memory and honor of Steven D. Doolittle.",
+  "abstract": "Adjourn in honor of Steven D. Doolittle.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Carroll",
+      "party": null,
+      "district": "2",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Memorials"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d774b66b-38c8-48d8-9985-acff7a86e336"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "openstates-ky-2026RS-hb26",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 26",
+  "title": "AN ACT relating to workers' compensation for first responders.",
+  "abstract": "Amend KRS 342.0011, relating to workers' compensation, to expand the definition of \"injury\" to include psychological injuries for police officers, firefighters, emergency medical services personnel, front-line staff members, or members of the National Guard; create a new section of KRS Chapter 342 to establish when psychological injuries are valid workers' compensation claims when not a direct result of a physical injury.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "T. Hampton",
+      "party": null,
+      "district": "62",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Emergency Medical Services",
+    "Firefighters And Fire Departments",
+    "Labor And Industry",
+    "Mental Health",
+    "Military Affairs And Civil Defense",
+    "Occupations And Professions",
+    "Peace Officers And Law Enforcement",
+    "State Employees",
+    "Workers  Compensation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/bbbf5038-2590-4952-9792-a7230b719ad2"
+}

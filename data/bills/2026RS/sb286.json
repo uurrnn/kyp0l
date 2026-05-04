@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb286",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 286",
+  "title": "AN ACT relating to natural resources.",
+  "abstract": "Amend KRS 350.475, relating to surface mining and natural resources, make technical corrections.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Coal",
+    "Minerals And Mining",
+    "Surface Mining"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/23b17e9a-c5da-4b77-bc6d-afb7c9fac8d0"
+}

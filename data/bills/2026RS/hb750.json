@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb750",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 750",
+  "title": "AN ACT relating to cychlorphine.",
+  "abstract": "Amend KRS 218A.010 to define \"cychlorphine\"; amend KRS 218A.1410 to prohibit the importing of cychlorphine with the intent to sell or distribute cychlorphine; amend KRS 218A.1412 to prohibit trafficking of cychlorphine; amend KRS 218A.14141 to prohibit unlawfully selling or distributing cychlorphine while misrepresenting the identity of the substance; amend KRS 218A.142 to prohibit aggravated trafficking of cychlorphine; amend KRS 500.080 to define \"cychlorphine\" and \"fentanyl\"; amend KRS 507.030 to expand the elements of manslaughter in the first degree to include selling cychlorphine to another person and the injection, ingestion, inhalation, or introduction of that substance causes the death of that person; amend KRS 507.040 to expand the elements of manslaughter in the second degree to include distributing cychlorphine to another person without remuneration and the injection, ingestion, inhalation, or introduction of that substance causes the death of that person; amend KRS 520.050 to enhance the penalty of promoting contraband if the dangerous contraband is cychlorphine; amend KRS 532.100 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Wilson",
+      "party": null,
+      "district": "82",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Drugs And Medicines",
+    "Local Mandate",
+    "Opioids"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3cf6ec35-90c5-4537-bdfb-9a6056425147"
+}

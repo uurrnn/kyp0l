@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb477",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 477",
+  "title": "AN ACT relating to reproduction.",
+  "abstract": "Create a new section of KRS Chapter 216 to protect access to assisted reproductive technology; create a new section of KRS Chapter 311 to declare that a fertilized human egg or human embryo that exists outside of the uterus of a human body shall not be considered an unborn child, a minor child, a natural person, or any other term that connotes a human being for any purpose under state law.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Nurses",
+    "Physicians",
+    "Reproductive Issues"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-30",
+  "source_url": "",
+  "openstates_id": "ocd-bill/68e98a3d-3162-4091-8c5b-c66a8cef15f3"
+}

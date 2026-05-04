@@ -1,0 +1,116 @@
+{
+  "id": "openstates-ky-2026RS-hb357",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 357",
+  "title": "AN ACT relating to jury duty.",
+  "abstract": "Amend KRS 29A.100 to require judges to excuse teachers from jury duty until the end of the school term if the Commonwealth is experiencing a teacher shortage.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    },
+    {
+      "name": "T. Truett",
+      "party": null,
+      "district": "89",
+      "primary": true
+    },
+    {
+      "name": "T. Bojanowski",
+      "party": null,
+      "district": "32",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "K. Jackson",
+      "party": null,
+      "district": "20",
+      "primary": true
+    },
+    {
+      "name": "D. Lewis",
+      "party": null,
+      "district": "90",
+      "primary": true
+    },
+    {
+      "name": "B. McCool",
+      "party": null,
+      "district": "97",
+      "primary": true
+    },
+    {
+      "name": "S. Riley",
+      "party": null,
+      "district": "23",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Judges And Court Commissioners",
+    "Juries And Jurors",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/eb35303e-f4e8-4e21-96b5-24fc4f480a15"
+}

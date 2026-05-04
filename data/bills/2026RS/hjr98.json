@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hjr98",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 98",
+  "title": "A JOINT RESOLUTION directing the Kentucky Department of Education to collect and report data regarding school nurses.",
+  "abstract": "Direct the Kentucky Department of Education to collect certain data regarding school nurses and report the information to the Legislative Research Commission by December 31, 2026.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Bratcher",
+      "party": null,
+      "district": "25",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Insurance, Health",
+    "Medicaid",
+    "Nurses",
+    "Reports Mandated",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/bbb5a30d-adeb-4d80-9c2a-ab1e694a8ead"
+}

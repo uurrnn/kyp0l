@@ -1,0 +1,53 @@
+{
+  "id": "openstates-ky-2026RS-sb308",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 308",
+  "title": "AN ACT relating to natural resources.",
+  "abstract": "Amend KRS 278.040 to make a technical correction.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Energy",
+    "Technical Corrections"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2ce9137d-f81b-40e0-b414-f09653a22f16"
+}

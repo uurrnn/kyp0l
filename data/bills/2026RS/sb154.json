@@ -1,0 +1,299 @@
+{
+  "id": "openstates-ky-2026RS-sb154",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 154",
+  "title": "AN ACT relating to elections.",
+  "abstract": "Amend KRS 117.228 to remove Social Security cards and public benefits cards, which do not include a person's photograph, from the available list of additional documents that may be offered to establish identity when a person seeking to cast a ballot in an election cannot provide proof of identification as required in KRS 117.225.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    },
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to State & Local Government (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "posted for passage in the Regular Orders of the Day for Friday, February 20 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-02-20",
+      "description": "3rd reading, passed 31-7",
+      "chamber": "upper",
+      "classification": [
+        "passage",
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [
+    {
+      "motion": "PASS SB 154",
+      "date": "2026-02-20",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 31,
+        "no": 7,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Storm",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "yes"
+        },
+        {
+          "name": "Higdon",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Girdler",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Berg",
+          "option": "no"
+        },
+        {
+          "name": "Clemons",
+          "option": "no"
+        },
+        {
+          "name": "Neal",
+          "option": "no"
+        },
+        {
+          "name": "Webb",
+          "option": "no"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "no"
+        },
+        {
+          "name": "Herron",
+          "option": "no"
+        },
+        {
+          "name": "Thomas",
+          "option": "no"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "County Clerks",
+    "Elections And Voting",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate, in House committee",
+  "last_action_date": "2026-02-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b1ea0f17-51ff-4a99-ad49-889bde4217d8"
+}

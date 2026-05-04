@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-hb126",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 126",
+  "title": "AN ACT relating to background checks on the sale or transfer of firearms.",
+  "abstract": "Create a new section of KRS Chapter 237 to require background checks for private firearms sales and transfers; amend KRS 237.990 to establish a penalty for violations.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Background Checks",
+    "Corrections Impact",
+    "Firearms And Weapons",
+    "Local Mandate",
+    "Police, State"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4add20b3-00f3-42f2-bf64-37eca1914f3f"
+}

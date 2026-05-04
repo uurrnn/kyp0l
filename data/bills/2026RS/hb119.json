@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb119",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 119",
+  "title": "AN ACT relating to Black History Season.",
+  "abstract": "Create a new section of KRS Chapter 2 to designate January 15 to April 4 of each year as Black History Season; require the Governor to proclaim Black History Season and to encourage Kentuckians to acknowledge its significance.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Governor",
+    "Historical Affairs",
+    "Race Relations"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2f763f45-846d-4631-aed5-c38764d8cea5"
+}

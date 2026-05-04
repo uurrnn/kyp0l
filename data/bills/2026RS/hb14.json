@@ -1,0 +1,93 @@
+{
+  "id": "openstates-ky-2026RS-hb14",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 14",
+  "title": "AN ACT relating to the rural hospital operations and facilities revolving loan fund, making an appropriation therefor, and declaring an emergency.",
+  "abstract": "Appropriate $355,000,000 in fiscal year 2026-27 to the rural hospital operations and facilities revolving loan fund; APPROPRIATION; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    },
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Appropriations",
+    "Budget And Financial Administration",
+    "Effective Dates, Emergency",
+    "Hospitals And Health Facilities"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d732096b-f8ab-4b81-9850-f8737f1e9141"
+}

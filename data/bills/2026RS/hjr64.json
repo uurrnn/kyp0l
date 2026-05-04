@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-hjr64",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 64",
+  "title": "A JOINT RESOLUTION designating the PFC Denver Wells Memorial Highway in Leslie County.",
+  "abstract": "Direct the Transportation Cabinet to designate a portion of Kentucky Route 2057 in Leslie County as the PFC Denver Wells Memorial Highway.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Lewis",
+      "party": null,
+      "district": "90",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Honorary Highway Designations",
+    "Memorials"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-18",
+  "source_url": "",
+  "openstates_id": "ocd-bill/168937ce-e978-48e7-898f-d77352e28e6b"
+}

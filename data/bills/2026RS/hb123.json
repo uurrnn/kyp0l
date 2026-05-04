@@ -1,0 +1,87 @@
+{
+  "id": "openstates-ky-2026RS-hb123",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 123",
+  "title": "AN ACT relating to criminal histories of job applicants.",
+  "abstract": "Create a new section of KRS 344.030 to 344.110 to prohibit employers from considering or requiring disclosure of prior criminal history as part of the initial job application; provide that the Act may be cited as the Ban the Box - The Criminal Record Employment Discrimination Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Rights",
+    "Labor And Industry",
+    "Personnel And Employment",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/15ca8cb3-3fc8-4452-b5b9-ddb94856c2e6"
+}

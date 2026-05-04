@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-hb446",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 446",
+  "title": "AN ACT relating to the home installation credit.",
+  "abstract": "Create a new section of KRS Chapter 141 establishing the refundable home installation credit, not to exceed $7,500 annually, for qualifying home installations to increase the habitability or efficiency of the residence for individuals that are age 65 or older or have a physical or mental impairment; effective for taxable years beginning on or after January 1, 2027, but before January 1, 2031; amend KRS 141.0205 to establish ordering of the credit; amend KRS 131.190 to allow information to be provided to the Legislative Research Commission.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "J. Nemes",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "C. Lewis",
+      "party": null,
+      "district": "29",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Aged Persons And Aging",
+    "Reports Mandated",
+    "Taxation",
+    "Taxation, Income--Individual"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-29",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d358c7fa-cf84-4664-a595-febc8de339c8"
+}

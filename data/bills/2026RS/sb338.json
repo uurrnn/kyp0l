@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb338",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 338",
+  "title": "AN ACT relating to planning and zoning.",
+  "abstract": "Amend KRS 100.217 to insert gender-neutral language.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Local Government",
+    "Planning And Zoning",
+    "Technical Corrections"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/323dd17b-53c0-4e81-b6f4-bfd5448d75c6"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hjr106",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 106",
+  "title": "A JOINT RESOLUTION directing the Council on Postsecondary Education to approve a Doctor of Philosophy in Aquaculture and Aquatic Science program at Kentucky State University.",
+  "abstract": "Authorize Kentucky State University to submit a proposal for a new Doctor of Philosophy in Aquaculture and Aquatic Science program; direct the Council on Postsecondary Education to review and approve a proposal for that program that includes a certification that the program will not require additional general fund appropriations",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Dossett",
+      "party": null,
+      "district": "9",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Education, Finance",
+    "Education, Higher",
+    "State Agencies",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/633fa2c8-21e4-4b33-a032-a511f7a699b0"
+}

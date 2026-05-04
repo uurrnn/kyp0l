@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb753",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 753",
+  "title": "AN ACT proposing an amendment to Sections 30 and 31 of the Constitution of Kentucky relating to terms for members of the Kentucky House of Representatives.",
+  "abstract": "Propose to amend Sections 30 and 31 of the Constitution of Kentucky to provide 4-year terms of office for members of the Kentucky House of Representatives beginning with those elected from even-numbered districts in November 2026 and with those elected from odd-numbered districts in November 2028; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "Elections And Voting",
+    "General Assembly"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/11cddf71-4cf6-435e-ba0d-5d1611a0e7e3"
+}

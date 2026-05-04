@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-hr54",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 54",
+  "title": "A RESOLUTION recognizing March 16 to 20, 2026, as Neurodiversity Celebration Week in the Commonwealth of Kentucky.",
+  "abstract": "Recognize March 16 to 20, 2026, as Neurodiversity Celebration Week in the Commonwealth of Kentucky.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "T. Bojanowski",
+      "party": null,
+      "district": "32",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "to House Floor",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "adopted by voice vote",
+      "chamber": "lower",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Mental Health"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Passed House",
+  "last_action_date": "2026-03-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3a074ca2-a0ae-4a14-be63-ef312ecf2f03"
+}

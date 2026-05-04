@@ -1,0 +1,98 @@
+{
+  "id": "openstates-ky-2026RS-hb766",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 766",
+  "title": "AN ACT relating to student housing.",
+  "abstract": "Create a new section of KRS Chapter 164 to prohibit public postsecondary education institutions from requiring a student who is within 6 months of turning 18 years of age or older to reside in student housing; provide exceptions.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Bratcher",
+      "party": null,
+      "district": "25",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-17",
+      "description": "reported favorably, 2nd reading, to Rules with Committee Substitute (1) and Committee Amendment (1-title)",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Education, Higher",
+    "Parental Rights",
+    "Public Buildings And Grounds",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ec967cc1-035a-40bd-b9bf-ae88a261a170"
+}

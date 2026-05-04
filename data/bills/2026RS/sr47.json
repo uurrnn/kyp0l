@@ -1,0 +1,79 @@
+{
+  "id": "openstates-ky-2026RS-sr47",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 47",
+  "title": "A RESOLUTION reaffirming the authority of locally elected school boards to govern school districts through policy and procedure in accordance with state law.",
+  "abstract": "Reaffirm the authority of locally elected school boards.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "S. West",
+      "party": null,
+      "district": "27",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Education, Elementary And Secondary"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/87a454b3-dee2-4c81-b568-61c041d7d40c"
+}

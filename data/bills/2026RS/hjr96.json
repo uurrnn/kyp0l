@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-hjr96",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 96",
+  "title": "A JOINT RESOLUTION designating the \"Tiny\" Anthony Durham Memorial Bridge in Laurel County.",
+  "abstract": "Direct the Transportation Cabinet to designate a bridge on Kentucky Route 490 in Laurel County as the \"Tiny\" Anthony Durham Memorial Bridge.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Lewis",
+      "party": null,
+      "district": "90",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Honorary Highway Designations",
+    "Memorials"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/37e70d05-d7e5-48b5-9395-8502526dcaa5"
+}

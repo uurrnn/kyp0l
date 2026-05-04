@@ -1,0 +1,76 @@
+{
+  "id": "openstates-ky-2026RS-sr201",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 201",
+  "title": "A RESOLUTION encouraging Kentucky policymakers to study, develop, and implement economic development policies to incentivize biopharmaceutical investment and innovation in Kentucky.",
+  "abstract": "Encourage Kentucky policymakers to study, develop, and implement economic development policies to incentivize biopharmaceutical investment and innovation in the Commonwealth.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Funke Frommeyer",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "R. Stivers",
+      "party": null,
+      "district": "25",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Drugs And Medicines",
+    "Economic Development",
+    "Science And Technology"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-01",
+  "source_url": "",
+  "openstates_id": "ocd-bill/0169bc6f-040d-4af3-a6b4-4c71a4027d32"
+}

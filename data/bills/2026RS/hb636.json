@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb636",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 636",
+  "title": "AN ACT relating to civil immunity for animal rescue.",
+  "abstract": "Amend KRS 411.245 to establish immunity from civil liability for damage to a vehicle caused by a person removing a domestic animal that is in danger.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Animals, Livestock, And Poultry",
+    "Civil Actions",
+    "Civil Procedure",
+    "Motor Vehicles",
+    "Safety"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/00efde94-9f55-4be1-8f18-549c702bb93f"
+}

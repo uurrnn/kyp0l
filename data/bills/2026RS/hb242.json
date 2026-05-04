@@ -1,0 +1,79 @@
+{
+  "id": "openstates-ky-2026RS-hb242",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 242",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to property exempt from taxation.",
+  "abstract": "Propose to create a new section of the Constitution of Kentucky to exempt from taxation a portion of the assessed value of real property maintained as the permanent residence of an owner who is a veteran or first responder; require an owner to meet the disability requirements under Section 170 of the Constitution of Kentucky; allow real property maintained as the permanent residence of the surviving spouse of a veteran or first responder to receive an exemption based on the qualifiers of the veteran or first responder prior to his or her death; allow the General Assembly to set qualification requirements by law; prohibit a property from receiving more than 1 exemption under this new section of the Constitution of Kentucky; allow the exemption to be in addition to the exemption provided in Section 170 of the Constitution of Kentucky; provide that the exemptions supersede contrary provisions of Sections 171, 172, and 174 of the Constitution of Kentucky; apply the exemptions to property assessed on or after January 1, 2028; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. White",
+      "party": null,
+      "district": "99",
+      "primary": true
+    },
+    {
+      "name": "B. Wesley",
+      "party": null,
+      "district": "91",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Elections And Voting",
+    "Emergency Medical Services",
+    "Firefighters And Fire Departments",
+    "Local Mandate",
+    "Police, City And County",
+    "Police, State",
+    "Property",
+    "Property Valuation Administrators",
+    "Secretary Of State",
+    "Taxation",
+    "Taxation, Property",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/152b8bd8-a525-449c-abcf-ba2223ced840"
+}

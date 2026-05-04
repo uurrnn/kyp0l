@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hr13",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 13",
+  "title": "A RESOLUTION honoring and expressing support for law enforcement officers in Kentucky and throughout the United States.",
+  "abstract": "Honor and support law enforcement officers in Kentucky and throughout the United States.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State",
+    "Public Safety"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-07",
+  "source_url": "",
+  "openstates_id": "ocd-bill/8f0425a8-e839-49ad-a88f-07d0c623889d"
+}

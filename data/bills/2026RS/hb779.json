@@ -1,0 +1,60 @@
+{
+  "id": "openstates-ky-2026RS-hb779",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 779",
+  "title": "AN ACT relating to education.",
+  "abstract": "Create a new section of KRS Chapter 158 to require district level employees to provide substitute services in the schools of the district for 1 day of every 20 in-person instructional days.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/86258235-afff-4a5a-ae1d-d92975b401f2"
+}

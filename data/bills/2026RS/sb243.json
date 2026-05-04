@@ -1,0 +1,53 @@
+{
+  "id": "openstates-ky-2026RS-sb243",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 243",
+  "title": "AN ACT relating to Juneteenth National Freedom Day.",
+  "abstract": "Amend KRS 2.147, relating to Juneteenth National Freedom Day, to include emphasis on roles of African-Americans in the history of the Commonwealth of Kentucky.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Holidays",
+    "Race Relations"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-24",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9e0361fa-75c6-44a0-9052-a5064a6e4a40"
+}

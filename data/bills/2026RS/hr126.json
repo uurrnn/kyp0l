@@ -1,0 +1,106 @@
+{
+  "id": "openstates-ky-2026RS-hr126",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 126",
+  "title": "A RESOLUTION urging the federal government to provide states with increased flexibility to design and test innovative approaches that reduce barriers to employment and promote economic self-sufficiency among individuals and families receiving public assistance.",
+  "abstract": "Urge the Congress of the United States and the relevant federal agencies to expand opportunities for states to seek flexibility, waivers, or demonstration authority under federal public assistance programs for the purpose of reducing barriers to work and supporting earned income advancement.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Heavrin",
+      "party": null,
+      "district": "18",
+      "primary": true
+    },
+    {
+      "name": "W. Williams",
+      "party": null,
+      "district": "4",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-24",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "description": "taken from Rules",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-04-01",
+      "description": "to House Floor",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "description": "adopted by voice vote",
+      "chamber": "lower",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Federal Laws And Regulations",
+    "Poverty",
+    "Public Assistance"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Passed House",
+  "last_action_date": "2026-04-01",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f320910b-0922-4cb3-950e-8093da7375b0"
+}

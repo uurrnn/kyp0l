@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sb244",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 244",
+  "title": "AN ACT relating to transportation.",
+  "abstract": "Amend KRS 186.230 and 186.120 to conform to gender-neutral language.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Higdon",
+      "party": null,
+      "district": "14",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "County Clerks",
+    "Motor Vehicles",
+    "Technical Corrections",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/0c21128f-fd7c-483f-b92f-9036d82d8287"
+}

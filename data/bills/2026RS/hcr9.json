@@ -1,0 +1,88 @@
+{
+  "id": "openstates-ky-2026RS-hcr9",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 9",
+  "title": "A CONCURRENT RESOLUTION urging the United States Congress to reinstate the able-bodied adults without dependents time limits exemption for veterans under the Supplemental Nutrition Assistance Program.",
+  "abstract": "Urge the United States Congress to reinstate veterans' exempt status from the able-bodied adults without dependents work requirements for Supplemental Nutrition Assistance Program benefits.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Federal Laws And Regulations",
+    "Foods And Beverages",
+    "Poverty",
+    "Public Assistance",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7aa0b57c-bf2f-4771-9644-a465941dc30a"
+}

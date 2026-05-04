@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb587",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 587",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to exempting property from taxation.",
+  "abstract": "Propose to create a new section of the Constitution of Kentucky to allow the General Assembly to provide by law a property tax exemption for the permanent residence of an owner who is a veteran with a service-connected disability; require the law to specify the amount of the exemption, the qualifications for claiming the exemption, and whether the exemption transfers to the veteran's surviving spouse; prohibit more than 1 exemption per permanent residence; disallow the exemption to be combined with an exemption under Section 170 of the Constitution of Kentucky; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Disabilities",
+    "Elections And Voting",
+    "General Assembly",
+    "Local Mandate",
+    "Secretary Of State",
+    "Taxation",
+    "Taxation, Property",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/23293ac4-b8b2-4a0c-ab1b-49e2a38fd8de"
+}

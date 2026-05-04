@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb384",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 384",
+  "title": "AN ACT relating to road fund receipts and declaring an emergency.",
+  "abstract": "Amend KRS 177.320 and 177.365, relating to the allocation of a portion of motor fuel tax revenue to county road aid funds and municipal road aid funds, to change the revenue-sharing formula on the portion of revenue available for revenue sharing that exceeds $775 million in any fiscal year from 18.3% for counties and 7.7% for cities to 13% for each fund; make technical corrections; amend KRS 176.241, 178.010, 179.010, and 189.503 to conform; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Bauman",
+      "party": null,
+      "district": "28",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Cities",
+    "Counties",
+    "Effective Dates, Emergency",
+    "Highways, Streets, And Bridges",
+    "Local Government",
+    "Local Mandate",
+    "Taxation",
+    "Taxation, Sales And Use",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/92c5adf9-0cc8-4631-85fe-534b0f34b024"
+}

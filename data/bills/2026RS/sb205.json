@@ -1,0 +1,74 @@
+{
+  "id": "openstates-ky-2026RS-sb205",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 205",
+  "title": "AN ACT relating to election officers.",
+  "abstract": "Amend KRS 117.045 to increase election officer pay to $120 per election day served.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Clemons",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "R. Webb",
+      "party": null,
+      "district": "18",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-17",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "County Clerks",
+    "Elections And Voting",
+    "Local Government",
+    "Local Mandate",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-17",
+  "source_url": "",
+  "openstates_id": "ocd-bill/659c693e-8816-4689-b810-117877043b3d"
+}

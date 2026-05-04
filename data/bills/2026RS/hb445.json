@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb445",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 445",
+  "title": "AN ACT relating to a cost-of-living increase to the retirement benefits for retired state employees, making an appropriation therefor, and declaring an emergency.",
+  "abstract": "Appropriate $221.4 million, $18.7 million, and $16 million in fiscal year 2026-2027 for the Kentucky Employees Retirement System (KERS) nonhazardous pension fund, the KERS hazardous pension fund, and the State Police Retirement System pension fund, respectively, to provide a one-time 2% COLA effective July 1, 2026; APPROPRIATION; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "E. Hancock",
+      "party": null,
+      "district": "57",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "W. Lawrence",
+      "party": null,
+      "district": "70",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Appropriations",
+    "Budget And Financial Administration",
+    "Effective Dates, Emergency",
+    "Police, State",
+    "Retirement And Pensions",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-29",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d42573e0-eda4-4bfd-a1cd-8dcb6bd38599"
+}

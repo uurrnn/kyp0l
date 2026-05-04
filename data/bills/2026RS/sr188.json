@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-sr188",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 188",
+  "title": "A RESOLUTION honoring the Piner Elementary School archery team for winning the 2026 Kentucky National Archery in the Schools Program 3D state championship.",
+  "abstract": "Honor the Piner Elementary School archery team for winning the 2026 Kentucky National Archery in the Schools Program 3D state championship.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-24",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Education, Elementary And Secondary"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-31",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1e19f27d-5cda-4ce3-9760-cacf07633f59"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "openstates-ky-2026RS-sb96",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 96",
+  "title": "AN ACT relating to sickle cell disease.",
+  "abstract": "Create a new section of KRS Chapter 216B to require each hospital licensed by the Cabinet for Health and Family Services to establish policies and procedures to improve care for sickle cell disease patients, develop programs to prevent and address addiction risks for sickle cell disease patients, and provide patients with education and resources by January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    },
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    },
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "G. Clemons",
+      "party": null,
+      "district": "37",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Diseases",
+    "Fiscal Note",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Nurses",
+    "Public Health",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-08",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b214634e-9f9f-4399-9de1-95c0e46b2a68"
+}

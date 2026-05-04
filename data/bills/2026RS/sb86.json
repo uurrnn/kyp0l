@@ -1,0 +1,129 @@
+{
+  "id": "openstates-ky-2026RS-sb86",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 86",
+  "title": "AN ACT relating to state and local collaboration with federal immigration law enforcement.",
+  "abstract": "Create a new section of KRS Chapter 61 to define \"Jail Enforcement Model,\" \"Task Force Model,\" and \"Warrant Service Officer Model\"; require local law enforcement and the Kentucky State Police to enter into agreements with the United States Immigration and Customs Enforcement to participate in programs established under section 287(g) of the Immigration and Nationality Act, 8 U.S.C. sec. 1357.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    },
+    {
+      "name": "G. Boswell",
+      "party": null,
+      "district": "8",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    },
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    },
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    },
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "S. Rawlings",
+      "party": null,
+      "district": "11",
+      "primary": true
+    },
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "M. Wise",
+      "party": null,
+      "district": "16",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Federal Laws And Regulations",
+    "Immigration",
+    "Jails And Jailers",
+    "Local Government",
+    "Local Mandate",
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State",
+    "Sheriffs"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/da481508-2861-48c7-979c-911204840148"
+}

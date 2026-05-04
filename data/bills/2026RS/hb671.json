@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb671",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 671",
+  "title": "AN ACT relating to the protection of elected officials.",
+  "abstract": "Create a new section of KRS Chapter 16 to define \"statewide-elected official\"; require the Department of Kentucky State Police to investigate a credible threat to kill or seriously injure a statewide-elected official; require the department to make an assessment of the threat after conducting an investigation; require the department, after making a determination that a threat is a viable threat, to identify ways to mitigate or eliminate the threat.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Bratcher",
+      "party": null,
+      "district": "25",
+      "primary": true
+    },
+    {
+      "name": "W. Williams",
+      "party": null,
+      "district": "4",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Attorney General",
+    "Auditor Of Public Accounts",
+    "Court Of Appeals",
+    "Court, Supreme",
+    "General Assembly",
+    "Governor",
+    "Judges And Court Commissioners",
+    "Lieutenant Governor",
+    "Police, State",
+    "Secretary Of State",
+    "State Agencies",
+    "Treasurer"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/335311a9-2d72-471e-81b5-ba5581909dbe"
+}

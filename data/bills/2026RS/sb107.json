@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-sb107",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 107",
+  "title": "AN ACT relating to eminent domain for solar energy projects.",
+  "abstract": "Create a new section of KRS Chapter 416 to prohibit the construction of any solar electric generating or related transmission facility on any land that was acquired by eminent domain; amend KRS 416.570 to require that as part of the verified petition required to be filed prior to an exercise of eminent domain, a condemnor shall certify that the proposed condemnation will not violate the prohibition on constructing solar electric generating or transmission facilities on condemned land.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. West",
+      "party": null,
+      "district": "27",
+      "primary": true
+    },
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cooperatives",
+    "Eminent Domain And Condemnation",
+    "Energy",
+    "Land Use",
+    "Property",
+    "Public Utilities"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3dc9e4aa-ea44-4519-996e-2a323d72e658"
+}

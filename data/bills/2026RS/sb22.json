@@ -1,0 +1,410 @@
+{
+  "id": "openstates-ky-2026RS-sb22",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 22",
+  "title": "AN ACT relating to the dual credit scholarship program.",
+  "abstract": "Amend KRS 164.786 to define \"eligible high school apprentice\" and \"eligible registered teacher apprenticeship program\"; include eligible registered teacher apprenticeship programs in the dual credit scholarship program; establish student and school district eligibility and participation requirements in the eligible registered teacher apprenticeship scholarship program.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Higdon",
+      "party": null,
+      "district": "14",
+      "primary": true
+    },
+    {
+      "name": "S. West",
+      "party": null,
+      "district": "27",
+      "primary": true
+    },
+    {
+      "name": "D. Carroll",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "R. Girdler",
+      "party": null,
+      "district": "15",
+      "primary": true
+    },
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    },
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    },
+    {
+      "name": "M. Wilson",
+      "party": null,
+      "district": "32",
+      "primary": true
+    },
+    {
+      "name": "M. Wise",
+      "party": null,
+      "district": "16",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Education (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "floor amendment (1) filed",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "floor amendment (2) filed",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "posted for passage in the Regular Orders of the Day for Thursday, January 22, 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-01-22",
+      "description": "floor amendment (1) withdrawn",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-01-22",
+      "description": "3rd reading, passed 36-1 with Floor Amendment (2)",
+      "chamber": "upper",
+      "classification": [
+        "passage",
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "description": "posted for passage in the Regular Orders of the Day for Tuesday, March 24 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-24",
+      "description": "taken from the Orders of the Day",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-24",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-04-01",
+      "description": "floor amendment (3) filed to Committee Substitute , floor amendments (1) and (2-title) filed to bill",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    }
+  ],
+  "votes": [
+    {
+      "motion": "PASS SB 22 w sfa 2",
+      "date": "2026-01-22",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 36,
+        "no": 1,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Stivers",
+          "option": "not voting"
+        },
+        {
+          "name": "Storm",
+          "option": "no"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Clemons",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Higdon",
+          "option": "yes"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "yes"
+        },
+        {
+          "name": "Webb",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Herron",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Neal",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        },
+        {
+          "name": "Girdler",
+          "option": "yes"
+        },
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "Berg",
+          "option": "yes"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Children And Minors",
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Fiscal Note",
+    "State Agencies",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate, in House committee",
+  "last_action_date": "2026-04-01",
+  "source_url": "",
+  "openstates_id": "ocd-bill/fe215898-f756-4174-8206-d3d55fc2a2db"
+}

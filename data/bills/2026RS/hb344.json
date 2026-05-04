@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb344",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 344",
+  "title": "AN ACT relating to local government.",
+  "abstract": "Create a new section of KRS Chapter 82 to define \"city,\" \"project workforce agreement,\" and \"public construction project\"; permit a city to establish a mandatory preference for awarding public construction project contracts to a contractor or group of contractors registered with an apprenticeship and training program; permit cities to negotiate wages that are higher than the state or federal minimum wage as a condition of the project workforce agreement; create a new section of KRS Chapter 337 to define \"city,\" \"prevailing wage,\" \"prevailing wage rate,\" and \"public works project\"; permit a city to enact prevailing wage ordinances; amend KRS 65.016 to grant local governments the authority to adopt and enforce ordinances that require employers in their jurisdiction to provide leave to employees and set a higher minimum wage than state and federal rates.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Charter County Government",
+    "Cities",
+    "Cities, First Class",
+    "Cities, Home Rule Class",
+    "Consolidated Local Governments",
+    "Contracts",
+    "Counties",
+    "Counties, Urban",
+    "Labor And Industry",
+    "Local Government",
+    "Public Works",
+    "Unified Local Governments",
+    "Wages And Hours"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9d970eeb-931e-44e2-a22b-023ea59cc23f"
+}

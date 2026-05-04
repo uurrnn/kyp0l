@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sr125",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 125",
+  "title": "A RESOLUTION supporting the United States Conference of Catholic Bishops' special pastoral message on immigration and affirming that immigration enforcement actions should not occur in houses of worship, schools, or hospitals.",
+  "abstract": "Support the United States Conference of Catholic Bishops' special pastoral message on immigration; affirm the protection of houses of worship, schools, and hospitals from immigration enforcement action within the Commonwealth.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary",
+    "Hospitals And Health Facilities",
+    "Immigration",
+    "Religion"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/8f9f2910-c2a6-450f-b898-b59abb0760db"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-sr35",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 35",
+  "title": "A RESOLUTION adjourning the Senate in honor and loving memory of Jerry Carol Edwards, Jr.",
+  "abstract": "Adjourn in honor and loving memory of Jerry Carol Edwards, Jr.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Elkins",
+      "party": null,
+      "district": "28",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Memorials"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d5f0382e-f940-478e-b86c-8a01d0b5ee5a"
+}

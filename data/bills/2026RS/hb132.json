@@ -1,0 +1,82 @@
+{
+  "id": "openstates-ky-2026RS-hb132",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 132",
+  "title": "AN ACT relating to economic development.",
+  "abstract": "Amend KRS 154.12-210 to require the Cabinet for Economic Development to maintain and disseminate information relating to Kentucky Office of Agricultural Policy programs to enterprises interested in locating or operating within the Commonwealth; amend KRS 154.12-213 to require the Cabinet for Economic Development to promote Kentucky Office of Agricultural Policy programs; require the Cabinet for Economic Development to submit a monthly report to the Kentucky Office of Agricultural Policy and the Legislative Research Commission; amend KRS 154.20-010 to add the Executive Director of the Kentucky Office of Agricultural Policy as an ex officio member of the Kentucky Economic Development Finance Authority.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Rudy",
+      "party": null,
+      "district": "1",
+      "primary": true
+    },
+    {
+      "name": "D. Hale",
+      "party": null,
+      "district": "74",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Agriculture (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Boards And Commissions",
+    "Economic Development",
+    "Reports Mandated",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b72c846a-f5c6-4070-9c6e-32997862c710"
+}

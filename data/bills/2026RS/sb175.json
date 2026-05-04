@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb175",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 175",
+  "title": "AN ACT relating to the establishment of the Kentucky Health Command.",
+  "abstract": "Create a new section of KRS 42.720 to 42.742 to define terms; establish the Kentucky Health Command in the Commonwealth Office of Technology; require the Kentucky Health Command to contract with a private sector entity to develop and provide standards and qualifications for the utilization of an artificial intelligence-assited virtual health platform; establish a process by which rural health care providers and facilities may contract for use of the aritificial intelligence-assisted virtual health platform; establish a process for distribution of net advertising revenue; establish activities the virtual health platform may perform; prohibit the virtual health platform from engaging in the practice of medicine or diagnosing or treating any disease, illness, or medical condition; amend KRS 42.724 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Hospitals And Health Facilities",
+    "State Agencies",
+    "Technology"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5a86fa30-a3d3-4239-a11c-dfb982f55e39"
+}

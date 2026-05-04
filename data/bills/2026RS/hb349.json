@@ -1,0 +1,76 @@
+{
+  "id": "openstates-ky-2026RS-hb349",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 349",
+  "title": "AN ACT relating to wages.",
+  "abstract": "Amend KRS 337.010  to increase the applicable threshold of employees of retail stores and service industries from $95,000 to $500,000 average annual gross volume of sales for the employer; amend KRS 337.275 to incrementally raise minimum wage of hourly and tipped employees and require adherence to any future federal increase in excess of the new state wage rates; include anti-preemption language permitting local governments to establish minimum wage ordinances in excess of the state minimum wage.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Charter County Government",
+    "Cities",
+    "Consolidated Local Governments",
+    "Counties",
+    "Labor And Industry",
+    "Local Government",
+    "Local Mandate",
+    "Personnel And Employment",
+    "Unified Local Governments",
+    "Wages And Hours",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/51d6c4db-c789-4240-bf2d-6e742dd9a877"
+}

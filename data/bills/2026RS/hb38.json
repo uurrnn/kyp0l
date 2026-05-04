@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb38",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 38",
+  "title": "AN ACT relating to alcohol licensure.",
+  "abstract": "Amend KRS 243.042 to authorize a qualified historic site licensee to sell alcoholic beverages by the package in a jurisdiction that has authorized the sale of distilled spirits and wine by the package; amend KRS 243.238 to allow a qualified historic site license to be added to the list of approved licenses that are eligible for obtaining a special permit to sell limited barrel picks; amend KRS 243.110 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Alcoholic Beverages",
+    "Distilled Spirits",
+    "Licensing",
+    "Wine And Wineries"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c840a949-3af8-4075-990d-cfb297ac8fca"
+}

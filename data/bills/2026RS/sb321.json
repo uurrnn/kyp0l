@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-sb321",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 321",
+  "title": "AN ACT relating to affordable housing programs established by local governments.",
+  "abstract": "Create a new section of KRS Chapter 65 to define terms; permit a local government to establish a revolving loan program fund to facilitate affordable housing; establish requirements for the fund; permit a local government to use bonding authority to support a fund; establish means and terms of repayment of bonds issued for a fund; permit a local government to use a fund to make loans for development of affordable housing and for rehabilitation of homes by low-income persons; allow local government to assess fines and fees for failure to repay loans as part of a program; create a lien in association with a loan issued under a program and set out priority of the lien.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Bonds, Public",
+    "Housing, Building, And Construction",
+    "Land Use",
+    "Liens",
+    "Loans, Credit, Interest, And Usury",
+    "Local Government"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/fdf73ece-7479-4b66-94e4-6ec425063004"
+}

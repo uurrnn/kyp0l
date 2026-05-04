@@ -1,0 +1,81 @@
+{
+  "id": "openstates-ky-2026RS-sr145",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 145",
+  "title": "A RESOLUTION honoring the Kentucky State Building and Construction Trades Council and recognizing March 5, 2026, as Trades Day at the Capitol.",
+  "abstract": "Honor the Kentucky State Building and Construction Trades Council and recognize Trades Day at the Capitol on March 5, 2026.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    },
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "taken from Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-05",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Housing, Building, And Construction",
+    "Labor And Industry",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a978e313-0710-4de7-a940-af18042fb70f"
+}

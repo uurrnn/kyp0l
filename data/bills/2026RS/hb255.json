@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb255",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 255",
+  "title": "AN ACT relating to criminal procedure.",
+  "abstract": "Create a new section of KRS Chapter 532 to allow evidence relevant to sentencing to be introduced by the Commonwealth and evidence in mitigation or support of leniency to be introduced by the defendant during sentencing hearings in non-felony cases.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Freeland",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Courts",
+    "Crime Victims",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Juries And Jurors",
+    "Rules Of Evidence"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f091ac78-046b-4f78-9122-bdc0e535b3e7"
+}

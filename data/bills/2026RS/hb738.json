@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-hb738",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 738",
+  "title": "AN ACT relating to unemployment insurance.",
+  "abstract": "Amend KRS 341.350, relating to unemployment insurance, to lengthen the verified definite return-to-work or recall-to-work period from 16 weeks to 12 months and add protections for employees whose place of employment can reasonably be expected to resume operations within 12 months following a natural disaster.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Disasters And Recovery Efforts",
+    "Insurance",
+    "Labor And Industry",
+    "Personnel And Employment",
+    "State Agencies",
+    "Unemployment Compensation",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1c0118d3-2587-4714-b7bb-e53d5d3baec4"
+}

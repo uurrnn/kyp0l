@@ -1,0 +1,131 @@
+{
+  "id": "openstates-ky-2026RS-hb402",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 402",
+  "title": "AN ACT relating to workers' compensation.",
+  "abstract": "Amend KRS 342.610 to remove the presumption that the use of an illegal substance prior to an accident caused the injury; provide that the use of an illegal substance shall be the proximate cause of the injury.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "T. Bojanowski",
+      "party": null,
+      "district": "32",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "E. Hancock",
+      "party": null,
+      "district": "57",
+      "primary": true
+    },
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    },
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Drugs And Medicines",
+    "Labor And Industry",
+    "Local Mandate",
+    "Occupational Safety And Health",
+    "Workers  Compensation",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d0c6d20c-d100-4575-99d7-1c576c5f7524"
+}

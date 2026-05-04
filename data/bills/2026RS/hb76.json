@@ -1,0 +1,106 @@
+{
+  "id": "openstates-ky-2026RS-hb76",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 76",
+  "title": "AN ACT relating to pretrial release.",
+  "abstract": "Create a new section of KRS Chapter 431 to define terms; provide that a person shall not be eligible for pretrial release until he or she can provide proof of citizenship or that he or she is lawfully permitted to be in the United States; provide that a person shall not be held for longer than 48 hours due to his or her inability to provide proof of citizenship or permission to be in the United States; require a law enforcement agency, jail, or regional jail that has custody of a person who cannot provide proof of citizenship or that he or she is lawfully permitted to be in the United States to immediately notify the United States Department of Homeland Security to determine if the person is a citizen, lawfully permitted to be in the United States, or subject to a United States Immigration and Customs Enforcement detainer; provide that the lack of proof of citizenship or permission to be in the United States shall be considered when completing a pretrial risk assessment.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "D. Fister",
+      "party": null,
+      "district": "56",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Bail And Pretrial Release",
+    "Corrections Impact",
+    "Courts",
+    "Courts, Circuit",
+    "Courts, District",
+    "Criminal Procedure",
+    "Homeland Security",
+    "Immigration",
+    "Jails And Jailers",
+    "Local Mandate",
+    "Peace Officers And Law Enforcement"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ffe4bcb8-a27e-4fcd-a218-f512381ae0f7"
+}

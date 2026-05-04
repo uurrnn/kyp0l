@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-sb336",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 336",
+  "title": "AN ACT relating to juvenile justice, making an appropriation therefor, and declaring an emergency.",
+  "abstract": "Create a new section of KRS Chapter 15A to create the juvenile services fund within the Department of Juvenile Justice; appropriate money to the fund; APPROPRIATION; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Appropriations",
+    "Children And Minors",
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Effective Dates, Emergency",
+    "Funds"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1faca273-c04f-47e7-b57a-a4a380acb7d1"
+}

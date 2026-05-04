@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-sb146",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 146",
+  "title": "AN ACT relating to filings with the county clerk.",
+  "abstract": "Amend KRS 64.012 to establish a flat fee of $33 to record a will or court-ordered name change with a county clerk; amend KRS 142.010 to establish a $4 tax on each recorded will; amend KRS 394.300 to establish timelines for retention and return of a recorded will by a county clerk; amend KRS 395.015 to authorize the clerk of the court to collect information and the applicable fee and tax on wills recorded by the court clerk; amend KRS 401.040 to authorize the clerk of the court to collect the recording fee for a court-ordered name change order on behalf of the county clerk; amend KRS 395.160 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Adams",
+      "party": null,
+      "district": "36",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Circuit Clerks",
+    "County Clerks",
+    "Local Mandate",
+    "Public Records And Reports",
+    "Taxation",
+    "Wills, Trusts, And Estates"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/afab5a4c-fd1d-412c-aa9d-4b00756cbdb1"
+}

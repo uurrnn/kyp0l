@@ -1,0 +1,82 @@
+{
+  "id": "openstates-ky-2026RS-sr128",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 128",
+  "title": "A RESOLUTION adjourning the Senate in honor and loving memory of William \"Will\" Prebble Coomes.",
+  "abstract": "Adjourn in honor and loving memory of William \"Will\" Prebble Coomes.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Wise",
+      "party": null,
+      "district": "16",
+      "primary": true
+    },
+    {
+      "name": "J. Higdon",
+      "party": null,
+      "district": "14",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Memorials"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/425c1e34-eec7-4e95-896a-40031c644208"
+}

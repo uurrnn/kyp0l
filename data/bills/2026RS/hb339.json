@@ -1,0 +1,94 @@
+{
+  "id": "openstates-ky-2026RS-hb339",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 339",
+  "title": "AN ACT relating to employment protections for members of the Civil Air Patrol.",
+  "abstract": "Create a new section of KRS Chapter 36 to define \"employee\"; and \"employer\" provide employment protections for members of the Civil Air Patrol in private businesses and local governments; amend KRS 61.394 to extend state government employment protections to members of the Civil Air Patrol.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "W. Thomas",
+      "party": null,
+      "district": "8",
+      "primary": true
+    },
+    {
+      "name": "R. Duvall",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    },
+    {
+      "name": "S. Sharp",
+      "party": null,
+      "district": "100",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Aeronautics And Aviation",
+    "Business Entities And Organizations",
+    "Cities",
+    "Counties",
+    "Labor And Industry",
+    "Local Government",
+    "Local Mandate",
+    "Military Affairs And Civil Defense",
+    "Personnel And Employment",
+    "State Employees",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b1793474-bd28-4e09-91d6-315e0d7094fe"
+}

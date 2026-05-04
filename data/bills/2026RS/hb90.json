@@ -1,0 +1,114 @@
+{
+  "id": "openstates-ky-2026RS-hb90",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 90",
+  "title": "AN ACT relating to educational lobbying.",
+  "abstract": "Create a new section of KRS Chapter 160 to define \"lobbying\" and \"public school or school district\"; prohibit a public school or school district from expending any moneys to compensate an external individual or entity to lobby; permit employees of public schools or school districts to engage in lobbying services; permit schools to compensate external individuals or entities to represent their interest before the executive or legislative branch of the federal government; create a new section of KRS Chapter 164 to prohibit a public postsecondary education institution from expending moneys to compensate an external individual or entity to engage in lobbying services; permit employees of public postsecondary education institutions to engage in lobbying services; permit public postsecondary education institutions to compensate external individuals or entities to represent their interest before the executive or legislative branch of the federal government.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "D. Hale",
+      "party": null,
+      "district": "74",
+      "primary": true
+    },
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    },
+    {
+      "name": "J. Bauman",
+      "party": null,
+      "district": "28",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "T. Huff",
+      "party": null,
+      "district": "49",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cooperatives",
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Education, Higher",
+    "General Assembly",
+    "Governor",
+    "Lieutenant Governor",
+    "Public Officers And Employees",
+    "Secretary Of State",
+    "State Agencies",
+    "State Employees",
+    "Teachers",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/01bdb1be-f969-45cf-bd79-79ac44cc4101"
+}

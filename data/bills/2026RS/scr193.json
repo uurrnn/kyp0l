@@ -1,0 +1,80 @@
+{
+  "id": "openstates-ky-2026RS-scr193",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SCR 193",
+  "title": "A CONCURRENT RESOLUTION continuing the Make America Healthy Again Kentucky Task Force to explore ways to integrate the principles of the Make America Healthy Again movement to improve health outcomes of Kentuckians.",
+  "abstract": "Declare the General Assembly's support for the goals of the Make America Healthy Again movement; continue the Make America Healthy Again Kentucky Task Force to integrate the principles of the Make America Healthy Again movement; establish task force membership; require the task force to submit a report with recommendations to the Governor and the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Funke Frommeyer",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "S. Rawlings",
+      "party": null,
+      "district": "11",
+      "primary": true
+    },
+    {
+      "name": "C. Richardson",
+      "party": null,
+      "district": "3",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-25",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Legislative Research Commission",
+    "Public Health",
+    "Reports Mandated",
+    "Studies Directed",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b9e1268d-7284-4dbe-b2c8-06bbf6d8e0c2"
+}

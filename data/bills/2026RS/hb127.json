@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb127",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 127",
+  "title": "AN ACT relating to offender reentry.",
+  "abstract": "Amend KRS 186.417 to require that felony offenders released from county jails and local correctional facilities be issued personal identification cards or operator's licenses under certain conditions.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections And Correctional Facilities, State",
+    "Corrections Impact",
+    "Counties",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Jails And Jailers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/345a47de-cbfd-43d1-be63-b147120050a9"
+}

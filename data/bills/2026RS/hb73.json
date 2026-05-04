@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-hb73",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 73",
+  "title": "AN ACT relating to interest on medical debt.",
+  "abstract": "Create a new section of KRS Chapter 360 to define \"medical debt\"; establish a maximum interest rate of 3% on medical debt; amend KRS 360.020 to expand the civil penalty for excessive interest on medical debt; amend KRS 360.040 to establish a maximum interest rate of 3% on judgments rendered in an action to collect medical debt; make technical amendments; amend KRS 216B.250 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Consumer Protection",
+    "Financial Responsibility",
+    "Health And Medical Services",
+    "Loans, Credit, Interest, And Usury",
+    "Local Mandate",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3f822501-2e3c-4d68-b994-92f0025e52eb"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb367",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 367",
+  "title": "AN ACT relating to investor-owned electric utilities.",
+  "abstract": "Amend KRS 278.160 to prohibit the collection of charges and fees for other governmental units by an investor-owned electric utility; prohibit the collection of certain surcharges and amounts that are not directly and exclusively related to the provision of electric service; require investor owned utilities to file new tariffs 90 days after December 30, 2026; EFFECTIVE December 30, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. McCool",
+      "party": null,
+      "district": "97",
+      "primary": true
+    },
+    {
+      "name": "M. Whitaker",
+      "party": null,
+      "district": "94",
+      "primary": true
+    },
+    {
+      "name": "S. Bratcher",
+      "party": null,
+      "district": "25",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Effective Dates, Delayed",
+    "Energy",
+    "Environment And Conservation",
+    "Local Government",
+    "Local Mandate",
+    "Public Utilities"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d942a76e-3090-41e4-bdec-98f159af3ef3"
+}

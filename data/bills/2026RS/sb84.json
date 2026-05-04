@@ -1,0 +1,91 @@
+{
+  "id": "openstates-ky-2026RS-sb84",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 84",
+  "title": "AN ACT relating to timely emergency response by coroners, making an appropriation therefor and declaring an emergency.",
+  "abstract": "Create a new section of KRS Chapter 39A to require the county coroners, in consultation with the Kentucky Coroners Association, to create emergency response areas and equip each district with an emergency response trailer with necessary equipment to adequately respond to a multiple fatality event; require the Division of Emergency Management to promulgate administrative regulations; APPROPRIATION; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Veterans, Military Affairs, & Public Protection (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "recommitted to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Appropriations",
+    "Associations",
+    "Coroners",
+    "Counties",
+    "Disasters And Recovery Efforts",
+    "Effective Dates, Emergency",
+    "Local Mandate",
+    "Military Affairs And Civil Defense",
+    "Public Officers And Employees"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed_committee",
+    "governor": null
+  },
+  "current_status": "passed committee Senate",
+  "last_action_date": "2026-01-30",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f07859a2-ae2b-4cac-9dae-7bf1d3556049"
+}

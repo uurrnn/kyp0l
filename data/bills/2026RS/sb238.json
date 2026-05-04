@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb238",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 238",
+  "title": "AN ACT relating to the forensic processing of firearms.",
+  "abstract": "Create a new section of KRS Chapter 15 to require law enforcement agencies to transmit information to national law enforcement databases about firearms and shell casings collected during criminal investigations.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Firearms And Weapons",
+    "Local Mandate",
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-24",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c56090bb-76eb-4e2e-95c1-18b85328a6f4"
+}

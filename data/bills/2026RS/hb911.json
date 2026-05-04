@@ -1,0 +1,107 @@
+{
+  "id": "openstates-ky-2026RS-hb911",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 911",
+  "title": "AN ACT relating to planning and zoning.",
+  "abstract": "Amend KRS 100.326 to define terms; prohibit planning units from adopting or enforcing certain specified ordinances or regulations concerning aspects of commercial uses; state that a single principal structure or building on a single lot in a commercial zone for a permitted use shall be approved without a development plan; establish a cause of action by a developer to bring suit for a violation of the section; create a new section of KRS Chapter 100 to state that a planning units activities are subject to its own land use and planning and zoning regulations.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Rudy",
+      "party": null,
+      "district": "1",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-16",
+      "description": "taken from Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-16",
+      "description": "2nd reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "returned to Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Business Entities And Organizations",
+    "Cities",
+    "Civil Actions",
+    "Commerce",
+    "Counties",
+    "Land Use",
+    "Local Government",
+    "Planning And Zoning"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/6fcc3d5c-b7eb-4b0c-b0cd-d663fdb43dc1"
+}

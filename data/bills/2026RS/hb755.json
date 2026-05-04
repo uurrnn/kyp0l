@@ -1,0 +1,255 @@
+{
+  "id": "openstates-ky-2026RS-hb755",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 755",
+  "title": "AN ACT relating to associations and individual representation rights.",
+  "abstract": "Create a new section of KRS Chapter 336 to allow public employee collective bargaining organizations to represent only dues-paying members; allow nonmember employees to be represented by counsel of their choosing, subject to reasonable employer procedures; grant the labor organization the right to represent a nonmember employee in an action involving the interpretation or enforcement of a collective bargaining agreement; allow nonmember employees to enter into a written agreement with the labor organization for representation for a reasonable fee; apply to agreements entered into or renewed on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Nemes",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "P. Flannery",
+      "party": null,
+      "district": "96",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "J. Bauman",
+      "party": null,
+      "district": "28",
+      "primary": true
+    },
+    {
+      "name": "R. Bivens",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "J. Blanton",
+      "party": null,
+      "district": "92",
+      "primary": true
+    },
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    },
+    {
+      "name": "K. Fleming",
+      "party": null,
+      "district": "48",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "C. Lewis",
+      "party": null,
+      "district": "29",
+      "primary": true
+    },
+    {
+      "name": "B. McCool",
+      "party": null,
+      "district": "97",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    },
+    {
+      "name": "T. Smith",
+      "party": null,
+      "district": "86",
+      "primary": true
+    },
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    },
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    },
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    },
+    {
+      "name": "S. Witten",
+      "party": null,
+      "district": "31",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-17",
+      "description": "reported favorably, 2nd reading, to Rules with Committee Substitute (1)",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Collective Bargaining",
+    "Labor And Industry",
+    "Local Mandate",
+    "Public Officers And Employees",
+    "State Employees",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3fc5a84c-ae52-4199-92d9-64e712afc424"
+}

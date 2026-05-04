@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb741",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 741",
+  "title": "AN ACT relating to personal delivery devices.",
+  "abstract": "Create a new section of KRS Chapter 189 to define \"business entity,\" \"pedestrian area,\" and \"personal delivery device\"; establish where a personal delivery device may be used; establish the requirements for a personal delivery device; set forth when a personal delivery device shall not be used; require that a business entity operating a personal delivery device have at least $100,000 in general liability coverage; establish that local governments shall not impose any tax or fee on a personal delivery device or business entity operating it; amend KRS 186.010 and 189.010 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Lewis",
+      "party": null,
+      "district": "29",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Highways, Streets, And Bridges",
+    "Insurance",
+    "Local Government",
+    "Traffic Safety",
+    "Transportation",
+    "Unified Local Governments"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c78b5d41-0f58-4993-b1c1-ab6f992ccc75"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hjr90",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 90",
+  "title": "A JOINT RESOLUTION directing the establishment of the Real Estate Modernization Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Real Estate Modernization Task Force to conduct a review of the real property laws of the Commonwealth; establish task force membership; require the task force to meet at least monthly during the 2026 Interim; require the task force to submit its findings and recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Tipton",
+      "party": null,
+      "district": "53",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "General Assembly",
+    "Legislative Research Commission",
+    "Property",
+    "Real Estate",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/db8ac428-1ddc-49d8-9df6-b21c2d771b48"
+}

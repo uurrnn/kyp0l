@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-hb28",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 28",
+  "title": "AN ACT relating to education opportunity accounts.",
+  "abstract": "Repeal various sections of KRS Chapter 141 to repeal the Education Opportunity Account Program; amend KRS 141.0205 and 131.190 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Charitable And Nonprofit Organizations",
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Income--Corporate",
+    "Taxation, Income--Individual"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3f3d3663-fdd5-4b9f-b2dd-efc502945bb2"
+}

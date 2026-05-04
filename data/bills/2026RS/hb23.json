@@ -1,0 +1,91 @@
+{
+  "id": "openstates-ky-2026RS-hb23",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 23",
+  "title": "AN ACT relating to reproductive health care.",
+  "abstract": "Create a new section of KRS 311.710 to 311.820 to define terms; establish privacy protections for a woman seeking reproductive health care outside of the Commonwealth; establish protections for any person or entity assisting a woman seeking reproductive health care outside of the Commonwealth; establish a civil cause of action for violations; waive sovereign immunity protections of the Commonwealth.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    },
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Civil Procedure",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Public Health",
+    "Reproductive Issues",
+    "State Agencies",
+    "Women"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/09593434-5e67-4414-936f-3315ee1cfcd4"
+}

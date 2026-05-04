@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb358",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 358",
+  "title": "AN ACT relating to paramedic education.",
+  "abstract": "Create a new section of KRS 164.740 to 164.7891 to establish a coal county paramedic scholarship to be administered by the Kentucky Higher Education Assistance Authority (KHEAA); define terms; establish a fund in the State Treasury to be administered by KHEAA for providing coal county paramedic scholarships.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Tackett Laferty",
+      "party": null,
+      "district": "95",
+      "primary": true
+    },
+    {
+      "name": "C. Fugate",
+      "party": null,
+      "district": "84",
+      "primary": true
+    },
+    {
+      "name": "T. Truett",
+      "party": null,
+      "district": "89",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Education, Finance",
+    "Education, Higher",
+    "State Agencies",
+    "Taxation, Severance",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b2223063-4b84-49f0-b8c8-81ae7e397ffa"
+}

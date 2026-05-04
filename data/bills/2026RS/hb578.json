@@ -1,0 +1,112 @@
+{
+  "id": "openstates-ky-2026RS-hb578",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 578",
+  "title": "AN ACT relating to unemployment insurance.",
+  "abstract": "Amend KRS 341.005 to define \"certified mail,\" \"multi-factor authentication,\" and \"notice\"; creates a new section of KRS Chapter 341 to require any notice from the secretary of the Education and Labor Cabinet or any employer to employers or employees to be in writing and delivered by any method of governmental, commercial, or electronic delivery; require the secretary to provide employers and employees the option to receive only electronic notices; require the electronic notice system to utilize effective privacy controls, including multi-factor authentication procedures.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "R. Bivens",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "R. Dotson",
+      "party": null,
+      "district": "73",
+      "primary": true
+    },
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "F. Rabourn",
+      "party": null,
+      "district": "47",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "A. Thompson",
+      "party": null,
+      "district": "98",
+      "primary": true
+    },
+    {
+      "name": "T. Truett",
+      "party": null,
+      "district": "89",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Labor And Industry",
+    "Notices",
+    "State Agencies",
+    "Unemployment Compensation",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ac4d84f0-45d3-4e15-8e9d-1a6daf1ce778"
+}

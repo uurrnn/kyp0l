@@ -1,0 +1,641 @@
+{
+  "id": "openstates-ky-2026RS-hb9",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 9",
+  "title": "AN ACT relating to regulated substances and declaring an emergency.",
+  "abstract": "Create new sections of KRS Chapter 138 to define terms; impose a 4% state retail regulatory license fee on all alcoholic beverage and cannabis-infused beverage sales to consumers by alcoholic beverage retailers; establish procedures and duties of retailers; impose state wholesale regulatory license fees on alcoholic beverages and cannabis-infused beverages and state retail regulatory license fees on kratom, hemp-derived, and cannabinoid products; set out regulatory license fee rates, deductions for timely filing and payment, and licensee duties; amend KRS 211.285 to fund the alcohol wellness and responsibility education fund with 0.5% of the collected state retail regulatory license fees; create a new section of KRS Chapter 217 to establish Department for Public Health laboratory and testing standards and procedures; amend KRS 241.010 to define \"state or national conference\" and redefine \"alcoholic beverages\"; amend KRS 241.069 to delete outdated language; amend various sections of KRS Chapter 243 to establish state license fees for new and existing license types; limit licensee discipline to only the specific license in question; establish a souvenir package license for distillers; authorize distillers, small farm wineries, and microbreweries to allow leashed dogs on their premises; allow caterers and special temporary auction licensees at state and national conferences; modify the privileges for various licensees, including a wholesaler, Class B distiller, and special agent or solicitor; add references to the new tax structure and statutes; modify requirements for public notice of a license application; sunset existing excise, wholesale, and other taxes on July 1, 2027, as they relate to alcoholic beverages and cannabis-infused beverages; repeal and reenact KRS 243.075, relating to local regulatory license fees, to allow any moist or wet city or county to impose the fee; authorize audits of each city's or county's regulatory license fee fund by the Auditor of Public Accounts for the most recent 10 years; describe audit penalties for cities and counties that fail to substantially comply; direct cities and counties to reduce the regulatory license fee to 3% within 4 years; limit future cities and counties to a 1% regulatory license fee; amend KRS 244.080 to permanently prohibit a retail license from using a premises if the licensee sold to minors at that premises 3 or more times in 24 months; amend KRS 244.585 to establish limitations for agreements between distributors and breweries or microbreweries; amend KRS 131.250, 139.010, 243.045, 243.430, 243.790, 243.850, and 243.990 to conform; EFFECTIVE, in part, July 1, 2027; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Petrie",
+      "party": null,
+      "district": "16",
+      "primary": true
+    },
+    {
+      "name": "M. Koch",
+      "party": null,
+      "district": "72",
+      "primary": true
+    },
+    {
+      "name": "D. Osborne",
+      "party": null,
+      "district": "59",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "taken from Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-06",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "returned to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-06",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "taken from Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-09",
+      "description": "2nd reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "returned to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-10",
+      "description": "reported favorably, to Rules with Committee Substitute (1)",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "taken from Rules",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-10",
+      "description": "placed in the Orders of the Day",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-10",
+      "description": "3rd reading, passed 63-31 with Committee Substitute (1)",
+      "chamber": "lower",
+      "classification": [
+        "passage",
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "received in Senate",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "taken from Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-27",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "returned to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-31",
+      "description": "taken from Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-31",
+      "description": "2nd reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "returned to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-04-14",
+      "description": "floor amendments (1), (2) and (3) filed",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [
+    {
+      "motion": "Pass",
+      "date": "2026-03-10",
+      "chamber": "lower",
+      "result": "pass",
+      "counts": {
+        "yes": 63,
+        "no": 31,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Aull",
+          "option": "yes"
+        },
+        {
+          "name": "Elliott",
+          "option": "yes"
+        },
+        {
+          "name": "Hodgson",
+          "option": "yes"
+        },
+        {
+          "name": "Miles",
+          "option": "yes"
+        },
+        {
+          "name": "Tackett Laferty",
+          "option": "yes"
+        },
+        {
+          "name": "Bauman",
+          "option": "yes"
+        },
+        {
+          "name": "Fister",
+          "option": "yes"
+        },
+        {
+          "name": "Huff T",
+          "option": "yes"
+        },
+        {
+          "name": "Neighbors",
+          "option": "yes"
+        },
+        {
+          "name": "Tate",
+          "option": "yes"
+        },
+        {
+          "name": "Bivens",
+          "option": "yes"
+        },
+        {
+          "name": "Flannery",
+          "option": "yes"
+        },
+        {
+          "name": "Imes",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Blanton",
+          "option": "yes"
+        },
+        {
+          "name": "Fleming",
+          "option": "yes"
+        },
+        {
+          "name": "Jackson",
+          "option": "yes"
+        },
+        {
+          "name": "Osborne",
+          "option": "yes"
+        },
+        {
+          "name": "Thompson",
+          "option": "yes"
+        },
+        {
+          "name": "Branscum",
+          "option": "yes"
+        },
+        {
+          "name": "Fugate",
+          "option": "yes"
+        },
+        {
+          "name": "Johnson",
+          "option": "yes"
+        },
+        {
+          "name": "Payne",
+          "option": "yes"
+        },
+        {
+          "name": "Tipton",
+          "option": "yes"
+        },
+        {
+          "name": "Bratcher S.",
+          "option": "yes"
+        },
+        {
+          "name": "Gooch",
+          "option": "yes"
+        },
+        {
+          "name": "Koch",
+          "option": "yes"
+        },
+        {
+          "name": "Petrie",
+          "option": "yes"
+        },
+        {
+          "name": "Truett",
+          "option": "yes"
+        },
+        {
+          "name": "Bray",
+          "option": "yes"
+        },
+        {
+          "name": "Griffee",
+          "option": "yes"
+        },
+        {
+          "name": "Lawrence",
+          "option": "yes"
+        },
+        {
+          "name": "Pollock",
+          "option": "yes"
+        },
+        {
+          "name": "Upchurch",
+          "option": "yes"
+        },
+        {
+          "name": "Bridges",
+          "option": "yes"
+        },
+        {
+          "name": "Grossberg",
+          "option": "yes"
+        },
+        {
+          "name": "Lewis C",
+          "option": "yes"
+        },
+        {
+          "name": "Raymer",
+          "option": "yes"
+        },
+        {
+          "name": "Wesley",
+          "option": "yes"
+        },
+        {
+          "name": "Callaway",
+          "option": "yes"
+        },
+        {
+          "name": "Grossl",
+          "option": "yes"
+        },
+        {
+          "name": "Lewis D",
+          "option": "yes"
+        },
+        {
+          "name": "Riley",
+          "option": "yes"
+        },
+        {
+          "name": "Whitaker",
+          "option": "yes"
+        },
+        {
+          "name": "Decker",
+          "option": "yes"
+        },
+        {
+          "name": "Hale",
+          "option": "yes"
+        },
+        {
+          "name": "Lockett",
+          "option": "yes"
+        },
+        {
+          "name": "Rudy",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Donworth",
+          "option": "yes"
+        },
+        {
+          "name": "Hampton",
+          "option": "yes"
+        },
+        {
+          "name": "McPherson",
+          "option": "yes"
+        },
+        {
+          "name": "Sharp",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Dossett",
+          "option": "yes"
+        },
+        {
+          "name": "Hart",
+          "option": "yes"
+        },
+        {
+          "name": "Meade",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Witten",
+          "option": "yes"
+        },
+        {
+          "name": "Duvall",
+          "option": "yes"
+        },
+        {
+          "name": "Heavrin",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Baker",
+          "option": "no"
+        },
+        {
+          "name": "Dietz",
+          "option": "no"
+        },
+        {
+          "name": "Holloway",
+          "option": "no"
+        },
+        {
+          "name": "Marzian",
+          "option": "no"
+        },
+        {
+          "name": "Roarx",
+          "option": "no"
+        },
+        {
+          "name": "Banta",
+          "option": "no"
+        },
+        {
+          "name": "Doan",
+          "option": "no"
+        },
+        {
+          "name": "King",
+          "option": "no"
+        },
+        {
+          "name": "Massaroni",
+          "option": "no"
+        },
+        {
+          "name": "Roberts",
+          "option": "no"
+        },
+        {
+          "name": "Bojanowski",
+          "option": "no"
+        },
+        {
+          "name": "Dotson",
+          "option": "no"
+        },
+        {
+          "name": "Kulkarni",
+          "option": "no"
+        },
+        {
+          "name": "Moore",
+          "option": "no"
+        },
+        {
+          "name": "Stalker",
+          "option": "no"
+        },
+        {
+          "name": "Burke",
+          "option": "no"
+        },
+        {
+          "name": "Freeland",
+          "option": "no"
+        },
+        {
+          "name": "Lehman",
+          "option": "no"
+        },
+        {
+          "name": "Moser",
+          "option": "no"
+        },
+        {
+          "name": "Stevenson P",
+          "option": "no"
+        },
+        {
+          "name": "Calloway",
+          "option": "no"
+        },
+        {
+          "name": "Gentry",
+          "option": "no"
+        },
+        {
+          "name": "Lewis S",
+          "option": "no"
+        },
+        {
+          "name": "Proctor",
+          "option": "no"
+        },
+        {
+          "name": "Watkins",
+          "option": "no"
+        },
+        {
+          "name": "Camuel",
+          "option": "no"
+        },
+        {
+          "name": "Gordon",
+          "option": "no"
+        },
+        {
+          "name": "Maddox",
+          "option": "no"
+        },
+        {
+          "name": "Rabourn",
+          "option": "no"
+        },
+        {
+          "name": "Willner",
+          "option": "no"
+        },
+        {
+          "name": "Clines",
+          "option": "no"
+        },
+        {
+          "name": "Bowling",
+          "option": "not voting"
+        },
+        {
+          "name": "Chester-Burton",
+          "option": "not voting"
+        },
+        {
+          "name": "Hancock",
+          "option": "not voting"
+        },
+        {
+          "name": "McCool",
+          "option": "not voting"
+        },
+        {
+          "name": "White",
+          "option": "not voting"
+        },
+        {
+          "name": "Brown",
+          "option": "not voting"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Alcoholic Beverages",
+    "Auditor Of Public Accounts",
+    "Contracts",
+    "Distilled Spirits",
+    "Drugs And Medicines",
+    "Effective Dates, Delayed",
+    "Effective Dates, Emergency",
+    "Fees",
+    "Foods And Beverages",
+    "Licensing",
+    "Local Government",
+    "Malt Beverages",
+    "Sunset Legislation",
+    "Taxation",
+    "Taxation, Sales And Use",
+    "Trade Practices And Retailing",
+    "Wine And Wineries"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "Passed House, in Senate committee",
+  "last_action_date": "2026-04-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9a2650d7-ef37-4e27-a189-2418efb514f3"
+}

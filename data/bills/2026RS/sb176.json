@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb176",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 176",
+  "title": "AN ACT relating to campaign finance.",
+  "abstract": "Amend KRS 121.180 to allow any member of the General Assembly who has a remaining balance in his or her campaign account to transfer those funds to a campaign account to seek election to statewide constitutional office.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Campaign Finance",
+    "Elections And Voting",
+    "General Assembly"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e06ca9bf-34a8-4bf7-b050-a31ea23afa1f"
+}

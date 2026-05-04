@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb656",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 656",
+  "title": "AN ACT relating to deferred deposit transaction fees imposed by the commissioner.",
+  "abstract": "Amend KRS 286.9-140 to require the commissioner of the Department of Financial Institutions to impose a $3 fee per deferred deposit transaction for data required to be submitted by a deferred deposit service business licensee; direct that the Act applies to deferred deposit transactions entered or or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Pollock",
+      "party": null,
+      "district": "51",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Banks And Financial Institutions",
+    "Fees",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d10d6e2f-6ff2-4e4b-a2c0-e074c48777d2"
+}

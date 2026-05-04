@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-sr84",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 84",
+  "title": "A RESOLUTION honoring Harriet Thompson of Winchester, Kentucky, for her service to her community and the Clark County Republican Women\u00e2\u0080\u0099s Club.",
+  "abstract": "Adjourn in honor of Harriet Thompson for her service to her community and the Clark County Republican Women's Club.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Elkins",
+      "party": null,
+      "district": "28",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-02-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2eb0797a-75d4-4a6b-8180-3b9779b50598"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-hb862",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 862",
+  "title": "AN ACT relating to materials, programs, or events alleged to be harmful to minors.",
+  "abstract": "Amend KRS 158.192 to require a local board of education to allow parents and guardians an opportunity to orally recite passages from materials, programs, or events that are subject to appeal; require immediate removal of the material, program, or event if the board denies a parent or guardian the opportunity to orally recite passages.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary",
+    "Parental Rights"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/02bfce2e-d9e0-4cb7-b3fb-7e161991c9cb"
+}

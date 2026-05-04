@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-sr25",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 25",
+  "title": "A RESOLUTION honoring the service of Donna Sue Baker to her community and the Commonwealth.",
+  "abstract": "Honor Donna Sue Baker for her service to her community and the Commonwealth.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Storm",
+      "party": null,
+      "district": "21",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3a928f61-9597-41b6-9a2b-be37f1a02a31"
+}

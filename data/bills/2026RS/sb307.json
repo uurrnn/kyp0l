@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-sb307",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 307",
+  "title": "AN ACT relating to step therapy protocols.",
+  "abstract": "Amend KRS 304.17A-163 to modify the definition of \"health plan\"; require insurers, health plans, private review agents, and pharmacy benefit managers to disclose certain information about step therapy protocols on their website and ensure that the electronic process for requesting and transmitting prior authorization for a drug includes the ability for prescribing providers to electronically transmit a complete request for a step therapy exception; require coverage for a prescription drug on the date the provider submits a step therapy exception request; provide that requirements apply to Medicaid and KCHIP benefits to the extent authorized by federal law; require the Cabinet for Health and Family Services or the Department for Medicaid Services to seek federal approval if it is determined that such approval is necessary; provide authorization from the General Assembly to make changes in the Medicaid program as required under KRS 205.5372(1); provide that the Act applies to policies, certificates, contracts, and plans issued or renewed on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Children And Minors",
+    "Drugs And Medicines",
+    "Education, Higher",
+    "Health And Medical Services",
+    "Health Benefit Plan Mandate",
+    "Health Care Professionals",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid",
+    "Pharmacists",
+    "Physicians",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/87bd543c-3e81-468b-8a6c-45b6e2ffb0f7"
+}

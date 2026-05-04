@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb155",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 155",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to the exemption of state and local excise, sales, and use taxes from food, food ingredients, prescription drugs, and residential and on-farm utilities.",
+  "abstract": "Propose to create a new section of the Constitution of Kentucky to exempt from state and local excise, sales, and use taxes food, food ingredients, prescription drugs, residential utilities, and on-farm utilities; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Elections And Voting",
+    "Local Government",
+    "Local Mandate",
+    "Taxation",
+    "Taxation, Sales And Use"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/48a923cf-a854-4f1f-b550-ed641b95e340"
+}

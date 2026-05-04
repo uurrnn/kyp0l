@@ -1,0 +1,95 @@
+{
+  "id": "openstates-ky-2026RS-hb285",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 285",
+  "title": "AN ACT relating to a property tax homestead exemption for disabled veterans.",
+  "abstract": "Create a new section of KRS Chapter 132, relating to state and local property taxes, to establish a homestead exemption in an amount up to $100,000 for veterans with a 50% or greater service-connected disability; establish requirements for the exemption; allow the permanent residence of a veteran's surviving spouse to continue to receive the exemption; require the Department of Revenue to prescribe forms and an application process for the exemption; apply the exemption to state, county, city, and special district taxes; allow mobile homes, manufactured houses, recreational homes, and modular homes to qualify for the exemption; require title transfers on property receiving the exemption to be reported to the property valuation administrator; allow the exemption to apply to the value of the property that is assessable to the owner or proportioned to his or her interest when the property is jointly owned or owned through a stock or membership corporation; allow partial or full refunds if an overpayment occurs upon application of the exemption; apply to property assessed on or after January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "W. Lawrence",
+      "party": null,
+      "district": "70",
+      "primary": true
+    },
+    {
+      "name": "W. Thomas",
+      "party": null,
+      "district": "8",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Aged Persons And Aging",
+    "Cities",
+    "Counties",
+    "Disabilities",
+    "Local Government",
+    "Local Mandate",
+    "Property",
+    "Property Valuation Administrators",
+    "Special Districts",
+    "Taxation",
+    "Taxation, Property",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/8c7b98ba-ae12-43c6-89c0-65156d6606d3"
+}

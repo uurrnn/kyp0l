@@ -1,0 +1,101 @@
+{
+  "id": "openstates-ky-2026RS-hb81",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 81",
+  "title": "AN ACT relating to the Kentucky National Guard.",
+  "abstract": "Create a new section of KRS Chapter 38 to restrict the use of the Kentucky National Guard outside of state active duty unless Congress officially declares war or has taken official action pursuant to the Constitution of the United States and has satisfied any outstanding balance to the Kentucky National Guard; allow the Governor to deploy the National Guard under Title 32 of the United States Code to assist in border protection, for not more than 30 days, when the governor of a state or territory has declared an invasion; provide that the Act may be cited as the Defend the Guard Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "S. Doan",
+      "party": null,
+      "district": "69",
+      "primary": true
+    },
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "S. Maddox",
+      "party": null,
+      "district": "61",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, U.S.",
+    "Federal Laws And Regulations",
+    "Governor",
+    "Military Affairs And Civil Defense",
+    "Short Titles And Popular Names",
+    "United States"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5be742ab-4273-4fd8-8bd0-68e9aa09bf06"
+}

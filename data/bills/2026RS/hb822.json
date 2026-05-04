@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb822",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 822",
+  "title": "AN ACT relating to coverage for colorectal cancer examinations and laboratory tests and declaring an emergency.",
+  "abstract": "Amend KRS 304.17A-257 to require health benefit plans to provide coverage for colorectal cancer examinations and laboratory tests specified in the most recent version of a Centers for Medicare and Medicaid Services national coverage determination or nationally recognized clinical practice guidelines or recommendations; direct that coverage requirements for colorectal cancer examinations and laboratory tests applies to health benefit plans issued or renewed on or after the effective date of the Act; require the Cabinet for Health and Family Services or the Department for Medicaid Services to obtain federal approval, if necessary; provide authorization from the General Assembly to make changes in the Medicaid program as required under KRS 205.5372(1); EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Effective Dates, Emergency",
+    "Health And Medical Services",
+    "Health Benefit Plan Mandate",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e7a4f6f5-7311-49a3-a12a-9c48096df4cf"
+}

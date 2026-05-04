@@ -1,0 +1,74 @@
+{
+  "id": "openstates-ky-2026RS-sr78",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 78",
+  "title": "A RESOLUTION recognizing and honoring the CSX Santa Train.",
+  "abstract": "Honor and commend the efforts of CSX Railroad and the volunteers and sponsors who support the CSX Santa Train.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    },
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-02-18",
+  "source_url": "",
+  "openstates_id": "ocd-bill/403bb871-76eb-4000-888e-f8aa1fcdcb2f"
+}

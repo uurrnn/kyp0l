@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb365",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 365",
+  "title": "AN ACT relating to coverage for the care of children.",
+  "abstract": "Amend KRS 304.17A-258 to require health benefit plans to provide coverage for certain formulas; suspend the coverage requirement's application to qualified health plans if the state would be required to make cost defrayal payments; amend KRS 304.17A-145 to require coverage for breastfeeding and lactation services in conjunction with the birth and without a prescription; amend KRS 304.17A-099 to conform; amend KRS 205.522 to require Medicaid to comply with the coverage requirements for formulas; amend KRS 205.560 to conform; amend KRS 205.6485, 164.2871, and 18A.225 to require KCHIP, self-insured employer group health plans provided by the governing board of a state postsecondary education institution, and the state employee health plan to comply with the coverage requirements for formulas; provide that certain provisions apply to health benefit plans issued or renewed on or after January 1, 2027; require the Cabinet for Health and Family Services or the Department for Medicaid Services to seek federal approval, if necessary, and to comply with notice requirements; provide authorization from the General Assembly to make changes in the Medicaid program as required under KRS 205.5372(1); EFFECTIVE, in part, January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Children And Minors",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health Benefit Plan Mandate",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid",
+    "State Agencies",
+    "State Employee Health Plan Mandate",
+    "State Employees",
+    "Women"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b58549f6-2539-433e-9efb-e7f505a06fa8"
+}

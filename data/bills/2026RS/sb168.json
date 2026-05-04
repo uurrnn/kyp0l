@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-sb168",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 168",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to the possession of cannabis.",
+  "abstract": "Propose to create a new section of the Constitution of Kentucky to guarantee the right of an individual 21 years of age or older to possess, use, buy, or sell 1 ounce or less of cannabis and to cultivate, harvest, and store up to 5 cannabis plants for personal use; grant the General Assembly control over the production, processing, and sale of cannabis and cannabis-derived products; designate the ballot question; direct the Secretary of State to publish the proposed amendment in a newspaper of general circulation; direct the Secretary of State to certify the proposed amendment to the county clerk of each county.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Clemons",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cannabis",
+    "Constitution, Ky.",
+    "Corrections Impact",
+    "County Clerks",
+    "Drugs And Medicines",
+    "General Assembly",
+    "Licensing",
+    "Local Mandate",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f4f7c88a-7398-4f06-a75b-3d1210df32f5"
+}

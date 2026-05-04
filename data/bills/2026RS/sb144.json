@@ -1,0 +1,58 @@
+{
+  "id": "openstates-ky-2026RS-sb144",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 144",
+  "title": "AN ACT relating to calorie information.",
+  "abstract": "Create a new section of KRS 217.280 to 217.390, relating to food establishments,  to require a food service establishment that is required to provide calorie information for standard menu items under federal law to display information that menus are also available without calorie information upon request or on the food service establishment's website.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Adams",
+      "party": null,
+      "district": "36",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Federal Laws And Regulations",
+    "Foods And Beverages",
+    "Local Government",
+    "Local Mandate",
+    "Mental Health",
+    "Public Health",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/bd26f1ba-5dd0-4f19-b781-b767b1f77143"
+}

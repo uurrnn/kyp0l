@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-hr8",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 8",
+  "title": "A RESOLUTION adjourning the House of Representatives in honor and loving memory of the victims of the United Parcel Service Airlines Flight 2976, and commending those who responded to the incident.",
+  "abstract": "Adjourn in honor and loving memory of the victims of UPS Airlines Flight 2976, and recognize the efforts of first responders and other agencies that responded to the crash.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "taken from Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to House Floor",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Memorials"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-08",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d6d678d9-5edd-4104-8eae-124cfd0e0d58"
+}

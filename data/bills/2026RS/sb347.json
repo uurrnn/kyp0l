@@ -1,0 +1,58 @@
+{
+  "id": "openstates-ky-2026RS-sb347",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 347",
+  "title": "AN ACT relating to maternity leave.",
+  "abstract": "Amend KRS 156.808 to require the Kentucky Board of Education to promulgate administrative regulations governing maternity leave for certified and equivalent staff in the Office of Career and Technical Education.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Boards And Commissions",
+    "Education, Elementary And Secondary",
+    "Education, Vocational",
+    "Fiscal Note",
+    "Personnel And Employment",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e4da4efd-3a56-40a6-a806-30db98892140"
+}

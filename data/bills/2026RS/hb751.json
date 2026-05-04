@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb751",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 751",
+  "title": "AN ACT relating to use of a credit card or debit card.",
+  "abstract": "Repeal, reenact as a new section of KRS Chapter 365, and amend KRS 369.135 to define \"credit card\" and \"debit card\"; expand section, relating to the use of a digital asset as a method of payment, to apply to credit cards and debit cards.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Banks And Financial Institutions",
+    "Commerce",
+    "Loans, Credit, Interest, And Usury",
+    "Sales",
+    "Taxation",
+    "Technology"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/097fcda3-6175-4016-9ee5-602b28c742a9"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb630",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 630",
+  "title": "AN ACT relating to failure to report a serious crime.",
+  "abstract": "Create a new section of KRS Chapter 519 to establish the crime of failure to report a serious crime as a Class A misdemeanor.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Raymer",
+      "party": null,
+      "district": "15",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b290bcaf-ddd3-4083-b08d-1cd46d3841ce"
+}

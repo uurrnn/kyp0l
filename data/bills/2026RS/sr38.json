@@ -1,0 +1,76 @@
+{
+  "id": "openstates-ky-2026RS-sr38",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 38",
+  "title": "A RESOLUTION recognizing January 27, 2026, as International Holocaust Remembrance Day.",
+  "abstract": "Recognize January 27, 2026, as International Holocaust Remembrance Day.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Mays Bledsoe",
+      "party": null,
+      "district": "12",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Rights",
+    "Commendations And Recognitions",
+    "Religion"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-01-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/94d88328-f579-4c14-a8bd-adbfd5743f14"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "openstates-ky-2026RS-hb267",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 267",
+  "title": "AN ACT relating to welcome centers and rest areas.",
+  "abstract": "Create a new section of KRS Chapter 177 to define \"acknowledgment sign\" and \"sponsorship agreement\"; allow the Transportation Cabinet to enter into sponsorship agreements with private entities to sponsor welcome centers or rest areas on the interstate and state highway system; direct that all contributions shall be used on maintenance and upkeep of the welcome center or rest area; require the Transportation Cabinet to promulgate administrative regulations to establish a sponsorship policy and process to enter into sponsorship agreements.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "T. Huff",
+      "party": null,
+      "district": "49",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    },
+    {
+      "name": "M. Whitaker",
+      "party": null,
+      "district": "94",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Advertising",
+    "Highways, Streets, And Bridges",
+    "State Agencies",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f769c25c-a4a0-4583-98ce-892fce338506"
+}

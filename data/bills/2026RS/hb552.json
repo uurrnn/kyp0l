@@ -1,0 +1,123 @@
+{
+  "id": "openstates-ky-2026RS-hb552",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 552",
+  "title": "AN ACT relating to environmental protection.",
+  "abstract": "Amend KRS 224.1-010 to change the definition of \"water\" or \"waters of the Commonwealth\" to include any and all rivers, streams, creeks, lakes, ponds, impounding reservoirs, springs, wells, marshes, and all other bodies of surface or underground water; delete the definition of \"wellhead protection area.\"",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "E. Hancock",
+      "party": null,
+      "district": "57",
+      "primary": true
+    },
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    },
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    },
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Environment And Conservation",
+    "Federal Laws And Regulations",
+    "Water Supply",
+    "Waterways And Dams"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/28a8bbd1-c7d5-4a80-9ac6-186ecb3a40aa"
+}

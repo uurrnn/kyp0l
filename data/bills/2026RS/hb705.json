@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-hb705",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 705",
+  "title": "AN ACT relating to postsecondary education.",
+  "abstract": "Amend KRS 164.050 to insert gender-neutral language.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Tipton",
+      "party": null,
+      "district": "53",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Higher",
+    "Technical Corrections"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d69db718-46a5-46cc-aa2a-a40e5907f2bb"
+}

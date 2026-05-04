@@ -1,0 +1,76 @@
+{
+  "id": "openstates-ky-2026RS-sr167",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 167",
+  "title": "A RESOLUTION honoring and remembering Technical Sergeant Ashley B. Pruitt upon her passing as she made the ultimate sacrifice for our nation.",
+  "abstract": "Adjourn in honor and remembrance of Technical Sergeant Ashley B. Pruitt upon her passing and making the ultimate sacrifice for our nation.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Higdon",
+      "party": null,
+      "district": "14",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-16",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Memorials",
+    "Military Affairs And Civil Defense",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-17",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ae1d7755-86f6-40dc-9117-e21867feca04"
+}

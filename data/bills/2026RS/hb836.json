@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb836",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 836",
+  "title": "AN ACT relating to malicious distribution of images without consent.",
+  "abstract": "Create a new section of KRS Chapter 531 to prohibit the malicious distribution of images without consent; make distribution a Class B misdemeanor.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Heavrin",
+      "party": null,
+      "district": "18",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Communications",
+    "Corrections Impact",
+    "Crimes And Punishments"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7396d7c5-d82a-438c-83e7-05eeab3963e4"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb286",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 286",
+  "title": "AN ACT relating to veteran entrepreneurs.",
+  "abstract": "Create a new section of Subchapter 12 of KRS Chapter 154 to create the Veteran Entrepreneur Program to be administered by the Office of Entrepreneurship; establish requirements and program details; amend KRS 154.12-277 and 154.12-278 to include the Veteran Entrepreneur Program; and amend KRS 154.12-330 to give preference to veterans in the issuance of small business loans.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Advisory Boards, Commissions, And Committees",
+    "Economic Development",
+    "Loans, Credit, Interest, And Usury",
+    "Military Affairs And Civil Defense",
+    "Small Business",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3b5c637f-1216-4178-9a9b-489d2c8a433b"
+}

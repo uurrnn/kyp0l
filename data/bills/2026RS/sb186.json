@@ -1,0 +1,102 @@
+{
+  "id": "openstates-ky-2026RS-sb186",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 186",
+  "title": "AN ACT relating to branch budget recommendations.",
+  "abstract": "Amend KRS 48.100, relating to branch budget recommendations, to specify that the Governor shall submit a separate recommendation for the Transportation Cabinet.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. McDaniel",
+      "party": null,
+      "district": "23",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "description": "to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "description": "taken from Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-19",
+      "description": "1st reading",
+      "chamber": "upper",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "description": "returned to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-20",
+      "description": "taken from Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-20",
+      "description": "2nd reading",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "description": "returned to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "State Agencies",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7c2e7d96-cb8f-4a10-bc36-f6842d97201e"
+}

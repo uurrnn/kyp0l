@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-sjr126",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SJR 126",
+  "title": "A JOINT RESOLUTION designating the Private Hargis Salyer, Jr. Memorial Highway in Magoffin County.",
+  "abstract": "Direct the Transportation Cabinet to designate a portion of Kentucky Route 1635 in Magoffin County as the Private Hargis Salyer, Jr. Memorial Highway.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Transportation (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Honorary Highway Designations",
+    "Memorials"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/61390c0f-4190-41f7-8be5-3c449d50f4f5"
+}

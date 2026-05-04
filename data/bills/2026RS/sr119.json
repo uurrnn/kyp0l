@@ -1,0 +1,76 @@
+{
+  "id": "openstates-ky-2026RS-sr119",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 119",
+  "title": "A RESOLUTION honoring the American College of Obstetricians and Gynecologists on the occasion of its 75th anniversary and commending its members for their dedication to improving the health of patients.",
+  "abstract": "Honor the American College of Obstetricians and Gynecologists on the occasion of its 75th anniversary.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Health And Medical Services",
+    "Physicians"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c66e1c96-8ff9-4059-92c5-b6c42057968b"
+}

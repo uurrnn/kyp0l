@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb231",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 231",
+  "title": "AN ACT relating to the reporting of medical debt.",
+  "abstract": "Create a new section of KRS Chapter 367 to define terms; prohibit a health care professional from furnishing medical debt to a consumer reporting agency; require a contract between a health care professional and collection entity to include a provision prohibiting the reporting of medical debt to a consumer reporting agency; provide that medical debt that is reported in violation of the section is void and unenforceable; make a violation of the section an unfair, false, misleading, or deceptive act or practice in violation of KRS 367.170; establish remedies for a violation of the section; provide that section shall not be construed to limit or restrict any powers, duties, remedies, or  penalties available; direct that provisions apply to contracts entered into or renewed on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Consumer Protection",
+    "Contracts",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Hospitals And Health Facilities",
+    "Loans, Credit, Interest, And Usury"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3b7385e3-6499-4e60-a114-5329f76506fd"
+}

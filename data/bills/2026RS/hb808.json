@@ -1,0 +1,87 @@
+{
+  "id": "openstates-ky-2026RS-hb808",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 808",
+  "title": "AN ACT relating to restaurant tax.",
+  "abstract": "Amend KRS 91A.400 to authorize all home rule class cities to levy a restaurant tax; remove the Department for Local Government registration mandate; and remove the restriction on the use of the funds; amend KRS 67.938 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Lewis",
+      "party": null,
+      "district": "90",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to Local Government (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Charter County Government",
+    "Cities",
+    "Consolidated Local Governments",
+    "Counties, Urban",
+    "Local Government",
+    "State Agencies",
+    "Taxation",
+    "Unified Local Governments"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4ab636ed-6d76-4d2e-bd46-4263cddfba8c"
+}

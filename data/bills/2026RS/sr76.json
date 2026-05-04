@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-sr76",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 76",
+  "title": "A RESOLUTION honoring Frank Riherd, founder of the Riherd's Scoreboard,  for his enduring contributions to Kentucky high school athletics.",
+  "abstract": "Honor Frank Riherd, founder of the Riherd's Scoreboard, for his contributions to Kentucky high school athletics.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Givens",
+      "party": null,
+      "district": "9",
+      "primary": true
+    },
+    {
+      "name": "M. Wise",
+      "party": null,
+      "district": "16",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Athletics",
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-02-18",
+  "source_url": "",
+  "openstates_id": "ocd-bill/0996c343-1bca-41f8-9200-73e085653318"
+}

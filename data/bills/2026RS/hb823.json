@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb823",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 823",
+  "title": "AN ACT relating to digital asset wallets.",
+  "abstract": "Create a new section of KRS 369.130 to 369.139 to define \"wallet provider\"; require wallet providers to provide live customer service during operating hours and to provide a mechanism for, and assistance with, resetting any password, pin, seed phrase, or other similar information necessary to access the contents of a wallet; provide that a violation of the section is an unfair, false, misleading, or deceptive trade practices in violation of KRS 367.170; provide that the remedies and penalties are cumulative; authorize the Attorney General to promulgate administrative regulations for the proper enforcement of the section.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Smith",
+      "party": null,
+      "district": "86",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Attorney General",
+    "Consumer Protection",
+    "Information Technology",
+    "Technology"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/08aa6875-13c6-41c7-acaf-bd52901cca80"
+}

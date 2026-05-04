@@ -1,0 +1,108 @@
+{
+  "id": "openstates-ky-2026RS-hb608",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 608",
+  "title": "AN ACT relating to nondisclosure and confidentiality agreements.",
+  "abstract": "Create a new section of KRS Chapter 372, relating to contracts against public policy, to define \"act of sexual abuse\"; declare as void any nondisclosure agreement, confidentiality agreement, or nondisclosure or confidentiality provision of an agreement to the extent the provision prohibits the disclosure of an act of sexual abuse; prohibit enforcement of an applicable agreement or provision entered into before the effective date of the Act unless the person or party obtains a declaratory judgment that the agreement or provision is enforceable; provide that the Act may be cited as Trey's Law; RETROACTIVE.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "R. Raymer",
+      "party": null,
+      "district": "15",
+      "primary": true
+    },
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    },
+    {
+      "name": "S. Doan",
+      "party": null,
+      "district": "69",
+      "primary": true
+    },
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Civil Procedure",
+    "Contracts",
+    "Courts",
+    "Crime Victims",
+    "Retroactive Legislation",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-17",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5f54d3e5-89fa-43b0-bc59-98e6e52d97e4"
+}

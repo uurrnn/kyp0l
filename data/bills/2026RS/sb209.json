@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-sb209",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 209",
+  "title": "AN ACT relating to the establishment of the External Detainee Fatality Review Panel.",
+  "abstract": "Create a new section of KRS Chapter 441 to establish the External Detainee Fatality Review Panel to conduct comprehensive reviews of all fatalities of individuals detained by law enforcement, in county or regional jails, or in any facility operated by the Department of Corrections, the Department of Juvenile Justice, or an entity under contract with either department; establish membership and duties of the panel; set a schedule for appointment of members.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "C. Richardson",
+      "party": null,
+      "district": "3",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections And Correctional Facilities, State",
+    "Corrections Impact",
+    "Counties",
+    "Jails And Jailers",
+    "Legislative Research Commission",
+    "Local Mandate",
+    "Peace Officers And Law Enforcement",
+    "Public Safety",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-18",
+  "source_url": "",
+  "openstates_id": "ocd-bill/59b450ca-f575-4d0b-96fa-d83551dd1d23"
+}

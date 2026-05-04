@@ -1,0 +1,96 @@
+{
+  "id": "openstates-ky-2026RS-hb33",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 33",
+  "title": "AN ACT relating to data privacy.",
+  "abstract": "Amend KRS 367.3611 to define \"automated-decision system,\" \"base price,\" \"individualized data,\" and \"surveillance pricing\"; amend KRS 367.3617 to prohibit any controller under the Kentucky Consumer Data Protection Act from engaging in surveillance pricing, or offering, setting, or displaying a price for a good or service to a consumer using an automated-decision system that is based, in whole or in part, on individualized data; provide that the Act may be cited as the Kentucky Price Fairness Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "S. Sharp",
+      "party": null,
+      "district": "100",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Small Business & Information Technology (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Consumer Protection",
+    "Data Protection",
+    "Economic Development",
+    "Information Technology",
+    "Short Titles And Popular Names",
+    "Technology",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c1eb5d9d-9a09-40a0-9ff8-f0c7b780668e"
+}

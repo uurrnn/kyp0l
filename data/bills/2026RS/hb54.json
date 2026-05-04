@@ -1,0 +1,104 @@
+{
+  "id": "openstates-ky-2026RS-hb54",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 54",
+  "title": "AN ACT relating to election districts.",
+  "abstract": "Create new sections of KRS Chapter 5 to establish the Advisory Redistricting Commission, which shall be composed of members appointed by the General Assembly and members of the public at large; define terms; establish commissioner pay, conditions, powers, and duties; provide that commissioners' terms correlate with obligations of each census cycle; establish the conditions, powers, and duties of the commission; require the commission to draft redistricting plans for legislative and congressional districts, with parameters prescribed; establish standards to be followed by the commission for commissioners who develop plans; require the commission to submit its redistricting plans to the Legislative Research Commission for referral to the Interim Joint Committee on State Government; require the General Assembly to consider the commission's plans as approved by the Interim Joint Committee on State Government; allow the General Assembly to enact or reject the plans of the commission by a date certain or to return to the commission for adjustment; provide that if the General Assembly does not enact the plans, the plans shall be returned to the commission, which may incorporate changes requested by the General Assembly, but shall not be required to incorporate changes; require the commission to submit to the General Assembly new redistricting plans for enactment at a date certain; allow General Assembly to enact its own redistricting plans after a date certain; establish a $20,000 fine upon conviction of persons attempting to influence, or commissioners accepting influence, relating to the duties of the commission;  amend KRS 5.005 to remove the Secretary of State as being named as a defendant in any action challenging the constitutionality of any legislative district and replace with the Advisory Redistricting Commission; provide that the Act may be cited as the Fair Maps Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Advisory Boards, Commissions, And Committees",
+    "Crimes And Punishments",
+    "Elections And Voting",
+    "General Assembly",
+    "Local Mandate",
+    "Public Meetings",
+    "Redistricting",
+    "Secretary Of State",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4c924234-b847-4cf7-99fc-a35dd7dd8b2c"
+}

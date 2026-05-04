@@ -1,0 +1,125 @@
+{
+  "id": "openstates-ky-2026RS-hb558",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 558",
+  "title": "AN ACT relating to protective orders.",
+  "abstract": "Amend KRS 456.030 to give District Courts exclusive jurisdiction over protective order petitions filed under KRS Chapter 456; amend KRS 456.140 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    },
+    {
+      "name": "K. Moser",
+      "party": null,
+      "district": "64",
+      "primary": true
+    },
+    {
+      "name": "S. Rudy",
+      "party": null,
+      "district": "1",
+      "primary": true
+    },
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "posted for passage in the Regular Orders of the Day for Friday, February 20 2026",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "taken from the Orders of the Day",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "returned to Rules",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Civil Procedure",
+    "Courts",
+    "Courts, Circuit",
+    "Courts, District",
+    "Courts, Family",
+    "Crime Victims",
+    "Domestic Relations"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a77bfe93-bf29-45b9-a34a-ace4671ea36b"
+}

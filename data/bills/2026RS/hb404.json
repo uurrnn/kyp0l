@@ -1,0 +1,80 @@
+{
+  "id": "openstates-ky-2026RS-hb404",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 404",
+  "title": "AN ACT relating to employment.",
+  "abstract": "Create a new section of KRS Chapter 336 to prohibit all employers of 75 or more employees from demoting, dismissing, disciplining, or discriminating against an employee who misses work because of duties related to being a candidate, member-elect, or member of the General Assembly or legislative body of certain local governments; require an employer to grant a leave of absence if the employee requests it, not to exceed 3 terms for a member of the House of Representatives, or 2 terms for a member of the Senate or a member of a specified legislative body of a local government; amend KRS 336.990 to provide a penalty for employers who violate Section 1 of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cities",
+    "Consolidated Local Governments",
+    "Counties, Charter",
+    "Counties, Urban",
+    "General Assembly",
+    "Local Government",
+    "Local Mandate",
+    "Personnel And Employment",
+    "Unified Local Governments"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2598021d-c439-4644-b44a-9f66884886f3"
+}

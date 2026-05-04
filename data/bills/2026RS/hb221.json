@@ -1,0 +1,73 @@
+{
+  "id": "openstates-ky-2026RS-hb221",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 221",
+  "title": "AN ACT relating to severe weather emergency alerts.",
+  "abstract": "Create a new section of KRS Chapter 39A to establish the Kentucky Severe Weather Alert System; specify purpose and allowable uses of the system.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Tackett Laferty",
+      "party": null,
+      "district": "95",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Disasters And Recovery Efforts",
+    "Flood Control And Flooding",
+    "Media",
+    "Peace Officers And Law Enforcement",
+    "Police, State",
+    "Public Safety",
+    "Safety",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/205c53cb-ba0e-42fa-a0cd-c3f7a872ee1c"
+}

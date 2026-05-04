@@ -1,0 +1,98 @@
+{
+  "id": "openstates-ky-2026RS-hb368",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 368",
+  "title": "AN ACT relating to exempting the Commonwealth of Kentucky from the observance of daylight saving time.",
+  "abstract": "Create a new section of KRS Chapter 2 to exempt the Commonwealth of Kentucky from the advancement of time known as daylight saving time; require the Commonwealth of Kentucky and its political  subdivisions to at all times observe the standard time of the United States; EFFECTIVE October 31, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Doan",
+      "party": null,
+      "district": "69",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "M. Proctor",
+      "party": null,
+      "district": "60",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Effective Dates, Delayed",
+    "Federal Laws And Regulations",
+    "United States"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4442fead-114c-46ea-98ed-e0c332b82145"
+}

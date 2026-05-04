@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb65",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 65",
+  "title": "AN ACT relating to weight limits on state roads.",
+  "abstract": "Amend KRS 189.2226, regarding overweight allowances for hauling of building materials for homes, to require any builder of 10 or more homes in a 1 mile radius to apply for a permit before the person may operate under the exemptions; require all persons applying for a permit issued under this section to enter into a cooperative agreement with the Transportation Cabinet; allow the Transportation Cabinet to require a bond as part of the cooperative agreement; require funds collected under a cooperative agreement to be used for maintanence of state roads covered under the cooperative agreement.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Highways, Streets, And Bridges",
+    "Housing, Building, And Construction",
+    "Motor Carriers",
+    "State Agencies",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c40eee22-a092-442d-a9fe-ada6046ca559"
+}

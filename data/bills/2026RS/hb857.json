@@ -1,0 +1,82 @@
+{
+  "id": "openstates-ky-2026RS-hb857",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 857",
+  "title": "AN ACT relating to driving under the influence.",
+  "abstract": "Amend KRS 189A.010, relating to driving under the influence, to provide that a third or subsequent offense within a 10-year period is a Class D felony; provide that if a person is convicted of a third or subsequent offense the minimum term of imprisonment shall be 120 days; establish enhanced penalties for a person under the age of 21 who operates a motor vehicle with an alcohol concentration of 0.02 or more; allow a violation of KRS 189A.010 by a person under the age of 21 who operates a motor vehicle with an alcohol concentration of 0.02 or more to be included as a prior offense for enhancement purposes; amend KRS 189A.070 to create enhanced periods of license suspension for a person under the age of 21 who operates a motor vehicle with an alcohol concentration of 0.02 or more; amend various KRS sections to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Riley",
+      "party": null,
+      "district": "23",
+      "primary": true
+    },
+    {
+      "name": "K. Jackson",
+      "party": null,
+      "district": "20",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    },
+    {
+      "name": "S. McPherson",
+      "party": null,
+      "district": "22",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Local Mandate",
+    "Motor Vehicles"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1a87e5e3-ab86-441f-9ed9-d9bd577de272"
+}

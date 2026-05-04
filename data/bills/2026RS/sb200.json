@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-sb200",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 200",
+  "title": "AN ACT relating to hunter education.",
+  "abstract": "Amend KRS 150.170 to exempt persons 18 years of age and older from the requirement to complete a hunter education course.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Boswell",
+      "party": null,
+      "district": "8",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "to Natural Resources & Energy (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Fish And Wildlife",
+    "Hunting And Fishing",
+    "Licensing",
+    "Peace Officers And Law Enforcement"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-24",
+  "source_url": "",
+  "openstates_id": "ocd-bill/bc0efdb8-e270-4040-a24f-9f9d87297667"
+}

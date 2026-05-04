@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb412",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 412",
+  "title": "AN ACT relating to physician continuing medical education.",
+  "abstract": "Amend KRS 311.601 to require physicians to receive at least 3 hours of continuing medical education every 3 years related to mental health recognition and treatment.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Bojanowski",
+      "party": null,
+      "district": "32",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Health Care Professionals",
+    "Mental Health",
+    "Pollution"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/98c96576-15e3-4698-a79c-5526b49deadf"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb134",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 134",
+  "title": "AN ACT relating to retirement.",
+  "abstract": "Amend KRS 61.530 to insert gender-neutral language.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Nemes",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Retirement And Pensions",
+    "State Agencies",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/954644a3-7636-4d40-877c-51e3d644719c"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-sr5",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 5",
+  "title": "A RESOLUTION honoring Senator Jimmy Higdon upon his retirement from the Senate.",
+  "abstract": "Adjourn the Senate in honor of Senator Jimmy Higdon upon the occasion of his retirement from the Senate.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Stivers",
+      "party": null,
+      "district": "25",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-04-15",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "General Assembly"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/93972597-9edc-4a8a-8c33-f145b7d42088"
+}

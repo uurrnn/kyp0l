@@ -1,0 +1,81 @@
+{
+  "id": "openstates-ky-2026RS-sr52",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 52",
+  "title": "A RESOLUTION recognizing July 11, 2026, as Remember Srebrenica Day in Kentucky.",
+  "abstract": "Honor Kentucky's Bosnian community and victims of genocide in July 1995 and recognize July 11, 2026, as Remember Srebrenica Day in Kentucky.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Wilson",
+      "party": null,
+      "district": "32",
+      "primary": true
+    },
+    {
+      "name": "M. Wise",
+      "party": null,
+      "district": "16",
+      "primary": true
+    },
+    {
+      "name": "D. Givens",
+      "party": null,
+      "district": "9",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Crime Victims"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/bafc23d2-38f8-4eac-99cc-b6fa9706efaa"
+}

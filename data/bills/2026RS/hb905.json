@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb905",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 905",
+  "title": "AN ACT relating to salaries of the Court of Justice.",
+  "abstract": "Amend KRS 48.195 to establish that the General Assembly shall set the salaries of the Justices of the Supreme Court and Judges of the Court of Appeals.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Court Of Appeals",
+    "Court, Supreme",
+    "General Assembly"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/6bd29de0-d917-4f82-8612-397d5f1e8233"
+}

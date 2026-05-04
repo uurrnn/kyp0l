@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb878",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 878",
+  "title": "AN ACT relating to the abolition of eminent domain.",
+  "abstract": "Create a new section of KRS Chapter 416 abolishing the power of eminent domain within the Commonwealth; amend various sections of the Kentucky Revised Statutes to remove powers granted to entities to exercise the power of eminent domain; amend various sections of the Kentucky Revised Statutes to remove references to the power of eminent domain; repeal various sections of the Kentucky Revised Statutes to remove powers of eminent domain and references to that power; make technical corrections.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Advisory Boards, Commissions, And Committees",
+    "Cities",
+    "Counties",
+    "Eminent Domain And Condemnation",
+    "Fish And Wildlife",
+    "Highways, Streets, And Bridges",
+    "Land Use",
+    "Property",
+    "Public Utilities",
+    "Public Works",
+    "State Agencies",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/df3b0eae-1a96-4274-b136-39c27d595d9d"
+}

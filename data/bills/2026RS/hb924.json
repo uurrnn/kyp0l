@@ -1,0 +1,99 @@
+{
+  "id": "openstates-ky-2026RS-hb924",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 924",
+  "title": "AN ACT relating to the Public Service Student Loan Forgiveness Program, making an appropriation therefor, and declaring an emergency.",
+  "abstract": "Create a new section of KRS Chapter 164 to establish the Kentucky Public Service Student Loan Forgiveness Program fund; require the Kentucky Higher Education Assistance Authority to administer the fund; require the authority to disburse funds for student loan repayment to recruit and retain eligible public service employees that live and work in Kentucky; specify terms and process; establish criteria for the program and applicant evaluation for awards; appropriate $30,000,000 from the budget reserve trust fund account for initial implementation of the student loan forgiveness program; appropriate $30,000,000 from the general fund for support of the student loan forgiveness program; APPROPRIATION; EMERGENCY, EFFECTIVE July 1, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    },
+    {
+      "name": "T. Bojanowski",
+      "party": null,
+      "district": "32",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    },
+    {
+      "name": "M. Marzian",
+      "party": null,
+      "district": "41",
+      "primary": true
+    },
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Appropriations",
+    "Budget And Financial Administration",
+    "Education, Finance",
+    "Education, Higher",
+    "Effective Dates, Emergency",
+    "Public Officers And Employees",
+    "Reports Mandated",
+    "State Agencies",
+    "State Employees",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1509d58a-ba36-4ab8-8c14-7c38cf9518e6"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb206",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 206",
+  "title": "AN ACT relating to the Kentucky Building Code.",
+  "abstract": "Create a new section of KRS Chapter 198B to permit less than 6 stories of Residential Group R-2 occupancy to be served by a single exit.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Housing, Building, And Construction",
+    "Safety",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a9e26f10-cfd3-4ed6-8408-aed30e4ca976"
+}

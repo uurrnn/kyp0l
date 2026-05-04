@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb864",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 864",
+  "title": "AN ACT relating to elections.",
+  "abstract": "Amend KRS 118.125, relating to primary elections, to remove the requirement that 2 registered voters from a candidate's party and district or jurisdiction must sign the candidate's notification and declaration; amend KRS 118A.060 to remove the requirement that 2 registered voters from a judicial candidate's district or circuit must sign the candidate's petition for nomination; amend KRS 118A.100 to remove the requirement that 2 registered voters from a judicial candidate's district or circuit must sign the candidate's petition for nomination; amend KRS 118.155 to conform, make retroactive effective as of November 1, 2025; RETROACTIVE.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "County Clerks",
+    "Elections And Voting",
+    "Judicial Circuits",
+    "Judicial Districts",
+    "Retroactive Legislation",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/8b569db3-b86c-48e0-8cd9-d98755572295"
+}

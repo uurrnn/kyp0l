@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb201",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 201",
+  "title": "AN ACT relating to the use of algorithmic devices in setting the amount of rent to be charged to a residential tenant.",
+  "abstract": "Create a new section of KRS Chapter 383 to define \"algorithmic device\"; prohibit the use of algorithmic devices in setting the amount of rent to be charged to a residential tenant and provide that such use violates KRS 367.170 and 367.175 of the Consumer Protection Act; provide that the prohibition shall apply to a landlord's calculation of rent for a rental agreement executed on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Consumer Protection",
+    "Landlord And Tenant",
+    "Real Estate",
+    "Science And Technology",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d36ee530-bee2-4e67-b06d-5a4610d7ebc3"
+}

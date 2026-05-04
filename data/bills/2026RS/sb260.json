@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb260",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 260",
+  "title": "AN ACT relating to middle school advanced mathematics.",
+  "abstract": "Amend KRS 158.6453 to require a local board of education to maintain a district plan on the promotion of advanced coursework in mathematics; beginning with the 2028-2029 school year, establish requirements for the plan to automatically enroll students in grade 8 into Algebra I or higher courses for high school credit with specific conditions; until the 2036-2037 school year, direct the Kentucky Department of Education to submit a report on students in grade 8 taking math courses for high school credit to the Legislative Research Commission; amend KRS 158.791 to conform; authorize local board of education to implement the plan prior to the start of the 2028-2029 school year; require superintendents to submit an implementation plan to the local board of education.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. West",
+      "party": null,
+      "district": "27",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Education, Elementary And Secondary",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7ff5e1aa-1aec-4cbb-9e7f-a7fd2abb43a6"
+}

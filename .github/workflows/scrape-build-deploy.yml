@@ -55,6 +55,7 @@ jobs:
         if: github.event_name != 'push'
         env:
           PYTHONUNBUFFERED: "1"
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
         run: |
           python -m scrapers --year "$(date -u +%Y)" --no-upcoming
           # Also pull upcoming meetings into the index

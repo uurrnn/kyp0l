@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-sjr97",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SJR 97",
+  "title": "A JOINT RESOLUTION designating the Glen Stykes Memorial Highway in Pulaski County.",
+  "abstract": "Direct the Transportation Cabinet to designate a portion of Kentucky Route 3091 in Pulaski County as the Glen Stykes Memorial Highway.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Girdler",
+      "party": null,
+      "district": "15",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "description": "to Transportation (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Honorary Highway Designations",
+    "Memorials"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-17",
+  "source_url": "",
+  "openstates_id": "ocd-bill/50d40ff5-2c9e-470b-99c7-b1ea92b434bb"
+}

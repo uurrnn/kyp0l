@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb173",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 173",
+  "title": "AN ACT relating to rabies vaccinations.",
+  "abstract": "Amend KRS 258.005 to define \"veterinarian\" and \"veterinary technician\"; amend KRS 258.015 to require that a Kentucky-licensed veterinary technician authorized to vaccinate a dog, cat, or ferret against rabies be under the direct supervision of a veterinarian that is located on the premises of the facility.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Agriculture (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Diseases",
+    "Public Health",
+    "Veterinarians"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b3d6ad0f-3be5-45e9-a35c-0815537a74f2"
+}

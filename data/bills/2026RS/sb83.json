@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sb83",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 83",
+  "title": "AN ACT relating to forcible entry and detainer.",
+  "abstract": "Create a new section of KRS 383.200 to 383.285 to require expungement of records in forcible detainer actions that are dismissed; allow for the expungement of the name of an unemancipated minor improperly named as a defendant in forcible detainer actions; amend KRS 383.250 to provide for sealing of records; direct that the required expungement of records of dismissed actions applies to forcible detainer actions brought on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Civil Procedure",
+    "Courts, District",
+    "Landlord And Tenant"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/697b1286-3fb0-4b2a-a26c-c1baa3dfff0c"
+}

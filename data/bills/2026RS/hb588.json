@@ -1,0 +1,83 @@
+{
+  "id": "openstates-ky-2026RS-hb588",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 588",
+  "title": "AN ACT relating to the abolition of the death penalty.",
+  "abstract": "Create a new section of KRS Chapter 532 to abolish the death penalty and replace it with life imprisonment without parole for inmates presently sentenced to death; amend KRS 532.030, relating to authorized dispositions for felony offenses, to remove the death penalty; amend KRS 533.010, relating to probation, to prohibit probation for a person sentenced to life without parole or life without parole for 25 years; amend KRS 640.010 to define terms; amend KRS 640.040, relating to penalties for juveniles convicted of felony offenses, to prohibit life imprisonment without benefit of parole for a capital offense; amend KRS 422.285, 532.050, and 532.100 to conform; repeal KRS 431.213, 431.2135, 431.218, 431.220, 431.223, 431.224, 431.240, 431.250, 431.260, 431.270, 507A.060, 532.025, 532.075, 532.130, 532.135, 532.140, 532.300, 532.305, and 532.309.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Tipton",
+      "party": null,
+      "district": "53",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    },
+    {
+      "name": "M. Hart",
+      "party": null,
+      "district": "78",
+      "primary": true
+    },
+    {
+      "name": "S. Sharp",
+      "party": null,
+      "district": "100",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Corrections Impact",
+    "Courts",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Deaths"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/0f2a3b86-363b-4b75-b063-e6477a67b6d6"
+}

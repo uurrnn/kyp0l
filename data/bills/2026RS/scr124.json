@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-scr124",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SCR 124",
+  "title": "A CONCURRENT RESOLUTION urging Kentucky's congressional delegation to support amending the Gun Control Act of 1968 to allow users of medical cannabis to exercise their Second Amendment right to bear arms.",
+  "abstract": "Urge Kentucky's congressional delegation to support amending the Gun Control Act of 1968 to remove the firearms restrictions on users of medical cannabis.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Clemons",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cannabis",
+    "Federal Laws And Regulations",
+    "Firearms And Weapons"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a9218ccb-9ca8-4886-a331-aaf4c53f78fe"
+}

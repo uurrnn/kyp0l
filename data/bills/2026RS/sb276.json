@@ -1,0 +1,53 @@
+{
+  "id": "openstates-ky-2026RS-sb276",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 276",
+  "title": "AN ACT relating to elections.",
+  "abstract": "Amend KRS 118.425 to modify issuance of certificates of election to electors of political parties and organizations in Presidential and Vice Presidential elections to award 2 certificates to the candidates receiving the highest amount of the statewide popular vote, and the remaining certificates proportionally to electors of political parties and organizations whose candidates received at least 10% of the statewide popular vote.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Elections And Voting",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/944578e7-1d78-4a67-afe2-f5c918d13ac1"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb892",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 892",
+  "title": "AN ACT relating to state procurement.",
+  "abstract": "Amend KRS 45A.100, relating to small purchases by state governmental bodies, to increase the small purchase annual limit for any state governmental body to $7,500 from $1,000;  increase the small purchase construction project annual limit to $50,000 from $10,000; require the Finance and Administration Cabinet to make recommendations on revisions to the maximum small purchase amounts to the General Assembly.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. White",
+      "party": null,
+      "district": "99",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Contracts",
+    "Public Procurement",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5606bc30-32e2-4366-bfa5-4ce92acdaa2c"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb513",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 513",
+  "title": "AN ACT relating to full-day kindergarten.",
+  "abstract": "Amend KRS 157.320 and 157.360 to remove references to kindergarten full-time equivalent pupils in average daily attendance for program base funding purposes; amend KRS 158.030 and KRS 158.031 to conform; amend KRS 158.060 to remove language that allows for half-day kindergarten programs; EFFECTIVE July 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    },
+    {
+      "name": "T. Truett",
+      "party": null,
+      "district": "89",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Education, Elementary And Secondary",
+    "Effective Dates, Delayed"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ebe767f7-7bef-4e83-8d43-0f98750c8646"
+}

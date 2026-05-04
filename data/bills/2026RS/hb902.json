@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb902",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 902",
+  "title": "AN ACT relating to a supplemental payment for retired state employees, making an appropriation therefor, and declaring an emergency.",
+  "abstract": "Appropriate $43,827,000 from the budget reserve trust fund account in fiscal year 2026-2027 to the Kentucky Public Pensions Authority to fund one-time supplemental payments on July 1, 2026, to recipients of a retirement allowance who have been retired for at least 12 months from the Kentucky Employees Retirement System (KERS) and the State Police Retirement System (SPRS); specify that the one-time supplemental payment shall be equal to the monthly payment received by the recipient in the month of June 2026, not to exceed $1,000; APPROPRIATION; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "E. Hancock",
+      "party": null,
+      "district": "57",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Appropriations",
+    "Budget And Financial Administration",
+    "Effective Dates, Emergency",
+    "Police, State",
+    "Retirement And Pensions",
+    "State Agencies",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/dfc03f61-8647-4c2a-ae66-4cf1b1e579db"
+}

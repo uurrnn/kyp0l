@@ -1,0 +1,83 @@
+{
+  "id": "openstates-ky-2026RS-hb887",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 887",
+  "title": "AN ACT relating to office space leases for the Kentucky Public Pensions Authority and declaring an emergency.",
+  "abstract": "Amend KRS 61.505 to exempt the Kentucky Public Pensions Authority from KRS Chapter 56 regarding the purchase or lease of office space necessary to operate the retirement systems; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "DJ Johnson",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from State Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to State Government (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Effective Dates, Emergency",
+    "Property",
+    "Retirement And Pensions",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1614dbe5-7e2e-42e2-a6fd-b57b6bea7baf"
+}

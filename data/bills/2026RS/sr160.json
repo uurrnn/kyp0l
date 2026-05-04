@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-sr160",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 160",
+  "title": "A RESOLUTION recognizing November 2026 as Grieving Children and Families Month in Kentucky.",
+  "abstract": "Recognize November 2026 as Grieving Children and Families Month.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-11",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Commendations And Recognitions",
+    "Mental Health",
+    "Public Health"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/408dde25-852b-4327-a03c-0e685f340762"
+}

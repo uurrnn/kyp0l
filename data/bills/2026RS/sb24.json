@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb24",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 24",
+  "title": "AN ACT relating to traffic control signal monitoring systems.",
+  "abstract": "Create new sections of KRS Chapter 189 to define \"agency,\" \"owner,\" \"recorded images,\" and \"traffic control signal monitoring system\"; establish a civil penalty of $50 if a motor vehicle is recorded failing to obey the instructions of a traffic control device; set forth forms and procedures; outline defenses for citations for failing to obey a traffic control device; mandate that the Transportation Cabinet shall suspend the registration of the motor vehicle when a person refuses to pay the civil penalty and does not appear to contest the citation; mandate that civil penalties shall not result in points against the driving record of the operator of the motor vehicle in violation; amend KRS 189.231 and 189.990 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Courts",
+    "Highways, Streets, And Bridges",
+    "Motor Vehicles",
+    "Traffic Safety",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/01122062-fba5-485a-b32a-046a87152d6e"
+}

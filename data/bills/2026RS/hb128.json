@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb128",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 128",
+  "title": "AN ACT relating to the regulation of recovery residences and declaring an emergency.",
+  "abstract": "Amend KRS 222.504 and 222.506 to require that recovery residences be inspected at least annually by state or local officials capable of ensuring compliance with all state and local zoning, building code, and fire safety laws, administrative regulations, and ordinances and establish maximum occupancy standards for recovery residences; amend KRS 222.510 to permit local governments to require an individual or entity seeking to establish a recovery residence to provide notice up to 6 months in advance to all property owners within 1,000 feet of the property on which the recovery residence will be located; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Effective Dates, Emergency",
+    "Land Use",
+    "Local Government",
+    "Public Safety",
+    "Safety",
+    "State Agencies",
+    "Substance Use"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2f16c5ae-baa6-42a0-83c6-c05048a5bbd1"
+}

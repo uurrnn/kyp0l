@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb311",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 311",
+  "title": "AN ACT relating to health insurer contracts with participating providers.",
+  "abstract": "Create a new section of Subtitle 17A of KRS Chapter 304 to prohibit insurers offering or providing health benefit plans from changing a participating provider's reimbursement, payment methodology, fee schedule, or claim adjudication terms through any provider manual, policy update, or other document incorporated by reference in the agreement; provide that a change to a material term affecting reimbursement shall be effective only by written amendment executed by both parties; provide that the requirements are in addition to any requirement under other laws; provide that any modification, reduction, or other change adopted in violation of the section is void and unenforceable; amend KRS 304.17A-235 to conform; direct that the Act applies to contracts issued or renewed on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Contracts",
+    "Health Care Professionals",
+    "Insurance, Health"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/af27508b-3fe3-4d75-b591-8d02d1ecbd93"
+}

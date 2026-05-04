@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb39",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 39",
+  "title": "AN ACT relating to pari-mutuel wagering.",
+  "abstract": "Amend KRS 230.210 to redefine \"pari-mutuel wagering\" to place amounts wagered in 1 or more pari-mutuel pools from which winning wagers are paid out in proportion to the individual winning wagers; allow statutory and Kentucky Horse Racing and Gaming Corporation pari-mutuel pool deductions and adjustments; make pari-mutuel pools available to all patrons on equitable terms, with no advantages given to a particular patron or class of patron.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Amusements And Recreations",
+    "Boards And Commissions",
+    "Gaming And Wagering",
+    "Horses And Horse Racing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/00908549-72fc-407f-920b-7b4db5a87052"
+}

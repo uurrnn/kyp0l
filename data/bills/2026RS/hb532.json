@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb532",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 532",
+  "title": "AN ACT relating to medicinal hemp products and declaring an emergency.",
+  "abstract": "Amend KRS 260.850 to define terms; create a new section of KRS Chapter 260 to establish quality assurance and safety protocols for medicinal hemp cultivation, handling, processing, and marketing; amend KRS 260.862 to grant the Kentucky Department of Agriculture the authority to promulgate administrative regulations related to quality assurance and safety protocols of cultivation, handling, processing, or marketing of medicinal hemp products and to require medicinal hemp product cultivators and processors to follow federal good manufacturing, packaging, labeling, or holding practices.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Moser",
+      "party": null,
+      "district": "64",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to Agriculture (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Agriculture",
+    "Drugs And Medicines",
+    "Effective Dates, Emergency",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9d73b91b-2a64-42c5-bdd5-3700d7e0981e"
+}

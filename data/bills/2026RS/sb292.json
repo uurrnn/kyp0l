@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb292",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 292",
+  "title": "AN ACT relating to natural resources.",
+  "abstract": "Amend KRS 224.10-220 to technical corrections.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Carroll",
+      "party": null,
+      "district": "2",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Coal",
+    "Energy",
+    "Environment And Conservation",
+    "Minerals And Mining",
+    "Oil And Natural Gas"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c7a96850-c303-4b0a-8bde-aa591481a9eb"
+}

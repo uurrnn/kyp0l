@@ -1,0 +1,107 @@
+{
+  "id": "openstates-ky-2026RS-hb598",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 598",
+  "title": "AN ACT relating to guardians ad litem and other appointed counsel.",
+  "abstract": "Create new sections of KRS Chapter 15A to establish the Department of Family Representation and Advocacy and the Family Representation and Advocacy Commission to provide a state-sponsored and controlled system for training and appointing guardians ad litem and other counsel; amend various sections to cap guardian ad litem or counsel fees at $500; amend various other sections to conform; provide that the Act may be cited as the Family Representation and Advocacy Act; EFFECTIVE July 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "posted for passage in the Regular Orders of the Day for Thursday, March 05 2026",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "taken from the Orders of the Day",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "returned to Rules",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorneys",
+    "Children And Minors",
+    "Courts",
+    "Courts, District",
+    "Courts, Family",
+    "Disabilities",
+    "Effective Dates, Delayed",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ff014b81-40f7-426c-ae60-1c11f1608dcb"
+}

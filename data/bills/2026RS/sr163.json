@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-sr163",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 163",
+  "title": "A RESOLUTION honoring the Morehead State University men's basketball team, 2026 Ohio Valley Conference regular season champions.",
+  "abstract": "Congratulate the Morehead State University Eagles men's basketball team, 2025-26 Ohio Valley Conference regular season champions.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. West",
+      "party": null,
+      "district": "27",
+      "primary": true
+    },
+    {
+      "name": "R. Webb",
+      "party": null,
+      "district": "18",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-12",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Athletics",
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/8397ad4f-c692-4244-a656-36aa74b66772"
+}

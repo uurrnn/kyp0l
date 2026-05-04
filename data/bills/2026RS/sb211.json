@@ -1,0 +1,58 @@
+{
+  "id": "openstates-ky-2026RS-sb211",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 211",
+  "title": "AN ACT relating to coverage for prescription drugs.",
+  "abstract": "Create a new section of Subtitle 17A of KRS Chapter 304 to require health plans to include a generic drug or biosimilar on the plan's formulary under specified circumstances; define terms; establish cost-sharing requirements when a generic drug or biosimilar is required to be placed on the health plan's formulary; prohibit a health plan from imposing any prior authorization, step therapy, or other limitation on coverage for a generic drug or biosimilar required to be placed on the health plan's formulary or imposing any restriction on a pharmacist or pharmacy that makes it more difficult for the insured to obtain coverage or access to the generic drug or biosimilar compared to the reference drug or product; amend KRS 304.17C-125, 164.2871, and 18A.225 to require limited health service benefit plans, self-insured group health plans offered by a state postsecondary education institution, and the state employee health plan to comply with the requirements for generic drugs and biosimilars; direct that the Act applies to health plans issued or renewed on or after January 1, 2027; EFFECTIVE, January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Richardson",
+      "party": null,
+      "district": "3",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Drugs And Medicines",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health And Medical Services",
+    "Insurance, Health",
+    "Pharmacists",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-19",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ceb2debc-4273-4384-bda8-f439a2d0c90c"
+}

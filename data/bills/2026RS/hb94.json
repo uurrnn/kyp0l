@@ -1,0 +1,97 @@
+{
+  "id": "openstates-ky-2026RS-hb94",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 94",
+  "title": "AN ACT relating to postsecondary education.",
+  "abstract": "Amend KRS 164.2951 to require the Council on Postsecondary Education to develop, implement, and maintain statewide transfer pathways available between the public postsecondary education institutions in selected baccalaureate programs; require the council to publish on its website a list of the available transfer pathways;  require participating postsecondary education institutions to accept transfer credit, earned or accepted at the prior institution within pathways as general education or program-specific general education credit before applying credit as elective; require the council to provide written notification to public postsecondary education institutions and coordinate credit transfer discussions upon receiving notification of an institution seeking to make changes to curricula impacting lower-division courses.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Higher",
+    "State Agencies",
+    "Universities And Colleges",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5a924f7c-5dbe-4f6c-9651-83e30e503fe5"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb615",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 615",
+  "title": "AN ACT relating to elections.",
+  "abstract": "Amend KRS 117.087 and 118.035  to extend voting hours from 6 p.m. to 7 p.m; amend KRS 117.076 and 117.275 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "County Clerks",
+    "Elections And Voting",
+    "Local Government",
+    "Local Mandate",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-19",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1afeaa87-b23e-4e14-abd3-a087c09cf77c"
+}

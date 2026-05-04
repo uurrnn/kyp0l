@@ -1,0 +1,91 @@
+{
+  "id": "openstates-ky-2026RS-hb80",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 80",
+  "title": "AN ACT relating to federal firearm restrictions.",
+  "abstract": "Create a new section of KRS Chapter 237 to declare legislative intent; define \"federal firearm restriction\"; provide that if a federal firearm restriction is repealed or declared unconstitutional, the Commonwealth shall not enact or enforce a law, rule, or regulation that mirrors, replaces, or imposes a restriction similar to that federal firearm restriction; prohibit prosecutions, fines, or other penalties for activities that were regulated or prohibited by a federal firearm restriction that is repealed or declared unconstitutional; prohibit specified persons and organizations from enforcing repealed or unconstitutional federal firearm restrictions; create a civil cause of action against a person or organization that violates the prohibitions; waive sovereign, governmental, and qualified immunity; provide penalties for any person who violates the prohibition on enforcing a repealed or unconstitutional federal firearm restriction; allow manufacturers of firearms or federally licensed firearms dealers to manufacture, sell, or possess firearms and accessories no longer restricted under federal law.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "S. Maddox",
+      "party": null,
+      "district": "61",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney, Commonwealth's",
+    "Charter County Government",
+    "Cities",
+    "Civil Actions",
+    "Claims",
+    "Consolidated Local Governments",
+    "Counties",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Federal Laws And Regulations",
+    "Firearms And Weapons",
+    "Local Government",
+    "Local Mandate",
+    "Occupations And Professions",
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State",
+    "Prosecutors",
+    "Sheriffs",
+    "Unified Local Governments"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c149f08d-e73a-446f-9544-ac51bbf35f6e"
+}

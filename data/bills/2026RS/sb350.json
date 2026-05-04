@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-sb350",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 350",
+  "title": "AN ACT relating to the abolition of the death penalty.",
+  "abstract": "Create a new section of KRS Chapter 532 to abolish the death penalty and replace it with life imprisonment without parole for inmates presently sentenced to death; amend KRS 532.030 to remove the death penalty; amend KRS 640.040 to prohibit life imprisonment without benefit of parole for a juvenile offender convicted of a capital offense; amend KRS 640.010 to define \"serious intellectual disability\" and \"significant subaverage general intellectual functioning\"; amend KRS 422.285, 532.050, 532.100, and 533.010 to conform; repeal KRS 431.213, 431.2135, 431.218, 431.220, 431.223, 431.224, 431.240, 431.250, 431.260, 431.270, 507A.060, 532.025, 532.075, 532.130, 532.135, 532.140, 532.300, 532.305, and 532.309.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Courts",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Deaths",
+    "Probation And Parole"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/32cf9c26-8c01-4000-9437-01d1a3b51601"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb827",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 827",
+  "title": "AN ACT relating to school districts.",
+  "abstract": "Amend KRS 160.020 to modify the minimum enrollment requirements for independent school districts to continue to operate; establish criteria for the Kentucky Board of Education to consider in an appeal of that requirement; amend KRS 160.041 to provide a merger process for any contiguous school districts; require the Kentucky Board of Education to determine the terms of merger for an insolvent district if no agreement between the school districts can be reached, and to promulgate administrative regulations regarding mergers due to insolvency.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Tipton",
+      "party": null,
+      "district": "53",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Boards And Commissions",
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/888b11c6-9528-4133-ad7f-c8032ff1da43"
+}

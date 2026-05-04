@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb146",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 146",
+  "title": "AN ACT relating to qualifications of victim advocates.",
+  "abstract": "Amend KRS 15.760 to allow Commonwealth's attorneys to employ as victim advocates individuals with a bachelor's degree in any field or a high school diploma and 2 years of experience; require victim advocates to enroll in training provided by the Attorney General's Office of Victims Advocacy within 30 days of hire; amend KRS 69.350 to allow county attorneys to employ as victim advocates individuals with a bachelor's degree in any field or a high school diploma and 2 years of experience; require victim advocates to enroll in training provided by the Attorney General's Office of Victims Advocacy within 30 days of hire.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "M. Whitaker",
+      "party": null,
+      "district": "94",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Attorney, Commonwealth's",
+    "Attorney, County",
+    "Crime Victims"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/110676e4-6ae3-4a22-9109-476577c89b9d"
+}

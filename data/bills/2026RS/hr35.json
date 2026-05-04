@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hr35",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 35",
+  "title": "A RESOLUTION recognizing January 21, 2026, as Certified Registered Nurse Anesthetists Day in Kentucky.",
+  "abstract": "Recognize January 21, 2026, as Certified Registered Nurse Anesthetists Day in Kentucky.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Huff",
+      "party": null,
+      "district": "49",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to House Floor",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "adopted by voice vote",
+      "chamber": "lower",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Nurses"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Passed House",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1201d288-5f9d-43ec-8036-64cb6ebb3c31"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb460",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 460",
+  "title": "AN ACT relating to custody.",
+  "abstract": "Amend KRS 403.270, 403.280, 403.315, and 403.340 to remove the presumption in favor of joint custody and equal parenting time; amend KRS 403.320 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Civil Actions",
+    "Courts",
+    "Domestic Relations",
+    "Parental Rights"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-29",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c6a69005-10a6-4a2f-af0f-87055991e5c1"
+}

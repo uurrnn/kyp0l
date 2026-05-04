@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-sr101",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 101",
+  "title": "A RESOLUTION recognizing February 21, 2026, as Historic St. Paul A.M.E. Church National Underground Railroad Network to Freedom Day in the Commonwealth of Kentucky.",
+  "abstract": "Recognize February 21, 2026, as Historic St. Paul A.M.E. Church National Underground Railroad Network to Freedom Day in the Commonwealth.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Historical Affairs",
+    "Race Relations",
+    "Religion"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-02-19",
+  "source_url": "",
+  "openstates_id": "ocd-bill/29d1660d-723b-4eaf-848c-28c9e32e5e58"
+}

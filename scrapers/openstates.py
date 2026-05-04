@@ -190,12 +190,28 @@ class OpenStatesScraper:
         })
 
     def _get(self, path: str, **params: Any) -> dict[str, Any]:
+        """GET with retry on 429 + courtesy throttle.
+
+        Open States enforces a per-minute burst limit on the free tier that
+        is separate from (and tighter than) the daily limit reported via
+        X-RateLimit-Remaining. We throttle to ~1 req/sec between calls and
+        retry once on a 429 with a 65s backoff.
+        """
         url = f"{BASE_URL}{path}"
-        r = self.session.get(url, params=params, timeout=30)
-        r.raise_for_status()
+        for attempt in (1, 2):
+            r = self.session.get(url, params=params, timeout=30)
+            if r.status_code == 429 and attempt == 1:
+                retry_after = int(r.headers.get("Retry-After") or 65)
+                print(f"  [openstates] 429 rate-limited; sleeping {retry_after}s")
+                time.sleep(retry_after)
+                continue
+            r.raise_for_status()
+            break
         remaining = int(r.headers.get("X-RateLimit-Remaining", "1000"))
         if remaining < 50:
             time.sleep(60)
+        else:
+            time.sleep(1.0)
         return r.json()
 
     def current_session(self) -> str:

@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb271",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 271",
+  "title": "AN ACT relating to affordable housing.",
+  "abstract": "Create a new section of KRS Chapter 198A to establish the abandoned home pool fund to be administered by the Kentucky Housing Corporation to purchase and improve vacant and abandoned homes for rental to eligible individuals and families; specify application process and eligibility criteria.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Budget And Financial Administration",
+    "Funds",
+    "Housing, Building, And Construction",
+    "Local Government",
+    "Poverty",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a8d2dfaa-205d-4c37-a533-1e6aae9baac9"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-sr297",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 297",
+  "title": "A RESOLUTION asserting the constitutional authority of the General Assembly with respect to the impeachment power; suspending action on the Articles of Impeachment against Julie Muth Goodman, Circuit Judge for the 22nd Judicial Circuit; and expressing the will of the Senate that the Judicial Conduct Commission conduct public proceedings concerning serious allegations of misconduct in office by Judge Goodman and take appropriate action to sanction and reprimand her, upon a finding of good cause.",
+  "abstract": "Assert the constitutional authority of the General Assembly with respect to the impeachment power; suspend action on the Articles of Impeachment against Julie Muth Goodman, Circuit Judge for the 22nd Judicial Circuit; express the will of the Senate that the Judicial Conduct Commission conduct public proceedings concerning serious allegations of misconduct in office by Judge Goodman and take appropriate action to sanction and reprimand her, upon a finding of good cause; direct the Director of the Legislative Research Commission to gather materials related to the impeachment from the Senate and House Clerks and forward those materials to the Judicial Conduct Commission.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Storm",
+      "party": null,
+      "district": "21",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-04-14",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "Courts, Circuit",
+    "General Assembly",
+    "Judges And Court Commissioners",
+    "Public Ethics"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1f5c2ff7-d646-4abb-8288-12db20fd40d7"
+}

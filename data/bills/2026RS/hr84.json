@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-hr84",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 84",
+  "title": "A RESOLUTION encouraging the development and construction of the East Kentucky Disaster Relief Center at Bear Mountain near Pikeville, Kentucky.",
+  "abstract": "Encourage the development and construction of the East Kentucky Disaster Relief Center at Bear Mountain near Pikeville, Kentucky.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Tackett Laferty",
+      "party": null,
+      "district": "95",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Disasters And Recovery Efforts",
+    "Flood Control And Flooding",
+    "Public Safety"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c730fb5c-a75a-472b-895d-6540c4e42c04"
+}

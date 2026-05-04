@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-hb847",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 847",
+  "title": "AN ACT proposing an amendment to Section 170 of the Constitution of Kentucky relating to taxation.",
+  "abstract": "Propose to amend Section 170 of the Constitution of Kentucky to provide the General Assembly the authority to exempt all or a portion of any class of property from taxation or eliminate all or a portion of any tax and the related provisions of that tax; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Elections And Voting",
+    "General Assembly",
+    "Local Mandate",
+    "Secretary Of State",
+    "Taxation",
+    "Taxation, Property"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/dff55ffb-fa78-439a-9675-6712f63b8e38"
+}

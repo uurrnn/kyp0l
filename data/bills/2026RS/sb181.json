@@ -1,0 +1,307 @@
+{
+  "id": "openstates-ky-2026RS-sb181",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 181",
+  "title": "AN ACT relating to schools and declaring an emergency.",
+  "abstract": "Amend KRS 160.145 to expand existing definitions and define \"private electronic communication\" and \"qualified school volunteer\"; limit the scope of unauthorized electronic communication to private electronic communication and exclude designated types of communication from the scope of the requirement to obtain written parental consent prior to communicating outside of the traceable communication system; limit the scope of the school volunteers subject to this section to qualified school volunteers; specify that the requirement to obtain written parental consent only applies to students enrolled within the same school district as the school district employee or qualified school volunteer; permit a local school district more flexibility in disciplinary actions arising from a violation of this section; permit a written parental consent form to designate more than 1 school district employee or qualified school volunteer; provide that the written consent may be revoked by the parent who filed the consent; require notice of the revocation to be sent to the identified school district employee or qualified school volunteer; prohibit a school or school district from refusing to accept parental consent forms; prohibit requiring parental consent forms under this section as a requirement for a student to participate in an academic, athletic, or extracurricular opportunity; provide an emergency exception to permit a school district employee or qualified school volunteer to communicate electronically without prior written parental consent if the individual discloses the communication after the fact; permit a school district to reconsider allowing previously prohibited volunteers; create a new section of KRS Chapter 160 to prohibit a public school district or public charter school from entering into a nondisclosure agreement relating to unauthorized electronic communication or misconduct involving a minor or student; amend KRS 160.380 to define \"abusive conduct\"; require school district applicants to disclose being the subject of any disciplinary actions in the previous 12 months relating to abusive conduct and consent to a reference check; require school districts to conduct reference checks; require nonpublic schools and public school districts to disclose any disciplinary actions related to abusive conduct of applicants; provide immunity for disclosures made about school employee conduct; require school districts to request all related information from public and nonpublic schools and the Education Professional Standards Board (ESPB); require schools and EPSB to provide the records; require requests for information to be satisfied in 10 working days; require EPSB to create and implement procedures for information requests; require all school district applicants to list all schools of previous and current employment on the application; require a school district to internally report and investigate to completion all allegations of abusive conduct; require all records relating to an allegation of abusive conduct to be retained in an employee's personnel file unless the allegation is proven false; provide that certain requirements apply to public charter schools; amend KRS 156.160 to direct the Kentucky Board of Education to include employment standards in the voluntary certification standards for private schools; make technical corrections; amend KRS 160.151 to define \"certified nonpublic school\"; require employees of certified nonpublic schools to submit to a national and state criminal background check and a CA/N check; require certified nonpublic school personnel to have a state criminal background check every 5 years; prohibit a certified nonpublic school from hiring a violent or felony sex crime offender; require a certified nonpublic school to conduct reference checks on all applicants; prohibit a certified nonpublic school from entering into a nondisclosure agreement related to misconduct involving a minor or student; make technical corrections; amend KRS 156.095 to require the Kentucky Department of Education to develop a training related to sexual misconduct and inappropriate relationships for employees to undergo every 5 years; make technical corrections; amend KRS 161.151 to conform; require that an allegation of abusive conduct be reported pursuant to KRS 620.030; amend KRS 158.4431, 156.492, and 158.200 to conform; provide that Section 2 may be cited as Erin's Law; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "G. Boswell",
+      "party": null,
+      "district": "8",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "S. Funke Frommeyer",
+      "party": null,
+      "district": "24",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Education (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "floor amendments (1) and (2) filed to Committee Substitute",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "posted for passage in the Regular Orders of the Day for Monday, January 26, 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-01-27",
+      "description": "3rd reading, passed with 33-0 Committee Substitute (1) and  Floor Amendments (1) and (2)",
+      "chamber": "upper",
+      "classification": [
+        "passage",
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [
+    {
+      "motion": "PASS SB 181 w/ SCS 1, SFA 2, SFA 1",
+      "date": "2026-01-27",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 33,
+        "no": 0,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Berg",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Neal",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Herron",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Higdon",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Webb",
+          "option": "yes"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "yes"
+        },
+        {
+          "name": "West",
+          "option": "yes"
+        },
+        {
+          "name": "Clemons",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        },
+        {
+          "name": "Storm",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "not voting"
+        },
+        {
+          "name": "Howell",
+          "option": "not voting"
+        },
+        {
+          "name": "Rawlings",
+          "option": "not voting"
+        },
+        {
+          "name": "Smith",
+          "option": "not voting"
+        },
+        {
+          "name": "Girdler",
+          "option": "not voting"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Background Checks",
+    "Boards And Commissions",
+    "Children And Minors",
+    "Education, Elementary And Secondary",
+    "Effective Dates, Emergency",
+    "Parental Rights",
+    "Short Titles And Popular Names",
+    "State Agencies",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate, in House committee",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c34cd41f-cba4-4fe0-9501-6b35c46f7fc6"
+}

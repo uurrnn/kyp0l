@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb474",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 474",
+  "title": "AN ACT relating to residential safety.",
+  "abstract": "Create a new section of KRS 227.200 to 227.400 to require an owner, seller, or lessor to have functional smoke detectors in all existing single-family and multifamily residential units; require a seller or lessor to verify compliance in an affidavit prior to transfer or tenancy of property; exempt KRS Chapter 324 licensees from liability; direct the state fire marshal to recommend use of carbon monoxide and fuel and gas leak detectors and provide an annual incident report on fire and carbon monoxide-related injuries and deaths to the State Fire Commission.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Tate",
+      "party": null,
+      "district": "27",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Fire Prevention",
+    "Firefighters And Fire Departments",
+    "Housing, Building, And Construction",
+    "Insurance",
+    "Landlord And Tenant",
+    "Licensing",
+    "Local Mandate",
+    "Public Safety",
+    "Real Estate",
+    "Safety",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-30",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b71fb4e2-cb1f-4982-963d-49f9b9521a38"
+}

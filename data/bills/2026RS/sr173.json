@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-sr173",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 173",
+  "title": "A RESOLUTION declaring the Kentucky Senate's acknowledgment and recognition of the value of fatherhood and its impact on building a strong secure society, and honoring the work of Eunice Ray and Dr. Linda Jeffrey.",
+  "abstract": "Honor the importance of fathers in the home; honor Eunice Ray and Dr. Linda Jeffrey.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-18",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-31",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5a3bb44e-65c1-4b76-b741-bf9377295470"
+}

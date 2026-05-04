@@ -1,0 +1,82 @@
+{
+  "id": "openstates-ky-2026RS-hb274",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 274",
+  "title": "AN ACT relating to the protection of veterans' benefits.",
+  "abstract": "Create a new section of KRS Chapter 40 to require persons seeking to receive compensation for advising or assisting with veterans' benefits claims to provide a signed disclosure document stating these services may be provided for free from other entities.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "W. Thomas",
+      "party": null,
+      "district": "8",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Advertising",
+    "Notices",
+    "Public Protection",
+    "Retirement And Pensions",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/051aaf2c-524e-4b37-b27c-ac8a188807df"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "openstates-ky-2026RS-hb93",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 93",
+  "title": "AN ACT relating to the Kentucky Horse Park.",
+  "abstract": "Amend KRS 148.280 to allow the Kentucky Horse Park Commission, through its president, to eject or exclude any person whose participation in Olympic, Paralympic, or equestrian sports or activities has been restricted by the United States Center for SafeSport and any person who engages or has engaged in conduct that would negatively impact the safety and security of park attendees; allow the commission to promulgate administrative regulations regarding ejections and exclusions from park property.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Athletics",
+    "Boards And Commissions",
+    "Federal Laws And Regulations",
+    "Horses And Horse Racing",
+    "Public Buildings And Grounds",
+    "Public Protection",
+    "State Agencies",
+    "Tourism"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9c5b80e0-e9c0-496f-93e0-e64318907e97"
+}

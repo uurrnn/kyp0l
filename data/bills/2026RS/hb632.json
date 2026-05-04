@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb632",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 632",
+  "title": "AN ACT relating to online protections for minors.",
+  "abstract": "Create new sections of KRS Chapter 367 to define terms; require app store providers to verify user ages, obtain parental consent for minor accounts, notify users and parents of significant changes, share age and consent data with developers, and protect age verification data; prohibit app store providers from misrepresenting parental consent disclosures; require developers to verify age and consent status through app stores and notify app stores of significant changes; prohibit developers from misrepresenting parental consent disclosures; require the Office of Consumer Protection within the Attorney General's Office to establish standards for age verification methods; provide that a violation of the Act is a deceptive act or practice in the conduct of trade or commerce; provide that a parent or guardian has a private right of action for violations, provide a safe harbor for compliant developers; require the Office of Consumer Protection to promulgate administrative regulations in contemplation of the Act in accordance with KRS 13A.200; EFFECTIVE, in part, December 1, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "description": "to Small Business & Information Technology (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Attorney General",
+    "Children And Minors",
+    "Commerce",
+    "Parental Rights"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/86507dbd-f3fc-4011-af2f-34e7552150cf"
+}

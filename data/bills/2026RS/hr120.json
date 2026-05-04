@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hr120",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 120",
+  "title": "A RESOLUTION commemorating the 250th Anniversary of the founding of the United States of America.",
+  "abstract": "Commemorate July 4th, 2026, as the 250th anniversary of the founding of the United States of America.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Tipton",
+      "party": null,
+      "district": "53",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "description": "to House Floor",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "description": "adopted by voice vote",
+      "chamber": "lower",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Historical Affairs",
+    "Holidays",
+    "United States"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Passed House",
+  "last_action_date": "2026-04-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/322071b8-eeb3-45a8-96c3-17ee1ee54f8e"
+}

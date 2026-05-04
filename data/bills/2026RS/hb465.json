@@ -1,0 +1,79 @@
+{
+  "id": "openstates-ky-2026RS-hb465",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 465",
+  "title": "AN ACT relating to animal testing.",
+  "abstract": "Create new sections of KRS Chapter 258 to define terms; establish a process for dogs and cats that have been retired from use for research and testing in an animal testing facility to be made available for adoption; prohibit the use of state funds that directly support painful experiments as defined by federal law and administered by the United States Department of Agriculture; require animal testing facilities that receive state funds to publicly publish an annual report on their website including the total animals and dogs and cats being tested yearly, active research, all testing projects that use animals, the total amount and source of funding for the project, and efforts used to reduce animal testing.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Agriculture (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Animals, Livestock, And Poultry",
+    "Business Entities And Organizations",
+    "Diseases",
+    "Drugs And Medicines",
+    "Education, Higher",
+    "Pets And Service Animals",
+    "Reports Mandated",
+    "Research"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-29",
+  "source_url": "",
+  "openstates_id": "ocd-bill/fed43a82-816e-493f-a0dc-76647f2276bd"
+}

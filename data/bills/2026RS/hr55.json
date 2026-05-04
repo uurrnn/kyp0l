@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hr55",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 55",
+  "title": "A RESOLUTION recognizing February 5, 2026, as Kentucky Nurses Day in the Commonwealth.",
+  "abstract": "Recognize February 5, 2026, as Kentucky Nurses Day.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Raymer",
+      "party": null,
+      "district": "15",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to House Floor",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "adopted by voice vote",
+      "chamber": "lower",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Nurses"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Passed House",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9ef8523f-64de-48d1-966d-38dc688c89c4"
+}

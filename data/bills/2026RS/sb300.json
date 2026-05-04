@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-sb300",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 300",
+  "title": "AN ACT relating to animal care.",
+  "abstract": "Create new sections of KRS Chapter 525 to define terms; require peace officers and animal control officers to serve notice of seizure of an animal subjected to cruelty; create procedure for seizing agencies to petition a court to order owner to pay cost of care for a seized animal; establish penalties; amend KRS 258.215 to require owners to be responsible for cost of care of an impounded animal.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Adams",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Animals, Livestock, And Poultry",
+    "Civil Actions",
+    "Civil Procedure",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Horses And Horse Racing",
+    "Local Mandate",
+    "Peace Officers And Law Enforcement",
+    "Pets And Service Animals",
+    "Veterinarians"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/aa813c48-21b8-4696-90b8-34aeec25593a"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb694",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 694",
+  "title": "AN ACT relating to an income tax credit for qualified employers.",
+  "abstract": "Create a new section of KRS Chapter 141 to define terms; establish a nonrefundable income tax credit for an employer that hires an eligible employee who holds a certificate of employability; provide that the credit is equal to the amount of wages paid to the eligible employee subject to certain limitations; amend KRS 141.0205 to order the credit; amend KRS 131.190 to allow the Department of Revenue to report on the credit.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections And Correctional Facilities, State",
+    "Education, Higher",
+    "Education, Vocational",
+    "Taxation",
+    "Taxation, Income--Corporate",
+    "Taxation, Income--Individual"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2460aab9-ff3e-4711-b3ce-c28b17fc6c78"
+}

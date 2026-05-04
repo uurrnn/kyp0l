@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-sb143",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 143",
+  "title": "AN ACT relating to legislative ethics.",
+  "abstract": "Create a new section of KRS 6.601 to 6.849 to define \"sexual harassment\" prohibit sexual harassment by any legislator or legislative agent to a legislator, legislative agent, or legislative branch employee.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    },
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Rights",
+    "Communications",
+    "General Assembly",
+    "Legislative Research Commission",
+    "Obscenity And Pornography",
+    "Public Ethics",
+    "Public Officers And Employees",
+    "Safety",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-30",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9fed7e20-cde6-4db6-aea3-15c486e55be6"
+}

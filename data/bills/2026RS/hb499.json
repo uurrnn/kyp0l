@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb499",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 499",
+  "title": "AN ACT relating to motor vehicle usage tax.",
+  "abstract": "Amend KRS 138.470 to exempt from motor vehicle usage tax any motor vehicle purchased by current members of the Kentucky National Guard or reserve component, motor vehicles brought into the Commonwealth that were sold by a dealer in another state to a member of the Armed Forces on duty in the Commonwealth while that person was on temporary duty in another state, and motor vehicles registered outside the state by a veteran or member of the United States Armed Forces that were purchased while that person was a member of the Armed Forces.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Local Mandate",
+    "Military Affairs And Civil Defense",
+    "Motor Vehicles",
+    "National Guard",
+    "Taxation",
+    "Taxation, Sales And Use"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/bb143084-97bc-4e40-974d-f64de1f16e94"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-sb103",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 103",
+  "title": "AN ACT relating to prescription drugs.",
+  "abstract": "Amend KRS 304.17A-164 to define terms; prohibit insurers and administrators from requiring insureds to pay cost sharing for a prescription drug that is greater than the cash price; require insurers and administrators to count the amount paid for a covered prescription drug towards the insured's cost-sharing if certain requirements are met; establish requirements for insurers, administrators, and pharmacies for submission of cash price paid by an insured; exempt a state employee health plan from counting third-party payments unless a cash price was paid that is less than the plan's negotiated price; provide for construction of cost-sharing requirements; amend KRS 304.17C-125, 304.38A-115, 164.2871, and 18A.225 to apply cost-sharing requirements to limited health plans, self-insured state postsecondary education institution employer group health plans, and the state employee health plan; create a new section of KRS Chapter 315 to require pharmacies to comply with cost-sharing requirements; provide that cost-sharing requirements apply to health plans issued or renewed on or after effective date; EFFECTIVE, January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    },
+    {
+      "name": "C. Richardson",
+      "party": null,
+      "district": "3",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Drugs And Medicines",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health Benefit Plan Mandate",
+    "Insurance, Health",
+    "Local Mandate",
+    "Pharmacists",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b81e4876-6573-4a38-82c1-055284c4dca5"
+}

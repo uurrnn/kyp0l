@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb284",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 284",
+  "title": "AN ACT relating to natural resources.",
+  "abstract": "Amend KRS 350.600  to clarify that the cabinet promulgates administrative regulations in accordance with KRS Chapter 13A and make grammatical and technical corrections.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Coal",
+    "Energy",
+    "Environment And Conservation",
+    "Fuel",
+    "Minerals And Mining"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9167fb4e-aa8a-46c4-aa67-031c5e9fb15b"
+}

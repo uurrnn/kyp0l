@@ -1,0 +1,83 @@
+{
+  "id": "openstates-ky-2026RS-hb405",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 405",
+  "title": "AN ACT relating to occupational license fees levied by a board of education.",
+  "abstract": "Amend KRS 160.603, relating to occupational license taxes for schools, to require a favorable vote of the local board of education prior to taking any other action to levy or increase the tax; require publication of the meeting in which the vote is expected to occur on the local board of education's website; subject an increase in the tax rate under KRS 160.607 to publication and public hearing requirements; expand the notification requirements for the public hearing; amend KRS 160.607 to require compliance with the publication and public hearing requirements and also a favorable vote by the fiscal court prior to authorizing an increase in a tax rate above the general maximum rate for school districts in counties having 300,000 or more inhabitants; amend KRS 160.484 to require the fiscal court to vote on an increase in a tax rate above the general maximum rate for school districts in counties having 300,000 or more inhabitants; set requirements for the rate based on the outcome of the vote; amend KRS 160.485, relating to recall procedures for proposed license tax levies or rate increases, to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    },
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Courts, Fiscal",
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Local Mandate",
+    "Notices",
+    "Taxation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d3c6c948-1581-4b9d-9c5d-87f9d5e59d64"
+}

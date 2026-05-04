@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-sr132",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 132",
+  "title": "A RESOLUTION honoring Dr. Joel Barrow and the Choctaw Academy as the first Indigenous American to become a college-educated medical doctor in the country and the first federal Native American boarding school that empowered him.",
+  "abstract": "Honor Dr. Joel Barrow as the first Indigenous American to become a college-educated medical doctor in the country and the Choctaw Academy as the first federal Native American boarding school and the school that empowered him to do so.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Education, Higher",
+    "Historical Affairs"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9a3e9428-ba4e-45d2-a895-00dad97898d1"
+}

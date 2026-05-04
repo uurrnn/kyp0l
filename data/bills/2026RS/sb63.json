@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-sb63",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 63",
+  "title": "AN ACT relating to student journalist freedom.",
+  "abstract": "Create a new section of KRS Chapter 158 to state legislative findings; define terms; establish additional free speech protections for student journalists; place limitations on additional protections; establish protections for student media advisors; require each local school board to adopt a written policy for time, place, and manner restrictions and for an appeals procedure; provide that student speech not be considered school speech; allow for a student journalist or student media advisor to seek injunctive relief; provide that the Act may be cited as the New Voices Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Rights",
+    "Education, Elementary And Secondary",
+    "Media",
+    "Publications",
+    "Short Titles And Popular Names",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-12",
+  "source_url": "",
+  "openstates_id": "ocd-bill/49bc1cdc-7b2e-46bd-9e58-b17ac703af2b"
+}

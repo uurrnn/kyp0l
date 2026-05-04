@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb303",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 303",
+  "title": "AN ACT proposing an amendment to Section 25 of the Constitution of Kentucky relating to slavery and involuntary servitude as a punishment for crime.",
+  "abstract": "Propose to amend Section 25 of the Constitution of Kentucky to prohibit slavery and involuntary servitude in all circumstances; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Crimes And Punishments",
+    "Local Mandate",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5f76083f-bcfa-4a1a-9bb2-03753d65a8d8"
+}

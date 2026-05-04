@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb163",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 163",
+  "title": "AN ACT relating to aggravating circumstances.",
+  "abstract": "Amend KRS 532.025 to include abuse of a corpse of the victim of kidnapping or murder by engaging in deviate sexual intercourse, sexual intercourse, or sexual contact as an aggravating circumstance; provide that the Act may be cited as Angela's Law.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Heavrin",
+      "party": null,
+      "district": "18",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crime Victims",
+    "Crimes And Punishments",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/af21ab82-4626-4f6e-a0d6-d7b5af7dab4d"
+}

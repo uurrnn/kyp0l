@@ -1,0 +1,81 @@
+{
+  "id": "openstates-ky-2026RS-hb520",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 520",
+  "title": "AN ACT relating to the fiscal reporting of local entities.",
+  "abstract": "Amend KRS 65A.030 to increase the fiscal reporting levels of special purpose governmental entities; allow entities conducting yearly audits to move to an audit every 4 years if the entity receives 2 sequential audit reports with unqualified opinions and report the fact that the entity is operating under the alternative audit schedule to the Department for Local Government; require an entity to have yearly audits if the entity receives anything but an unqualified audit opinion at a subsequent audit; amend KRS 147.635, relating to area planning commissions, to align their audit requirements to those in KRS 65A.030; amend KRS 220.280, relating to sanitation districts, to align their audit requirements to those in KRS 65A.030; amend KRS 43.070 and 186.240 to combine the county clerks' independent audits of motor vehicle and motorboat registration fees and licenses, motor vehicle usage taxes, and ad valorem taxes on motor vehicles and motorboats into the county clerks' regular periodic audit; require the Kentucky Transportation Cabinet to bear the cost of the portion of the audit attributed to receipts from motor vehicles and motorboats; amend KRS 64.830, relating to final settlements of outgoing county officials, to make the settlement to be complete within 60 days of the expiration of the term of office or the date a vacancy is otherwise created to account for unexpected vacancies in office; require that if an official's vacancy does not coincide with the end of the calendar year or end of the official's term, the outgoing county official is to remit any remaining funds to the fiscal court as excess fees and require the fiscal court to provide an amount equal to the excess fees remitted by the outgoing official to the outgoing county official's successor for official use; repeal KRS 43.071, relating to the annual audit of county clerk's motor vehicle and motorboat tax receipts; EFFECTIVE, in part, July 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "W. Thomas",
+      "party": null,
+      "district": "8",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Auditor Of Public Accounts",
+    "Audits And Auditors",
+    "Bonds Of Surety",
+    "Cities",
+    "Counties",
+    "County Clerks",
+    "Courts, Fiscal",
+    "Effective Dates, Delayed",
+    "Financial Responsibility",
+    "Local Government",
+    "Local Mandate",
+    "Motor Vehicles",
+    "Planning And Zoning",
+    "Public Officers And Employees",
+    "Sewer Systems",
+    "Sheriffs",
+    "Special Districts",
+    "Special Purpose Governmental Entities",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Property",
+    "Taxation, Sales And Use"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/fd40ae23-c87b-4e96-b5a0-92692224953d"
+}

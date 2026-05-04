@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb724",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 724",
+  "title": "AN ACT relating to transportation.",
+  "abstract": "Amend KRS 186.230 and 186.120 to conform to gender-neutral language.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Upchurch",
+      "party": null,
+      "district": "52",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "County Clerks",
+    "Motor Vehicles",
+    "Technical Corrections",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c09382e7-f546-43ab-969b-5a4bdd950a05"
+}

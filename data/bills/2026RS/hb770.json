@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb770",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 770",
+  "title": "AN ACT relating to teacher scholarships.",
+  "abstract": "Create a new section of KRS Chapter 164 to create the Promise Program to provide scholarships to eligible students of a teacher preparation program; define terms; specify the Kentucky Higher Education Assistance Authority may provide promise awards to eligible students; require 5 years of qualified teaching service; require repayment if services are not rendered; specify that failure to meet repayment obligations shall be cause for revocation of a teaching certificate.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Finance",
+    "Education, Higher",
+    "State Agencies",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/22fe18b6-2a3a-4df2-951d-ebc2e6c06b89"
+}

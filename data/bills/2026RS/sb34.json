@@ -1,0 +1,419 @@
+{
+  "id": "openstates-ky-2026RS-sb34",
+  "body_ids": [
+    "ky-house",
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 34",
+  "title": "AN ACT relating to the transfer of property upon death.",
+  "abstract": "Create new sections of KRS Chapter 391 to establish the Kentucky Uniform Real Property Transfer on Death Act to codify provisions for the creation, administration, modification, termination, and validity of transfer on death deeds; define terms; specify that a transfer on death deed is not an inter vivos transfer and that the transfer occurs at the time of the transferor's death; specify that the transferor retains the power to revoke a transfer on death deed; establish that a transfer on death deed is nontestamentary; establish requirements for a transfer on death deed and specify the process of recording a transfer on death deed; specify that a transfer on death deed is effective without acceptance by the beneficiary during the transferor's lifetime; establish provisions for the revocation of a transfer on death deed by instrument or act; establish the effect of a transfer on death deed during the transferor's life; allow a beneficiary to disclaim the property interest in the deed; establish a form for creating at transfer on death deed; establish a form for revocation of a transfer on death deed; require the Department of Revenue to provide the established forms; specify the applicability of KRS Chapter 391; conform to federal requirements related to electronic signatures and records; amend KRS 64.012 to provide the recording fee for a transfer on death deed or revocation; require the Department of Medicaid Services to prescribe and provide a form requiring information related to any Medicaid lien; provide that Sections 1 to 14 of this Act may be cited as the Uniform Real Property Transfer on Death Act; Amend KRS 381.280, 382.110, 382.135, 391.360, 392.020, 392.070, and 403.190 to conform; create a new section of KRS Chapter 186A to define terms; establish requirements for a transfer of a vehicle's title to a named beneficiary upon the death of the owner; direct the Transportation Cabinet to develop a form for transfer; amend KRS 395.455 to dispense with administration of an estate and transfer property under certain circumstances relating to minors and payment of preferred claims.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Rawlings",
+      "party": null,
+      "district": "11",
+      "primary": true
+    },
+    {
+      "name": "S. Funke Frommeyer",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Judiciary (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "posted for passage in the Regular Orders of the Day for Friday, January 30 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-01-30",
+      "description": "floor amendment (1) filed",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "taken from the Orders of the Day",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-02-05",
+      "description": "returned to Rules",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-09",
+      "description": "posted for passage in the Regular Orders of the Day for Wednesday, March 11 2026",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-09",
+      "description": "floor amendment (2) filed",
+      "chamber": "upper",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "passed over and retained in the Orders of the Day",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "3rd reading",
+      "chamber": "upper",
+      "classification": [
+        "reading-3"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "floor amendment (1) withdrawn",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-12",
+      "description": "passed 36-2 with Floor Amendment (2)",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "received in House",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [
+    {
+      "motion": "PASS SB 34 w/ SFA 2",
+      "date": "2026-03-12",
+      "chamber": "upper",
+      "result": "pass",
+      "counts": {
+        "yes": 36,
+        "no": 2,
+        "abstain": 0,
+        "not voting": 0
+      },
+      "member_votes": [
+        {
+          "name": "Berg",
+          "option": "yes"
+        },
+        {
+          "name": "Girdler",
+          "option": "yes"
+        },
+        {
+          "name": "Mills",
+          "option": "yes"
+        },
+        {
+          "name": "Stivers",
+          "option": "yes"
+        },
+        {
+          "name": "Boswell",
+          "option": "yes"
+        },
+        {
+          "name": "Givens",
+          "option": "yes"
+        },
+        {
+          "name": "Neal",
+          "option": "yes"
+        },
+        {
+          "name": "Storm",
+          "option": "yes"
+        },
+        {
+          "name": "Carpenter",
+          "option": "yes"
+        },
+        {
+          "name": "Herron",
+          "option": "yes"
+        },
+        {
+          "name": "Nemes",
+          "option": "yes"
+        },
+        {
+          "name": "Thomas",
+          "option": "yes"
+        },
+        {
+          "name": "Carroll",
+          "option": "yes"
+        },
+        {
+          "name": "Higdon",
+          "option": "yes"
+        },
+        {
+          "name": "Nunn",
+          "option": "yes"
+        },
+        {
+          "name": "Tichenor",
+          "option": "yes"
+        },
+        {
+          "name": "ChambersArmstrong",
+          "option": "yes"
+        },
+        {
+          "name": "Howell",
+          "option": "yes"
+        },
+        {
+          "name": "Raque Adams",
+          "option": "yes"
+        },
+        {
+          "name": "Webb",
+          "option": "yes"
+        },
+        {
+          "name": "Clemons",
+          "option": "yes"
+        },
+        {
+          "name": "Madon",
+          "option": "yes"
+        },
+        {
+          "name": "Rawlings",
+          "option": "yes"
+        },
+        {
+          "name": "Wheeler",
+          "option": "yes"
+        },
+        {
+          "name": "Douglas",
+          "option": "yes"
+        },
+        {
+          "name": "Mays Bledsoe",
+          "option": "yes"
+        },
+        {
+          "name": "Reed",
+          "option": "yes"
+        },
+        {
+          "name": "Williams",
+          "option": "yes"
+        },
+        {
+          "name": "Elkins",
+          "option": "yes"
+        },
+        {
+          "name": "McDaniel",
+          "option": "yes"
+        },
+        {
+          "name": "Richardson",
+          "option": "yes"
+        },
+        {
+          "name": "Wilson",
+          "option": "yes"
+        },
+        {
+          "name": "Funke Frommeyer",
+          "option": "yes"
+        },
+        {
+          "name": "Meredith",
+          "option": "yes"
+        },
+        {
+          "name": "Smith",
+          "option": "yes"
+        },
+        {
+          "name": "Wise",
+          "option": "yes"
+        },
+        {
+          "name": "Deneen",
+          "option": "no"
+        },
+        {
+          "name": "West",
+          "option": "no"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Children And Minors",
+    "Civil Actions",
+    "Civil Procedure",
+    "County Clerks",
+    "Courts, District",
+    "Deaths",
+    "Deeds And Conveyances",
+    "Federal Laws And Regulations",
+    "Fiduciaries",
+    "Local Mandate",
+    "Medicaid",
+    "Motor Vehicles",
+    "Property",
+    "Real Estate",
+    "Short Titles And Popular Names",
+    "State Agencies",
+    "Taxation, Inheritance And Estate",
+    "Taxation, Property",
+    "Uniform Laws",
+    "Wills, Trusts, And Estates"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate, in House committee",
+  "last_action_date": "2026-03-24",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e33b6cbc-9424-474a-8f9a-5461a0660045"
+}

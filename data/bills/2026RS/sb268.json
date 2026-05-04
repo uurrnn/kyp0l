@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb268",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 268",
+  "title": "AN ACT relating to nondivisible loads.",
+  "abstract": "Amend KRS 189.010 to include electric vehicle batteries in the definition of \"nondivisible load\" as it pertains to any state-maintained highway.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Highways, Streets, And Bridges",
+    "Motor Carriers",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e976d5a2-64a3-4905-8910-7358b2c0c4aa"
+}

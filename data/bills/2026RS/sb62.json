@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sb62",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 62",
+  "title": "AN ACT relating to evictions during extreme weather conditions.",
+  "abstract": "Create a new section of KRS 383.200 to 383.285 to prohibit evictions of residential tenants during extreme weather conditions; amend KRS 383.245 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Courts, District",
+    "Landlord And Tenant",
+    "Property",
+    "Public Safety"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-12",
+  "source_url": "",
+  "openstates_id": "ocd-bill/099fd3b7-2dff-4d0e-89ea-49383ffd6e2d"
+}

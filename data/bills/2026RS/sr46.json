@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-sr46",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 46",
+  "title": "A RESOLUTION recognizing and congratulating T. Gerard \"Gerry\" Bradley on his appointment as president of the University of Louisville.",
+  "abstract": "Recognize and congratulate T. Gerard \"Gerry\" Bradley on his appointment as president of the University of Louisville.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9bdfb530-1f1c-4788-88e0-786937f38b48"
+}

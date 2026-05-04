@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-hb209",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 209",
+  "title": "AN ACT relating to certified living wage.",
+  "abstract": "Create a new section of KRS Chapter 337 to require the Office of the Kentucky Center for Statistics to establish a certified living wage based on occupation type and geographic area utilizing data from the Occupational Employment and Wage Statistics program if the employer receives certain financial incentives from local, state, or federal agencies; amend KRS 151B.133 to require the Office of Kentucky Center for Statistics to establish a certified living wage by July 1, 2027, and every year thereafter; amend KRS 337.990 to establish civil penalties.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Labor And Industry",
+    "Local Mandate",
+    "Public Works",
+    "State Agencies",
+    "Wages And Hours"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/37750115-e468-4adb-978b-0dc37f54c0cd"
+}

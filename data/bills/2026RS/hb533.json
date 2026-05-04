@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb533",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 533",
+  "title": "AN ACT relating to road projects and declaring an emergency.",
+  "abstract": "Set out the Governor's recommended 2026-2028 Biennial Highway Construction Plan; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Effective Dates, Emergency",
+    "Highways, Streets, And Bridges",
+    "State Agencies",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e27eb31b-0a91-46e6-b578-f7789f88e8b3"
+}

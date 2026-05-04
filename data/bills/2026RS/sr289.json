@@ -1,0 +1,60 @@
+{
+  "id": "openstates-ky-2026RS-sr289",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 289",
+  "title": "A RESOLUTION recognizing April 28th, 2026, as Pay It Forward Day.",
+  "abstract": "Recognize April 28, 2026, as Pay It Forward Day.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Girdler",
+      "party": null,
+      "district": "15",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-04-14",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7fd875a7-07d8-46a4-a465-541a556a6d47"
+}

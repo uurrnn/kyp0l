@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-sr56",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 56",
+  "title": "A RESOLUTION honoring Elder Nathan Craig and his wife, Sister Amy Craig, upon their calling to serve the Ghana Accra South Mission.",
+  "abstract": "Honor Elder Nathan Craig and his wife, Sister Amy Craig, for their calling to the Ghana Accra South Mission.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Richardson",
+      "party": null,
+      "district": "3",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Religion"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c1d94fb8-c9bd-467f-8e02-4b877dc29855"
+}

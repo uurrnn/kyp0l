@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-hr127",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 127",
+  "title": "A RESOLUTION expressing support for the Ohio River Restoration Program Act to advance clean water, economic development, community stability, and expanded recreation opportunities in the Commonwealth of Kentucky.",
+  "abstract": "Support the federal Ohio River Restoration Program Act to advance clean water, economic development, community stability, and expanded recreation opportunities in the Commonwealth of Kentucky.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Freeland",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Economic Development",
+    "Environment And Conservation",
+    "Fish And Wildlife",
+    "Flood Control And Flooding",
+    "Pollution",
+    "Tourism",
+    "United States",
+    "Water Supply",
+    "Waterways And Dams"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f98acd30-433c-4b2c-826f-665f556c0278"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sr290",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 290",
+  "title": "A RESOLUTION urging the United States Attorney General to investigate and prosecute individuals implicated in criminal activities related to the Jeffrey Epstein files and recognizing the efforts of Kentucky's own Representative Thomas Massie in securing their public release.",
+  "abstract": "Urge the United States Attorney General to investigate and prosecute individuals implicated in criminal activities related to the Jeffrey Epstein files; recognize the efforts of Representative Thomas Massie in securing the public release of the Jeffrey Epstein files.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-04-14",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Crimes And Punishments",
+    "Federal Laws And Regulations"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-04-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/239d233a-cd27-488c-ad74-aeaf98c2a3e9"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "openstates-ky-2026RS-sjr26",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SJR 26",
+  "title": "A JOINT RESOLUTION relating to unconstitutional acts that would undermine the rights of Kentucky citizens and the sovereignty of the Commonwealth of Kentucky.",
+  "abstract": "Reaffirm the sovereignty of Kentucky; affirm the sovereign right of Kentucky to nullify unconstitutional acts of the federal government; direct the Attorney General to challenge all unconstitutional acts of the federal government that usurp or diminish the sovereignty of Kentucky; provide that the General Assembly may enact legislation nullifying unconstitutional acts that undermine Kentucky's sovereignty.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Rawlings",
+      "party": null,
+      "district": "11",
+      "primary": true
+    },
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    },
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Federal Laws And Regulations",
+    "General Assembly",
+    "United States"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-08",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ad2787f6-5134-48f0-b530-266bea5d8a62"
+}

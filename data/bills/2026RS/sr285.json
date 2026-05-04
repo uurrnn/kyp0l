@@ -1,0 +1,74 @@
+{
+  "id": "openstates-ky-2026RS-sr285",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 285",
+  "title": "A RESOLUTION recognizing the filing of the Major Richard Star Act, a bill exploring an opportunity for veterans with disabilities to receive their full United States Department of Defense retirement pay and United States Department of Veterans Affairs disability compensation without offset.",
+  "abstract": "Recognize the filing of the Major Richard Star Act in the United States Congress, a bill exploring an opportunity for veterans with disabilities to receive their full United States Department of Defense retirement pay and United States Department of Veterans Affairs disability compensation without offset.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-04-01",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Disabilities",
+    "Federal Laws And Regulations",
+    "Military Affairs And Civil Defense",
+    "Retirement And Pensions",
+    "Short Titles And Popular Names",
+    "United States",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a2da58f7-90da-46fb-9e58-714a4e293a1f"
+}

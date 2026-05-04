@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb861",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 861",
+  "title": "AN ACT proposing an amendment to Section 145 of the Constitution of Kentucky relating to restoration of rights.",
+  "abstract": "Propose to amend Section 145 of the Constitution of Kentucky to automatically restore the voting rights and civil rights of persons convicted of certain felonies upon completion of their imprisonment, probation, and parole; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Bauman",
+      "party": null,
+      "district": "28",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Rights",
+    "Constitution, Ky.",
+    "County Clerks",
+    "Crimes And Punishments",
+    "Elections And Voting",
+    "Local Mandate",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3062aba6-def7-4f07-9856-ca4e38b3be1c"
+}

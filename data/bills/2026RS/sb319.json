@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-sb319",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 319",
+  "title": "AN ACT relating to data centers.",
+  "abstract": "Create a new section of Subchapter 10 of KRS Chapter 224 to define \"data center\"; provide that the requirements of the section only apply to data centers constructed on agricultural land; require a data center owner to file a decommissioning plan with the Energy and Environment Cabinet prior to operating the data center; provide for the minimum requirements of the decommissioning plan, including requiring a surety bond or similar security to guarantee the decommissioning of the data center; amend KRS 154.20-229 to require that a qualified data center project that has been preliminarily approved for a certificate of exemption under KRS 139.499 include in its memorandum of agreement with the Kentucky Economic Development Finance Authority requirements to engage with local government officials to regularly review and adopt practices to improve energy and water use efficiency.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Bonds Of Surety",
+    "Energy",
+    "Environment And Conservation",
+    "Financial Responsibility",
+    "Land Use",
+    "Local Government",
+    "Property",
+    "State Agencies",
+    "Water Supply"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ca114176-fe6e-4265-a211-e3a734bfb3a9"
+}

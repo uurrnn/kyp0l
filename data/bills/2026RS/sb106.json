@@ -1,0 +1,73 @@
+{
+  "id": "openstates-ky-2026RS-sb106",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 106",
+  "title": "AN ACT relating to the Kentucky Education Excellence Scholarship.",
+  "abstract": "Amend KRS 164.7874 to include the United States Air Force Academy, the United States Military Academy, the United States Naval Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy to the definition of \"participating institution\" under the Kentucky Education Excellence Scholarship program if the academy enters into the necessary agreements with the Kentucky Higher Education Assistance Authority.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    },
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Finance",
+    "Education, Higher",
+    "Military Affairs And Civil Defense",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/0d0ebcdb-3c07-4a12-b106-fc4f323d2c35"
+}

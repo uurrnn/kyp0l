@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb264",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 264",
+  "title": "AN ACT proposing an amendment to Section 29 of the Constitution of Kentucky relating to citizen ballot initiatives.",
+  "abstract": "Propose to amend Section 29 of the Constitution of Kentucky to establish the initiative power of the people to propose laws and to enact or reject proposed initiatives at an election; establish procedures for initiatives, effect of adopted initiatives, and parameters for the subject of any initiative; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Elections And Voting",
+    "General Assembly",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3926e46f-46ec-4843-bf85-8180ef82e51f"
+}

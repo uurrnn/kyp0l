@@ -1,0 +1,102 @@
+{
+  "id": "openstates-ky-2026RS-sb163",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 163",
+  "title": "AN ACT relating to unemployment insurance.",
+  "abstract": "Amend KRS 341.350, relating to unemployment insurance, to lengthen the verified definite return-to-work or recall-to-work period from 16 weeks to 12 months and add protections for employees whose place of employment can reasonably be expected to resume operations within 12 months following a natural disaster.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    },
+    {
+      "name": "G. Clemons",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "M. Nemes",
+      "party": null,
+      "district": "38",
+      "primary": true
+    },
+    {
+      "name": "R. Webb",
+      "party": null,
+      "district": "18",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "taken from Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": []
+    },
+    {
+      "date": "2026-03-17",
+      "description": "1st reading",
+      "chamber": "upper",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "returned to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Disasters And Recovery Efforts",
+    "Insurance",
+    "Labor And Industry",
+    "Personnel And Employment",
+    "State Agencies",
+    "Unemployment Compensation",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-17",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b43c13ea-7c1c-45bf-8447-c7004541a96d"
+}

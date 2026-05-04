@@ -1,0 +1,58 @@
+{
+  "id": "openstates-ky-2026RS-sb93",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 93",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to Medicaid expansion.",
+  "abstract": "Propose to create a new section of the Constitution of Kentucky to enshrine Medicaid expansion coverage; direct the Secretary of State to advertise the proposed constitutional amendment prior to a general election vote; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Federal Laws And Regulations",
+    "Local Mandate",
+    "Medicaid",
+    "Public Health",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-08",
+  "source_url": "",
+  "openstates_id": "ocd-bill/35b8fabf-5e43-4a2c-b54d-ee53ee7afe3d"
+}

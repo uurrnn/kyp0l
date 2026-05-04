@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb616",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 616",
+  "title": "AN ACT relating to the Board of Nursing.",
+  "abstract": "Amend KRS 314.121 to require practitioner members of the Board of Nursing to maintain licensure throughout their board terms; make the active clinical practice of registered nurse members consist of direct bedside patient care on a daily basis; change the entities that submit board candidate names for active clinical registered nurses and nurse educators.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Rudy",
+      "party": null,
+      "district": "1",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Hospitals And Health Facilities",
+    "Licensing",
+    "Nurses",
+    "Occupations And Professions"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-19",
+  "source_url": "",
+  "openstates_id": "ocd-bill/cb1d9514-1e4d-4a31-82a8-079bbd644803"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "openstates-ky-2026RS-hb756",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 756",
+  "title": "AN ACT relating to small farms and home-based processors.",
+  "abstract": "Create a new section of KRS 217.015 to 217.215 to define \"small farms\"; exempt small farms and home-based processors from any state and any city, county, urban-county government, consolidated local government, unified local government, or charter county government and any health department thereof from any rule, administrative regulation, certification, or licensing requirement that is not required by federal law; repeal KRS 217.136, relating to home-based food processors.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Maddox",
+      "party": null,
+      "district": "61",
+      "primary": true
+    },
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Agriculture (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Charter County Government",
+    "Cities",
+    "Commerce",
+    "Consolidated Local Governments",
+    "Counties",
+    "Counties, Charter",
+    "Counties, Urban",
+    "Local Government",
+    "Local Mandate",
+    "Public Health",
+    "Small Business",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b5166398-5270-4b7a-8e96-3744aca600e3"
+}

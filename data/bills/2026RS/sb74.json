@@ -1,0 +1,107 @@
+{
+  "id": "openstates-ky-2026RS-sb74",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 74",
+  "title": "AN ACT relating to investment in youth vaping prevention.",
+  "abstract": "Create a new section of KRS Chapter 15 to create the vaping settlement trust fund to be administered by the Office of the Attorney General; direct the deposit of certain litigation proceeds into the fund; direct the allowable use of fund moneys for certain youth prevention and cessation efforts.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Richardson",
+      "party": null,
+      "district": "3",
+      "primary": true
+    },
+    {
+      "name": "D. Carroll",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "B. Storm",
+      "party": null,
+      "district": "21",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Health Services (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "recommitted to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Budget And Financial Administration",
+    "Children And Minors",
+    "Funds",
+    "Health And Medical Services",
+    "Public Health",
+    "Tobacco",
+    "Vaping"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed_committee",
+    "governor": null
+  },
+  "current_status": "passed committee Senate",
+  "last_action_date": "2026-02-19",
+  "source_url": "",
+  "openstates_id": "ocd-bill/99f44c79-4dae-4ef3-85a2-057d9ab36284"
+}

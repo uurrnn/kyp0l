@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb784",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 784",
+  "title": "AN ACT relating to fetal homicide.",
+  "abstract": "Amend KRS 507A.010 to allow prosecution under KRS Chapter 507A, relating to fetal homicide, of a pregnant woman and of acts committed during an abortion.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "M. Hart",
+      "party": null,
+      "district": "78",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Deaths",
+    "Local Mandate",
+    "Prosecutors",
+    "Reproductive Issues",
+    "Women"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/97fa6d5d-571d-4fe4-80f1-8ae54f3a2598"
+}

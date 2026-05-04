@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb301",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 301",
+  "title": "AN ACT relating to service credit for the Teachers' Retirement System and declaring an emergency.",
+  "abstract": "Amend KRS 161.500 to allow members of the Teachers' Retirement System to recover up to 10 unpaid days that were missed to observe religious holidays; include the recovered days in count of days worked for service credit; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Education, Elementary And Secondary",
+    "Effective Dates, Emergency",
+    "Retirement And Pensions",
+    "Teachers",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/723009e6-ebe2-44d4-a16c-5279ac7943bf"
+}

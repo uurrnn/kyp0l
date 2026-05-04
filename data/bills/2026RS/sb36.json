@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sb36",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 36",
+  "title": "AN ACT relating to parentage fraud.",
+  "abstract": "Create a new section of KRS Chapter 530 to establish the crime of parentage fraud as a Class B misdemeanor.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Parental Rights"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-07",
+  "source_url": "",
+  "openstates_id": "ocd-bill/15094bc7-8285-4ec0-8b67-f13669f085e7"
+}

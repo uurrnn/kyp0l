@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-hcr48",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 48",
+  "title": "A CONCURRENT RESOLUTION establishing the Cemeteries Across Kentucky Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Cemeteries Across Kentucky Task Force to review and make recommendations regarding problem of abandoned cemeteries within the Commonwealth; require the task force to meet monthly during the 2026 legislative interim; outline task force membership; require the task force to submit its findings and recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cemeteries And Burials",
+    "Legislative Research Commission",
+    "Local Government",
+    "Property",
+    "Reports Mandated",
+    "Task Forces, Legislative Branch",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e95939c9-89d6-48ec-b336-714698d7ca87"
+}

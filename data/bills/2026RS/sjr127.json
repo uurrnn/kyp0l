@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sjr127",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SJR 127",
+  "title": "A JOINT RESOLUTION directing the Kentucky Law Enforcement Council to develop training on wellness checks and the emergency aid exception to the warrant requirement of the Fourth Amendment to the United States Constitution.",
+  "abstract": "Direct the Kentucky Law Enforcement Council to develop and approve an in-service training course to be presented to all certified peace officers on wellness checks and the emergency aid exception to the warrant requirement of the Fourth Amendment to the United States Constitution.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e7877d98-f788-4452-aed1-0d6344259386"
+}

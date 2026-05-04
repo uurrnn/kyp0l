@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-sr189",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 189",
+  "title": "A RESOLUTION expressing support for the Ohio River Restoration Program Act to advance clean water, economic development, community stability, and expanded recreation opportunities in the Commonwealth of Kentucky.",
+  "abstract": "Support the federal Ohio River Restoration Program Act to advance clean water, economic development, community stability, and expanded recreation opportunities in the Commonwealth of Kentucky.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-24",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Economic Development",
+    "Environment And Conservation",
+    "Fish And Wildlife",
+    "Flood Control And Flooding",
+    "Pollution",
+    "Tourism",
+    "United States",
+    "Water Supply",
+    "Waterways And Dams"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ce0dd6e5-17e2-436d-9b1d-214bf2a185e4"
+}

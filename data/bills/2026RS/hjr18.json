@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-hjr18",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 18",
+  "title": "A JOINT RESOLUTION designating the Elmer Carmon Milliner and PFC Clarence Ozbert Milliner Memorial Bridges in Grayson County.",
+  "abstract": "Direct the Transportation Cabinet to designate 2  bridges on Kentucky Route 920 in Grayson County as the Elmer Carmon Milliner Memorial Bridge and the  PFC Clarence Ozbert Milliner Memorial Bridge.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Heavrin",
+      "party": null,
+      "district": "18",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Honorary Highway Designations",
+    "Memorials"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4aba2339-565a-4de0-bb40-9c679149ac4b"
+}

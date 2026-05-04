@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-sr209",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 209",
+  "title": "A RESOLUTION recognizing and celebrating the patriotic service and community contributions of veterans and the importance of protecting the earned benefits of our veterans from retaliatory and punitive measures.",
+  "abstract": "Recognize and celebrate the patriotic service and community contributions of veterans and the importance of protecting the earned benefits of our veterans from retaliatory and punitive measures.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-31",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, U.S.",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-01",
+  "source_url": "",
+  "openstates_id": "ocd-bill/43f9f15a-67cb-4e55-8d8d-51c785ff5277"
+}

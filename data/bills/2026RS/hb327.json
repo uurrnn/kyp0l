@@ -1,0 +1,79 @@
+{
+  "id": "openstates-ky-2026RS-hb327",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 327",
+  "title": "AN ACT relating to pretrial release.",
+  "abstract": "Amend KRS 431.066 to limit the use of money bail to certain high-risk defendants and create a preventive detention process for defendants of select risk levels and charge types; create a new section of KRS Chapter 431 to establish a preventive detention hearing process and define the limited circumstances in which money bail may be imposed; amend various other sections to conform; repeal KRS 431.021, relating to guaranteed arrest bond certificates.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Bail And Pretrial Release",
+    "Corrections Impact",
+    "Courts",
+    "Courts, Circuit",
+    "Courts, District",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Local Mandate"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a39d3ba7-e782-4459-a5ca-2b25790083fb"
+}

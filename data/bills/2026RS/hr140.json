@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hr140",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 140",
+  "title": "A RESOLUTION declaring that the Kentucky Supreme Court's opinion and order of April 6, 2026, is unconstitutional.",
+  "abstract": "Declare that the impeachment power of the General Assembly is inviolate; declare that the Supreme Court of Kentucky has no authority to impede the power of impeachment vested in the General Assembly; declare that the April 6, 2026 order of the Supreme Court of Kentucky is void as it violates Section 110 of the Constitution of Kentucky; declare that the General Assembly has the sole authority to determine what actions constitute a misdemeanor in office warranting impeachment; declare that the General Assembly has the sole authority to tax costs, attorney's fees, or other expenses in any impeachment proceeding.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Blanton",
+      "party": null,
+      "district": "92",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-04-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "taken from Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-04-15",
+      "description": "to House Floor",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "adopted by voice vote",
+      "chamber": "lower",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "Court, Supreme",
+    "Fees",
+    "General Assembly",
+    "Judges And Court Commissioners"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Passed House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/754f344c-9819-4cb9-8b77-70845c00e8af"
+}

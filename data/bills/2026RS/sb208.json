@@ -1,0 +1,59 @@
+{
+  "id": "openstates-ky-2026RS-sb208",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 208",
+  "title": "AN ACT relating to arrest-related deaths.",
+  "abstract": "Amend KRS 72.025 to require a post-mortem examination in deaths that occur during an arrest; create a new section of KRS Chapter 72 to require coroners to notify the Kentucky State Medical Examiner of arrest-related deaths; require publication of an annual public report; amend KRS 72.020 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Coroners",
+    "Corrections And Correctional Facilities, State",
+    "Corrections Impact",
+    "Deaths",
+    "Jails And Jailers",
+    "Peace Officers And Law Enforcement",
+    "Public Records And Reports",
+    "Sheriffs"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-18",
+  "source_url": "",
+  "openstates_id": "ocd-bill/75096aa3-55b3-4430-aac4-60cc5796d078"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb525",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 525",
+  "title": "AN ACT relating to vision testing on renewal of operator's licenses and declaring an emergency.",
+  "abstract": "Amend KRS 186.577 to remove the vison testing requirement on operator's license renewal for all drivers; require vison testing for renewal of an operator's license if the applicant is 65 years of age or older; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Aged Persons And Aging",
+    "Effective Dates, Emergency",
+    "Motor Vehicles",
+    "Police, State",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/983661ad-447e-4ae1-a273-e40d108609bd"
+}

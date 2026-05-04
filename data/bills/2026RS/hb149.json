@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb149",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 149",
+  "title": "AN ACT relating to trade practices.",
+  "abstract": "Create a new section of KRS Chapter 365 to define \u00e2\u0080\u009cprohibited advertisement\u00e2\u0080\u009d and \u00e2\u0080\u009csolicit\u00e2\u0080\u009d; prohibit a person from soliciting residential property owners with a prohibited advertisement, offering value in exchange for inspecting residential property owner's roof, offering value in exchange for making an insurance claim for damage to the residential property owner's roof, and providing an agreement authorizing repairs to a residential property owner's roof pursuant to a property insurance claim without providing a good-faith estimate of itemized and detailed cost of services.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Advertising",
+    "Consumer Protection",
+    "Housing, Building, And Construction",
+    "Insurance",
+    "Property",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/397a0a39-09a3-49be-97f2-22cc433c6fa3"
+}

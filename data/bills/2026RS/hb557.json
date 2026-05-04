@@ -1,0 +1,376 @@
+{
+  "id": "openstates-ky-2026RS-hb557",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 557",
+  "title": "AN ACT relating to correctional services.",
+  "abstract": "Amend KRS 441.005 to define \"restricted custody center\" and make technical changes; create new sections of KRS Chapter 441 to require the Department of Corrections to promulgate administrative regulations providing the minimum standards for holdover facilities; require the Department of Corrections to contract with a fiscal court of a county or local or regional correctional authority to provide correctional services to state prisoners; allow prisoners being held for a nonviolent or nonsexual misdemeanor conviction to be housed in a restricted custody center; require jailers to get permission from the Department of Corrections before transferring a Class C or Class D felon to another jail unless required by statute or an emergency exists; establish the regional jail authority construction fund, and establish requirements for the Department of Corrections to submit a list of regional jail construction projects to the Legislative Research Commission; establish the regional jail conversion fund and establish requirements for receiving grant funds; amend KRS 431.215 to require the Commonwealth to pay a county a fee per day based on the county's actual costs to house prisoners for the time the prisoner was held before a conviction if the sentence the prisoner receives in whole or in part includes the amount of time served prior to judgment; amend KRS 441.025 to allow counties to contract with the Department of Corrections to house state prisoners and operate holdover facilities; amend KRS 441.045 to require the Commonwealth to pay counties for the costs of providing health services to prisoners the county is responsible for; amend KRS 441.420 to require the Department of Corrections to pay for architectural plans and engineering services associated with any tentatively approved construction of a local correctional facility; amend KRS 441.430 to allow a regional jail authority to receive tentative approval for new regional jail construction; amend KRS 441.520 to specify the rate that a jail that receives a transferred inmate can charge the originating jail; amend KRS 441.810 to require that the jailer of each county within a regional jail authority be a member of the board; amend various sections to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Meredith",
+      "party": null,
+      "district": "19",
+      "primary": true
+    },
+    {
+      "name": "R. Bivens",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "J. Blanton",
+      "party": null,
+      "district": "92",
+      "primary": true
+    },
+    {
+      "name": "S. Bratcher",
+      "party": null,
+      "district": "25",
+      "primary": true
+    },
+    {
+      "name": "R. Bridges",
+      "party": null,
+      "district": "3",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "M. Clines",
+      "party": null,
+      "district": "68",
+      "primary": true
+    },
+    {
+      "name": "M. Dossett",
+      "party": null,
+      "district": "9",
+      "primary": true
+    },
+    {
+      "name": "R. Dotson",
+      "party": null,
+      "district": "73",
+      "primary": true
+    },
+    {
+      "name": "R. Duvall",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "D. Elliott",
+      "party": null,
+      "district": "54",
+      "primary": true
+    },
+    {
+      "name": "P. Flannery",
+      "party": null,
+      "district": "96",
+      "primary": true
+    },
+    {
+      "name": "C. Freeland",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "C. Fugate",
+      "party": null,
+      "district": "84",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "J. Gooch Jr.",
+      "party": null,
+      "district": "12",
+      "primary": true
+    },
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    },
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "D. Hale",
+      "party": null,
+      "district": "74",
+      "primary": true
+    },
+    {
+      "name": "T. Hampton",
+      "party": null,
+      "district": "62",
+      "primary": true
+    },
+    {
+      "name": "M. Hart",
+      "party": null,
+      "district": "78",
+      "primary": true
+    },
+    {
+      "name": "S. Heavrin",
+      "party": null,
+      "district": "18",
+      "primary": true
+    },
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "T. Huff",
+      "party": null,
+      "district": "49",
+      "primary": true
+    },
+    {
+      "name": "M. Imes",
+      "party": null,
+      "district": "5",
+      "primary": true
+    },
+    {
+      "name": "K. Jackson",
+      "party": null,
+      "district": "20",
+      "primary": true
+    },
+    {
+      "name": "DJ Johnson",
+      "party": null,
+      "district": "13",
+      "primary": true
+    },
+    {
+      "name": "W. Lawrence",
+      "party": null,
+      "district": "70",
+      "primary": true
+    },
+    {
+      "name": "S. Maddox",
+      "party": null,
+      "district": "61",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "B. McCool",
+      "party": null,
+      "district": "97",
+      "primary": true
+    },
+    {
+      "name": "S. McPherson",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "S. Miles",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "A. Neighbors",
+      "party": null,
+      "district": "21",
+      "primary": true
+    },
+    {
+      "name": "J. Nemes",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "M. Pollock",
+      "party": null,
+      "district": "51",
+      "primary": true
+    },
+    {
+      "name": "R. Raymer",
+      "party": null,
+      "district": "15",
+      "primary": true
+    },
+    {
+      "name": "S. Riley",
+      "party": null,
+      "district": "23",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    },
+    {
+      "name": "S. Sharp",
+      "party": null,
+      "district": "100",
+      "primary": true
+    },
+    {
+      "name": "T. Smith",
+      "party": null,
+      "district": "86",
+      "primary": true
+    },
+    {
+      "name": "N. Tate",
+      "party": null,
+      "district": "27",
+      "primary": true
+    },
+    {
+      "name": "W. Thomas",
+      "party": null,
+      "district": "8",
+      "primary": true
+    },
+    {
+      "name": "A. Thompson",
+      "party": null,
+      "district": "98",
+      "primary": true
+    },
+    {
+      "name": "T. Truett",
+      "party": null,
+      "district": "89",
+      "primary": true
+    },
+    {
+      "name": "M. Whitaker",
+      "party": null,
+      "district": "94",
+      "primary": true
+    },
+    {
+      "name": "R. White",
+      "party": null,
+      "district": "99",
+      "primary": true
+    },
+    {
+      "name": "W. Williams",
+      "party": null,
+      "district": "4",
+      "primary": true
+    },
+    {
+      "name": "N. Wilson",
+      "party": null,
+      "district": "82",
+      "primary": true
+    },
+    {
+      "name": "S. Witten",
+      "party": null,
+      "district": "31",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Contracts",
+    "Corrections And Correctional Facilities, State",
+    "Corrections Impact",
+    "Counties",
+    "Fiscal Note",
+    "Funds",
+    "Jails And Jailers",
+    "Local Government",
+    "Local Mandate",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b3a1feae-4d9f-4d1d-88a8-7da4708cd457"
+}

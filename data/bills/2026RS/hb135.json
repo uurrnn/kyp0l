@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-hb135",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 135",
+  "title": "AN ACT relating to coverage for breast examinations.",
+  "abstract": "Amend KRS 304.17-316 to define \"breast examination\"; provide for annual mammogram coverage for persons ages 40 to 49 years; eliminate cost sharing for any covered breast examination; provide for construction of section; create a new section of Subtitle 17A of KRS Chapter 304 to define terms; require health benefit plans to provide coverage of preventive screenings for the detection of breast cancer for certain individuals; establish requirements for coverage; provide for construction of section; amend KRS 164.2871 and 18A.225 to require self-insured state postsecondary education institution group health plans and the state employee health plan to comply with breast examination coverage requirements; apply sections to health insurance policies, plans, certificates, and contracts issued, renewed, or delivered on or after January 1, 2027; EFFECTIVE January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Raymer",
+      "party": null,
+      "district": "15",
+      "primary": true
+    },
+    {
+      "name": "R. Duvall",
+      "party": null,
+      "district": "17",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Diseases",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health And Medical Services",
+    "Health Benefit Plan Mandate",
+    "Insurance, Health",
+    "Local Mandate",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d47debd8-b00a-4656-9f4b-5f1ca520d9ad"
+}

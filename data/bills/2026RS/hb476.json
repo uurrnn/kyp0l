@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb476",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 476",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to reproductive rights.",
+  "abstract": "Propose to create a new section of the Constitution of Kentucky to establish an individual right to reproductive freedom; allow the Commonwealth to regulate abortion after fetal viability, but not prohibit if medically needed to protect a pregnant patient's life or physical or mental health; forbid discrimination in enforcement of this right; prohibit prosecution of an individual, or a person helping a pregnant individual, for exercising the right to reproductive freedom; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Elections And Voting",
+    "Local Mandate",
+    "Reproductive Issues",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-30",
+  "source_url": "",
+  "openstates_id": "ocd-bill/175ca88e-9ae6-48d8-96cc-f171ded674f9"
+}

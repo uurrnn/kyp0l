@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-sb54",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 54",
+  "title": "AN ACT relating to short-term rentals.",
+  "abstract": "Create a new section of KRS Chapter 65 to define terms; allow local governments to regulate short-term rentals.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Land Use",
+    "Landlord And Tenant",
+    "Local Government",
+    "Planning And Zoning",
+    "Property"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a787807c-f98d-477e-9177-fbbab9628b2e"
+}

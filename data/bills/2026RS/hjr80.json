@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hjr80",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 80",
+  "title": "A JOINT RESOLUTION directing the Kentucky Department of Education to submit a list of the resources provided to families during Individualized Education Program process and related recommendations.",
+  "abstract": "Direct the Kentucky Department of Education to submit a list of resources that are provided to families during the Individualized Education Program (IEP) process and recommendations for possible additional family supports to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Sharp",
+      "party": null,
+      "district": "100",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Disabilities",
+    "Education, Elementary And Secondary",
+    "Parental Rights",
+    "Reports Mandated",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/eb1edb11-a517-4940-88df-0a37aa11cb20"
+}

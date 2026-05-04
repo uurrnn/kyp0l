@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-sb254",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 254",
+  "title": "AN ACT relating to programs to encourage the rehabilitation of property.",
+  "abstract": "Create a new section of KRS Chapter 65 to require local governments to establish a program to waive fines, fees, and interest associated with a property that has been donated to a qualifying donee; amend KRS 65.355 to require a local government that creates a land bank authority to establish a program to grant property assessment moratoriums pursuant to KRS 99.595 to 99.605.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "County Clerks",
+    "Fees",
+    "Housing, Building, And Construction",
+    "Land Use",
+    "Liens",
+    "Local Government",
+    "Local Mandate",
+    "Property",
+    "Property Valuation Administrators",
+    "Taxation, Property"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/18e47b92-7ce6-4ec1-a572-ea9ee765288b"
+}

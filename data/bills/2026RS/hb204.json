@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb204",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 204",
+  "title": "AN ACT relating to duplexes.",
+  "abstract": "Create a new section of KRS Chapter 100 to define \"duplex\"; allow duplexes as a permitted use in all residential zones; prohibit a planning unit from adopting or enforcing regulations that would exclude duplexes in residential zones or impose requirements or fees on duplexes different than those for single-family homes.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Housing, Building, And Construction",
+    "Land Use",
+    "Local Government",
+    "Local Mandate",
+    "Planning And Zoning"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1a839c91-8ea6-4fd4-ab2f-0b7c9b603f47"
+}

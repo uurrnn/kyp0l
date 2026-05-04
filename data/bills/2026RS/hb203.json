@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb203",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 203",
+  "title": "AN ACT relating to accessory dwelling units.",
+  "abstract": "Create a new section of KRS Chapter 100 to define \"accessory dwelling unit\"; allow accessory dwelling unit as a permitted use in all residential zones; prohibit a planning unit from adopting regulations which would not allow a property owner to have 1 accessory dwelling unit on the owner's property, impose requirements on accessory dwelling units different than those placed on single-family homes, or assess additional fees on accessory dwelling units; allow a planning unit to enforce regulations that require notification of the construction of a new accessory dwelling unit, prohibit more than 1 accessory dwelling unit on a property, assess a one-time fee of $250 at the time the accessory dwelling unit is created, and prohibit the accessory dwelling unit's use as a short-term rental.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Housing, Building, And Construction",
+    "Land Use",
+    "Local Government",
+    "Local Mandate",
+    "Planning And Zoning"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/0d852391-55c5-45da-8f5a-1d96704fa2ca"
+}

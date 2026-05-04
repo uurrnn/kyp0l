@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sb61",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 61",
+  "title": "AN ACT relating to Kentucky educational excellence scholarships and declaring an emergency.",
+  "abstract": "Amend KRS 164.7879 to increase the Kentucky educational excellence scholarship base amount for each eligible grade point average; increase the supplemental award amounts; require a supplemental award for eligible Cambridge Advanced International scores; amend KRS 164.7882 to increase the award amount for an eligible student enrolled in a comprehensive transition and postsecondary program; amend KRS 164.7874, 164.7881, 164.7884, and 164.7885 to conform; EFFECTIVE July 1, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Education, Higher",
+    "Effective Dates, Emergency"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1a58cec6-4a85-4ef4-a1ae-fc5ed7fabc2a"
+}

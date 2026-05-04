@@ -1,0 +1,81 @@
+{
+  "id": "openstates-ky-2026RS-hb381",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 381",
+  "title": "AN ACT relating to disabled and deceased veteran benefits.",
+  "abstract": "Amend KRS 164.507 to allow the nonremarried spouse or a child under the age of 26 of a deceased veteran free tuition at public universities, colleges, or vocational training institutions for up to 128 credit hours of undergraduate instruction; amend KRS 164.515 to allow the spouse or a child under the age of 26 of a disabled veteran free tuition at public universities, colleges, or vocational training institutions for up to 128 credit hours of undergraduate instruction.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "W. Thomas",
+      "party": null,
+      "district": "8",
+      "primary": true
+    },
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Finance",
+    "Education, Higher",
+    "National Guard",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ae745549-0ed6-40f2-bc3a-655018a2bfb4"
+}

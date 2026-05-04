@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb633",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 633",
+  "title": "AN ACT relating to data privacy.",
+  "abstract": "Amend KRS 367.3611 to define \"actual knowledge,\" \"algorithmic feed,\" \"algorithmic recommendation system,\" \"covered design feature,\" \"covered minor,\" \"covered online service,\" \"dark pattern,\" \"knows to be a child,\" \"knows to be a minor,\" \"minor,\" \"online service,\" \"parent,\" \"personalized recommendation system,\" \"publicly available information,\" and \"user\"; create a new section of KRS 367.3611 to 367.3629, the Kentucky Consumer Data Protection Act, to require a covered online service to configure all default privacy settings provided to a covered minor through its online service, product, or feature to the highest level of privacy; provide a covered minor and his or her parents with certain default settings and tools to protect the minor from profiling, targeted advertising for prohibited products, or the use of dark patterns to impair a covered minor's choice; prohibit the use of notifications and push alerts to a covered minor between certain days and times; amend KRS 367.3613 to conform; provide that Section 2 of the Act may be cited as the Kentucky Kid's Code.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "description": "to Small Business & Information Technology (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Consumer Protection",
+    "Data Protection",
+    "Information Technology",
+    "Internet, Access And Infrastructure",
+    "Parental Rights",
+    "Short Titles And Popular Names",
+    "Technology",
+    "Telecommunications",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f43cfb3f-57d4-4c31-a8a0-1682c2f60c04"
+}

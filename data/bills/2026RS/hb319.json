@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb319",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 319",
+  "title": "AN ACT relating to landlords and tenants.",
+  "abstract": "Create a new section of KRS Chapter 383 to establish a civil cause of action for a tenant against a landlord who receives a citation for a violation of a local housing code and does not remedy the violation within 90 days; provide that if the cost of the repair exceeds 12 months' rent, the landlord may refund rent and obtain possession of the property within 30 days; establish procedure for determining cost of repair; specify recoverable damages; establish procedure for maintaining a forcible detainer action during the pendency of the tenant's civil action; require rent due during pendency of civil action to be paid into court; declare a waiver of rights to be unenforceable; provide that the Act may be cited as the Make Our Landlords Diligent (M.O.L.D) Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Civil Procedure",
+    "Courts",
+    "Landlord And Tenant",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/faf79359-ee69-4c5b-a9a5-13e7d5baba44"
+}

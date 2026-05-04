@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb834",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 834",
+  "title": "AN ACT relating to school district finances.",
+  "abstract": "Create a new section of KRS Chapter 160 to establish the calendar and procedures for a district superintendent and local board of education to adopt a school district budget; require that a budget must include a reserve of not less than 2%; amend KRS 156.200 to authorize the commissioner of education to examine the expenditures, business methods, accounts, financial accounts, and educational records of a local board of education to enforce state law, and to take certain actions upon reason to suspect waste, fraud, fiscal mismanagement, or inaccurate accounts; establish parameters for the commissioner of education when considering an examination; authorize the commissioner of education to require additional training or financial reports to correct issues; provide for oversight by the Kentucky Board of Education; amend KRS 157.440, 160.390, 160.460, 160.470, 160.473, 160.530, 160.550, and 424.250 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Clines",
+      "party": null,
+      "district": "68",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Budget And Financial Administration",
+    "Education, Elementary And Secondary",
+    "Education, Finance"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e542d5bd-6226-4f91-bf3f-cb9a2b88ac1c"
+}

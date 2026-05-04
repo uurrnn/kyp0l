@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-hb420",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 420",
+  "title": "AN ACT proposing an amendment to Section 145 of the Constitution of Kentucky relating to voting rights.",
+  "abstract": "Propose to amend Section 145 of the Constitution of Kentucky to provide that every citizen of the United States who is at least 18 years old and who has resided in Kentucky for at least 30 days before an election shall be entitled to vote in the precinct of his or her residence; automatically restore the voting rights of persons convicted of certain felonies upon completion of their imprisonment, probation, or parole and automatically restore their civil rights 5 years after completion of their imprisonment, probation, or parole; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Rights",
+    "Constitution, Ky.",
+    "County Clerks",
+    "Crimes And Punishments",
+    "Elections And Voting",
+    "Local Mandate",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1a72ed89-fa06-4a8a-82ac-e6bdbac8eee3"
+}

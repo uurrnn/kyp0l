@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hjr22",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 22",
+  "title": "A JOINT RESOLUTION directing the Kentucky Transportation Cabinet to study the efficacy of planting mint along highways to mitigate motor vehicle collisions with wildlife.",
+  "abstract": "Direct the Transportation Cabinet study the efficacy and potential drawbacks of planting mint along highways to mitigate motor vehicle collisions with deer and other wildlife and report the results of its study to the Legislative Research Commission by October 31, 2026.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Highways, Streets, And Bridges",
+    "Motor Vehicles",
+    "Reports Mandated",
+    "State Agencies",
+    "Studies Directed",
+    "Traffic Safety",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/610bf07a-a6b5-436d-88e4-3b13b2d6ac33"
+}

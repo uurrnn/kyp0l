@@ -1,0 +1,60 @@
+{
+  "id": "openstates-ky-2026RS-sr3",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 3",
+  "title": "A RESOLUTION extending an invitation to pastors of Frankfort churches to open sessions of the 2026 Regular Session with prayer.",
+  "abstract": "Extend an invitation to the pastors of Frankfort churches to open sessions of the 2026 Regular Session with prayer.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Wise",
+      "party": null,
+      "district": "16",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "General Assembly"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-01-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1bb20800-55f0-4087-b374-b95f7358cfe9"
+}

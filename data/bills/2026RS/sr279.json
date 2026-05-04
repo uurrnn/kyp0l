@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-sr279",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 279",
+  "title": "A RESOLUTION affirming the supremacy of United States and Kentucky law over foreign law.",
+  "abstract": "Condemn Sharia law and affirm the supremacy of United States and Kentucky law over foreign law.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-31",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Rights",
+    "Homeland Security",
+    "Public Protection",
+    "Public Safety",
+    "Religion"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-31",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9d4adbb3-4546-4437-b6a0-545066e1c4d5"
+}

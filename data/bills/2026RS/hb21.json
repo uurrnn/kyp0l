@@ -1,0 +1,86 @@
+{
+  "id": "openstates-ky-2026RS-hb21",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 21",
+  "title": "AN ACT relating to mental health coverage in connection with pregnancy.",
+  "abstract": "Create a new section of Subtitle 17A of KRS Chapter 304 to define terms; require health benefit plans to provide coverage for counseling interventions for pregnant and postpartum persons at increased risk of perinatal depression, including persons who have suffered a miscarriage or stillbirth; suspend the coverage requirement's application to qualified health plans if the state would be required to make cost defrayal payments; amend KRS 304.17A-099 to conform; amend KRS 205.522, 205.6485, 164.2871, and 18A.225 to require Medicaid, the Kentucky Children's Health Insurance Program, self-insured employer plans provided by the governing board of a state postsecondary education institution, and the state employee health plan to comply with the coverage requirement for counseling interventions; provide that certain provisions apply to health benefit plans issued or renewed on or after January 1, 2027; require the Cabinet for Health and Family Services or Department for Medicaid Services to obtain federal approval if it is determined that such approval is necessary and comply with notice requirements; provide authorization from the General Assembly to make changes in the Medicaid program as required under KRS 205.5372(1); EFFECTIVE, in part, January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Children And Minors",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health And Medical Services",
+    "Health Benefit Plan Mandate",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid",
+    "Mental Health",
+    "Reproductive Issues",
+    "State Agencies",
+    "State Employee Health Plan Mandate",
+    "State Employees",
+    "Women"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5f169b96-1e67-40e2-b25f-529988b924c3"
+}

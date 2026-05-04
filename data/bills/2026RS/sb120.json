@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-sb120",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 120",
+  "title": "AN ACT relating to the Kentucky Board of Education and declaring an emergency.",
+  "abstract": "Amend KRS 156.029 to make members on the Kentucky Board of Education who represent each of the Supreme Court districts be elected in partisan elections instead of appointed; provide that the term of office will be 4 years from the first Monday in January following the election; provide that the initial term of a member elected to represent an even-numbered Supreme Court District will be 2 years and the initial term of a member elected to represent an odd-numbered Supreme Court District will be 4 years; remove language regarding the requirement to balance the demographic composition of the board; require the members elected to represent a Supreme Court district to reside in the district for at least 12 months prior to the election and for the duration of their terms; provide that general election laws apply and that removal is in accordance with KRS 415.050 and KRS 415.060;  permit the board to appoint the student member of the board in April of the student's sophomore year, rotate nonvoting member appointments by Supreme Court district instead of congressional district; povide that a vacancy shall be filled in accordance with Section 152 of the Constitution of Kentucky; amend KRS 156.040, 118.105, 118.165, 118.305, 118.315, 118.325, 118.356, 118.365, and 160.220 to conform; repeal KRS 156.031, 156.147, and 156.1475; provide that the terms of members appointed between the effective date of this Act and January 3, 2028, expire on that date; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Children And Minors",
+    "County Clerks",
+    "Education, Elementary And Secondary",
+    "Effective Dates, Emergency",
+    "Elections And Voting",
+    "Local Mandate",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ee2293af-ffaa-499b-9b37-e488e507a885"
+}

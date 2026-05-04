@@ -1,0 +1,110 @@
+{
+  "id": "openstates-ky-2026RS-hb649",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 649",
+  "title": "AN ACT relating to education.",
+  "abstract": "Amend KRS 160.210 to require a county school district having reached an end-of-year enrollment of 25,000 or more students to add 2 board members appointed by the Auditor of Public Accounts; require the appointed members to reside in the district, hold bachelor's degrees, and have at least 5 years of finance experience; specify that appointed members shall not serve more than 2 consecutive terms; amend KRS 156.132 to authorize the commissioner of education to remove an appointed local board member for malfeasance, misfeasance, incompetence, or gross neglect of duty; amend KRS 160.160, 160.170, 160.180, and 160.190 to conform; EFFECTIVE, in part, January 1, 2027",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Lewis",
+      "party": null,
+      "district": "14",
+      "primary": true
+    },
+    {
+      "name": "T. Truett",
+      "party": null,
+      "district": "89",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-17",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "taken from Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-16",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "returned to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-17",
+      "description": "taken from Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-17",
+      "description": "2nd reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "returned to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Education, Elementary And Secondary",
+    "Effective Dates, Delayed",
+    "Public Officers And Employees",
+    "Public Works"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-17",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2a952c5f-88c4-41a2-bf62-e718c2f85284"
+}

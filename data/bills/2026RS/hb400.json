@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-hb400",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 400",
+  "title": "AN ACT relating to fertility treatment.",
+  "abstract": "Create a new section of KRS Chapter 216 to define terms; establish fundamental rights relating to fertility treatment; prohibit the Commonwealth and its political subdivisions from denying, burdening, or infringing on those rights unless justified by a compelling state interest achieved by the least restrictive means; prohibit the Commonwealth and its political subdivisions from discriminating in the protection or enforcement of those rights; create a civil cause of action against a state or local official who violates those rights.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "M. Marzian",
+      "party": null,
+      "district": "41",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Civil Rights",
+    "Health And Medical Services",
+    "Reproductive Issues"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/649aa156-ae11-4fce-8f2e-687f62a96db9"
+}

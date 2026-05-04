@@ -1,0 +1,88 @@
+{
+  "id": "openstates-ky-2026RS-hb309",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 309",
+  "title": "AN ACT relating to cultured meat products.",
+  "abstract": "Amend KRS 217.035 to remove meat or a meat product containing cultured animal tissue from the list of foods deemed misbranded; amend KRS 217.175 to prohibit the manufacture, sale, or exchange of meat or a meat product containing cultured animal tissue.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Dotson",
+      "party": null,
+      "district": "73",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Agriculture (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Animals, Livestock, And Poultry",
+    "Consumer Protection",
+    "Corrections Impact",
+    "Foods And Beverages",
+    "Local Mandate",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1a0f1a48-8d04-4925-8a89-8661f402ce7a"
+}

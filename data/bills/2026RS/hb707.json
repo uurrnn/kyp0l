@@ -1,0 +1,76 @@
+{
+  "id": "openstates-ky-2026RS-hb707",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 707",
+  "title": "AN ACT relating to child support.",
+  "abstract": "Amend KRS 403.211 to prohibit a child from initiating, intervening in, or otherwise becoming a party to an action to enforce or establish child support or in any related dissolution of marriage proceeding; prohibit a child from receiving child support payments directly, unless the child is emancipated due to age and eligible for support in accordance with KRS 403.213(3); require child support payments to be directed to the parent, custodian, or agency substantially contributing to the support of the child; amend KRS 403.213 to prohibit a child support order from being entered, continued, or made retroactive after a child has reached age 18 unless the child was under age 18 when the child support action was initiated.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Doan",
+      "party": null,
+      "district": "69",
+      "primary": true
+    },
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Civil Actions",
+    "Civil Procedure",
+    "Courts, Family",
+    "Domestic Relations"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/74e7a1e4-d6c5-4dc7-8097-b8d75a3d714b"
+}

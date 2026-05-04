@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb147",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 147",
+  "title": "AN ACT relating to inheritance and estate tax.",
+  "abstract": "Amend KRS 140.160, relating to the inheritance and estate taxes, to extend the deadline for filing a tax return from 18 months to 36 months for deaths on or after August 1, 2026; amend KRS 140.210 to correspondingly extend the due date for payment of tax and discount; amend KRS 140.222 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Deaths",
+    "Taxation",
+    "Taxation, Inheritance And Estate",
+    "Wills, Trusts, And Estates"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1f64e2d8-7285-41fe-b4e9-b0520af54d03"
+}

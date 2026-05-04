@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb620",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 620",
+  "title": "AN ACT relating to occupational safety and health penalties.",
+  "abstract": "Amend KRS 338.991 to establish the civil penalty for certain violations of KRS Chapter 338, relating to occupational safety and health, the federal Occupational Safety and Health Administration beginning on August 1, 2026; EFFECTIVE August 1, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Effective Dates, Delayed",
+    "Labor And Industry",
+    "Occupational Safety And Health",
+    "Safety",
+    "Small Business",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-19",
+  "source_url": "",
+  "openstates_id": "ocd-bill/41ae3a09-fc82-4e65-8fca-576005b10ad7"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-hr115",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 115",
+  "title": "A RESOLUTION relating to areas to be protected from civil immigration enforcement actions.",
+  "abstract": "Encourage United States Immigration and Customs Enforcement special agents to refrain from entering places of worship, schools, and hospitals for enforcement actions of United States immigration law.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Marzian",
+      "party": null,
+      "district": "41",
+      "primary": true
+    },
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary",
+    "Education, Higher",
+    "Education, Vocational",
+    "Federal Laws And Regulations",
+    "Health And Medical Services",
+    "Hospitals And Health Facilities",
+    "Immigration",
+    "Religion",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/6dd2a23f-d41e-4deb-8f25-6ba6b58fbf69"
+}

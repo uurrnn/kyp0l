@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb122",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 122",
+  "title": "AN ACT relating to historical instruction.",
+  "abstract": "Create a new section of KRS Chapter 158 to require African history instruction in certain middle and high school world history and civilization courses; require Native American history instruction in certain middle and high school United States history courses; require the Kentucky Board of Education to promulgate administrative regulations establishing academic standards for the required historical instructions; require superintendents to adopt curricula for required instruction; require the Department of Education to collaborate with the Kentucky Center for African-American Heritage and the Kentucky Native American Heritage Commission to develop recommended curricula and instruction guidelines for the required historical instruction, elective high school course offerings in African history and Native American history, and relevant professional development materials.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Boards And Commissions",
+    "Children And Minors",
+    "Education, Elementary And Secondary",
+    "Historical Affairs",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/99bfb7a9-785b-4ce6-868b-e8f0651232a6"
+}

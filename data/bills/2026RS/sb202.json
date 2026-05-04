@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb202",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 202",
+  "title": "AN ACT relating to boards of education.",
+  "abstract": "Amend KRS 160.210 to establish new numbers for membership of a local board of education based on district enrollment; require the Kentucky Board of Education to determine the required number of members every 10 years; provide for the election of additional members and for the reduction of membership; require local boards of education to report new electoral divisions to the Kentucky Board of Education and the Legislative Research Commission; amend KRS 160.200, 160.160, 160.042, and 116.200 to conform; require the Kentucky Board of Education to make initial determinations of board size by December 31, 2026, and local boards to conduct required division changes with created positions being treated as vacancies under KRS 160.190.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Boundaries",
+    "Education, Elementary And Secondary",
+    "Redistricting",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/65f9a74c-57f1-4d77-a7e6-d6f6ca4b764c"
+}

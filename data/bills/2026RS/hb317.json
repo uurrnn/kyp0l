@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb317",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 317",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to property exempt from taxation.",
+  "abstract": "Propose to create a new section of the Constitution of Kentucky to exempt homeowners who are 65 years of age or older from any increase in the valuation of their permanent residence that is assessed after the later of the year the homeowner turned 65 or the year the homeowner acquired the property; require the exemption to be in addition to the exemption provided in Section 170 of the Constitution of Kentucky; apply the exemption only to increases occurring until the assessed value of the property is $500,000; prohibit exempting increases occurring after the real property is assessed above $500,000; require the $500,000 to be indexed every 2 years; require any portion of the assessed value previously exempted under this section to retain its exempt status as long as the real property continues to be maintained as the permanent residence of the owner who is 65 years of age or older; require the exemption to be notwithstanding Sections 171, 172, and 174 of the Constitution of Kentucky; apply the exemption to increases in valuation that occur after the date the amendment is ratified by the voters; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Aged Persons And Aging",
+    "Constitution, Ky.",
+    "County Clerks",
+    "Elections And Voting",
+    "Local Mandate",
+    "Property",
+    "Secretary Of State",
+    "Taxation",
+    "Taxation, Property"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4156f066-dad9-4db8-87b6-a8af095e456b"
+}

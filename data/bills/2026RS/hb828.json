@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb828",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 828",
+  "title": "AN ACT relating to consumer protection.",
+  "abstract": "Create new sections of KRS Chapter 367, relating to consumer protection, to define terms; establish standards for solar energy contractors, and solar energy system solicitation, installation, and contracts; establish cause of action to enjoin a violation of the standards and set damages; provide for Attorney General enforcement; amend KRS 227.480 to require that local standards and fees for solar energy system inspections must be applied in a nondiscriminatory manner.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Hart",
+      "party": null,
+      "district": "78",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Civil Actions",
+    "Consumer Protection",
+    "Electricians",
+    "Energy",
+    "Public Utilities"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c82b0aaa-d817-4861-9d62-8507de5504a0"
+}

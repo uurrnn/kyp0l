@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb860",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 860",
+  "title": "AN ACT relating to motor vehicle license plates.",
+  "abstract": "Amend KRS 186.240 to require the Transportation Cabinet to produce an optional noncommercial standard license plate, available to individuals 65 years of age or older, that is of a distinct design and color than other standard plates; require the Transportation Cabinet to publish educational and public service materials regard the availability and meaning of the plate; EFFECTIVE January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Bauman",
+      "party": null,
+      "district": "28",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Aged Persons And Aging",
+    "Effective Dates, Delayed",
+    "Motor Vehicles",
+    "Traffic Safety",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/384b309a-c8d5-4c9e-86d3-063a295430a3"
+}

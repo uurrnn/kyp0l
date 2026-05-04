@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb428",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 428",
+  "title": "AN ACT making appropriations for the operations, maintenance, support, and functioning of the Judicial Branch of the government of the Commonwealth of Kentucky and its various officers, boards, commissions, subdivisions, and other state-supported activities.",
+  "abstract": "The Chief Justice's recommended Judicial Branch Budget: Detail Part I, Operating Budget; detail Part II, Capital Projects Budget; detail Part III, General Provisions; detail Part IV, Budget Reduction or Surplus Expenditure Plan; APPROPRIATION.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Osborne",
+      "party": null,
+      "district": "59",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Appropriations",
+    "Budget And Financial Administration",
+    "Court, Supreme",
+    "Courts",
+    "Courts, Circuit",
+    "Courts, District",
+    "Courts, Family",
+    "Judges And Court Commissioners",
+    "Judicial Circuits",
+    "Judicial Districts",
+    "State Agencies",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/473218ed-1896-474e-8dd4-47b91f0aabec"
+}

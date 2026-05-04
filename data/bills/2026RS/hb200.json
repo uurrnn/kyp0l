@@ -1,0 +1,73 @@
+{
+  "id": "openstates-ky-2026RS-hb200",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 200",
+  "title": "AN ACT relating to unemployment insurance.",
+  "abstract": "Amend KRS 341.370 to prohibit disqualification from benefits for workers unemployed as a result of domestic violence and abuse, dating violence and abuse, sexual assault, or stalking; create a new section of KRS Chapter 341 to direct the secretary of the Education and Labor Cabinet to promulgate administrative regulations; amend KRS 341.125 to require the secretary to provide training to personnel who process claims related to domestic or dating violence and abuse, sexual assault, or stalking and to report to the Legislative Research Commission annually the number of claims paid involving domestic or dating violence and abuse, sexual assault, or stalking; amend KRS 341.360 to conform; amend KRS 341.530 to charge benefits to pooled account for workers displaced from employment through domestic or dating violence and abuse, sexual assault, or stalking; amend KRS 341.550 to prevent benefit payments from pooled account from impacting an employer's experience rating.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "S. Heavrin",
+      "party": null,
+      "district": "18",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Crime Victims",
+    "Domestic Relations",
+    "Labor And Industry",
+    "Local Mandate",
+    "Reports Mandated",
+    "State Agencies",
+    "Unemployment Compensation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/df1d9ab3-64f1-4710-94e7-4c393352f6cc"
+}

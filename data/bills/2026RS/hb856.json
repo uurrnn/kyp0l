@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb856",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 856",
+  "title": "AN ACT relating to data centers.",
+  "abstract": "Create a new section of Subchapter 10 of KRS Chapter 224 to define terms; require data centers to submit a water feasibility study to the Energy and Environment Cabinet before commencing operations; require all data centers to submit an annual water usage report to the Energy and Environment Cabinet.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Information Technology",
+    "Public Utilities",
+    "Reports Mandated",
+    "State Agencies",
+    "Water Supply"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e39e02d8-e5c0-4b17-845d-b98755b9c432"
+}

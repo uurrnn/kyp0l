@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb373",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 373",
+  "title": "AN ACT relating to victims of human trafficking.",
+  "abstract": "Amend KRS 529.160 to allow a person charged with or convicted of certain offenses to petition the court in which the charges were filed to vacate the judgment of conviction, expunge all records of the offense, or both, when the person's participation in the offense is determined to be the result of being a victim of human trafficking; restore voting rights to a person whose felony conviction is vacated; RETROACTIVE.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Courts, Circuit",
+    "Courts, District",
+    "Crime Victims",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Elections And Voting",
+    "Retroactive Legislation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/be5406d4-07a5-4dc9-aebc-0a602eddc7e0"
+}

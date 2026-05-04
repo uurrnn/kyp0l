@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb295",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 295",
+  "title": "AN ACT relating to the screening of residential tenants.",
+  "abstract": "Create new sections of KRS Chapter 383 to prohibit landlords from charging screening fees without notice to the applicant; require screening criteria from landlords; require landlords to provide notice of denial to applicants; allow applicants to view the property before a security deposit is paid.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Courts, District",
+    "Landlord And Tenant",
+    "Real Estate"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9211bc9a-203c-44f4-9a41-74354ac194b7"
+}

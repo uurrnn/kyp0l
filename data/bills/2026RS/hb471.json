@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb471",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 471",
+  "title": "AN ACT relating to Medicaid coverage for doula services.",
+  "abstract": "Create a new section of KRS Chapter 205 to require the Department for Medicaid Services and any managed care organization with whom the department contracts for the delivery of Medicaid services to provide coverage for doula services; create a new section of KRS Chapter 194A to establish the Doula Advisory Council, council membership, and council duties; require the Cabinet for Health and Family Services or the Department for Medicaid Services to seek federal approval if they determine that such approval is necessary; provide authorization from the General Assembly to make changes to the Medicaid program as required under KRS 205.5372(1).",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "K. Moser",
+      "party": null,
+      "district": "64",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Advisory Boards, Commissions, And Committees",
+    "Medicaid",
+    "Reproductive Issues",
+    "State Agencies",
+    "Women"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-30",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c5c78e96-16dd-4091-82bd-8baf576db5cd"
+}

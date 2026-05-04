@@ -1,0 +1,80 @@
+{
+  "id": "openstates-ky-2026RS-hb100",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 100",
+  "title": "AN ACT proposing an amendment to Section 170 of the Constitution of Kentucky relating to property exempt from taxation.",
+  "abstract": "Propose to amend Section 170 of the Constitution of Kentucky to increase the homestead exemption to $100,000; require the homestead exemption amount to be indexed every year; provide ballot language; submit to voters for ratification or rejection; apply to property assessments beginning on or after January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Tipton",
+      "party": null,
+      "district": "53",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "B. McCool",
+      "party": null,
+      "district": "97",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Aged Persons And Aging",
+    "Constitution, Ky.",
+    "County Clerks",
+    "Disabilities",
+    "Elections And Voting",
+    "Local Mandate",
+    "Secretary Of State",
+    "Taxation",
+    "Taxation, Property"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/94bc3ed1-c4ba-4707-b7c6-52ffcda3d67f"
+}

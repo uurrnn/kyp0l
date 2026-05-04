@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sb339",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 339",
+  "title": "AN ACT relating to motor carrier safety regulation.",
+  "abstract": "Amend KRS 281.600 to require the Department of Vehicle Registration to enforce federal standards for motor carriers contained in Title 49 of the United States Code and the ensuing federal regulations, unless otherwise exempted; eliminate existing exemptions from certain federal regulations for fertilizer wagons.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Higdon",
+      "party": null,
+      "district": "14",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Federal Laws And Regulations",
+    "Motor Carriers",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/96710c7c-f347-46d2-a90c-19769cd6aad7"
+}

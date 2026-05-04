@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-sb220",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 220",
+  "title": "AN ACT relating to small farm wineries.",
+  "abstract": "Amend KRS 243.037 to allow a small farm winery with a retail drink license to sell alcoholic beverages by the drink at 1 or more locations on the  licensed premises of the small farm winery without obtaining supplemental bar license.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Alcoholic Beverages",
+    "Distilled Spirits",
+    "Licensing",
+    "Malt Beverages",
+    "Trade Practices And Retailing",
+    "Wine And Wineries"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4f6c37db-b6a9-4c05-942c-decd68969a24"
+}

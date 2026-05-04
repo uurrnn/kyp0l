@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-hb340",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 340",
+  "title": "AN ACT relating to termination of residential leases.",
+  "abstract": "Create new sections of KRS Chapter 383 to define terms; permit a tenant to terminate a residential lease or rental agreement if he or she is seeking relocation due to a recent mental or physical health emergency; require the tenant to pay any rent due prorated to the effective date of termination; relieve the tenant from liability for any other rent or fees resulting from the termination; permit a covered tenant to terminate a lease or rental agreement upon the death of his or her spouse or cotenant; permit a tenant to terminate a residential lease or rental agreement if the landlord fails to abate a lead-hazard; relieve the tenant from liability for any other rent or fees resulting from the termination due to a lead-hazard; direct that provisions apply only to leases or rental agreements entered into or renewed on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Aged Persons And Aging",
+    "Disabilities",
+    "Health And Medical Services",
+    "Landlord And Tenant",
+    "Mental Health"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5726d09a-248d-4ee6-9aa0-e98af24cfc95"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "openstates-ky-2026RS-hr20",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 20",
+  "title": "A RESOLUTION recognizing and celebrating Hindu holidays and the resilience of the Hindu people.",
+  "abstract": "Recognize and celebrate Hindu holidays and the resilience of the Hindu people.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Religion"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b07526e5-1a19-40f2-95c3-aee6049499a9"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "openstates-ky-2026RS-hb704",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 704",
+  "title": "AN ACT relating to alcoholic beverages.",
+  "abstract": "Amend KRS 243.232, relating to vintage distilled spirits, to allow an exception for qualified collections of vintage distilled spirits from certain purchase and annual package maximum limits; limit the exemption to 10 collections in any given 12-month period per licensee or seller; amend KRS 241.010 and 243.990 to conform",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Alcoholic Beverages",
+    "Commerce",
+    "Distilled Spirits",
+    "Fiduciaries",
+    "Sales",
+    "Trade Practices And Retailing",
+    "Wills, Trusts, And Estates"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ec217a10-7453-460d-8a87-01c17e39cb1f"
+}

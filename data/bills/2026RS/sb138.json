@@ -1,0 +1,101 @@
+{
+  "id": "openstates-ky-2026RS-sb138",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 138",
+  "title": "AN ACT relating to the protection of children.",
+  "abstract": "Create a new section of KRS Chapter 507 to establish the offense of child abuse homicide as a capital offense; amend KRS 199.896 to require licensed child-care centers to maintain video surveillance of all public areas within the facility and retain video footage for 90 days; amend KRS 507.030 to increase the age of a child victim of manslaughter in the first degree from 12 or under to under 18; amend KRS 507.040 to increase the penalty of manslaughter in the second degree from a Class C to a Class B felony if the victim is under the age of 18; amend KRS 508.100 to add knowingly as a mental state of a person guilty of criminal abuse in the first degree; increase the age of a victim from under age 12 to under age 18; increase the penalty of criminal abuse in the first degree from a Class C to a Class B felony and from a Class B to a Class A felony if the victim is under the age of 18; amend KRS 508.110 to increase the age of a victim of criminal abuse in the second degree from age 12 or less to under 18; increase the penalty from a Class D to a Class C felony; amend KRS 508.120 to increase the age of a victim of criminal abuse in the third degree from age 12 or less to under 18; increase the penalty from a Class A misdemeanor to a Class D felony; amend KRS 532.025, relating to aggravating circumstances in death penalty eligible cases, to increase the age of a victim of an intentional killing from under 12 to under 18; amend KRS 625.090 to create a rebuttable presumption that parental rights must be terminated if a parent has been convicted of a felony involving serious physical injury to any child or convicted of causing or contributing to the death of a child as a result of abuse; provide that the Act may be cited as Jayden's Law.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    },
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Judiciary (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1) and Committee Amendment (1-title)",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Corrections Impact",
+    "Courts, Circuit",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Licensing",
+    "Rules Of Evidence",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed_committee",
+    "governor": null
+  },
+  "current_status": "passed committee Senate",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/54a9b0f0-9738-42f2-85f5-df465d086e9e"
+}

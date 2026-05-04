@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb538",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 538",
+  "title": "AN ACT relating to Medicaid managed care organizations.",
+  "abstract": "Amend KRS 205.533 to require Medicaid managed care organizations to include certain information for providers on their websites; amend KRS 205.534 to require managed care organizations to allow providers 120 days to file an appeal or grievance related to a reduction or denial of a claim; establish penalties for a managed care organization's failure to ensure the timely disposition of any appeal or grievance; require payment of any amount owed to a provider following an appeal to be paid within 30 days; require payments made following an appeal to include interest in accordance with KRS 304.17A-730 and reasonable attorney's fees; establish standards and requirements for provider audits; require the inclusion of additional information in the monthly report filed by managed care organizations; require the Department for Medicaid Services to submit an annual report to the Legislative Research Commission related to Medicaid claims, appeals, and grievances for the previous state fiscal year; authorize the Department for Medicaid Services to promulgate administrative regulations; require Cabinet for Health and Family Services or the Department for Medicaid Services to seek federal approval if they determine that such approval is necessary.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Moser",
+      "party": null,
+      "district": "64",
+      "primary": true
+    },
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Medicaid",
+    "Reports Mandated",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f2a775c4-5980-4285-b89e-e3958fee88cb"
+}

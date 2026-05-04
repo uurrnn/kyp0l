@@ -1,0 +1,107 @@
+{
+  "id": "openstates-ky-2026RS-hb563",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 563",
+  "title": "AN ACT relating to driving under the influence.",
+  "abstract": "Amend KRS 189A.010 to provide that a person who is convicted of a fourth or subsequent violation of this section shall be prohibited from purchasing alcohol for his or her period of license suspension and for 2 years after; make technical corrections; create a new section of KRS Chapter 189A to require that any ignition interlock license or hardship license issued to a person who has been convicted of a fourth or subsequent offense of driving under the influence contain the language \"No Alcohol Sale\" and a prominent red stripe; create a new section of KRS Chapter 507 to provide that any person who is convicted of an offense in which a death resulted from the person's operation of a motor vehicle while under the influence shall be prohibited from purchasing alcohol during any period of supervision and for 2 years following any period of supervision; require the defendant to surrender his or her license; require the court to notify the Transportation Cabinet; create a new section of KRS 186.400 to 186.640 to require that any operator's license issued to a person convicted of a fourth or subsequent offense of driving under the influence or of an offense in which a death resulted from the person's operation of a motor vehicle while under the influence contain the language \"No Alcohol Sale\" and a prominent red stripe; create a new section of KRS Chapter 244 to prohibit the sale or distribution of alcohol to any person who is prohibited from purchasing alcohol issued to a person convicted of a fourth or subsequent offense of driving under the influence or of an offense in which a death resulted from the person's operation of a motor vehicle while under the influence.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Flannery",
+      "party": null,
+      "district": "96",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    },
+    {
+      "name": "M. Whitaker",
+      "party": null,
+      "district": "94",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "floor amendment (1) filed",
+      "chamber": "lower",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Local Mandate",
+    "Motor Vehicles",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b1b28c6b-cda0-48ad-ad03-0d0c7bc94a6d"
+}

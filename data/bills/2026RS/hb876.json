@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-hb876",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 876",
+  "title": "AN ACT relating to smart meters.",
+  "abstract": "Create new sections of KRS Chapter 367 to establish definitions; allow a customer of utility that provides electric, gas, water, or sewer services to opt out of having a smart meter installed if the customer owns the premises where the meter will be installed; establish procedures to opt out of the smart meter or request an analog meter; require utilities that furnish water, electric, gas, or sewer services to maintain sufficient quantities of meters for customer demand; require the retail electric supplier to give the customer 30 days' notice and give the customer 30 days to respond; require installation of the selected meter no later than 30 days after the selection; prohibit retail provider of electric, water, sewer, or gas service from charging the customer for the installation of the meter or imposing a surcharge or fee for opting out of having the smart meter installed; establish a process of obtaining a refund for a utility for improper charges through the Office of the Attorney General, Office of Rate Intervention; allow a customer to request a refund for any fees or damages incurred after January 1, 2015; require the utility and the fire district to send reports on fires involving meters; require a warning label on the meter and certification of the meter; provide for civil action; establish liability for harm caused by electromagnetic frequency radiation; prohibit the use of the meter to collect data accessed by third parties or any use of data that is not for the provision of utility service; require compensation for use of the meter to create a wireless network; require the utility to provide radiation protection at the customer's request; affirm a customer's private right of action and that the damages from a smart meter installation does not reduce the customer's outstanding balance to a utility service provider; RETROACTIVE.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Energy",
+    "Environment And Conservation",
+    "Oil And Natural Gas",
+    "Pollution",
+    "Public Utilities",
+    "Public Works",
+    "Retroactive Legislation",
+    "Sewer Systems",
+    "Waterways And Dams"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9487d995-06d9-46f0-a943-2eefa3c427cb"
+}

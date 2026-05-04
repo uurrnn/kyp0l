@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-hb777",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 777",
+  "title": "AN ACT relating to sports wagering.",
+  "abstract": "Create a new section of KRS 230.805 to 230.826 to define \"suspicious wagering activity\"; prohibit sports wagering licensees and services providers from limiting the size or frequency of deposits or wagers unless the wagering activity constitutes suspicious wagering activity or indicates that a person is a problem or compulsive gambler; require a sports wagering licensee or service provider to send an electronic notification within 24 hours of issuing a limit or ban; require sports wagering licensees and service providers to establish an appeal process and notify a person of the determination of the appeal within 1 week; amend KRS 230.805 to change the age of access to sports wagering from 18 to 21; amend KRS 2.015 to conform; provide that the Act may be cited as the Kentucky Fair Play Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Wilson",
+      "party": null,
+      "district": "82",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Athletics",
+    "Gaming And Wagering",
+    "Licensing",
+    "Public Safety",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/8eaf8e19-abb1-4187-90ab-47bac755c69d"
+}

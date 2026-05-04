@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-sr142",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 142",
+  "title": "A RESOLUTION commending the valor of Chief Warrant Officer Five Eric A. Slover for demonstrating gallantry and intrepidity above and beyond the call of duty while serving his country in the United States Army, and honoring him as a recipient of the Medal of Honor.",
+  "abstract": "Commend the valor of Chief Warrant Officer Five Eric A. Slover for demonstrating gallantry and intrepidity above and beyond the call of duty while serving his country in the United States Army and honoring him as a recipient of the Medal of Honor.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Howell",
+      "party": null,
+      "district": "1",
+      "primary": true
+    },
+    {
+      "name": "C. Richardson",
+      "party": null,
+      "district": "3",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Military Affairs And Civil Defense"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5df650b8-80da-4ee3-8df4-2ddfd92b4a98"
+}

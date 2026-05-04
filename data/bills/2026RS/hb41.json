@@ -1,0 +1,74 @@
+{
+  "id": "openstates-ky-2026RS-hb41",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 41",
+  "title": "AN ACT relating to public notices.",
+  "abstract": "Amend KRS 424.260 to make a technical correction and to increase the expenditure threshold for the advertising requirement from $40,000 to $60,000; exempt vehicles and installed vehicle equipment from the bidding requirement; allow an alternative publication procedure for the advertisement; amend KRS 424.145 to remove the population restriction and allow any city, county, special district, school district, or special purpose governmental entity to use the alternative publication procedures.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Advertising",
+    "Cities",
+    "Counties",
+    "Education, Elementary And Secondary",
+    "Local Government",
+    "Notices",
+    "Publications",
+    "Special Districts",
+    "Special Purpose Governmental Entities"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/02f0025a-746a-4b31-b51b-7a23fefe2ec7"
+}

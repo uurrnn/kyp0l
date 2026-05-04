@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-sb304",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 304",
+  "title": "AN ACT relating to firearms.",
+  "abstract": "Create new sections of KRS Chapter 237 to define \"safe storage depository\" and require an owner or custodian of a firearm to store the firearm in a safe storage depository or render the firearm incapable of being fired using a gun-locking device; require an owner or other person lawfully in possession of a firearm or any person who sells ammunition to report the loss or theft of the firearm or ammunition to a law enforcement agency; amend KRS 237.990 to establish penalties for violations.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Firearms And Weapons",
+    "Local Mandate",
+    "Police, City And County",
+    "Police, State",
+    "Public Safety",
+    "Sheriffs"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3d81a8a6-8ea6-481b-a66c-269c7f28fab2"
+}

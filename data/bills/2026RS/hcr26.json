@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-hcr26",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 26",
+  "title": "A CONCURRENT RESOLUTION establishing the Infant Mortality Task Force.",
+  "abstract": "Establish the Infant Mortality Task Force; list duties and members of the task force; require the task force to meet monthly during the 2026 Interim of the General Assembly and to submit a report by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Deaths",
+    "General Assembly",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Nurses",
+    "Reports Mandated",
+    "Task Forces, Legislative Branch",
+    "Women"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/372f56b2-abad-4d63-86ae-8498233f9f05"
+}

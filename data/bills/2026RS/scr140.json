@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-scr140",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SCR 140",
+  "title": "A CONCURRENT RESOLUTION directing the Legislative Research Commission to establish the Performance-Based Education Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Performance-Based Education Task Force to review and provide recommendations relating to the expansion of performance-based credit; outline task force membership; require the task force to meet monthly during the 2026 Interim of the General Assembly; require the task force to submit its findings and recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary",
+    "Education, Higher",
+    "Legislative Research Commission",
+    "Reports Mandated",
+    "Studies Directed",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2b065b26-6638-403d-b755-6d2675f56ebc"
+}

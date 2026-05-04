@@ -1,0 +1,88 @@
+{
+  "id": "openstates-ky-2026RS-hb326",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 326",
+  "title": "AN ACT relating to residential safety.",
+  "abstract": "Create a new section of KRS 227.200 to 227.400 to require an owner, seller, or lessor to have functional smoke detectors in all existing single-family and multifamily residential units; require a seller or lessor to verify compliance in an affidavit prior to transfer or tenancy of property; direct that seller or landlord may be subject to a civil penalty for violation; exempt real estate licensees from liability.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    },
+    {
+      "name": "M. Meredith",
+      "party": null,
+      "district": "19",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "C. Freeland",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Fire Prevention",
+    "Firefighters And Fire Departments",
+    "Housing, Building, And Construction",
+    "Landlord And Tenant",
+    "Licensing",
+    "Local Mandate",
+    "Property",
+    "Public Safety",
+    "Real Estate",
+    "Safety"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/eb494ee4-5d76-41ea-bc1d-f05a4617d421"
+}

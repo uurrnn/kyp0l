@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-scr110",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SCR 110",
+  "title": "A CONCURRENT RESOLUTION establishing the Mental Health Alternative Community Response Model Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Mental Health Alternative Community Response Model Task Force; establish task force membership; require the task force to study and make recommendations to identify programs, initiatives, and opportunities in the Commonwealth for alternative response services for communities related to mental health for Kentuckians and submit a report with recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Health And Medical Services",
+    "Legislative Research Commission",
+    "Mental Health",
+    "Public Health",
+    "Reports Mandated",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-18",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1ed79bf2-bc3c-464e-aa22-14f40d7062c8"
+}

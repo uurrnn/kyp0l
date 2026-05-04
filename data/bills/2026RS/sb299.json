@@ -1,0 +1,103 @@
+{
+  "id": "openstates-ky-2026RS-sb299",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 299",
+  "title": "AN ACT relating to operator's licenses.",
+  "abstract": "Create a new section of KRS Chapter 186 to require the Department of Kentucky State Police, in partnership with the Kentucky Department of Education, to operate a pilot project from September 1, 2027, to June 30, 2029, to provide instruction permit testing in 1 public high school in each congressional district in the Commonwealth; set requirements for the pilot project; require that the state police report to the Legislative Research Commission by October 31, 2027, and annually thereafter as long as the pilot project continues, to provide data and the pilot project's effect on existing testing efforts.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "D. Givens",
+      "party": null,
+      "district": "9",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "S. Funke Frommeyer",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "J. Higdon",
+      "party": null,
+      "district": "14",
+      "primary": true
+    },
+    {
+      "name": "S. Rawlings",
+      "party": null,
+      "district": "11",
+      "primary": true
+    },
+    {
+      "name": "S. West",
+      "party": null,
+      "district": "27",
+      "primary": true
+    },
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    },
+    {
+      "name": "M. Wise",
+      "party": null,
+      "district": "16",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Driver Licensing",
+    "Education, Elementary And Secondary",
+    "Police, State",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9cdb3127-f13d-4ff9-a6ef-647cbfd386a1"
+}

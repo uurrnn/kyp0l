@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb863",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 863",
+  "title": "AN ACT relating to uniform citation reports.",
+  "abstract": "Create a new section of KRS Chapter 17 to prohibit the public disclosure of uniform citation reports created in response to a motor vehicle accident where law enforcement suspects that the use of drugs or alcohol contributed to the accident until the law enforcement agency receives the results of the any test for drugs or alcohol.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Local Mandate",
+    "Motor Vehicles",
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5abc9cb0-4f83-489d-8731-c504e09d4223"
+}

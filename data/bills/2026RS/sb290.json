@@ -1,0 +1,104 @@
+{
+  "id": "openstates-ky-2026RS-sb290",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 290",
+  "title": "AN ACT relating to criminal history.",
+  "abstract": "Create a new sections of KRS Chapter 431 to establish an automatic expungement process for specific eligible misdemeanor and felony convictions; allow the Commonwealth's and county attorney to object and halt the automatic expungement of certain offenses; require the Administrative Office of the Courts and the Department of Kentucky State Police to submit a report twice a year to the Legislative Research Commission on the implementation of the automatic expungement process; amend KRS 431.073 to waive fees for an applicant whose conviction qualifies as an eligible conviction; amend KRS 431.074 to require the Administrative Office of the Courts to establish a searchable portal to allow a person to determine if his or her conviction has been expunged; amend KRS 431.078 to waive fees for a petitioner whose conviction qualifies as an eligible conviction; amend KRS 431.079 to provide court clerks and deputy court clerks with immunity from civil liability for acts done in good faith under this act; amend KRS 17.151 to require the Department for Kentucky State Police to provide the Administrative Office of the Courts with data to comply with automatic expungement process; amend KRS 196.093 to require the Department of Corrections to provide the Administrative Office of the Courts with data to comply with automatic expungement process; amend KRS 367.310 to provide that no conviction that has been overruled, vacated, set aside, or expunged shall not be included on any background check or consumer report; establish the Automatic Expungement Task Force; establish duties and membership; require the task force to submit a report with recommendations to the Legislative Research Commission by November 1, 2026; provide that the Act may be cited as the Automatic Expungement Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Storm",
+      "party": null,
+      "district": "21",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "C. Richardson",
+      "party": null,
+      "district": "3",
+      "primary": true
+    },
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "to Judiciary (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney, Commonwealth's",
+    "Attorney, County",
+    "Corrections And Correctional Facilities, State",
+    "Courts",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Local Mandate",
+    "Police, State",
+    "Reports Mandated",
+    "Short Titles And Popular Names",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed_committee",
+    "governor": null
+  },
+  "current_status": "passed committee Senate",
+  "last_action_date": "2026-03-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/988a3bb1-16d1-4c3e-ba4d-4cf6862b4b72"
+}

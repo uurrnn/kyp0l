@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb196",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 196",
+  "title": "AN ACT relating to perfluoroalkyl and polyfluoroalkyl substances.",
+  "abstract": "Create a new section of KRS Chapter 211 to establish a PFAS Working Group; establish membership and duties; create new sections of Subchapter 10 of KRS Chapter 224 to define terms; establish a reporting requirement for manufacturers that intentionally added PFAS in products manufactured for sale or distribution in the Commonwealth; establish a reporting requirement for PFAS released in the Commonwealth by manufacturers that intentionally include PFAS in manufactured products; amend KRS 224.99-030 to establish penalty for noncompliance with reporting requirements.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Advisory Boards, Commissions, And Committees",
+    "Boards And Commissions",
+    "County Judges/Executive",
+    "Environment And Conservation",
+    "Pollution",
+    "Public Health"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/643d796a-1931-48ae-af72-74480818132c"
+}

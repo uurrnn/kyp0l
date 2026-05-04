@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb433",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 433",
+  "title": "AN ACT relating to birth certificates.",
+  "abstract": "Amend KRS 199.570 to allow the names of adopted parents and deceased biological parents to appear on a new birth certificate issued upon adoption if it is requested by the court, adopted parents, or adopted child; direct the Cabinet for Health and Family Services to create a birth certificate form that complies with this section through the promulgation of administrative regulations.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Courts, Circuit",
+    "Courts, Family",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/fef2b38e-3713-4e9e-b911-8d80ec69193d"
+}

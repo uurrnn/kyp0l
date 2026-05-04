@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb410",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 410",
+  "title": "AN ACT relating to risk protection orders.",
+  "abstract": "Create a new section of KRS Chapter 237 to define terms; allow enumerated persons to petition a District Court to issue an order prohibiting a person from purchasing, possessing, or receiving a firearm if the person is or has been diagnosed with or treated for a mental condition that causes or is likely to cause impairment in judgment, perception, or impulse control to an extent that presents an unreasonable risk to public health, safety, or welfare if the person were in possession or control of a firearm; establish that a violation of an order is a Class A misdemeanor; amend KRS 237.104 to conform; provide that the Act may be cited as Diego's Law.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Procedure",
+    "Corrections Impact",
+    "Courts, District",
+    "Crimes And Punishments",
+    "Firearms And Weapons",
+    "Local Mandate",
+    "Mental Health",
+    "Police, State",
+    "Public Safety",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/392fc650-8409-4cb3-892e-6dc540d36a2e"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hcr57",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 57",
+  "title": "A CONCURRENT RESOLUTION establishing the Economic Development Incentive Modernization Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Economic Development Incentive Modernization Task Force to study and make recommendations regarding Kentucky's current economic develop inititiatives, incentives, and related policies and their effectiveness in relation to competitor states, marketing campaigns and targeted sector updates that competitor states have implemented in recent years and their effectivesness, and actions and policies Kentucky should consider in order to improve Kentucky's economic develop initiatives and incentives; establish membership; direct the task force to meet during the 2026 Interim and submit findings and recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Economic Development",
+    "Legislative Research Commission",
+    "Reports Mandated",
+    "Studies Directed",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-18",
+  "source_url": "",
+  "openstates_id": "ocd-bill/6ac02c8d-95a6-428f-926a-dcdaba89dd6a"
+}

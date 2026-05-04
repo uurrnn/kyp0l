@@ -1,0 +1,35 @@
+{
+  "id": "openstates-ky-2026RS-hb800",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 800",
+  "title": "Withdrawn.",
+  "abstract": null,
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "03/04/26: WITHDRAWN",
+      "chamber": "lower",
+      "classification": [
+        "withdrawal"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [],
+  "chamber_progress": {
+    "lower": null,
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Status unknown",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/317ca57d-4e2e-4c34-95a2-7ee043eca34d"
+}

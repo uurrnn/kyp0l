@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb79",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 79",
+  "title": "AN ACT relating to sales and use tax exemptions for firearm-related items.",
+  "abstract": "Amend KRS 139.010, relating to sales and use taxes, to define \"ammunition,\" \"antique firearm,\" \"body armor,\" firearm,\" \"firearm muffler or silencer,\" \"firearm-related accessory,\" \"firearm safety course,\" \"firearm safety device,\" and \"firearm storage device\"; amend KRS 139.480 to exempt ammunition, antique firearms, body armor, firearms, firearm-related accessories, firearm safety courses, firearm safety devices, firearm storage devices, noise cancelling ear protection, and admissions or program fees related to certain firearm-related activities; EFFECTIVE August 1, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "S. Maddox",
+      "party": null,
+      "district": "61",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Effective Dates, Delayed",
+    "Explosives",
+    "Firearms And Weapons",
+    "Fiscal Note",
+    "Taxation",
+    "Taxation, Sales And Use"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/6d84a3b3-891e-4530-9137-55f924f46e4c"
+}

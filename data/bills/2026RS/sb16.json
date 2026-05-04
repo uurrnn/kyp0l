@@ -1,0 +1,87 @@
+{
+  "id": "openstates-ky-2026RS-sb16",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 16",
+  "title": "AN ACT relating to wages.",
+  "abstract": "Amend KRS 337.010 to increase the applicable threshold of employees of retail stores and service industries from $95,000 to $500,000 average annual gross volume of sales for the employer; amend KRS 337.275 to incrementally raise minimum wage for employers to $15.00 an hour; include anti-preemption language permitting local governments to establish minimum wage ordinances in excess of the state minimum wage.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    },
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    },
+    {
+      "name": "K. Berg",
+      "party": null,
+      "district": "26",
+      "primary": true
+    },
+    {
+      "name": "G. Clemons",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cities",
+    "Counties",
+    "Labor And Industry",
+    "Local Government",
+    "Personnel And Employment",
+    "Wages And Hours"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/dc53bb58-fe4c-4ac6-8744-572c773cbdd1"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "openstates-ky-2026RS-hjr86",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 86",
+  "title": "A JOINT RESOLUTION directing the Personnel Cabinet, in consultation with the Kentucky Department of Agriculture, to integrate community supported agriculture purchases into the wellness rewards programs offered to public employees and retirees who receive health insurance coverage through the Kentucky Employees Health Plan.",
+  "abstract": "Direct the Personnel Cabinet, in consultation with the Kentucky Department of Agriculture, to integrate community supported agriculture (CSA) purchases in the wellness rewards programs offered to public employees and retirees who receive health insurance coverage through the Kentucky Employees Health Plan; require the program to be offered for the 2027 KEHP plan year; require the Personnel Cabinet to report on the program.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Miles",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "taken from State Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-17",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "returned to State Government (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Agriculture",
+    "Education, Elementary And Secondary",
+    "Education, Higher",
+    "Insurance, Health",
+    "Local Mandate",
+    "Personnel And Employment",
+    "Public Officers And Employees",
+    "Reports Mandated",
+    "State Agencies",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-17",
+  "source_url": "",
+  "openstates_id": "ocd-bill/56164fba-9d0e-4d68-a646-c01591a4831f"
+}

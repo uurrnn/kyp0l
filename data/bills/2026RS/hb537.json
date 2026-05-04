@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-hb537",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 537",
+  "title": "AN ACT relating to child welfare.",
+  "abstract": "Amend KRS 199.462 to prohibit an individual from being approved to provide foster care or relative caregiver services to a child, be considered a fictive kin placement for a child, or to receive a child for adoption if the individual or an adult or minor child living in the individual's home has been directed by a court to complete or attend sex offender treatment.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Bauman",
+      "party": null,
+      "district": "28",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Courts",
+    "Crimes And Punishments",
+    "Domestic Relations",
+    "Public Safety"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7f8d0756-184a-462f-a2fb-d1d681303613"
+}

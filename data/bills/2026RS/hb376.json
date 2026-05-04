@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb376",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 376",
+  "title": "AN ACT relating to public postsecondary education institutions.",
+  "abstract": "Amend KRS 164.020 to prohibit the Council on Postsecondary Education from raising tuition for a postsecondary education institution more than 5% a year for Kentucky resident students and 7% a year for non-Kentucky resident students; provide a 4-year tuition freeze for an enrolled Kentucky resident student; require an institution to notify a student before expiration of a tuition freeze; require any increase in tuition or fees to be approved before March 1; provide that the Act may be cited as the Kentucky Student Tuition Protection and Accountability Act; EFFECTIVE July 1, 2029.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Short Titles And Popular Names",
+    "State Agencies",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4d0b2a71-789c-433f-b405-47a287839d44"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb325",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 325",
+  "title": "AN ACT relating to economic development incentives.",
+  "abstract": "Amend KRS 141.396, relating to the angel investor tax credit, to remove language relating to employee demographics for qualified small businesses from information required; amend KRS 154.20-234, relating to the Angel Investor Program, to remove language relating to employee demographics for qualified small businesses from information required; amend KRS 154.20-240 and 154.20-254 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Small Business & Information Technology (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Economic Development",
+    "Small Business",
+    "Taxation, Income--Corporate",
+    "Taxation, Income--Individual"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5cc8af70-494e-4a34-a14c-cbfca80e6f8d"
+}

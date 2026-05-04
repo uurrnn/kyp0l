@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb234",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 234",
+  "title": "AN ACT relating to the posting of veterans' benefits and services.",
+  "abstract": "Amend KRS 337.327 to require employers to keep copies of a veterans' benefits and services document in a conspicuous and accessible place.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Bauman",
+      "party": null,
+      "district": "28",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Federal Laws And Regulations",
+    "Labor And Industry",
+    "Local Mandate",
+    "Military Affairs And Civil Defense",
+    "Notices",
+    "Personnel And Employment",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3f959c22-4cd2-49aa-82e9-3242b1de230c"
+}

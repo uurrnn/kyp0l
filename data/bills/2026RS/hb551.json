@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb551",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 551",
+  "title": "AN ACT proposing to amend Section 1 of the Constitution of Kentucky relating to the environment.",
+  "abstract": "Propose to amend Section 1 of the Constitution of Kentucky to establish a right of the people to have a healthy environment, including a right to clean air, pure water, and ecologically healthy habitats; declare the Commonwealth's natural resources, among them its air, water, flora, fauna, climate, and public lands, the common property of all people, including generations yet to come; establish that as trustee of the environment and its natural resources, the Commonwealth shall conserve and maintain them for the benefit of all people; provide ballot language; submit to voters for ratification or rejection; provide that is Act may be cited as the Legacy Amendment.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, Ky.",
+    "County Clerks",
+    "Elections And Voting",
+    "Environment And Conservation",
+    "Local Mandate",
+    "Pollution",
+    "Public Health",
+    "Secretary Of State",
+    "Short Titles And Popular Names",
+    "Water Supply"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e5b72669-212f-4c55-bdf8-0738b1079708"
+}

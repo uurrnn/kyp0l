@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-sb58",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 58",
+  "title": "AN ACT relating to diaper access programs.",
+  "abstract": "Create new sections of KRS Chapter 200 to define terms; establish the Kentucky Diaper Access Board and its functions related to the development of a state plan for the distribution of funds from the Kentucky diaper access trust fund; establish the Kentucky diaper access trust fund and the purposes for which funds are disbursed to diaper access programs in the Commonwealth.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Children And Minors",
+    "Health And Medical Services",
+    "Public Health",
+    "Treasurer"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c5ceb5be-427b-47ef-a268-816e1a26c9ab"
+}

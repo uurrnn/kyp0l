@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb556",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 556",
+  "title": "AN ACT relating to family care leave.",
+  "abstract": "Amend KRS 337.010 to define \"committed relationship,\" \"family care leave,\" \"family member,\" \"health care provider,\" \"same employer,\" and \"serious health condition\"; create a new section of KRS Chapter 337 to prohibit employers from refusing to grant a qualified employee family care leave; entitle an employee to family care leave for the birth, adoption, or foster care placement of a child or to take care of a family member and establish parameters; amend KRS 337.990 to establish penalties for violations by any person.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Labor And Industry",
+    "Local Mandate",
+    "Personnel And Employment",
+    "Small Business",
+    "Wages And Hours",
+    "Workforce"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/fc1ae5ac-d101-4459-b93d-695045311045"
+}

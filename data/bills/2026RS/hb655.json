@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb655",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 655",
+  "title": "AN ACT relating to limited health service benefit plans.",
+  "abstract": "Amend KRS 304.17C-085 to modify the definition of \"covered services\" to exclude services and materials for which reimbursement would be available but for the application of the enrollee's contractual limitation of an annual maximum benefit; prohibit contractual waivers; make technical amendments; direct that the Act applies to contracts issued or renewed on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Lewis",
+      "party": null,
+      "district": "90",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Contracts",
+    "Health Care Professionals",
+    "Insurance, Health",
+    "Local Mandate"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1d6a96a5-7fce-4e85-9ba6-fffd5f200ae0"
+}

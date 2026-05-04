@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-hb934",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 934",
+  "title": "AN ACT relating to harassing communications.",
+  "abstract": "Amend KRS 525.080, relating to harrassing communications, to include sending repeated electronic communications in a manner reasonably likely to harass, annoy, alarm, torment, embarass, or offend another and include posts to social media or an internet website any material that is reasonably likely to cause emotional distress, abuse, or torment; elevate harassing communications from a Class B misdemeanor to a Class A misdemeanor.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Small Business & Information Technology (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Crimes And Punishments",
+    "Criminal Procedure"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1e6d04a3-0054-42b0-9452-643447f4041d"
+}

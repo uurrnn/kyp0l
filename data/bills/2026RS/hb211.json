@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb211",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 211",
+  "title": "AN ACT relating to peace officers.",
+  "abstract": "Create a new section of KRS Chapter 15 to define terms; impose a duty on peace officers to intervene to prevent or stop another officer from using physical force that will cause unlawful serious physical injury, death, or deprivation of civil rights; impose a duty to provide or obtain emergency medical assistance; require reporting of intervention; provide administrative and legal protections; amend KRS 15.330 to require the Kentucky Law Enforcement Council to prescribe minimum standards for use of force by officer, an officer's duty to intervene, and reporting of police officer misconduct; amend KRS 413.115 to require that an action for retaliatory personnel actions to be commenced within 3 years.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Civil Procedure",
+    "Local Mandate",
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/8ac58f20-e29f-4aa2-9f98-7a1d4e3402ac"
+}

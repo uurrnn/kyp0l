@@ -1,0 +1,76 @@
+{
+  "id": "openstates-ky-2026RS-hr63",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 63",
+  "title": "A RESOLUTION adjourning the House of Representatives in honor of Kentucky's rural electric cooperative utility workers who provided vital support during the deadly tornado that devastated Kentucky on May 16, 2025.",
+  "abstract": "Adjourn in honor of Kentucky's rural electric cooperative utility workers who worked to restore power during and after the deadly storm on May 16, 2025.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Lewis",
+      "party": null,
+      "district": "90",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "description": "to House Floor",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "description": "adopted by voice vote",
+      "chamber": "lower",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Energy",
+    "Public Utilities"
+  ],
+  "chamber_progress": {
+    "lower": "passed",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Passed House",
+  "last_action_date": "2026-03-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f27aba41-9114-478c-8a47-d54bfb77758f"
+}

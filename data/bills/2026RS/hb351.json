@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-hb351",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 351",
+  "title": "AN ACT relating to military-connected educational benefits.",
+  "abstract": "Amend KRS 164.507 to remove degree-seeking requirement for nonremarried spouse and children of a deceased veteran when utilizing educational benefits; require students to use federal grant funds toward tuition prior to the use of the waiver; amend KRS 164.515 to expand educational benefit to include service members with a disability rating of 50% or higher; remove degree-seeking requirement; require students to use federal grant funds toward tuition prior to the use of the waiver.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Veterans, Military Affairs, & Public Protection (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Education, Higher",
+    "Military Affairs And Civil Defense",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/adbcfe66-1025-4694-bbd1-a165aba9a5ce"
+}

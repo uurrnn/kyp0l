@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb202",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 202",
+  "title": "AN ACT relating to rights and obligations of landlords and tenants to a residential lease.",
+  "abstract": "Repeal and reenact various sections of KRS Chapter 383 to amend the Uniform Residential Landlord and Tenant Act; create new sections of KRS Chapter 383 to conform; amend KRS 383.240 to conform; repeal KRS 383.300, 303.302, 383.500, 383.505, 383.515, 383.525, 383.540, 383.580, 383.620, and 383.665; apply to a lease made on or after the effective date of the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Civil Actions",
+    "Contracts",
+    "Housing, Building, And Construction",
+    "Landlord And Tenant",
+    "Property",
+    "Uniform Laws"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/37abf46d-881e-4755-80c4-8ed386765100"
+}

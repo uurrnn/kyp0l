@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb708",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 708",
+  "title": "AN ACT relating to economic development.",
+  "abstract": "Create a new section of Subchapter 32 of KRS Chapter 154 to establish a tiered county system for eligible companies to receive incentives under the Kentucky Business Investment Program; amends KRS 154.32-010 to define \"tier\"; amends KRS 154.32-020 and 154.32-040 to conform; amend KRS 154.32-050 to specify tiering procedures; amend KRS 154.32-060 to require the Kentucky Economic Development Finance Authority to identify and certify or decertify the tiers for all counties on an annual basis into 4 tax credit tiers; provide that the incentives available under this subchapter be determined based on the county where the economic development project is located by an approved company; provide a county's tier will be based on a 5 year average of its unemployment rate and population ranking; amend KRS 154.32-090, 154.61-010, 154.61-020, and 141.383  to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Thompson",
+      "party": null,
+      "district": "98",
+      "primary": true
+    },
+    {
+      "name": "J. Blanton",
+      "party": null,
+      "district": "92",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Economic Development",
+    "Local Government",
+    "Small Business",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Income--Corporate"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/67496b30-9e13-4009-ac46-887ec582d1cc"
+}

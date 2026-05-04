@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb842",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 842",
+  "title": "AN ACT relating to interrogation of children.",
+  "abstract": "Create a new section of KRS Chapter 610 to define terms; prohibit the use of deceptive methods when a child is being interrogated; create a new rule of evidence to limit the admissibility of statements made during the interrogation of a child in violation of statute.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney, Commonwealth's",
+    "Attorney, County",
+    "Children And Minors",
+    "Civil Rights",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Local Mandate",
+    "Peace Officers And Law Enforcement",
+    "Rules Of Evidence"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c4d0b8b1-2d9f-4996-af0f-a4ad21f7fcf6"
+}

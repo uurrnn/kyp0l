@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-sb330",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 330",
+  "title": "AN ACT relating to data centers.",
+  "abstract": "Create a new section of KRS Chapter 61 to define \"data center,\" \"nondisclosure or confidentiality agreement,\" and \"public agency\"; prohibit public agencies from entering into a nondisclosure or confidentiality agreement relating to a data center that expands confidentiality beyond what is authorized by the Kentucky Revised Statutes; provide that contractual provisions relating to data centers that waive, supersede, or expand the requirements of the Kentucky Open Records Act or Kentucky Open Meetings Act are void; provide that certain information be made publicly available when certain data center-related actions are taken or documents are executed; provide that aggregated data concerning projected or actual impacts on public utilities and certain other public areas shall not be deemed confidential solely because the information relates to a data center project; prohibit a nondisclosure or confidentiality agreement from restricting the authority of a local public official to discuss data center impacts or public participation, hearings, or proceedings otherwise require by law.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Herron",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Contracts",
+    "Information Technology",
+    "Public Officers And Employees",
+    "Public Records And Reports",
+    "Public Utilities"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2d85d987-960e-493f-9fae-ebfeb2f5067c"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb443",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 443",
+  "title": "AN ACT relating to sex crimes.",
+  "abstract": "Amend KRS 510.060, relating to rape in the third degree, to prohibit a school employee from engaging in sexual intercourse with a student enrolled in an elementary or secondary school with whom he or she comes into contact with as a result of that employment; amend KRS 510.090, relating to sodomy in the third degree, to prohibit a school employee from engaging in deviate sexual intercourse with a student enrolled in an elementary or secondary school with whom he or she comes into contact with as a result of that employment; amend KRS 510.110, relating to sexual abuse in the first degree, to prohibit a school employee from subjecting a student to sexual contact, engaging in masturbation in the student's presence, or engaging in masturbation while using the internet, telephone, or other electronic communication with a student who can see or hear the school employee masturbate; amend KRS 510.010 to define \"school employee\"; amend various sections of the Kentucky Revised Statutes to conform and make technical corrections.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Tipton",
+      "party": null,
+      "district": "53",
+      "primary": true
+    },
+    {
+      "name": "J. Decker",
+      "party": null,
+      "district": "58",
+      "primary": true
+    },
+    {
+      "name": "K. Moser",
+      "party": null,
+      "district": "64",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Education, Elementary And Secondary",
+    "Local Mandate",
+    "Public Safety",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/530669ad-a065-4b06-93cb-bac82b6f79b6"
+}

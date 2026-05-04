@@ -1,0 +1,101 @@
+{
+  "id": "openstates-ky-2026RS-hb259",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 259",
+  "title": "AN ACT proposing an amendment to Sections 32, 72, 91, 100, and 122 of the Constitution of Kentucky relating to citizenship requirements of state and local elected officials.",
+  "abstract": "Propose to amend Sections 32, 72, 91, 100, and 122 of the Constitution of Kentucky to require candidates for the General Assembly, Governor, Lieutenant Governor, Treasurer, Auditor of Public Accounts, Commissioner of Agriculture, Secretary of State, Attorney General, county clerk, Circuit Court clerk, Commonwealth\u00e2\u0080\u0099s attorney, county attorney, District Judge, Circuit Judge, Court of Appeals Judge, and Justice of the Supreme Court to be a natural born citizen of the United States and a national of only the United States in order to hold each respective office; provide ballot language; submit to voters for ratification or rejection.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Baker",
+      "party": null,
+      "district": "85",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "R. Bivens",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Agriculture",
+    "Attorney General",
+    "Attorney, Commonwealth's",
+    "Attorney, County",
+    "Auditor Of Public Accounts",
+    "Circuit Clerks",
+    "Constitution, Ky.",
+    "County Clerks",
+    "Court Of Appeals",
+    "Court, Supreme",
+    "Courts, Circuit",
+    "Courts, District",
+    "Elections And Voting",
+    "General Assembly",
+    "Governor",
+    "Lieutenant Governor",
+    "Secretary Of State",
+    "Treasurer"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ea0b694f-1f42-4ba9-a1e6-6f75e1e7c0f7"
+}

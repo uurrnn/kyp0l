@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-sb318",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 318",
+  "title": "AN ACT relating to digital instruction.",
+  "abstract": "Create a new section of KRS Chapter 158 to define terms, restrict digital instruction time for students in kindergarten to grade 5 to 45 minutes per student per day; exclude designated uses of technology from the restriction; direct in-person elementary schools to require at least 70% of student assignments to be written; require daily access to traditional learning material; require incorporation of physical manipulatives into math and science instruction; prohibit replacing primary instruction with instructional technology for designated elementary subjects; prohibit homework that requires instructional technology; prohibit requiring students to carry instructional technology to and from school daily; prohibit replacing library time with digital reading labs; require each school district to adopt a written technology-use policy; require school districts to publish an annual technology use report that includes designated items to its website.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Children And Minors",
+    "Education, Elementary And Secondary",
+    "Reports Mandated",
+    "Teachers",
+    "Technology"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f81c462c-5b85-4494-80c0-a24a5547a79a"
+}

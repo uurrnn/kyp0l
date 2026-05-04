@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb288",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 288",
+  "title": "AN ACT relating to the rights of tenants.",
+  "abstract": "Create a new section of KRS Chapter 383 to define terms; state that a tenant has a right of first refusal to purchase a rental property from the owner of the property; require the owner to notify a tenant prior to listing a rental property for sale or accepting an offer on the property; establish timelines for a tenant to exercise the right of first refusal; specify circumstances under which a tenant's right of first refusal may be waived; establish penalty for violation.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Landlord And Tenant",
+    "Local Government",
+    "Local Mandate",
+    "Property",
+    "Real Estate"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b7598d2f-eaf8-4f11-88ee-a9d07ebe5114"
+}

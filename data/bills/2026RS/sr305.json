@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-sr305",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 305",
+  "title": "A RESOLUTION censuring Kentucky Supreme Court Justice Kelly Thompson for his intemperate remarks that threatened attorneys and legislators participating in pending impeachment proceedings with professional discipline and criminal prosecution, and directing a complaint to be filed against him with the Judicial Conduct Commission.",
+  "abstract": "Direct the Director of the Legislative Research Commission to file a complaint with the Judicial Conduct Commission on behalf of the Senate requesting evaluation by the Judicial Conduct Commission of Justice Kelly Thompson's remarks in a Supreme Court opinion related to the impeachment proceedings of Judge Julie Muth Goodman; censure Justice Kelly Thompson for statements threatening attorneys and legislators participating in current and future impeachment proceedings with disciplinary action and possible criminal prosecution, and for violation of various sections of the Constitution of Kentucky and the Constitution of the United States.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Stivers",
+      "party": null,
+      "district": "25",
+      "primary": true
+    },
+    {
+      "name": "M. Nemes",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-04-15",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorneys",
+    "Constitution, Ky.",
+    "Court, Supreme",
+    "General Assembly",
+    "Judges And Court Commissioners",
+    "Legislative Research Commission",
+    "Public Ethics"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3caf4a57-950b-435c-86d6-71efaafd2315"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "openstates-ky-2026RS-hb85",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 85",
+  "title": "AN ACT relating to sanitation districts.",
+  "abstract": "Amend KRS 220.510 to establish controls for sanitation districts when charging fees, taxes, or other charges to property owners or to other persons for the provision of services; affirm a cause of action when a person is charged for sewer services, but has not received service within 5 years of the plan approval date; provide that the Act may be cited as the Ensuring Fair Sewer Charges Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Counties",
+    "Fees",
+    "Local Government",
+    "Public Utilities",
+    "Public Works",
+    "Sewer Systems",
+    "Short Titles And Popular Names",
+    "Special Districts",
+    "Taxation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1cd9c0b8-6b54-4c02-a2dc-ab9eda73080e"
+}

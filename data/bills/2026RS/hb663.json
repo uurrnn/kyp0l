@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb663",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 663",
+  "title": "AN ACT relating to a property tax installment payment program.",
+  "abstract": "Create a new section of KRS Chapter 134, relating to collection of taxes to establish a quarterly installment payment program; define terms; provide installment payment calculation guidelines; require specific property tax information to be sent to the taxpayer through notifications or made accessible through an electronic system; allow an administrative fee up to 3%; disallow 2% discount for early payment of taxes if taxes paid under quarterly installment payment program; prohibit collection of penalties and interest on installment payments; require the Department of Revenue to promulgate administrative regulations; establish penalties for noncompliance; amend KRS 133.220 to require the sheriff or collector to include specific tax payment information on tax notices; amend KRS 134.015 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Attorney, County",
+    "Cities",
+    "Counties",
+    "County Clerks",
+    "Education, Finance",
+    "Local Government",
+    "Local Mandate",
+    "Property Valuation Administrators",
+    "Sheriffs",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Property"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-25",
+  "source_url": "",
+  "openstates_id": "ocd-bill/585158f5-9e1a-4a65-9c21-1d3f6b7b640c"
+}

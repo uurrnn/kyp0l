@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-hcr121",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 121",
+  "title": "A CONCURRENT RESOLUTION urging the United States Congress to support efforts to issue an Armed Forces Expeditionary Medal, or similar recognition of having served in an area of hostility, to all United States servicemembers who served in Honduras from 1981 to 1992.",
+  "abstract": "Urge the United States Congress to support efforts to issue an Armed Forces Expeditionary Medal, or similar recognition of having served in an area of hostility, to all United States servicemembers who served in Honduras from 1981 to 1992.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "DJ Johnson",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-16",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "International Trade And Relations",
+    "Military Affairs And Civil Defense",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/95edaaa6-2624-4c3b-8d86-94dfe16dbbb7"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb559",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 559",
+  "title": "AN ACT relating to data privacy, portability, and interoperability.",
+  "abstract": "Create new sections of KRS Chapter 367 to establish consumer rights relating to social media and artificial intelligence data; define terms; require social media companies and model operators to implement data interoperability interfaces; establish requirements for data sharing between social media services and artificial intelligence systems; grant rulemaking authority to the Attorney General, along with the Consumers' Advisory Council, and enforcement authority to the Office of the Attorney General; provide for civil penalties: provide that the Act may be cited as the Kentucky Digital Choice Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Small Business & Information Technology (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Consumer Protection",
+    "Data Protection",
+    "Short Titles And Popular Names",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f86ff407-16c2-4171-b96b-33a4076dabf0"
+}

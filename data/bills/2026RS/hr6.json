@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-hr6",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HR 6",
+  "title": "A RESOLUTION honoring and expressing support for law enforcement officers in Kentucky and throughout the United States.",
+  "abstract": "Honor and support law enforcement officers in Kentucky and throughout the United States.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State",
+    "Public Safety"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1fb71348-e242-4666-afc5-72214fc46272"
+}

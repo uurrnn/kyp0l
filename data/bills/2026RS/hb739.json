@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-hb739",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 739",
+  "title": "AN ACT relating to the partial distribution of pari-mutuel racing tax receipts to local governments.",
+  "abstract": "Amend KRS 138.510 to allocate moneys from the pari-mutuel racing excise tax distribution to the local government support fund; create a new section of KRS Chapter 230 to establish the pari-mutuel racing local government support fund to be administered by the Department for Local Government; establish parameters for use of fund moneys; amend KRS 131.190 to allow the Department of Revenue to share information relating to the calculation of the new fund distribution.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Horses And Horse Racing",
+    "Local Government",
+    "Local Mandate",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/86a9a4fa-28ea-4f4a-bb78-78fe83acc964"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "openstates-ky-2026RS-hb423",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 423",
+  "title": "AN ACT relating to motorsports racing facilities and declaring an emergency.",
+  "abstract": "Create a new section of KRS Chapter 411 to define \"area of the racing facility\" and \"racing facility\"; provide civil immunity from suit to racing facilities regarding nuisance and taking actions if the racing facility was lawfully constructed before the surrounding real property owner either purchased the real property or constructed any building in the area of the racing facility; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "D. Lewis",
+      "party": null,
+      "district": "90",
+      "primary": true
+    },
+    {
+      "name": "M. Meredith",
+      "party": null,
+      "district": "19",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Amusements And Recreations",
+    "Civil Actions",
+    "Effective Dates, Emergency",
+    "Nuisances"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/061cf09c-b0c3-4b14-bfbf-3e380a3acbee"
+}

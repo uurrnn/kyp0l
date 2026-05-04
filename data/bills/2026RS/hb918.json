@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb918",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 918",
+  "title": "AN ACT relating to fish and wildlife law enforcement.",
+  "abstract": "Amend KRS 15.519 to make game wardens employed by the Department of Fish and Wildlife Resources subject to the same requirements for entering or accessing private open land as other law enforcement officers; amend KRS 150.090 to conform; amend KRS 235.310 to make boating enforcement officers employed by the Department of Fish and Wildlife Resources subject to the same requirements for entering or accessing private open land as other law enforcement officers.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Maddox",
+      "party": null,
+      "district": "61",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Tourism & Outdoor Recreation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boats And Boating",
+    "Fish And Wildlife",
+    "Hunting And Fishing",
+    "Peace Officers And Law Enforcement",
+    "Property",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/2fcec516-ed5b-4f9b-a5f4-2e4b883c5ac0"
+}

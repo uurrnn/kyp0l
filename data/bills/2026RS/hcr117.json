@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hcr117",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 117",
+  "title": "A CONCURRENT RESOLUTION relating to the establishment of a Beauty Industry Law Task Force to complete a detailed review of the current laws to ensure alignment throughout the relevant statutes and administrative regulations.",
+  "abstract": "Direct the Legislative Research Commission to establish the Beauty Industry Law Task Force to conduct a review of current statutes and administrative regulations governing the industry; require the task force to meet at least 4 times before the submission of its findings and recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Barbers And Cosmetologists",
+    "Legislative Research Commission",
+    "Studies Directed",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/344fcf88-4c77-4a36-8c5a-bbb60b5b77d3"
+}

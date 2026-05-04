@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb884",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 884",
+  "title": "AN ACT relating to alpha-gal syndrome.",
+  "abstract": "Create a new section of KRS Chapter 214 to require reporting of alpha-gal syndrome; require laboratory reporting of positive test results to the Department for Public Health within 5 days of confirming the results; require the department to follow up annually on cases and report to the United States Centers for Disease Control and Prevention.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Diseases",
+    "Health Care Professionals",
+    "Public Health",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5d5f0611-52db-432b-b61c-ff8a1b6f029a"
+}

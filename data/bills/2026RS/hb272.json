@@ -1,0 +1,105 @@
+{
+  "id": "openstates-ky-2026RS-hb272",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 272",
+  "title": "AN ACT relating to legislative ethics.",
+  "abstract": "Amend KRS 6.661 to establish that the co-chairs of the Legislative Research Commission may employ an executive director of the Legislative Ethics Commission, as well as other necessary staff and contract personnel; require the co-chairs of the Legislative Research Commission to fix the compensation of staff and contract personnel of the Legislative Ethics Commission; establish that members of the staff of the Legislative Ethics Commission are subject to removal by the co-chairs of the Legislative Research Commission at any time; amend KRS 6.686 to allow the Legislative Ethics Commission to impose sanctions on persons who file a complaint that is determined to be frivolous, was filed for an improper purpose, or contains factual allegations lacking evidentiary support; provide that sanctions apply retroactively to January 2, 2026; RETROACTIVE, in part.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Upchurch",
+      "party": null,
+      "district": "52",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "taken from State Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-12",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "description": "returned to State Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from State Government (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "2nd reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to State Government (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "General Assembly",
+    "Legislative Research Commission",
+    "Public Ethics",
+    "Retroactive Legislation",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/eac40b7f-6836-42ce-bf0f-cbe173a9306f"
+}

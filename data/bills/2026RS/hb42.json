@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb42",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 42",
+  "title": "AN ACT relating to intercollegiate athletics in the Commonwealth.",
+  "abstract": "Create a new section of KRS Chapter 164 to declare findings; set mandated annual varsity athletic game requirements for the University of Kentucky, the University of Louisville, Eastern Kentucky University, Kentucky State University, Morehead State University, Murray State University, Northern Kentucky University, and Western Kentucky University in various sports; ensure existing contracts of public postsecondary institutions are not violated.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Athletics",
+    "Education, Higher",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/45e4fb9a-d0f3-4e88-8f53-7ee8c60c2e83"
+}

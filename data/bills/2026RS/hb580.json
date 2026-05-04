@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb580",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 580",
+  "title": "AN ACT relating to a first-generation homebuyer trust fund program.",
+  "abstract": "Create new sections of KRS Chapter 198A to define terms; establish a revolving account to be known as the first-generation homebuyer trust fund; establish eligible activities and uses of the trust fund; require Kentucky Housing Corporation to operate a forgivable loan program for eligible first-generation homebuyers applicants, administer the fund, and submit annual reports to the Legislative Research Commission.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Housing, Building, And Construction",
+    "Reports Mandated",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/64d7438d-29e3-4248-b3f3-c3b9ff4cb51a"
+}

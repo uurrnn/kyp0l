@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb263",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 263",
+  "title": "AN ACT relating to undesignated glucagon.",
+  "abstract": "Create new sections of KRS Chapter 217 to define terms; permit health care practitioners to prescribe and dispense undesignated glucagon in the name of a school; permit authorized entities to receive, possess, and administer undesignated glucagon to a student during diabetic medical emergencies; permit schools to stock undesignated glucagon; provide for immunity from civil liability for any personal injury resulting from good-faith actions to use undesignated glucagon to treat diabetic medical emergencies; require the Cabinet for Health and Family Services to consult the American Diabetes Association when promulgating administrative regulations related to the administration of undesignated glucagon in schools.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Children And Minors",
+    "Civil Actions",
+    "Diseases",
+    "Drugs And Medicines",
+    "Education, Elementary And Secondary",
+    "Health Care Professionals",
+    "Nurses",
+    "Pharmacists",
+    "Physicians",
+    "State Agencies",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9b1c8e33-c74a-4da5-b44b-eed32b9df9c6"
+}

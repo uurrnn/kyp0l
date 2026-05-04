@@ -1,0 +1,73 @@
+{
+  "id": "openstates-ky-2026RS-hb641",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 641",
+  "title": "AN ACT relating to mental health chatbots.",
+  "abstract": "Create new sections of KRS Chapter 367 to protect consumers using mental health chatbots; define terms; establish prohibitions and exceptions for how suppliers are to handle individually identifiable health information; prohibit supplier from advertising a specific product or service unless that product or service is clearly and conspicuously disclosed; require supplier to clearly and conspicuously disclose that the mental health chatbot is artificial intelligence and provide when this disclosure should appear; provide an affirmative defense to liability and list requirements to achieve that defense; grant enforcement authority to the Attorney General; include severability provision; provide that the Act may be cited as the Artificial Intelligence in Mental Health Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Small Business & Information Technology (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Advertising",
+    "Attorney General",
+    "Boards And Commissions",
+    "Consumer Protection",
+    "Data Protection",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Licensing",
+    "Mental Health",
+    "Occupations And Professions",
+    "Public Protection",
+    "Short Titles And Popular Names",
+    "Technology",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/27027fe1-4d89-4b66-b142-bf83c09b5ab7"
+}

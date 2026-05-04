@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb700",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 700",
+  "title": "AN ACT relating to crimes and punishments.",
+  "abstract": "Amend KRS 507.060 to establish the crime of vehicular homicide when a person is traveling in excess of 25 miles per hour over the speed limit resulting in the death of another; establish the crime of vehicular homicide for a violation of KRS 189.580(1)(a) resulting in the death of another; provide that the Act may be cited as Daniels Law.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Motor Vehicles",
+    "Police, City And County",
+    "Police, State",
+    "Sheriffs",
+    "Short Titles And Popular Names",
+    "Traffic Safety",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4244bd97-cf51-4d61-b8b7-05df2c3637cd"
+}

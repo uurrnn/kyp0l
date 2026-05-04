@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-sb44",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 44",
+  "title": "AN ACT relating to the Kentucky Fire Commission, making an appropriation therefor, and declaring an emergency.",
+  "abstract": "Amend KRS 95A.020 to increase the Kentucky Fire Commission to 18 members by transferring the 4 ex officio members to full member status and provide for terms of office of the non-appointive members; amend KRS 95A.262 to specify that the cancer screening reimbursements can be made from revenues allocated to the Firefighters Foundation Program fund pursuant to KRS 42.190 and 136.392; make an appropriation of $3,924,000 to the Kentucky Community and Technical College System for various projects for the commission; APPROPRIATION; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Appropriations & Revenue (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Appropriations",
+    "Boards And Commissions",
+    "Diseases",
+    "Effective Dates, Emergency",
+    "Fire Prevention",
+    "Firefighters And Fire Departments",
+    "Local Mandate",
+    "Public Officers And Employees"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b0daaebf-12f2-4e1f-b4a5-d2b086276952"
+}

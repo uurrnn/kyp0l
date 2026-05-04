@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb171",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 171",
+  "title": "AN ACT relating to certificate of need.",
+  "abstract": "Create a new section of KRS Chapter 216B to establish that a certificate of need is not required to establish or operate a health facility or provide health services; establish that all existing certificates of need be deemed null and void.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Health And Medical Services",
+    "Hospitals And Health Facilities",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c7cb262a-7664-43b2-8a71-edc1dbd7a7fe"
+}

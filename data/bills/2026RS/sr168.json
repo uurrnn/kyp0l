@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-sr168",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 168",
+  "title": "A RESOLUTION recognizing and honoring Chloe Yates for her advocacy in her \"Special Olympics \u00e2\u0080\u0093 Deleting the 'Dis' in Disabled\" community service initiative.",
+  "abstract": "Recognize and honor Chloe Yates for her advocacy in her \"Special Olympics - Deleting the 'Dis' in Disabled\" community service initiative.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-17",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-03-31",
+  "source_url": "",
+  "openstates_id": "ocd-bill/01283c40-ec4c-40c9-92bf-1dd93a11959d"
+}

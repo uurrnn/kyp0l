@@ -1,0 +1,101 @@
+{
+  "id": "openstates-ky-2026RS-hb505",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 505",
+  "title": "AN ACT relating to contract procurement.",
+  "abstract": "Create a new section of KRS Chapter 43 to require the Auditor of Public Accounts to conduct a biennial audit of the contract procurement systems of the Department of Highways; enumerate issues to be examined in the audit; allow the Auditor to contract for professional services; require the Department of Highways to reimburse the Auditor for the cost of the audit; require submission of the audit to the LRC by October 31st of each odd numbered year; amend KRS 176.050 to require the Department of Highways to reimburse the Auditor for the biennial audit of contract procurement procedures; require the department to promulgate administrative regulations regarding the advertisement and award of bids for highway construction; amend KRS 176.210 to prohibit the Department of Highways from making public the identity of a qualified bidder on a particular project prior to the bid letting on that project.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "R. Bivens",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "R. White",
+      "party": null,
+      "district": "99",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Auditor Of Public Accounts",
+    "Audits And Auditors",
+    "Highways, Streets, And Bridges",
+    "Reports Mandated",
+    "State Agencies",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/11f7ac39-92a1-4726-8aa1-56b92514c5f9"
+}

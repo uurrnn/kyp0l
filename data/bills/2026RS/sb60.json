@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sb60",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 60",
+  "title": "AN ACT relating to waste tires.",
+  "abstract": "Amend KRS 224.50-854 to remove the exemption for a person who stores waste tires for resale from the requirements of the waste tire program; amend KRS 224.50-856 to allow a person making retail sales of used motor vehicles tires to be eligible for the same accumulator registration exemption as sellers of new motor vehicle tires; amend KRS 224.50-858 to require nonexempt sellers of new or used motor vehicle tires to register and be subject to the requirements of the waste tire program.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Environment And Conservation",
+    "Pollution",
+    "Sales",
+    "Waste Management"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/bbcfdfb6-e69d-467f-a789-501b35512cfb"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-scr13",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SCR 13",
+  "title": "A CONCURRENT RESOLUTION continuing the work of the Air Mobility and Aviation Economic Development Task Force by establishing the Aviation Economic Development Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Aviation Economic Development Task Force and direct it to study and make recommendations; establish membership and meetings; direct the task force to submit its findings and recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Storm",
+      "party": null,
+      "district": "21",
+      "primary": true
+    },
+    {
+      "name": "M. Deneen",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Aeronautics And Aviation",
+    "Economic Development",
+    "General Assembly",
+    "Legislative Research Commission",
+    "Task Forces, Legislative Branch",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a43ad335-ff5c-4775-a003-f028392610f2"
+}

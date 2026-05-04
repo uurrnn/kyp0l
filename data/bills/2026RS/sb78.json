@@ -1,0 +1,75 @@
+{
+  "id": "openstates-ky-2026RS-sb78",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 78",
+  "title": "AN ACT relating to health care provider credentialing.",
+  "abstract": "Create a new section of Subtitle 12 of KRS Chapter 304 to define terms; consolidate and modify existing credentialing requirements; require insurers and providers to use the Council for Affordable Quality Healthcare (CAQH) credentialing form; prohibit insurers from requiring or otherwise requesting a provider to disclose any information that is not requested on the CAQH form or that relates to a provider's former or current health condition under certain circumstances; prohibit insurers from requiring a provider to be board certified; amend KRS 18A.225 to require the state employee health plan to comply with the credentialing requirements; amend KRS 205.560 to conform; amend KRS 216B.155 to conform and to prohibit health care facilities licensed under KRS Chapter 216B from requiring or otherwise requesting a provider to disclose a former or current health condition under certain circumstances; amend KRS 304.17A-545 and 311.6207 to conform; repeal KRS 304.17A-525 and 304.17A-576, relating to credentialing to consolidate provisions; direct that certain provisions apply to contracts issued or renewed on or after the effective date of the Act; require administrative bodies to amend any administrative regulations that conflict with the Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "M. Wilson",
+      "party": null,
+      "district": "32",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Health Services (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Contracts",
+    "Health Care Professionals",
+    "Hospitals And Health Facilities",
+    "Insurance, Health",
+    "Local Mandate",
+    "Medicaid",
+    "State Agencies",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/df7719b4-f211-4f9e-8a58-236cf0bf2b06"
+}

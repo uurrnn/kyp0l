@@ -1,0 +1,60 @@
+{
+  "id": "openstates-ky-2026RS-sb255",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 255",
+  "title": "AN ACT relating to rural revitalization.",
+  "abstract": "Create new sections of KRS Chapter 65 to provide incremental revenue tax incentives to the Rural Kentucky Revitalization Opportunity Partnership; define terms; state findings; establish the Rural Kentucky Revitalization Opportunity Partnership Board; establish incentive program; create an income tax credit for certain residents; amend KRS 141.0205 to order the credit; amend KRS 131.190 to allow reporting by the Department of Revenue.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Cities",
+    "Counties",
+    "Economic Development",
+    "Local Government",
+    "Reports Mandated",
+    "Taxation",
+    "Taxation, Income--Corporate",
+    "Taxation, Income--Individual"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/baac7ceb-1af5-4e24-baa8-a52dfb0b6cb6"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-sr40",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 40",
+  "title": "A RESOLUTION designating February 1 to 7, 2026, as Burn Awareness Week in the Commonwealth of Kentucky and recognizing University of Louisville Hospital's Burn Center.",
+  "abstract": "Designate February 1 to 7, 2026, as Burn Awareness Week in the Commonwealth of Kentucky; recognize the University of Louisville Hospital's Burn Center.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "adopted by voice vote",
+      "chamber": "upper",
+      "classification": [
+        "passage"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Commendations And Recognitions",
+    "Disabilities",
+    "Disasters And Recovery Efforts",
+    "Hospitals And Health Facilities"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed",
+    "governor": null
+  },
+  "current_status": "Passed Senate",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/da14aafe-9f78-48e6-81f3-a278afc451a6"
+}

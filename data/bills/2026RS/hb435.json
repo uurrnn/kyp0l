@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb435",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 435",
+  "title": "AN ACT relating to inheritance tax.",
+  "abstract": "Amend KRS 140.070 and 140.080 to include a foster child as a Class A beneficiary and to delete language that only applies to deaths occurring prior to July 1, 1995, or between July 1, 1995, and June 30, 1998; apply to estates of decedents who die on or after August 1, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Deaths",
+    "Taxation",
+    "Taxation, Inheritance And Estate"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/59a7d516-fb01-44da-b9da-6303b4bb88c7"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb391",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 391",
+  "title": "AN ACT relating to elementary literacy and making an appropriation therefor.",
+  "abstract": "Create a new section of KRS Chapter 171 to establish the Kids Love to Read Program; specify the program is for children in kindergarten through grade 5; require books to be sent to children's homes; require the Department for Libraries and Archives to promulgate administrative regulations necessary to administer the program; appropriate $500,000 in fiscal year 2027-2028 to support the program; APPROPRIATION.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Appropriations",
+    "Children And Minors",
+    "Libraries",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/087dc9da-6092-4e7f-a28c-0a6f622d4fb0"
+}

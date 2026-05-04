@@ -1,0 +1,86 @@
+{
+  "id": "openstates-ky-2026RS-sr95",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SR 95",
+  "title": "A RESOLUTION urging United States Attorney General Pam Bondi to investigate and prosecute individuals implicated in criminal activities related to the Jeffrey Epstein files and recognizing the efforts of Kentucky's own Representative Thomas Massie in securing their public release.",
+  "abstract": "Urge United States Attorney General Pam Bondi to investigate and prosecute individuals implicated in criminal activities related to the Jeffrey Epstein files; recognize the efforts of Representative Thomas Massie in securing the public release of the Jeffrey Epstein files.",
+  "classification": [
+    "resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "A. Reed",
+      "party": null,
+      "district": "7",
+      "primary": true
+    },
+    {
+      "name": "S. Funke Frommeyer",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "S. Rawlings",
+      "party": null,
+      "district": "11",
+      "primary": true
+    },
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "to Senate Floor",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Crimes And Punishments",
+    "Federal Laws And Regulations"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-31",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e9240b66-818c-441d-8e3d-7e9d8eebe87d"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb570",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 570",
+  "title": "AN ACT relating to the election of Justices of the Supreme Court.",
+  "abstract": "Amend KRS 118A.020 to establish that Justices of the Supreme Court shall be elected on a statewide basis; EFFECTIVE January 2, 2029.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Court, Supreme",
+    "Effective Dates, Delayed",
+    "Elections And Voting"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-12",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a4a95178-6e0d-4688-aa84-f31bda9aab29"
+}

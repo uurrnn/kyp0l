@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-hb378",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 378",
+  "title": "AN ACT relating to the metering of electric service.",
+  "abstract": "Create a new section of KRS Chapter 278 to allow a customer of an electric retail electric supplier to opt out of having a smart meter installed if the customer owns the premises where the meter will be installed; require the retail electric supplier to give the customer 30 days' notice and give the customer 30 days to respond; prohibit the retail electric supplier for charging the customer for the installation of the meter or imposing a surcharge or fee for opting out of having the smart meter installed.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Energy",
+    "Public Utilities"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c33f361d-6c7a-4995-a099-29dc5aa0a5b1"
+}

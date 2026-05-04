@@ -1,0 +1,58 @@
+{
+  "id": "openstates-ky-2026RS-sb332",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 332",
+  "title": "AN ACT relating to special education classrooms.",
+  "abstract": "Create a new section of KRS 157.200  to 157.290 to define terms; require a school district to install and maintain a video and audio surveillance system in every self-contained special education classroom; require a public school to notify a parent of each child in the classroom of the system and the parent's rights within 5 days; permit parents of recorded students access to system footage; require reasonable redaction and segregation to protect student privacy; designate a retention schedule for system footage; require school districts to notify the parents of each student present for an injury in a self-contained special education classroom; amend KRS 157.200 to define \"parent\" and amend the definition of \"special education.\"",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Webb",
+      "party": null,
+      "district": "18",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Disabilities",
+    "Education, Elementary And Secondary",
+    "Parental Rights",
+    "Public Protection",
+    "Teachers",
+    "Technology"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3e1fd2b6-6f26-444f-a0f0-7eaa175e5cbb"
+}

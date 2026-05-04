@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-hb726",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 726",
+  "title": "AN ACT relating to telehealth coverage.",
+  "abstract": "Amend KRS 304.17A-138 to make technical corrections; provide that health benefit plans may require a telehealth provider to be licensed in Kentucky, or as allowed under the standards and provisions of a recognized interstate compact, in order to receive reimbursement for telehealth services; provide a construction clause relating to coverage or reimbursement to out-of-network providers; require self-insured employer group health plans provided by the governing board of a state postsecondary education institution to comply with telehealth coverage requirements; provide that telehealth coverage requirements for state postsecondary education institutions apply to health benefit plans issued or renewed on or after effective date of Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "S. Rudy",
+      "party": null,
+      "district": "1",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Higher",
+    "Health And Medical Services",
+    "Health Care Professionals",
+    "Insurance, Health",
+    "Licensing",
+    "Technical Corrections",
+    "Technology"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7a195c23-d893-46d1-90ea-7f54fd953a38"
+}

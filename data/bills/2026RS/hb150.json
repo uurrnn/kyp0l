@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb150",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 150",
+  "title": "AN ACT relating to roofing contractors.",
+  "abstract": "Create new sections of KRS Chapter 198B to define terms; establish licensing for roofing contractors under the Department of Housing, Buildings and Construction; prohibit any persons not licensed under the department from holding himself or herself out as a roofing contractor; allow the department to issue roofing contractor licenses, promulgate administrative regulations, and implement disciplinary actions; establish applicant requirements and fee limitations; establish a fine and potential misdemeanor incarceration for violations; create the roofing contractors fund.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Fees",
+    "Funds",
+    "Housing, Building, And Construction",
+    "Licensing",
+    "Occupations And Professions",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b6e523a7-6434-440d-b469-2e18bb7162dd"
+}

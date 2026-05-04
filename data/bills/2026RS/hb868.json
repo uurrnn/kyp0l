@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb868",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 868",
+  "title": "AN ACT relating to sex offender registrants.",
+  "abstract": "Amend KRS 17.500 to expand the definition of \"registrant information\"; amend KRS 17.510 to allow a sex offender registration form to be submitted electronically; require a registrant to update any registrant information within 3 days; amend KRS 17.520 to expand those offenses eligible for lifetime registration; increase the 20 year registration for all other offenses to 25 years; amend KRS 17.580 to require the Department of Kentucky State Police to display additional information on the sex offender registry website beginning on or before July 1, 2027; amend KRS 17.165, 160.130, 160.151, and 161.185 to conform; make technical corrections.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Wilson",
+      "party": null,
+      "district": "82",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Corrections Impact",
+    "Criminal Procedure",
+    "Local Mandate",
+    "Police, State",
+    "Public Safety"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/6257a5ce-a2cd-4b8f-ae19-081773f40467"
+}

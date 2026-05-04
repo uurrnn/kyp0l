@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb337",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 337",
+  "title": "AN ACT relating to rental property.",
+  "abstract": "Create new sections of KRS Chapter 383 to allow landlords to terminate rental agreements upon 3 days' notice when law enforcement or fire protection services are dispatched to a property more than 3 times in a 6-month period and set refund provisions.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Fire Prevention",
+    "Firefighters And Fire Departments",
+    "Landlord And Tenant",
+    "Police, City And County",
+    "Police, State",
+    "Public Protection"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f602e2f4-ad22-4e57-a864-d0045538f521"
+}

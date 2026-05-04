@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb198",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 198",
+  "title": "AN ACT relating to cannabis.",
+  "abstract": "Create a new section of KRS Chapter 218A to make possession of a personal use quantity of cannabis exempt from civil or criminal penalty; amend KRS 218A.010 to define \"cannabis,\" \"personal use quantity of cannabis,\" and \"cannabis accessory\"; redefine \"marijuana\"; amend KRS 218A.1422, regarding cannabis possession, to conform; amend KRS 218A.1423, regarding cannabis cultivation, to conform; amend KRS 218A.500, regarding drug paraphernalia, to exempt personal use cannabis accessories; amend KRS 218A.1421, regarding cannabis trafficking, to exempt personal use quantities; amend KRS 138.872 to exclude personal use quantities from the cannabis stamp tax; amend KRS 218A.276, 218A.410, and 533.030 to conform; create a new section of KRS Chapter 431 to allow expungement of certain convictions relating to cannabis and to apply expungement retroactively; RETROACTIVE, in part.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cannabis",
+    "Civil Procedure",
+    "Corrections Impact",
+    "Courts",
+    "Crimes And Punishments",
+    "Drugs And Medicines",
+    "Local Mandate",
+    "Peace Officers And Law Enforcement",
+    "Probation And Parole",
+    "Reports Mandated",
+    "Retroactive Legislation",
+    "State Agencies",
+    "Taxation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3016e657-058a-4066-ac5f-bc85164f6da7"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb680",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 680",
+  "title": "AN ACT relating to controlled substances.",
+  "abstract": "Create a new section of KRS Chapter 218A to establish the criminal offense of unlawful possession of a controlled substance on hospital property as a Class D felony unless a higher penalty applies; require hospitals to display signs regarding unlawful possession; amend KRS 218A.1415 to change the name of the crime of possession of a controlled substance to unlawful possession of a controlled substance; remove controlled substance analogues, methamphetamine, lysergic acid diethylamide, phencyclidine, gamma hydroxybutric acid, and flunitrazepam from unlawful possession of a controlled substance in the first degree; establish possession of a controlled substance on hospital property as a Class D felony unless a higher penalty applies; amend KRS 218A.1416 to add controlled substance analogues, methamphetamine, lysergic acid diethylamide, phencyclidine, gamma hydroxybutyric acid, and flunitrazepam to unlawful possession of a controlled substance in the second degree; amend KRS 218A.133, 218A.1417, 218A.202, 218A.205, 218A.275, and 218A.500 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Clines",
+      "party": null,
+      "district": "68",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Drugs And Medicines",
+    "Health And Medical Services"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ec3a46e1-33a7-4a9f-92d0-dc200464d066"
+}

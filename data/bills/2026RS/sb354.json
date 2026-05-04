@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sb354",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 354",
+  "title": "AN ACT relating to economic development.",
+  "abstract": "Amend KRS 148.853, relating to tourism development incentives,  to increase the time a seasonal tourism attraction project is required to be open to the public from 6 months to 9 months in order to qualify for an extension in the term of its incentive agreement.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Economic Development",
+    "Taxation",
+    "Taxation, Sales And Use",
+    "Tourism"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c0cee65f-7c3a-4eeb-855f-989f4b644ab2"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "openstates-ky-2026RS-hb310",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 310",
+  "title": "Withdrawn.",
+  "abstract": null,
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "02/26/26: WITHDRAWN",
+      "chamber": "lower",
+      "classification": [
+        "withdrawal"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [],
+  "chamber_progress": {
+    "lower": null,
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "Status unknown",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e1f919f6-8f1b-42ca-b142-5f937c3a6b9c"
+}

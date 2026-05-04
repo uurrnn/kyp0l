@@ -1,0 +1,84 @@
+{
+  "id": "openstates-ky-2026RS-hb114",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 114",
+  "title": "AN ACT relating to sales and use tax exemptions for baby and personal care products.",
+  "abstract": "Amend KRS 139.010, relating to the sales and use taxes, to define terms; amend KRS 139.480 to exempt from sales and use tax the sale or purchase of baby bottles, baby wipes, breast pumps, breast pump collection and storage supplies, breast pump kits, diapers, incontinence products, and menstrual discharge collection devices; apply to sales or purchases made on or after August 1, 2026, but before August 1, 2030; require the Department of Revenue to report annually to the Interim Joint Committee on Appropriations and Revenue the total exemptions claimed for the previous fiscal year;  amend KRS 131.190 to allow the Department of Revenue to report to the Legislative Research Commission.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Reports Mandated",
+    "Reproductive Issues",
+    "Sunset Legislation",
+    "Taxation",
+    "Taxation, Sales And Use",
+    "Women"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b6d45a2b-fa56-410e-ada4-f9aeb0fb69ef"
+}

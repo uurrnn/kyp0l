@@ -1,0 +1,95 @@
+{
+  "id": "openstates-ky-2026RS-hb31",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 31",
+  "title": "AN ACT relating to the purchase of single-family homes.",
+  "abstract": "Create new sections of KRS Chapter 367 to define terms; prohibit persons who own 50 or more single-family rental homes in the Commonwealth of Kentucky from purchasing additional single-family homes in the Commonwealth of Kentucky except for use by the person as a residence; limit the purchase restriction to single-family homes that have been advertised for sale for less than 90 days or less than 30 days if the purchaser qualifies as a small business; exempt nonprofit corporations from prohibition on the purchase of single-family homes; provide that a violation is also a violation of KRS 367.170; provide for joinder of certain parties with joint and several liability in enforcement actions.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    },
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Commerce",
+    "Contracts",
+    "Housing, Building, And Construction",
+    "Landlord And Tenant",
+    "Real Estate"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c87579f5-d574-48d3-b4de-631d51562ae2"
+}

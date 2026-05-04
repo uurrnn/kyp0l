@@ -1,0 +1,80 @@
+{
+  "id": "openstates-ky-2026RS-hb871",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 871",
+  "title": "AN ACT relating to school nutrition programs.",
+  "abstract": "Create a new section of KRS Chapter 158 to define terms; establish the Kentucky Farm to School Program and program fund; direct the Department of Agriculture to reimburse an eligible school district for every eligible meal as funds become available; require a school district that receives a reimbursement to develop and implement a Kentucky Farm to School Program plan to identify and purchase available Kentucky-grown agricultural products and to optimize food usage; direct the Department of Agriculture to promulgate administrative regulations necessary to carry out this section; provide that the Act may be cited as the Kentucky Farm to School Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Bivens",
+      "party": null,
+      "district": "24",
+      "primary": true
+    },
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "floor amendment (1) filed",
+      "chamber": "lower",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Agriculture",
+    "Children And Minors",
+    "Education, Elementary And Secondary",
+    "Foods And Beverages",
+    "Short Titles And Popular Names",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1110e90f-921b-4b59-9f7a-ba2329241ffe"
+}

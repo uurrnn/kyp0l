@@ -1,0 +1,61 @@
+{
+  "id": "openstates-ky-2026RS-sb358",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 358",
+  "title": "AN ACT relating to interrogation of children.",
+  "abstract": "Amend KRS 610.200 to define \"custodial interrogation\"; require a peace officer to arrange for a child to consult with legal counsel prior to any interview or custodial interrogation; amend KRS 610.220 and 630.040 to conform; make technical corrections.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Howell",
+      "party": null,
+      "district": "1",
+      "primary": true
+    },
+    {
+      "name": "G. Neal",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Civil Rights",
+    "Crimes And Punishments",
+    "Criminal Procedure"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/88ff0ae0-c17f-4166-a1f6-31007c18e1a3"
+}

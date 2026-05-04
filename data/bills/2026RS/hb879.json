@@ -1,0 +1,82 @@
+{
+  "id": "openstates-ky-2026RS-hb879",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 879",
+  "title": "AN ACT relating to guardianship.",
+  "abstract": "Amend KRS 387.510 to amend definitions; amend KRS 387.710 relating to filing of inventory by conservators, to provide that a limited conservator or conservator shall file a verified report and financial account annually, unless the limited conservator or conservator is the Cabinet for Health and Family Services, in which case the verified report and financial account shall be filed biennially; require the limited conservator or conservator to include in a verified report filed with the court whether the conservator or limited conservator delegated power to any other person; amend KRS 387.740 relating to emergency powers of the court, to provide that the authority of a limited guardian or conservator appointed on an emergency basis shall be time limited; amend various sections of KRS to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Riley",
+      "party": null,
+      "district": "23",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from Families & Children (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to Families & Children (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorneys",
+    "Courts, District",
+    "Guardians"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9a439465-056d-4360-ad1d-8e75124eee69"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb575",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 575",
+  "title": "AN ACT relating to inheritance tax deductions.",
+  "abstract": "Amend KRS 140.090, relating to the inheritance tax, to increase the funeral expense deduction for decedents with date of death on or after August 1, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Hart",
+      "party": null,
+      "district": "78",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Deaths",
+    "Funerals And Funeral Directors",
+    "Taxation",
+    "Taxation, Inheritance And Estate"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-12",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3a325f8f-87de-42e0-9905-9d98a1c9ea0e"
+}

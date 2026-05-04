@@ -1,0 +1,90 @@
+{
+  "id": "openstates-ky-2026RS-hb181",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 181",
+  "title": "AN ACT relating to the Interstate Massage Compact.",
+  "abstract": "Create a new section of KRS Chapter 309 to adopt the Interstate Massage Compact; declare the intent and purpose of the compact; define terms; establish conditions under which an individual may practice in a remote state; authorize a home state to impose adverse action against an individual's license issued by the home state; authorize a member state's licensing authority to issue subpoenas for hearings and investigations as well as cease and desist orders to restrict, suspend, or revoke an individual's privilege to practice in the state; establish the Interstate Massage Compact Commission; provide immunity from suit and liability for members, officers, executive director, employees, and representatives of the commission who act in accordance with the provisions of the compact; require the commission to develop and maintain a coordinated database and reporting system containing licensure, disciplinary action, and significant investigatory information on all licensed individuals participating in the compact; authorize the executive, judicial, and legislative branches of state government to enforce the provisions of the compact; establish rulemaking procedures; authorize the commission to attempt to resolve disputes related to the compact that arise among member states and between member and nonmember states; require provisions of the compact to become effective on the date the compact is enacted into law by the seventh compact state; establish withdrawal guidelines for a member state that wishes to withdraw from the compact; provide for severability for any provision in the compact that is contrary to the constitution of any member state or of the United States or the applicability thereof to any government, agency, person, or circumstance.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "S. Bratcher",
+      "party": null,
+      "district": "25",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "description": "floor amendment (1) filed",
+      "chamber": "lower",
+      "classification": [
+        "amendment-introduction"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Compacts, Interstate",
+    "Health And Medical Services",
+    "Licensing",
+    "Occupations And Professions"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-24",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d60d9307-a657-42e5-bd29-93ef6c9d9fdb"
+}

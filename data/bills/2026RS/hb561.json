@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb561",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 561",
+  "title": "AN ACT relating to Medicaid coverage for adult day health care and in-home attendant care services.",
+  "abstract": "Create a new section of KRS Chapter 205 to require the Department for Medicaid Services to include coverage for adult day health care and in-home attendant services in all 1915(c) waiver programs that enroll adults; require coverage of at least 40 hours per week separately for adult day health care and in-home attendant services; prohibit aggregating coverage limits for adult day health care and in-home attendant services; require the department to promulgate administrative regulations; require the Cabinet for Health and Family Services or the department to seek federal approval if they determine that such approval is necessary; provide authorization from the General Assembly to make changes to the Medicaid program as required under KRS 205.5372(1).",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Aged Persons And Aging",
+    "Health And Medical Services",
+    "Medicaid",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/637bdf9a-2697-4512-aa28-db8459c618be"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb768",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 768",
+  "title": "AN ACT relating to a Kentucky working credit.",
+  "abstract": "Create a new section of KRS Chapter 141 to establish a refundable Kentucky working credit equal to 30% of the federal earned income credit allowed for the taxable year; a taxpayer's modified gross income to be in excess of the amount eligible for the family size tax credit allowed in KRS 141.066(limit the credit to $2,000 per taxable year; make credit effective for taxable years beginning on or after January 1, 2027, but before January 1, 2031; amend KRS 141.0205 to order the credit; amend KRS 131.190 to allow the Department of Revenue to report on the credit.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "W. Williams",
+      "party": null,
+      "district": "4",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Taxation",
+    "Taxation, Income--Individual",
+    "Wages And Hours"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/07e1b9e9-7220-4041-b011-c14fa8cc5b7b"
+}

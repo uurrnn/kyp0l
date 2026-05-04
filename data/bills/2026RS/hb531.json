@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-hb531",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 531",
+  "title": "AN ACT relating to coordination of refugee assistance.",
+  "abstract": "Create a new section of KRS Chapter 194A to define \"department\"; require the Department for Community Based Services to administer funds received under the Refugee Act of 1980; implement a statewide strategy to ensure compliance with the Refugee Act; serve as the primary liaison between immigrant-serving organizations, refugee-serving organizations, and the federal government; advise the Governor, appropriate state agencies, cabinet members, and the General Assembly; submit an annual report to the Kentucky Office of Homeland Security and the Legislative Research; allow the department to promulgate administrative regulations; require information from the Kentucky Department of Education for the report; direct that the first report to the Kentucky Office of Homeland Security and the Legislative Research Commission be issued by July 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Bauman",
+      "party": null,
+      "district": "28",
+      "primary": true
+    },
+    {
+      "name": "J. Nemes",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary",
+    "Federal Laws And Regulations",
+    "Immigration",
+    "Public Assistance",
+    "Public Health",
+    "Reports Mandated",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/51646cc2-75fd-4db4-9c4f-9f839cf8ea64"
+}

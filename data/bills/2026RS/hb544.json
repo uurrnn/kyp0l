@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-hb544",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 544",
+  "title": "AN ACT relating to data centers.",
+  "abstract": "Create a new section of KRS Chapter 278 to define terms; prohibit a retail electric supplier from providing service to a data center customer that has a total aggregated customer contract capacity of greater than 100 megawatts unless the Public Service Commission has approved a tariff or contract for the service that includes certain minimum requirements; exempt a data center customer that has an electric service agreement for more than 100 megawatts of existing load prior to the effective date of the Act; prohibit the commission from approving a tariff unless all capital and operating costs for new infrastructure to serve the data center are assigned to the data center customer and that the costs for shared benefits for the new facilities are allocated proportionally and will not have any greater adverse impact on other customer classes than if the data center had not connected to the system; provide that the Act may be cited as the Kentucky Ratepayer Protection Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    },
+    {
+      "name": "W. Lawrence",
+      "party": null,
+      "district": "70",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Small Business & Information Technology (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Energy",
+    "Information Technology",
+    "Public Utilities",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/714c4c55-a993-4af0-b200-57a6ae2fc60e"
+}

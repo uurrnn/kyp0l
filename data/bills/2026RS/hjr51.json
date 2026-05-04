@@ -1,0 +1,81 @@
+{
+  "id": "openstates-ky-2026RS-hjr51",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HJR 51",
+  "title": "A JOINT RESOLUTION applying for an Article V convention to propose amendments to the Constitution of the United States that impose fiscal restraints on the federal government, limit the power and jurisdiction of the federal government, and limit the terms of office for federal government officials and members of Congress.",
+  "abstract": "Apply to Congress under the provisions of Article V of the Constitution of the United States for the calling of a convention of the states limited to proposing amendments to the Constitution of the United States that impose fiscal restraint on the federal government, limit the powers and jurisdiction of the federal government, and limit the terms of office for its officials and members of Congress; direct the Secretary of State to send copies of the joint resolution to certain federal and state officials; state that the application should be continuing until the legislatures of at least two-thirds of the states have made applications on the subject.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Decker",
+      "party": null,
+      "district": "58",
+      "primary": true
+    },
+    {
+      "name": "M. Lockett",
+      "party": null,
+      "district": "39",
+      "primary": true
+    },
+    {
+      "name": "K. Holloway",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Constitution, U.S.",
+    "Secretary Of State",
+    "United States"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/98f1c60f-fcac-4b3d-81b3-90f622e3193d"
+}

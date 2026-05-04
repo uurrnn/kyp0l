@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-sb142",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 142",
+  "title": "AN ACT relating to affordable housing, making an appropriation therefor, and declaring an emergency.",
+  "abstract": "Create new sections of KRS Chapter 198A to define terms; establish the abandoned home pool fund to be administered by the Kentucky Housing Corporation; specify eligible recipients, activities, and uses of fund; amend KRS 64.012 to increase county clerk recording fees and add a $2 fee to be deposited in the abandoned home pool fund; appropriate $25,000,000 from the General Fund to the abandoned home pool fund; APPROPRIATION; EMERGENCY, effective July 1, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to State & Local Government (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Appropriations",
+    "Budget And Financial Administration",
+    "County Clerks",
+    "Effective Dates, Emergency",
+    "Fees",
+    "Funds",
+    "Housing, Building, And Construction",
+    "Landlord And Tenant",
+    "Poverty",
+    "Property",
+    "State Agencies",
+    "Urban Renewal"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/beec72c4-283e-4361-b6ab-a45ba453c191"
+}

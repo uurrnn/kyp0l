@@ -1,0 +1,74 @@
+{
+  "id": "openstates-ky-2026RS-hb336",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 336",
+  "title": "AN ACT relating to the establishment of minimum wages by local governments.",
+  "abstract": "Amend KRS 65.016 and 337.275 to allow a local government to adopt and enforce an ordinance that requires a minimum wage at a rate higher than that found in KRS 337.275 for employers located within that government's jurisdiction.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Charter County Government",
+    "Cities",
+    "Consolidated Local Governments",
+    "Counties",
+    "Labor And Industry",
+    "Local Government",
+    "Personnel And Employment",
+    "Unified Local Governments",
+    "Wages And Hours"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ae906f93-cac1-4ae8-a226-236ebddc6f69"
+}

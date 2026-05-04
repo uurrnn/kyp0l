@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb430",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 430",
+  "title": "AN ACT relating to elections.",
+  "abstract": "Create a new section of KRS Chapter 117 to define \"large public university campus\"; require county boards of elections to conduct election day and no-excuse in-person absentee voting on large public university campuses; provide that this Act shall be known as the Right to Vote at College Campuses Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Counties",
+    "County Clerks",
+    "Education, Higher",
+    "Elections And Voting",
+    "Short Titles And Popular Names",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1b61ba19-2c75-4cef-8e9a-e6aa3b4e3d5a"
+}

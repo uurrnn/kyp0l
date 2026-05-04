@@ -1,0 +1,72 @@
+{
+  "id": "openstates-ky-2026RS-hb637",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 637",
+  "title": "AN ACT relating to animal welfare.",
+  "abstract": "Create a new section of KRS Chapter 17 to define terms; require the Department of Kentucky State Police to develop and operate an animal abuse offender registry; require offenders to register for 2 years for a first offense and 5 years for subsequent offenses; require offenders to pay a $100 registration fee and $100 every year the offender is registered; establish that a violation of registration requirements and providing false information to the registry are Class A misdemeanors; establish the animal abuse offender registry fund; create a new section of KRS Chapter 620 to require Cabinet for Health and Family Services employees to report animal abuse; amend KRS 321.188 to require veterinarians to report animal abuse.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Animals, Livestock, And Poultry",
+    "Corrections And Correctional Facilities, State",
+    "Corrections Impact",
+    "Courts",
+    "Crime Victims",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Jails And Jailers",
+    "Pets And Service Animals",
+    "Police, State",
+    "Probation And Parole",
+    "State Agencies",
+    "Veterinarians"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d3fd247a-c599-4dea-848d-55a6ea52ea9a"
+}

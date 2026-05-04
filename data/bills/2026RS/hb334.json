@@ -1,0 +1,118 @@
+{
+  "id": "openstates-ky-2026RS-hb334",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 334",
+  "title": "AN ACT relating to sex-based classifications.",
+  "abstract": "Create new sections of KRS Chapter 61 to define \"boy,\" \"equal,\" \"female,\" \"girl,\" \"male,\" \"man,\" \"sex,\" and \"woman\"; prohibit any state or local law, regulation, ordinance, or policy from treating males or females unfairly from similiarly situated members of the opposite sex, but permit separation of the sexes if in the interest of maintaining safety, privacy, and fairness; provide a non-exhaustive list of examples of areas in which public entities may distinguish between the sexes; require any public school, public school district, state agency, department, local government, special district or any political subdivision of those entities that collects vital statistics to identify each person as either male or female; provide that the Act may be cited as the Kentucky Women's Bill of Rights.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "S. Doan",
+      "party": null,
+      "district": "69",
+      "primary": true
+    },
+    {
+      "name": "R. Dotson",
+      "party": null,
+      "district": "73",
+      "primary": true
+    },
+    {
+      "name": "S. Maddox",
+      "party": null,
+      "district": "61",
+      "primary": true
+    },
+    {
+      "name": "J. Nemes",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "F. Rabourn",
+      "party": null,
+      "district": "47",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to State Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Civil Rights",
+    "Corrections Impact",
+    "Education, Elementary And Secondary",
+    "Education, Higher",
+    "Local Government",
+    "Local Mandate",
+    "Men",
+    "Short Titles And Popular Names",
+    "State Agencies",
+    "Women"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-21",
+  "source_url": "",
+  "openstates_id": "ocd-bill/878b3ec3-d60a-4a78-9449-a270591ee4d7"
+}

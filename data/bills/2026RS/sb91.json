@@ -1,0 +1,80 @@
+{
+  "id": "openstates-ky-2026RS-sb91",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 91",
+  "title": "AN ACT relating to standardizing real property tax bills.",
+  "abstract": "Create a new section of KRS Chapter 134 to require use of a standardized form for all real property tax bills; require the Department of Revenue to prescribe the form and make it available to all taxing districts that levy a property tax on real property; specify provisions to be included on the form; exempt certificates of delinquency and third-party purchasers from the form requirements.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Rawlings",
+      "party": null,
+      "district": "11",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "County Clerks",
+    "Education, Finance",
+    "Local Government",
+    "Local Mandate",
+    "Property",
+    "Sheriffs",
+    "Special Districts",
+    "Special Purpose Governmental Entities",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Property"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-08",
+  "source_url": "",
+  "openstates_id": "ocd-bill/7de68fdb-0e6b-4284-8b13-ef2c95b704f0"
+}

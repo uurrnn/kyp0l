@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb201",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 201",
+  "title": "AN ACT relating to Medicaid coverage for evaluation and management services.",
+  "abstract": "Create a new section of KRS Chapter 205 to require the Department for Medicaid Services and Medicaid managed care organizations to cover evaluation and management services; prohibit the department or managed care organizations from limiting coverage for evaluation and management services to fewer than 2 units per provider, per recipient, per date of service; require the Cabinet for Health and Family Services or the Department for Medicaid Services to seek federal approval if it is determined that such approval is necessary; provide authorization from the General Assembly to make changes in the Medicaid program as required under KRS 205.5372(1).",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Health And Medical Services",
+    "Medicaid",
+    "Physicians"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e6575eab-46f5-4788-8c1b-d983a9b02259"
+}

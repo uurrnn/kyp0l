@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-hb782",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 782",
+  "title": "AN ACT relating to postsecondary education students.",
+  "abstract": "Create a new section of KRS Chapter 164 to define terms, require postsecondary education institutions to designate at least 1 employee to serve as a liaison between the institution and a homeless student or student in care who is enrolled at the institution; detail responsibilities of the liaison, the Council on Postsecondary Education, and the institution; require an institution to create a position to carry out the responsibilities of a liaison if the number of students experiencing homelessness or students in care exceeds 2% of the student body; require the Council on Postsecondary Education to submit a report to the Legislative Research Commission on students experiencing homelessness, students in care, and the impact of liaisons.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    },
+    {
+      "name": "T. Truett",
+      "party": null,
+      "district": "89",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Education, Higher",
+    "Education, Vocational",
+    "Reports Mandated",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-06",
+  "source_url": "",
+  "openstates_id": "ocd-bill/332c7ea7-db25-4efa-9037-e7b2430487e5"
+}

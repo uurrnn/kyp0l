@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb454",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 454",
+  "title": "AN ACT relating to elections.",
+  "abstract": "Amend KRS 67.060, 83A.040, 160.180, and 262.240, to require candidates for county commissioner, mayor, legislative bodys, local board of education member, and soil and water commissioner at the time of their elections or appointments and for the duration of their term in office to be a citizen of the United States, a citizen of the United States for 18 years immediately preceding election or appointment, citizen or national of only the United States and no other foreign state or country, and a citizen or national of only the United States and no other foreign state or country for 18 years immediately preceding election or appointment in order to hold each respective office.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "K. Banta",
+      "party": null,
+      "district": "63",
+      "primary": true
+    },
+    {
+      "name": "K. King",
+      "party": null,
+      "district": "55",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cities",
+    "Cities, First Class",
+    "Cities, Home Rule Class",
+    "Counties",
+    "Education, Elementary And Secondary",
+    "Environment And Conservation",
+    "Local Government"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-29",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c7cf5059-ace3-4092-ac28-c81bd8cbe3e9"
+}

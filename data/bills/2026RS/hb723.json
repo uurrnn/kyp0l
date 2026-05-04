@@ -1,0 +1,66 @@
+{
+  "id": "openstates-ky-2026RS-hb723",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 723",
+  "title": "AN ACT relating to sales and use tax.",
+  "abstract": "Create a new section of KRS Chapter 139  to annually transfer 80% of the sales and use taxes, interest, and penalties collected during the preceding fiscal year from sporting goods retailers from the general fund to the Kentucky Heritage Land Conservation fund.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Whitaker",
+      "party": null,
+      "district": "94",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Amusements And Recreations",
+    "Budget And Financial Administration",
+    "Environment And Conservation",
+    "Funds",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Sales And Use"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/01477420-c4c5-46b0-8971-fe46ef0c3c04"
+}

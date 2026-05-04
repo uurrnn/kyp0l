@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb494",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 494",
+  "title": "AN ACT relating to administrative regulations.",
+  "abstract": "Create new sections of KRS Chapter 13A to establish a process for final legislative approval or disapproval of administrative regulations promulgated by designated administrative bodies; indicate that approved administrative regulations will be considered ratified by the General Assembly only after enactment of legislation that specifically approves the section, range, chapter, or title; delay the effective date of an affected regulation until the ratification process is complete; allow regulations necessary to prevent a loss of federal or state funding to go into effect sooner but remain subject to final approval; deem a disapproved ordinary regulation void or emergency regulation expired; require the regulations compiler to submit an eligible regulation list to the Committee on Committees of each chamber; establish session procedures and rules for the regulation review process in the legislature; require each administrative body to submit a list of its ratified regulations to the regulations compiler; authorize the General Assembly to prepare an omnibus bill to cover approved and disapproved regulations; amend KRS 13A.010 to define \"final legislative approval\" and \"ratified\"; amend KRS 13A.040 to require the regulations compiler to maintain a ratification status list for all regulations; amend KRS 13A.3102 to make regulation ratification apply to the 7-year certification process; amend KRS 13A.331 to make the ratification status of a regulation supersede its traditional adoption and effective status; amend KRS 13A.190 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    },
+    {
+      "name": "J. Hodgson",
+      "party": null,
+      "district": "36",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Boards And Commissions",
+    "Committees",
+    "General Assembly",
+    "Governor",
+    "State Agencies",
+    "Sunset Legislation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/77408160-826d-4904-8220-2829bb00c564"
+}

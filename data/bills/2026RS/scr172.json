@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-scr172",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SCR 172",
+  "title": "A CONCURRENT RESOLUTION establishing the Optometric Practice Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Optometric Practice Task Force to conduct a comprehensive review of the regulatory and clinical landscape of the practice of optometry and to make recommendations regarding the practice of optometry; establish membership; direct the task force to meet monthly during the 2026 Interim and submit findings and recommendations to the Legislative Research Commission by October 31, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Meredith",
+      "party": null,
+      "district": "5",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-18",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Health And Medical Services",
+    "Legislative Research Commission",
+    "Optometrists",
+    "Reports Mandated",
+    "Studies Directed",
+    "Task Forces, Legislative Branch"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-18",
+  "source_url": "",
+  "openstates_id": "ocd-bill/8250d377-74be-4e52-a903-afa328e4a9a7"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb17",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 17",
+  "title": "AN ACT relating to one-time payments to school district employees, making an appropriation therefor, and declaring an emergency.",
+  "abstract": "Direct local school districts to provide a one-time payment of $2,000 to certified employees, excluding superintendents, in each year of the 2026-2028 biennium, and a one-time payment of $1,000 to classified employees in each year of the 2026-2028 biennium; appropriate $153 million from the Budget Reserve Trust Fund account in each year of the 2026-2028 biennium to the Learning and Results Services budget unit to provide the payments; authorize the Department of Education to pro rata reduce payments if the appropriation is insufficient; APPROPRIATION; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Appropriations",
+    "Budget And Financial Administration",
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Effective Dates, Emergency",
+    "State Agencies",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d765e136-c6f4-4c2f-8f4f-b6aa5ba6b27f"
+}

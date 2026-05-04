@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sjr130",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SJR 130",
+  "title": "A JOINT RESOLUTION directing the Department of Employee Insurance in the Personnel Cabinet to study and report to the Legislative Research Commission on employer and employee cost-sharing trends, health insurance expenditures and trends, health plan governance models, and administrative processes and costs associated with the Kentucky Employees' Health Plan and other state employee plans across the country.",
+  "abstract": "Direct the Department of Employee Insurance to study and report to the Legislative Research Commission on employer and employee cost sharing trends, health insurance expenditures and trends, health plan governance models, and administrative processes and costs associated with the Kentucky Employees' Health Plan and other state employee plans across the country; require the department to provide the report and a survey of other state employee health plans to the Legislative Research Commission by December 1, 2027.",
+  "classification": [
+    "joint resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Insurance, Health",
+    "Reports Mandated",
+    "State Agencies",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/27e87e18-e93f-4072-b574-57cceeb67a48"
+}

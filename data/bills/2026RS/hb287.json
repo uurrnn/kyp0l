@@ -1,0 +1,79 @@
+{
+  "id": "openstates-ky-2026RS-hb287",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 287",
+  "title": "AN ACT relating to plastic waste.",
+  "abstract": "Amend KRS 224.50-585 to define terms; prohibit the intentional release of more than 25 plastic balloons; establish a ban on plastic, single-use carryout bags by July 1, 2031; establish a ban on the provision of single-use plastic straws and Styrofoam food and beverage containers by retail food and beverage establishments by July 1, 2029; establish civil penalty of $100 per day for violations.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Marzian",
+      "party": null,
+      "district": "41",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Advertising",
+    "Alcoholic Beverages",
+    "Commerce",
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Distilled Spirits",
+    "Environment And Conservation",
+    "Local Mandate",
+    "Malt Beverages",
+    "Pollution",
+    "Sales",
+    "Small Business",
+    "Trade Practices And Retailing",
+    "Waste Management"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a09d275c-5d19-41a5-9a0d-e4039ba5dbe5"
+}

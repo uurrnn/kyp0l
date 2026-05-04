@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb484",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 484",
+  "title": "AN ACT relating to domestic relations.",
+  "abstract": "Amend KRS 403.240 to establish additional periods of visitation or parenting time when visitation or parenting time has been denied without good cause or temporarily suspended based upon an unsubstantiated allegation of abuse or neglect; provide that the Act may be cited as the Time Taken Back Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Courts, Circuit",
+    "Courts, Family",
+    "Domestic Relations",
+    "Parental Rights",
+    "Short Titles And Popular Names"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/cf86e95c-29d2-4a4f-a171-50ec146fa79f"
+}

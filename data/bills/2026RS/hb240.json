@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb240",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 240",
+  "title": "AN ACT relating to residency as defined by the Council on Postsecondary Education.",
+  "abstract": "Amend KRS 164.020 to require the Council on Postsecondary Education to consider individuals born in Kentucky as Kentucky residents when determining residency for tuition and admission purposes in the state postsecondary education system; provide that the Act may be cited as the Welcome Back to My Old Kentucky Home Initiative.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    },
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Finance",
+    "Education, Higher",
+    "Fiscal Note",
+    "Short Titles And Popular Names",
+    "State Agencies",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3541fb20-1106-4e88-8502-787f5f536cb2"
+}

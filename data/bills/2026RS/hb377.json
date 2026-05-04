@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb377",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 377",
+  "title": "AN ACT relating to utility disconnection protections.",
+  "abstract": "Create a new section of KRS Chapter 278 to create winter and summer temperature standards for disconnection of service by retail electric and gas utilities; allow resumption of disconnection only after a 72-hour period during which the temperature standard is exceeded; establish a certificate of need for persons who are at risk if utility service is disconnected that can be provided by a physician, physician assistant, community-based service organization, or faith-based service organization; prohibit disconnection of service on holidays and weekends, including Fridays, and before 8 a.m. and after 5 p.m. Monday through Thursday; allow for reconnection of service for partial payment with a payment plan; require waiver of termination fees, reconnection fees, and late fees for customers having obtained a certificate of need; require utility to make reasonable effort towards reestablishing service for a customer terminated after having obtained a certificate of need but no more than 24 hours after repayment is commenced; require separate, written notice 14 days prior to a disconnection to residential household; require that notice be distinguishable from the regular billing notices; establish font size and typeset for material to be printed on the notice; require a hardship reconnection order for persons at risk who have had service terminated by the utility after meeting specific repayment requirements; require the Public Service Commission to promulgate administrative regulations and issue an order setting forth any applicable rules and procedures.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Witten",
+      "party": null,
+      "district": "31",
+      "primary": true
+    },
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Energy",
+    "Fuel",
+    "Public Assistance",
+    "Public Health",
+    "Public Utilities",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9b066d7c-cb92-40ad-883f-94e36f505185"
+}

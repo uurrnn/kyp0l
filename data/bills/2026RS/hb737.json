@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb737",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 737",
+  "title": "AN ACT relating to the transportation of forestry products.",
+  "abstract": "Create a new section of KRS Chapter 189 to define \"primary forest products\"; allow the transportation of primary forest products on state-maintained highways within 100 miles of their point of origin at increased weight limits of 90,000 pounds for dual rear axle trucks and 100,000 pounds for tri-axle trucks; specify that the increased weight limits do not apply on the interstate highway system or on any road with a posted bridge weight limit; amend KRS 189.990 to set penalties for violations.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. White",
+      "party": null,
+      "district": "99",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Transportation (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Forests And Forestry",
+    "Highways, Streets, And Bridges",
+    "Motor Carriers",
+    "Transportation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/09fb83b5-8c51-4564-b705-9af29064eaf4"
+}

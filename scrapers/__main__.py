@@ -280,6 +280,8 @@ def run_openstates(args: argparse.Namespace, state: dict, all_bodies: dict) -> t
             written += 1
             if written <= 10 or written % 50 == 0:
                 print(f"             [{written}] {ident:8s} -> {out.relative_to(REPO_ROOT)}  ({bill.current_status})")
+                # Periodic state flush so a crash doesn't lose the dedup map.
+                write_json(STATE_PATH, state)
             if args.limit and written >= args.limit:
                 print(f"             stopped at --limit {args.limit}")
                 break

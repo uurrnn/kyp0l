@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb308",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 308",
+  "title": "AN ACT relating to sex crimes.",
+  "abstract": "Create a new section of KRS Chapter 532 to provide that any person who has been convicted of, pled guilty to, or entered an Alford plea to a sex crime in which the victim was under the age of 12 shall undergo medroxyprogesterone acetate treatment; provide that treatment shall begin no later than 1 month before the person is released from custody; provide that treatment shall continue until the person is released from probation, parole, or postincarceration supervision; provide that the person shall be evaluated by a licensed physician prior to treatment to determine if the person is an appropriate candidate for treatment; provide that the Department of Corrections shall administer the treatment; authorize the Department of Corrections to promulgate administrative regulations to implement the requirements.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Dotson",
+      "party": null,
+      "district": "73",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections And Correctional Facilities, State",
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Drugs And Medicines",
+    "Probation And Parole"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/326cdc31-6cd2-4ed5-a032-8ca95b4ac12f"
+}

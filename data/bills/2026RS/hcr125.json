@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hcr125",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HCR 125",
+  "title": "A CONCURRENT RESOLUTION establishing the Kentucky Riverport Modernization Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Kentucky Riverport Modernization Task Force to study and make recommendations regarding Kentucky's current statutory framework and administrative regulations governing riverport authorities and their effectiveness in supporting economic development and freight mobility, modernization efforts that other states have made and their effectiveness, actions and policies that Kentucky should implement to improve the efficiency and competitiveness of Kentucky's riverports, and opportunities to strengthen public-private partnerships and regional collaboration, as well as the role of riverports in emerging supply chains; establish membership; direct the task force to meet during the 2026 Interim and submit findings and recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Lehman",
+      "party": null,
+      "district": "67",
+      "primary": true
+    },
+    {
+      "name": "DJ Johnson",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-20",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Economic Development",
+    "Legislative Research Commission",
+    "Reports Mandated",
+    "Studies Directed",
+    "Task Forces, Legislative Branch",
+    "Waterways And Dams"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-20",
+  "source_url": "",
+  "openstates_id": "ocd-bill/039453e0-74fd-44d5-a5f0-03c0553dbcc8"
+}

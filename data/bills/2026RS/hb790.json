@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb790",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 790",
+  "title": "AN ACT relating to teacher scholarships, making an appropriation therefor, and declaring an emergency.",
+  "abstract": "Amend KRS 164.769 to establish a pilot program to provide scholarships to students pursuing a teaching career in a math- or science-related discipline to be administered by the Kentucky Higher Education Assistance Authority; establish scholarship recipient selection, award, and repayment process; appropriate $4,175,000 in each fiscal year of the 2026-2028 fiscal biennium to support the program; APPROPRIATION; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Duvall",
+      "party": null,
+      "district": "17",
+      "primary": true
+    },
+    {
+      "name": "K. Jackson",
+      "party": null,
+      "district": "20",
+      "primary": true
+    },
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "to Postsecondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Appropriations",
+    "Education, Elementary And Secondary",
+    "Education, Finance",
+    "Education, Higher",
+    "Effective Dates, Emergency",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/bae79b78-16e1-41dc-b078-4c22df7b288f"
+}

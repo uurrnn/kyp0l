@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb688",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 688",
+  "title": "AN ACT relating to the portion of income tax liability contributed to a political party.",
+  "abstract": "Amend KRS 141.071 and 141.072 to sunset the option to contribute to a political party from an individual's tax liability, effective for taxable years beginning January 1, 2026; amend KRS 121.180 and 121.230 to make conforming changes, repeal KRS 141.073, relating to rules and regulations for the administration of KRS 141.071 and 141.072.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Maddox",
+      "party": null,
+      "district": "61",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-20",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Sunset Legislation",
+    "Taxation",
+    "Taxation, Income--Individual"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-27",
+  "source_url": "",
+  "openstates_id": "ocd-bill/0468bed0-a183-4b95-9174-ef6c229b3407"
+}

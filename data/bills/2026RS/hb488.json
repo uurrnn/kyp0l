@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb488",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 488",
+  "title": "AN ACT relating to the Medicaid home and community based waiver program.",
+  "abstract": "Create a new section of KRS Chapter 205 to define terms; direct the Cabinet for Health and Family Services to prepare and submit a waiver amendment application to the federal Centers for Medicare and Medicaid Services to amend the 1915(c) HCB waiver program to include coverage for assisted living services; establish coverage limits; require the cabinet to promulgate administrative regulations; require the cabinet or the Department for Medicaid Services to seek federal approval if it is determined that such approval is necessary; provide authorization from the General Assembly to make changes in the Medicaid program as required under KRS 205.5372(1).",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    },
+    {
+      "name": "N. Tate",
+      "party": null,
+      "district": "27",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Aged Persons And Aging",
+    "Health And Medical Services",
+    "Hospitals And Health Facilities",
+    "Medicaid",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-03",
+  "source_url": "",
+  "openstates_id": "ocd-bill/46108344-63a9-45d1-97e8-8738f775729a"
+}

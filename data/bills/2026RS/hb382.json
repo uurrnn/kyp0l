@@ -1,0 +1,65 @@
+{
+  "id": "openstates-ky-2026RS-hb382",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 382",
+  "title": "AN ACT relating to swimming pools.",
+  "abstract": "Create a new section of KRS Chapter 198B to define terms; require the Department of Housing, Buildings and Construction to permit a private swimming pool to be constructed without a barrier or enclosure if the swimming pool will be equipped with an approved safety pool cover; require the department to incorporate this provision into the Kentucky Building Code by administrative regulation; permit the legislative body of a local government to adopt more stringent local ordinances relating to approved safety pool covers, barriers, and enclosures.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Housing, Building, And Construction",
+    "Local Government",
+    "Local Mandate",
+    "Public Health",
+    "Public Safety"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/cd8688c6-2176-48af-b900-19c6e5beff9f"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "openstates-ky-2026RS-hb91",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 91",
+  "title": "AN ACT relating to health insurance coverage by out-of-state insurers.",
+  "abstract": "Amend KRS 304.11-020 to exempt foreign insurers from compliance with the insurance code and insurance-specific taxes, assessments, surcharges, fees, and other charges imposed by the state or a local government for an individual or group health insurance policy, certificate, plan, or contract issued or delivered in this state if certain conditions are met; amend KRS 91A.080; create a new section of KRS Chapter 136 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Fees",
+    "Insurance, Health",
+    "Licensing",
+    "Local Government",
+    "Local Mandate",
+    "Taxation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9f270b73-baed-4e8c-8be7-f34cac3e8566"
+}

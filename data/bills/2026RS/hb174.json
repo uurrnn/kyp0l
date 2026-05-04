@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb174",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 174",
+  "title": "AN ACT relating to child marriage.",
+  "abstract": "Amend KRS 402.020 to prohibit marriage with a person under 18 years of age; exclude from being prohibited and void, marriages entered into in the Commonwealth before the effective date of this Act if both parties are 18 or older and marriages entered into in another state or country if both parties are 18 at time residency is established; amend KRS 402.030 to require courts to declare any marriage void if a person is under 18 years of age at the time of the petition; amend KRS 402.080 and 402.210 to prohibit the issuance of marriage licenses to persons under 18 years of age; repeal KRS 402.205, relating to petitions to courts filed by minors aged 17 years seeking permission to marry.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Civil Actions",
+    "County Clerks",
+    "Courts",
+    "Courts, Circuit",
+    "Courts, District",
+    "Courts, Family",
+    "Domestic Relations",
+    "Parental Rights"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e2bb18ae-2665-4f2f-9d13-088ea1d5cbba"
+}

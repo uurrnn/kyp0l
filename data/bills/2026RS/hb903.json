@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb903",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 903",
+  "title": "AN ACT relating to barber apprenticeships.",
+  "abstract": "Amend KRS 317.410 to define \"direct supervision\" and \"shop training program\"; create a new section of KRS Chapter 317 to establish a shop training program and establish program requirements; amend KRS 317.420 to exempt individuals who participate in the shop training program from KRS Chapter 317; amend KRS 317.450 to require the Kentucky Board of Barbering to issue an apprentice license to a person who has completed 1,200 hours in a shop training program; require 9 months of participation in a shop training program.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Griffee",
+      "party": null,
+      "district": "26",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Barbers And Cosmetologists",
+    "Licensing",
+    "Occupations And Professions"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/fa3cdcd4-b73f-4965-b65c-ca26fbf554a6"
+}

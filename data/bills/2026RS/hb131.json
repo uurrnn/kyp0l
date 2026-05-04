@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-hb131",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 131",
+  "title": "AN ACT relating to a tax credit for Kentucky Educational Savings Plan Trust account contributions.",
+  "abstract": "Create a new section of KRS Chapter 141 to establish a nonrefundable credit against the tax imposed under KRS 141.020 for qualifying contributions made to a Kentucky Educational Savings Plan trust account in accordance with the guidelines in 26 U.S.C. sec. 529; for taxable years beginning on or after January 1, 2027, but before January 1, 2031; amend KRS 141.0205 to provide the ordering of the tax credit; amend KRS 131.190 to allow the department to report on the credit.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Higher",
+    "Reports Mandated",
+    "Taxation",
+    "Taxation, Income--Individual"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/45a7f484-72da-4469-ad67-a6fea93cb8f9"
+}

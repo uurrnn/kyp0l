@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb736",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 736",
+  "title": "AN ACT relating to merchant processing agreements.",
+  "abstract": "Create a new section of KRS Chapter 365 to establish requirements for merchant processing agreements; prohibit credit card processors from assessing or charging a fee, fine, or penalty in certain circumstances; require credit card processors to make certain disclosures and comply with certain contracting requirements; establish penalties and exemptions; provide for construction of section; provide that Act applies to contracts entered on or after the effective date.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Wilson",
+      "party": null,
+      "district": "82",
+      "primary": true
+    },
+    {
+      "name": "D. Gordon",
+      "party": null,
+      "district": "81",
+      "primary": true
+    },
+    {
+      "name": "S. Rudy",
+      "party": null,
+      "district": "1",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Banks And Financial Institutions",
+    "Commerce",
+    "Contracts",
+    "Loans, Credit, Interest, And Usury",
+    "Sales",
+    "Small Business",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/9279b9e7-e384-409e-8e18-b0dc430f340f"
+}

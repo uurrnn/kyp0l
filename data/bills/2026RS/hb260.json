@@ -1,0 +1,88 @@
+{
+  "id": "openstates-ky-2026RS-hb260",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 260",
+  "title": "AN ACT relating to nationally certified student support personnel.",
+  "abstract": "Create a new section of KRS Chapter 157 to require a salary supplement for school social workers who have been nationally certified by the School Social Work Association of America and are employed by local boards of education if funding is provided for such purpose, permit local boards of education to provide a supplement from other resources if funding is not provided, and require inclusion of the supplement for Kentucky Teachers\u00e2\u0080\u0099 Retirement System calculations; create a new section of KRS Chapter 157 to require a salary supplement for school psychologists who have been nationally certified by the National Association of School Psychologists and are employed by local boards of education if funding is provided for such purpose, permit local boards of education to provide a supplement from other resources if funding is not provided, and require inclusion of the supplement for Teachers\u00e2\u0080\u0099 Retirement System calculations.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "T. Bojanowski",
+      "party": null,
+      "district": "32",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "T. Truett",
+      "party": null,
+      "district": "89",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Education, Elementary And Secondary",
+    "Education, Vocational",
+    "Health Care Professionals",
+    "Mental Health",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c1607ea8-75ad-4156-9d9f-e8e20368fde3"
+}

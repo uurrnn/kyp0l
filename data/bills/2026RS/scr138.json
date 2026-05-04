@@ -1,0 +1,58 @@
+{
+  "id": "openstates-ky-2026RS-scr138",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SCR 138",
+  "title": "A CONCURRENT RESOLUTION directing the establishment of the Property Tax Relief Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Property Tax Relief Task Force to study and review the taxation of property and make policy recommendations to address affordability issues; require the task force to seek input from other groups in the development of policy recommendations and strategies; outline task force membership; require the task force to meet monthly during the 2026 Interim; require the task force to submit its findings and recommendations to the Legislative Research Commission by December 1, 2026.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Adams",
+      "party": null,
+      "district": "36",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Legislative Research Commission",
+    "Property",
+    "Reports Mandated",
+    "Studies Directed",
+    "Task Forces, Legislative Branch",
+    "Taxation",
+    "Taxation, Property"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d2bfe5e8-b518-4318-997d-d0ee9c0a7469"
+}

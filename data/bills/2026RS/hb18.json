@@ -1,0 +1,88 @@
+{
+  "id": "openstates-ky-2026RS-hb18",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 18",
+  "title": "AN ACT relating to the safe ownership of firearms.",
+  "abstract": "Create a new section of KRS Chapter 237 to define \"ammunition\" and \"firearm\"; require an owner or other person lawfully in possession of a firearm or any person who sells ammunition to report the loss or theft of the firearm or ammunition to a law enforcement agency; create a new section of KRS Chapter 411 to establish civil liability against a person who fails to report the loss or theft of a firearm if knowingly another person is injured by the use of the lost or stolen firearm; establish civil liability against a person who furnishes a firearm to a minor if the minor causes the injury or death of another by the use of the firearm; amend KRS 411.155 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "C. Aull",
+      "party": null,
+      "district": "79",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Civil Actions",
+    "Firearms And Weapons",
+    "Local Mandate",
+    "Parental Rights",
+    "Peace Officers And Law Enforcement",
+    "Police, City And County",
+    "Police, State",
+    "Public Safety",
+    "Sheriffs",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4eab4ec9-dab0-43f7-af48-3d5e14d00d1f"
+}

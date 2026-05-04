@@ -1,0 +1,67 @@
+{
+  "id": "openstates-ky-2026RS-hb230",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 230",
+  "title": "AN ACT relating to health care price transparency.",
+  "abstract": "Create new sections of KRS Chapter 216B to define terms; require hospitals to disclose prices for certain items and services provided by hospitals; require hospitals to make public a digital list of all standard charges and a consumer-friendly list of charges for a set of shoppable services; require hospitals to provide descriptions of different services and standard charges of those services; require the Cabinet for Health and Family Services to promulgate administrative regulations to establish a template for each hospital; require the cabinet to monitor each facility's compliance; provide for administrative penalties; require health care providers to provide patients with written pricing sheets for health care services provided except in an emergency; require the cabinet to promulgate administrative regulations to establish a template for the written pricing sheets; require the cabinet or the Department for Medicaid Services to seek federal approval if they determine that such approval is necessary to comply with KRS 205.5372(1).",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Lockett",
+      "party": null,
+      "district": "39",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Federal Laws And Regulations",
+    "Health And Medical Services",
+    "Hospitals And Health Facilities",
+    "Insurance, Health",
+    "Medicaid",
+    "Public Health",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/af262655-e476-4e0c-b272-a3b33e5168d5"
+}

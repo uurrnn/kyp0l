@@ -1,0 +1,82 @@
+{
+  "id": "openstates-ky-2026RS-sb43",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 43",
+  "title": "AN ACT relating to energy planning.",
+  "abstract": "Amend KRS 164.2807 to require that, as part of its annual report to the Legislative Research Commission, the Governor, and the Public Service Commission, the Energy Planning and Inventory Commission include a current inventory of the Commonwealth's existing electric generation and transmission resources, a forecast of changes in demand for those resources, and recommendations for how to address discrepancies between the current electric resource inventory and forecasted future demand.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Carroll",
+      "party": null,
+      "district": "2",
+      "primary": true
+    },
+    {
+      "name": "D. Douglas",
+      "party": null,
+      "district": "22",
+      "primary": true
+    },
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    },
+    {
+      "name": "L. Tichenor",
+      "party": null,
+      "district": "6",
+      "primary": true
+    },
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Energy",
+    "Governor",
+    "Legislative Research Commission",
+    "Public Utilities",
+    "Reports Mandated",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-07",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d2cec759-b2a8-430d-b697-91c47ff7f48f"
+}

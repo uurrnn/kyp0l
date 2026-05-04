@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb560",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 560",
+  "title": "AN ACT relating to funding school districts that have a high percentage of tax-exempt property.",
+  "abstract": "Amend KRS 45.021 to require the Finance and Administration Cabinet to contract with each local board of education of a district that has 65% or more in tax-exempt real property and that does not receive financial relief from other sources for the tax revenue lost from the tax-exempt property, to provide for recoupment to the board of at least 25% of the local board of education's lost tax revenue from the tax-exempt properties.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "E. Hancock",
+      "party": null,
+      "district": "57",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Education, Finance",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Property"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-11",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e4ba15c7-b365-4af7-8205-7365a70ff3a1"
+}

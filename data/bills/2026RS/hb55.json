@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb55",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 55",
+  "title": "AN ACT relating to the rights of parents.",
+  "abstract": "Create a new section of KRS Chapter 405 to define \"child\" and \"parent\"; establish specific fundamental rights of parents relating to care, custody, and control of their children, including the right and duty to make decisions regarding a child's use of cellular phones; provide a cause of action against the Commonwealth or its political subdivisions for violations of a parent's fundamental rights.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Fister",
+      "party": null,
+      "district": "56",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Civil Actions",
+    "Communications",
+    "Parental Rights",
+    "Technology"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/aa84f562-b2dc-46c9-ab15-8c0fc137c17b"
+}

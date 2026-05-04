@@ -1,0 +1,55 @@
+{
+  "id": "openstates-ky-2026RS-sb335",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 335",
+  "title": "AN ACT relating to regulation of occupancies by local governments.",
+  "abstract": "Create a new section of KRS Chapter 65 prohibiting a local government from adopting or enforcing certain restrictions on the occupancy of dwelling units; state that the prohibition does not affect a local government's ability to enforce safety codes including the state building code or any uniform code or administrative regulation related to fire safety or the construction or safety of buildings.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Housing, Building, And Construction",
+    "Land Use",
+    "Local Government",
+    "Local Mandate"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-02",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1f4bbb51-4b2c-4002-9377-7c6632fd2755"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb278",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 278",
+  "title": "AN ACT relating to hospital price transparency.",
+  "abstract": "Create new sections of KRS Chapter 216B to define terms; require hospitals to maintain a publicly available chargemaster of all standard charges, in dollar amounts, and descriptions for all standard facility items or services; require the Cabinet for Health and Family Services to promulgate administrative regulations to establish a template for each facility to use to create the chargemaster, monitor each facility's compliance, and provide administrative penalties; prohibit collective action of debt for noncompliant facilities.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Doan",
+      "party": null,
+      "district": "69",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Consumer Protection",
+    "Health And Medical Services",
+    "Hospitals And Health Facilities",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/75eb21f7-7021-4924-a7fb-5999d7d3fdcb"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb374",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 374",
+  "title": "AN ACT relating to licensed professionals.",
+  "abstract": "Amend KRS 317.450  and 317A.050 to require that all licensed barbers and Board of Cosmetology licensees receive up to 1 hour of antidomestic violence training at no cost to the applicant or licensee; require the respective board to make training available online; provide civil and criminal immunity to licensees and employers.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Barbers And Cosmetologists",
+    "Boards And Commissions",
+    "Licensing",
+    "Occupations And Professions"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-22",
+  "source_url": "",
+  "openstates_id": "ocd-bill/418fe1e1-c130-4d8d-b8e7-5830cc65af65"
+}

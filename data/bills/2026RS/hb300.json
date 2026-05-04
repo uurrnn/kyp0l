@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb300",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 300",
+  "title": "AN ACT relating to contractors.",
+  "abstract": "Create new sections of KRS Chapter 198B to define terms; establish licensing for contractors under the Department of Housing, Buildings and Construction; prohibit any persons not licensed by the department from holding himself or herself out as a contractor; allow the department to issue contractor licenses, promulgate administrative regulations, and implement disciplinary actions; establish applicant requirements and fee limitations; provide for injunctive relief; create the contractors fund; amend various sections of KRS Chapter 367 to define terms; direct that a person may cancel a real estate goods and services contract within 5 business days; establish additional items a contractor must furnish a person prior to entering into a real estate goods or services contract with a person; prohibit additional practices by contractors; provide that this Act applies to contracts entered on or after the effective date of this Act.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Consumer Protection",
+    "Contracts",
+    "Fees",
+    "Housing, Building, And Construction",
+    "Licensing",
+    "Occupations And Professions",
+    "Real Estate",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/cee879bf-b3d1-4a5b-b8cd-389c88455108"
+}

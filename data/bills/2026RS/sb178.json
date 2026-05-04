@@ -1,0 +1,113 @@
+{
+  "id": "openstates-ky-2026RS-sb178",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 178",
+  "title": "AN ACT relating to environmental administrative regulations.",
+  "abstract": "Create a new section of KRS Chapter 13A to define various terms; prohibit an administrative regulation setting an environmental requirement under KRS Chapter 39E, 109, 146, 151, 211, 224, or 350 from being more stringent or extensive in scope than any federal law or regulation regarding the same or a similar topic; require any administrative regulation setting an environmental requirement to be based upon the best available science and the weight of scientific evidence; establish exemptions.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Elkins",
+      "party": null,
+      "district": "28",
+      "primary": true
+    },
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "R. Mills",
+      "party": null,
+      "district": "4",
+      "primary": true
+    },
+    {
+      "name": "S. Rawlings",
+      "party": null,
+      "district": "11",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "description": "to Natural Resources & Energy (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "recommitted to Natural Resources & Energy (S)",
+      "chamber": "upper",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Agriculture",
+    "Cemeteries And Burials",
+    "Coal",
+    "Energy",
+    "Environment And Conservation",
+    "Hazardous Materials",
+    "Health And Medical Services",
+    "Public Health",
+    "Safety",
+    "Science And Technology",
+    "Surface Mining",
+    "Waste Management",
+    "Water Supply"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed_committee",
+    "governor": null
+  },
+  "current_status": "passed committee Senate",
+  "last_action_date": "2026-03-04",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d7218584-d9e4-4c22-bf28-e646dc0b8e98"
+}

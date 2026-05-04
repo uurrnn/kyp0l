@@ -1,0 +1,73 @@
+{
+  "id": "openstates-ky-2026RS-hb232",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 232",
+  "title": "AN ACT relating to the protection of minors on digital platforms.",
+  "abstract": "Create new sections of KRS Chapter 367 to define terms; prohibit social media platforms from providing minors an addictive feed and sending push notifications to minors between the hours of midnight and 6 a.m. without permission from a parent or legal guardian; require social media platforms to determine a user's age upon account creation and establish guidelines for handling the information; require social media platforms to develop and implement a proactive strategy to prevent a minor from exposure to harmful material; grant enforcement power to the Office of the Attorney General and provide a private right of action to parents and legal guardians; provide that the Act may be cited as the Youth Online Safety Act, include severability clause. EFFECTIVE January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Small Business & Information Technology (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Attorney General",
+    "Children And Minors",
+    "Civil Actions",
+    "Communications",
+    "Consumer Protection",
+    "Data Protection",
+    "Effective Dates, Delayed",
+    "Information Technology",
+    "Internet, Access And Infrastructure",
+    "Parental Rights",
+    "Short Titles And Popular Names",
+    "Technology",
+    "Telecommunications",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3bc0d4ca-13bb-4079-b31b-f2108a31b65a"
+}

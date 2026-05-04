@@ -1,0 +1,54 @@
+{
+  "id": "openstates-ky-2026RS-sb88",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 88",
+  "title": "AN ACT relating to protection from extreme weather conditions.",
+  "abstract": "Create a new section of KRS Chapter 278 to define terms and require a utility to submit a disconnection plan to the Public Service Commission that prohibits the utility from suspending residential service during extreme weather conditions; make the disconnection plan available on both the commission and the utility's website.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Energy",
+    "Public Safety",
+    "Public Utilities"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/a72e8d4c-8310-47ce-a345-67d838872031"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-sb259",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 259",
+  "title": "AN ACT relating to domestic violence.",
+  "abstract": "Create a new section of KRS Chapter 17 to define terms; require the Justice and Public Safety Cabinet to establish and maintain a domestic violence offender registry; limit the registry to persistent domestic violence offenders; require registrants to pay a $150 registration fee.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Carroll",
+      "party": null,
+      "district": "2",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Circuit Clerks",
+    "Crimes And Punishments",
+    "Criminal Procedure",
+    "Domestic Relations",
+    "Police, State",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-02-26",
+  "source_url": "",
+  "openstates_id": "ocd-bill/e17f6775-ea1b-4089-8933-89ed9f65d74a"
+}

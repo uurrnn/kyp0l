@@ -1,0 +1,104 @@
+{
+  "id": "openstates-ky-2026RS-hb199",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 199",
+  "title": "AN ACT proposing to create a new section of the Constitution of Kentucky relating to the possession of cannabis.",
+  "abstract": "Propose to create a new section of the Constitution of Kentucky to guarantee the right of an individual 21 years of age or older to possess, use, buy, or sell 1 ounce or less of cannabis and to cultivate, harvest, and store up to 5 cannabis plants for personal use; grant the General Assembly control over the production, processing, and sale of cannabis and cannabis-derived products; designate the ballot question; direct the Secretary of State to publish the proposed amendment in a newspaper of general circulation; direct the Secretary of State to certify the proposed amendment to the county clerk of each county.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "N. Kulkarni",
+      "party": null,
+      "district": "40",
+      "primary": true
+    },
+    {
+      "name": "T. Bojanowski",
+      "party": null,
+      "district": "32",
+      "primary": true
+    },
+    {
+      "name": "A. Gentry",
+      "party": null,
+      "district": "46",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "E. Hancock",
+      "party": null,
+      "district": "57",
+      "primary": true
+    },
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    },
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cannabis",
+    "Constitution, Ky.",
+    "Corrections Impact",
+    "County Clerks",
+    "Drugs And Medicines",
+    "General Assembly",
+    "Licensing",
+    "Local Mandate",
+    "Secretary Of State"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5e71c2fc-6211-408d-8cec-514232ca3aed"
+}

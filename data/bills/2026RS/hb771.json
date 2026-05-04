@@ -1,0 +1,68 @@
+{
+  "id": "openstates-ky-2026RS-hb771",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 771",
+  "title": "AN ACT relating to earned paid sick leave.",
+  "abstract": "Create a new section of KRS Chapter 337 to require employers to provide earned paid sick leave to employees; provide that employees earn paid sick leave upon the date of hire and can use the leave after being employed for 90 days; set forth allowable uses of accrued earned paid sick leave; designate how notice of need to use earned paid sick leave is provided by employees; amend KRS 337.990 to establish the penalty for employers that fail to follow earned paid sick leave requirements.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Economic Development & Workforce Investment (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Labor And Industry",
+    "Personnel And Employment",
+    "Wages And Hours"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4e860e66-66a8-417c-ac11-ecc702140ae1"
+}

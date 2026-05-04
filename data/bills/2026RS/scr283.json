@@ -1,0 +1,59 @@
+{
+  "id": "openstates-ky-2026RS-scr283",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SCR 283",
+  "title": "A CONCURRENT RESOLUTION establishing the Water Resource Regional Infrastructure Planning Task Force.",
+  "abstract": "Direct the Legislative Research Commission to establish the Water Resource Regional Infrastructure Planning Task Force to evaluate and develop legislative recommendations for establishing a comprehensive process through which a water or wastewater utility can examine all feasible options for accomplishing the goals of a new infrastructure project and to examine related issues; establish the membership and meeting schedule for the task force; allow the task force to submit its findings and recommendations to the Legislative Research Commission by December 1, 2026; allow the issues that the task force is directed to study to be assigned to an interim joint committee or subcommittee thereof.",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Williams",
+      "party": null,
+      "district": "20",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-31",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Environment And Conservation",
+    "Legislative Research Commission",
+    "Public Utilities",
+    "Public Works",
+    "Sewer Systems",
+    "Task Forces, Legislative Branch",
+    "Water Supply",
+    "Waterways And Dams"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-31",
+  "source_url": "",
+  "openstates_id": "ocd-bill/f0d484d6-e4ff-41d1-8302-9f617fc532ae"
+}

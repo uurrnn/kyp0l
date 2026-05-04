@@ -1,0 +1,166 @@
+{
+  "id": "openstates-ky-2026RS-hb535",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 535",
+  "title": "AN ACT relating to investor-owned electric utilities and declaring an emergency.",
+  "abstract": "Amend KRS 278.670 to define \"environmental control\" and \"underpreciated extra-state generation utility plant balances,\" amend various definitions, and make technical changes; amend KRS 278.672 to remove the deadline date for calculating the value of the regulatory asset associated with the undepreciated extra-state generation utility plant balances, deferred storm costs, and other regulatory assets approved by the Public Service Commission (PSC) remove the dollar amount thresholds for qualifying for a financing order; remove the submittals associated with securitization of deferred costs for retried electric generation greater than 50%; add additional submittals for an application for a financing order; add requirement for a utility to acquire in-state dispatchable generation and agree to a freeze on base rates for a period of 2 years; define \"dispatchable\"; amend KRS 278.674 to prohibit the PSC from requiring securitized bonds to be marketed as a specific type of security or that an assignee be formed as a specific type of entity; provide a price cap for costs associated with retaining counsel, advisors, or other consultants; remove PSC authority to address how the securities are marketed; add a template issuance advice letter to be included in the financing order; direct that the PSC must approve sales or transfer of assets including extra-state generation facilities even if the balances are securitized; amend KRS 278.678 to make technical changes; amend KRS 278.682 to remove the requirement that the securitized surcharge be listed as a separate item on the customer bill; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Flannery",
+      "party": null,
+      "district": "96",
+      "primary": true
+    },
+    {
+      "name": "D. Lewis",
+      "party": null,
+      "district": "90",
+      "primary": true
+    },
+    {
+      "name": "V. Grossl",
+      "party": null,
+      "district": "88",
+      "primary": true
+    },
+    {
+      "name": "T. Hampton",
+      "party": null,
+      "district": "62",
+      "primary": true
+    },
+    {
+      "name": "B. McCool",
+      "party": null,
+      "district": "97",
+      "primary": true
+    },
+    {
+      "name": "S. Sharp",
+      "party": null,
+      "district": "100",
+      "primary": true
+    },
+    {
+      "name": "T. Truett",
+      "party": null,
+      "district": "89",
+      "primary": true
+    },
+    {
+      "name": "B. Wesley",
+      "party": null,
+      "district": "91",
+      "primary": true
+    },
+    {
+      "name": "M. Whitaker",
+      "party": null,
+      "district": "94",
+      "primary": true
+    },
+    {
+      "name": "R. White",
+      "party": null,
+      "district": "99",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "description": "to Natural Resources & Energy (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "posted for passage in the Regular Orders of the Day for Wednesday, March 11 2026",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-11",
+      "description": "floor amendment (1) filed to Committee Substitute",
+      "chamber": "lower",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "description": "taken from the Orders of the Day",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "returned to Rules",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Effective Dates, Emergency",
+    "Energy",
+    "Environment And Conservation",
+    "Pollution",
+    "Public Utilities"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/3211d342-a2ee-48b9-9d88-d0cf12da3593"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "openstates-ky-2026RS-hb522",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 522",
+  "title": "AN ACT relating to the provision of the Supplemental Nutrition Assistance Program and declaring an emergency.",
+  "abstract": "Amend KRS 48.705 to allow the Governor to authorize limited use of moneys in the budget reserve trust fund to provide for the continuity of the Supplemental Nutrition Assistance Program during a lapse in federal appropriations; require repayment of the moneys within 90 days of restoration of federal appropriations; require reporting to the Legislative Research Commission and the State Budget Director; require prior approval of the General Assembly if more than 5% of the total balance of the budget reserve trust fund is used; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    },
+    {
+      "name": "R. Roarx",
+      "party": null,
+      "district": "38",
+      "primary": true
+    },
+    {
+      "name": "S. Stalker",
+      "party": null,
+      "district": "34",
+      "primary": true
+    },
+    {
+      "name": "P. Stevenson",
+      "party": null,
+      "district": "43",
+      "primary": true
+    },
+    {
+      "name": "J. Watkins",
+      "party": null,
+      "district": "42",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Effective Dates, Emergency",
+    "General Assembly",
+    "Governor",
+    "Poverty",
+    "Public Assistance",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/b69b5e4f-0be6-4ba0-bf8d-e88d523c3594"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "openstates-ky-2026RS-sb81",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 81",
+  "title": "AN ACT relating to the Kentucky child credit.",
+  "abstract": "Create a new section of KRS Chapter 141 to establish a refundable Kentucky child credit for taxpayers with qualifying children under the age of 6; authorize a maximum credit of $1,000 per qualifying child for individuals with income below $50,000 for single taxpayers and $100,000 for married taxpayers filing jointly; provide that individuals with incomes above the specified thresholds may be eligible for a reduced child credit; amend KRS 141.0205 to order the credit; amend KRS 131.190 to allow the Department of Revenue to report on the credit.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Reports Mandated",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Income--Individual"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d93df2ed-0f6d-4667-9355-0e29aebd66df"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "openstates-ky-2026RS-hb517",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 517",
+  "title": "AN ACT relating to concealed deadly weapons.",
+  "abstract": "Repeal KRS 237.115, which interprets the application of the license to carry concealed deadly weapon statute as permitting postsecondary facilities, local governments, and units of state government to limit concealed carry in governmental buildings; amend KRS 150.172, 237.110, and 527.020 to conform; amend KRS 237.110 to no longer prohibit the carrying of concealed deadly weapons in schools and specify that the prohibition of carrying concealed deadly weapons in airports is limited to areas controlled by the Transportation Security Administration; make technical corrections; amend KRS 527.070 to add persons with valid licenses to carry concealed deadly weapons to the list of those permitted to possess weapons in schools.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "F. Rabourn",
+      "party": null,
+      "district": "47",
+      "primary": true
+    },
+    {
+      "name": "S. Maddox",
+      "party": null,
+      "district": "61",
+      "primary": true
+    },
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "T. Roberts",
+      "party": null,
+      "district": "66",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "description": "to Judiciary (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Corrections Impact",
+    "Education, Elementary And Secondary",
+    "Firearms And Weapons",
+    "Local Government",
+    "Local Mandate",
+    "State Agencies",
+    "Technical Corrections",
+    "Universities And Colleges"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/ac546be0-c40b-44c4-a21f-32519522b797"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-sb257",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 257",
+  "title": "AN ACT relating to Supplemental Nutrition Assistance Program eligibility.",
+  "abstract": "Amend KRS 205.178 to permit the Cabinet for Health and Family Services to receive and review monthly wage and salary information, fleeing felon information, and address change information for beneficiaries of the Supplemental Nutrition Assistance Program (SNAP); amend KRS 205.200 to prohibit the Cabinet for Health and Family Services from granting categorical eligibility for the Supplemental Nutrition Assistance Program for any noncash or in-kind services or other benefits, apply gross income standards higher than federal standards, and exempt households from gross income standards based on categorical eligibility; permit alternate vehicle allowance standards when determining SNAP benefits and eligibility; require the cabinet to recertify SNAP beneficiaries on a specific monthly schedule based on the beneficiaries' status; require SNAP beneficiaries be either a United States citizen, United States national, or an alien under certain qualifying statuses; require SNAP beneficiaries prove their qualifying status to the cabinet; require the cabinet to consider the income and financial resources of noneligible household members when determining eligibility and benefit allotment of SNAP benefits.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Funke Frommeyer",
+      "party": null,
+      "district": "24",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "to Families & Children (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Federal Laws And Regulations",
+    "Fiscal Note",
+    "Immigration",
+    "Public Assistance",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/dbb888a2-4aee-4832-a996-57a1e8c8bea2"
+}

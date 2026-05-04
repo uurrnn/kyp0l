@@ -1,0 +1,77 @@
+{
+  "id": "openstates-ky-2026RS-hb439",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 439",
+  "title": "AN ACT relating to psychologists.",
+  "abstract": "Amend KRS 319.020 to expand the Kentucky Board of Examiners of Psychology from 9 members to 11 members; make 1 of the new members a doctoral-level psychologist and the other a masters-level psychologist; amend KRS 319.030 to require the board to submit its annual report to the Legislative Research Commission and post the report on its website; include both the average and modal time it takes the board to issue or deny a license and to complete the disciplinary process; amend KRS 319.050 to require an applicant to pass examinations related to mental health law and psychology practice; direct the board to schedule an examination within 30 to 60 days of accepting the examination application; allow an examinee to delay the examination for accident, illness, or injury, if approved by the board chair or the chair's designee; allow the board to suspend the applicant's temporary license for any unapproved examination delay.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "K. Fleming",
+      "party": null,
+      "district": "48",
+      "primary": true
+    },
+    {
+      "name": "L. Willner",
+      "party": null,
+      "district": "35",
+      "primary": true
+    },
+    {
+      "name": "T. Hampton",
+      "party": null,
+      "district": "62",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Boards And Commissions",
+    "Legislative Research Commission",
+    "Licensing",
+    "Mental Health",
+    "Occupations And Professions",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/03be616f-2d81-48d8-853e-0b7e2a080914"
+}

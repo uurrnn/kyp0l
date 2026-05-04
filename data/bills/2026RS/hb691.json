@@ -1,0 +1,86 @@
+{
+  "id": "openstates-ky-2026RS-hb691",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 691",
+  "title": "AN ACT relating to the medical treatment of high acuity youth.",
+  "abstract": "Create a new section of KRS Chapter 200 to define terms; establish procedures for a child charged with a public offense or subject to a court order to determine if the child is a high acuity youth; establish procedures for securing a  treatment plan, and dispute resolution through a review process and the court if the parties cannot agree to a plan; require a 24-hour protocol for health facilities, the Cabinet for Health and Family Services, the Department of Juvenile Justice, and the courts to direct care; establish reimbursement rates for inpatient and outpatient psychiatric care of a child by psychiatric hospitals and pediatric teaching hospitals; establish procedures for discharge of the child from inpatient admission under specific circumstances.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "S. Dietz",
+      "party": null,
+      "district": "65",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Families & Children (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from Families & Children (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to Families & Children (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Corrections Impact",
+    "Court, Supreme",
+    "Courts, District",
+    "Criminal Procedure",
+    "Health And Medical Services",
+    "Mental Health"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/5d3a15d0-8680-45bc-908d-e1c580496c2a"
+}

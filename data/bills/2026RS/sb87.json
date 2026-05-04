@@ -1,0 +1,57 @@
+{
+  "id": "openstates-ky-2026RS-sb87",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 87",
+  "title": "AN ACT relating to the provision of financial services and products by credit unions.",
+  "abstract": "Amend KRS 66.480 to allow local government and school district investments in United States obligations by a repurchase agreement with a credit union and in interest-bearing accounts issued through a credit union; amend KRS 41.010 to redefine \"bank\" and \"state depository\" to include credit unions; amend KRS 41.070 to prohibit receipts from being held, used, or deposited in a personal or special credit union account; amend KRS 41.220 to allow credit unions to be designated as state depositories; amend KRS 41.240, 41.250, 41.300, 30A.120, and 30A.200 to conform.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "G. Elkins",
+      "party": null,
+      "district": "28",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Banks And Financial Institutions",
+    "Education, Finance",
+    "Funds",
+    "Investments",
+    "Local Government",
+    "Treasurer"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/05ddbca2-1c1b-4563-ac55-0632f9f8e559"
+}

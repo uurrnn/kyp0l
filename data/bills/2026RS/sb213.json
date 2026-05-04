@@ -1,0 +1,105 @@
+{
+  "id": "openstates-ky-2026RS-sb213",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 213",
+  "title": "AN ACT relating to retail electric suppliers.",
+  "abstract": "Create new sections of KRS Chapter 278 to declare that policy of the Commonwealth is for retail electric suppliers under the Public Service Commission (PSC) to procure electric generation sufficient to meet customer demand using an open, competitive process and at a rate that is the lowest possible; require retail electric suppliers to conduct integrated resource planning every 3 years and set forth the parameters of the integrated resource plan process; exempt elective cooperatives from the integrated resource plan process if the cooperative maintains an all-requirements contract; direct the PSC to promulgate administrative regulations within 120 days of the effective date of the Act; restrict the purchase of capacity from regional transmission organizations or independent system operators for prolonged periods as determined by the commission; require retail electric suppliers to file integrated resource plans on a triennial basis and include an assessment and acquisition plan for adequate and reliable electricity to meet customer demand at the lowest possible cost of forecasted estimates; make the privilege to serve customers in a certified territory a property right of the Commonwealth; require the PSC to allow the commission to determine an amount to be returned to customers of an electric retail supplier that is based on a calculation of the privilege to serve in a certified territory in a proceeding involving an acquisition, transfer, or sale of an electric retail supplier; allow one time, limited choice of retail electric supplier for incremental load at a single site in excess of 50 megawatts beginning June 30, 2027; require the PSC to ensure customers of affected retail electric suppliers are indifferent to the limited choice designation; amend KRS 278.010 to amend the definition of \"adequate service\" to include generating capacity; define \"integrated resource plan\"; amend KRS 278.016 to state that retail electric supplier has the privilege to provide electric service; amend KRS 278.018 to state that retail electric suppliers have the privilege rather than right to furnish retail electric service in its certified territory; and if the PSC find that a retail electric supplier is not providing adequate service the PSC may order the supplier to correct the problem; allow the commission to authorize another retail electric supplier to serve facilities located in the certified territory of another retail electric supplier; amend KRS 278.020 to determine whether public ownership of a retail electric supplier can achieve lower rates and deem cooperatives organized under KRS Chapter 279 to have public ownership; allow the PSC to consider the integrated resource planning process or the use of the contract when making a determination on a certificate of public convenience and necessity; amend 278.300 to allow the for evaluation of the integrated resource plan or use of a contract when granting certificate of public convenience and necessity.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Wheeler",
+      "party": null,
+      "district": "31",
+      "primary": true
+    },
+    {
+      "name": "S. Madon",
+      "party": null,
+      "district": "29",
+      "primary": true
+    },
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "R. Webb",
+      "party": null,
+      "district": "18",
+      "primary": true
+    },
+    {
+      "name": "S. West",
+      "party": null,
+      "district": "27",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Natural Resources & Energy (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "upper",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "2nd reading, to Rules",
+      "chamber": "upper",
+      "classification": [
+        "reading-2"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Cooperatives",
+    "Eminent Domain And Condemnation",
+    "Energy",
+    "Fuel",
+    "Public Utilities",
+    "Trade Practices And Retailing"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "passed_committee",
+    "governor": null
+  },
+  "current_status": "passed committee Senate",
+  "last_action_date": "2026-03-05",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d11e14a8-d017-45cb-bafb-ec70905210b8"
+}

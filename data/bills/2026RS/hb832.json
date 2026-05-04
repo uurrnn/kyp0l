@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb832",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 832",
+  "title": "AN ACT relating to transient room tax.",
+  "abstract": "Amend KRS 142.400 to impose a 1% statewide surtax on the rental of accommodations when charged by the owner of the property or by a person facilitating the rental of the property and deposit the receipts from the surtax into the affordable housing trust fund; amend KRS 142.402, 142.404, 142.406, and 198A.190 to conform; EFFECTIVE August 1, 2026.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Effective Dates, Delayed",
+    "Housing, Building, And Construction",
+    "Taxation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-10",
+  "source_url": "",
+  "openstates_id": "ocd-bill/1e1b77e4-154e-48c7-b6bc-3ee1fca524e4"
+}

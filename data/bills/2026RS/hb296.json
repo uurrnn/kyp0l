@@ -1,0 +1,78 @@
+{
+  "id": "openstates-ky-2026RS-hb296",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 296",
+  "title": "AN ACT relating to psychotropic drugs.",
+  "abstract": "Create a new section of KRS Chapter 205 to define terms; require Medicaid-enrolled providers prescribing psychotropic drugs to children to provide an FDA Medication Guide to parents or legal guardians; require medical care providers prescribing psychotropic drugs to children covered by Medicaid to obtain signed informed consent from a parent or guardian; require the Cabinet for Health and Family Services to develop and maintain an adverse drug reaction online reporting system; require the cabinet to compile and submit an annual report of the adverse drug reaction online reporting system to the Legislative Research Commission; require the cabinet to submit an annual report summarizing the implementation efforts and compliance statistics of Medicaid-enrolled providers; establish penalties; require the cabinet to promulgate administrative regulations to implement the system.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Calloway",
+      "party": null,
+      "district": "10",
+      "primary": true
+    },
+    {
+      "name": "C. Massaroni",
+      "party": null,
+      "district": "50",
+      "primary": true
+    },
+    {
+      "name": "M. Proctor",
+      "party": null,
+      "district": "60",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "description": "to Health Services (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Children And Minors",
+    "Drugs And Medicines",
+    "Health And Medical Services",
+    "Medicaid",
+    "Parental Rights",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-16",
+  "source_url": "",
+  "openstates_id": "ocd-bill/d9a4ba1d-4eaf-4c6f-a1eb-90f116e1e6b1"
+}

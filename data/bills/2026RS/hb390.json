@@ -1,0 +1,63 @@
+{
+  "id": "openstates-ky-2026RS-hb390",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 390",
+  "title": "AN ACT relating to education.",
+  "abstract": "Amend KRS 161.030 to specify the Education Professional Standards Board has authority only over educators hired by public schools; amend KRS 199.894 to define \"learning pod\" and exclude learning pods from the definition of \"child-care center\" and \"family child-care home\"; amend KRS 194A.381 to exclude learning pods from certain youth camp requirements.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "F. Rabourn",
+      "party": null,
+      "district": "47",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "description": "to Primary and Secondary Education (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Background Checks",
+    "Children And Minors",
+    "Education, Elementary And Secondary",
+    "Teachers"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/12d4bd78-1f2c-4c65-8a3a-ed8fde951ccf"
+}

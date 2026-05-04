@@ -1,0 +1,69 @@
+{
+  "id": "openstates-ky-2026RS-sb139",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 139",
+  "title": "AN ACT relating to disabled veterans.",
+  "abstract": "Create a new section of KRS Chapter 40 to define terms; create the Residential Ease of Access for Disabled Veterans Program for funding the construction and installation of accessibility ramps on residences of disabled veterans; establish the Residential Ease of Access for Disabled Veterans Program grant fund to be used for the program and administered by the Kentucky Department of Veterans' Affairs.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "B. Smith",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "G. Clemons",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "M. Nunn",
+      "party": null,
+      "district": "17",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Disabilities",
+    "Funds",
+    "Housing, Building, And Construction",
+    "Military Affairs And Civil Defense",
+    "State Agencies",
+    "Veterans"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-29",
+  "source_url": "",
+  "openstates_id": "ocd-bill/16802104-4f21-41f6-81c0-691da0f72d53"
+}

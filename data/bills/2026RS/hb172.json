@@ -1,0 +1,62 @@
+{
+  "id": "openstates-ky-2026RS-hb172",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 172",
+  "title": "AN ACT relating to campaign finance.",
+  "abstract": "Amend KRS 121.015 to define \"expenditure\"; amend KRS 121.150 to prohibit candidates, slates of candidates, committees, contributing organizations, or anyone on their behalf from making an expenditure to an intermediary, including subcontractors, for the purpose of making a payment to another person; require that expenditures be made directly to the provider of goods or personal services.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Campaign Finance",
+    "Elections And Voting",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-14",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c6ec30da-0a79-4af5-8747-d54d87968a11"
+}

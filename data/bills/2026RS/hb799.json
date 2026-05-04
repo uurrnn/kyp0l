@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-hb799",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 799",
+  "title": "AN ACT relating to elections.",
+  "abstract": "Amend KRS 116.055 to permit a registered independent to vote in the primary of 1 party for each primary opened by that party; require that an independent be registered as an independent on December 31 immediately preceding the primary; amend KRS 117.125 to require that electronic voting machines be reprogrammed to allow a registered independent to vote for a party's candidates in a primary; amend KRS 118.125 to prohibit a primary candidate from being a registered independent.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "A. Moore",
+      "party": null,
+      "district": "45",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "County Clerks",
+    "Elections And Voting",
+    "Local Mandate",
+    "Secretary Of State",
+    "State Agencies"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-09",
+  "source_url": "",
+  "openstates_id": "ocd-bill/24a83afb-6979-463f-b2f4-92c31a062e97"
+}

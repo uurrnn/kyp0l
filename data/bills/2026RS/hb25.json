@@ -1,0 +1,86 @@
+{
+  "id": "openstates-ky-2026RS-hb25",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 25",
+  "title": "AN ACT relating to coverage for scalp cooling systems used in connection with chemotherapy treatment for breast cancer.",
+  "abstract": "Create a new section of Subtitle 17A of KRS Chapter 304 to define terms; require health plans to provide coverage for scalp cooling systems used in connection with chemotherapy treatment for breast cancer; suspend the coverage requirement's application to qualified health plans if the state would be required to make cost defrayal payments; amend KRS 304.17A-099 to conform; amend KRS 304.17C-125, 164.2871, and 18A.225  to require limited health service benefit plans, self-insured employer plans provided by the governing board of a state postsecondary education institution, and the state employee health plan to comply with the coverage requirement for scalp cooling systems; provide that certain provisions apply to health plans issued or renewed on or after January 1, 2027; EFFECTIVE, in part, January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "L. Burke",
+      "party": null,
+      "district": "75",
+      "primary": true
+    },
+    {
+      "name": "G. Brown Jr.",
+      "party": null,
+      "district": "77",
+      "primary": true
+    },
+    {
+      "name": "A. Camuel",
+      "party": null,
+      "district": "93",
+      "primary": true
+    },
+    {
+      "name": "B. Chester-Burton",
+      "party": null,
+      "district": "44",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "description": "to Banking & Insurance (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Actuarial Analysis",
+    "Education, Higher",
+    "Effective Dates, Delayed",
+    "Health And Medical Services",
+    "Health Benefit Plan Mandate",
+    "Insurance, Health",
+    "Local Mandate",
+    "State Employee Health Plan Mandate",
+    "State Employees"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/81cd112f-9ad7-4328-aa7a-1a415dc7022f"
+}

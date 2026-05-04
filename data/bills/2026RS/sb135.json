@@ -1,0 +1,64 @@
+{
+  "id": "openstates-ky-2026RS-sb135",
+  "body_ids": [
+    "ky-senate"
+  ],
+  "session": "2026RS",
+  "identifier": "SB 135",
+  "title": "AN ACT relating to the provision of the Supplemental Nutrition Assistance Program and declaring an emergency.",
+  "abstract": "Amend KRS 48.705 to allow the Governor to authorize limited use of moneys in the budget reserve trust fund to provide for the continuity of the Supplemental Nutrition Assistance Program during a lapse in federal appropriations; require repayment of the moneys within 90 days of restoration of federal appropriations; require reporting to the Legislative Research Commission and the State Budget Director; require prior approval of the General Assembly if more than 5% of the total balance of the budget reserve trust fund is used; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "C. Armstrong",
+      "party": null,
+      "district": "19",
+      "primary": true
+    },
+    {
+      "name": "R. Thomas",
+      "party": null,
+      "district": "13",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "description": "introduced in Senate",
+      "chamber": "upper",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "description": "to Committee on Committees (S)",
+      "chamber": "upper",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Budget And Financial Administration",
+    "Effective Dates, Emergency",
+    "General Assembly",
+    "Governor",
+    "Poverty",
+    "Public Assistance",
+    "Reports Mandated"
+  ],
+  "chamber_progress": {
+    "lower": null,
+    "upper": "in_committee",
+    "governor": null
+  },
+  "current_status": "In Senate committee",
+  "last_action_date": "2026-01-29",
+  "source_url": "",
+  "openstates_id": "ocd-bill/07e1b084-1ad8-46c0-964d-73c6eafdce90"
+}

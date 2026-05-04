@@ -1,0 +1,149 @@
+{
+  "id": "openstates-ky-2026RS-hb613",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 613",
+  "title": "AN ACT relating to revenues for the provision of emergency services.",
+  "abstract": "Amend KRS 75.040 to establish conditions under which a fire protection district or volunteer fire department district may exceed the maximum established tax rate; create a new section of KRS Chapter 75 to establish the procedure by which a fire protection district or volunteer fire department district may exceed the maximum tax rate set in KRS 75.040 by requiring a public hearing and notification to the public; establish the methods by which the public may recall the portion of the levy that increases the tax beyond the previous year's rate; exempt the rates from the provisions of KRS 132.023; amend KRS 75A.050 to establish conditions under which a fire district may exceed the maximum established tax rate; create a new section of KRS Chapter 75A to establish the procedure by which a fire district may exceed the maximum tax rate set out in KRS 75A.050 by requiring a public hearing and notification to the public; establish the methods by which the public may recall the portion of the levy that increases the tax beyond the previous year's rate; exempt the rates from the provisions of KRS 132.023; amend KRS 75.015 to conform;  EFFECTIVE January 1, 2027.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Hart",
+      "party": null,
+      "district": "78",
+      "primary": true
+    },
+    {
+      "name": "J. Nemes",
+      "party": null,
+      "district": "33",
+      "primary": true
+    },
+    {
+      "name": "J. Decker",
+      "party": null,
+      "district": "58",
+      "primary": true
+    },
+    {
+      "name": "D. Grossberg",
+      "party": null,
+      "district": "30",
+      "primary": true
+    },
+    {
+      "name": "S. Witten",
+      "party": null,
+      "district": "31",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "description": "to Local Government (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "description": "reported favorably, 1st reading, to Calendar",
+      "chamber": "lower",
+      "classification": [
+        "committee-passage"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "description": "2nd reading, to Rules",
+      "chamber": "lower",
+      "classification": [
+        "reading-2"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "floor amendment (1) filed",
+      "chamber": "lower",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "description": "posted for passage in the Regular Orders of the Day for Monday, March 09 2026",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-11",
+      "description": "floor amendment (2) filed",
+      "chamber": "lower",
+      "classification": [
+        "amendment-introduction"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "description": "taken from the Orders of the Day",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-26",
+      "description": "returned to Rules",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-04-15",
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Counties",
+    "Effective Dates, Delayed",
+    "Emergency Medical Services",
+    "Firefighters And Fire Departments",
+    "Local Government",
+    "Local Mandate",
+    "Special Districts",
+    "Special Purpose Governmental Entities",
+    "Taxation",
+    "Taxation, Property"
+  ],
+  "chamber_progress": {
+    "lower": "passed_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "passed committee House",
+  "last_action_date": "2026-04-15",
+  "source_url": "",
+  "openstates_id": "ocd-bill/62dca29a-3a23-4815-aa3b-43b37b29edad"
+}

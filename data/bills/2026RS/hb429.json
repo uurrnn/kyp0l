@@ -1,0 +1,70 @@
+{
+  "id": "openstates-ky-2026RS-hb429",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 429",
+  "title": "AN ACT relating to nicotine products.",
+  "abstract": "Create a new section of KRS 438.305 to 438.350 to require a retailer to verify that a recipient of a shipment or delivery of tobacco products, alternative nicotine products, or vapor products is at least 21 years old; require visual examination or use of age verification technology to verify the recipient's identity at delivery; establish penalties for a retailer or common or private carrier in violation; establish penalties for a consumer who intentionally causes an unlawful delivery; require products to be returned to the retailer if the common or private carrier cannot complete delivery.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "M. Dossett",
+      "party": null,
+      "district": "9",
+      "primary": true
+    },
+    {
+      "name": "A. Donworth",
+      "party": null,
+      "district": "76",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "description": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Children And Minors",
+    "Consumer Protection",
+    "Tobacco",
+    "Trade Practices And Retailing",
+    "Vaping"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-01-28",
+  "source_url": "",
+  "openstates_id": "ocd-bill/38e695a8-fd73-4c07-b301-243769f209ae"
+}

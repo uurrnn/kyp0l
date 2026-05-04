@@ -1,0 +1,73 @@
+{
+  "id": "openstates-ky-2026RS-hb645",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 645",
+  "title": "AN ACT relating to the Kentucky Tax Tribunal.",
+  "abstract": "Create new sections of KRS Chapter 142 to establish the Kentucky Tax Tribunal within the executive branch to be the single form for all tax litigation; establish judges, forums, processes, and methods of appeal; amend various statutes to conform; repeal sections of KRS Chapter 49 which constituted the Board of Tax Appeals; amend various sections of KRS to conform; EFFECTIVE, in part, July 1, 2027, and in part, January 1, 2028.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "P. Flannery",
+      "party": null,
+      "district": "96",
+      "primary": true
+    },
+    {
+      "name": "J. Nemes",
+      "party": null,
+      "district": "33",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "description": "to Appropriations & Revenue (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Administrative Regulations And Proceedings",
+    "Attorneys",
+    "Boards And Commissions",
+    "Civil Actions",
+    "Courts",
+    "Effective Dates, Delayed",
+    "Fiscal Note",
+    "Taxation"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-02-23",
+  "source_url": "",
+  "openstates_id": "ocd-bill/4356f301-3e90-4137-9f9d-d641dbb55383"
+}

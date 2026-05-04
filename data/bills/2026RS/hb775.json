@@ -1,0 +1,112 @@
+{
+  "id": "openstates-ky-2026RS-hb775",
+  "body_ids": [
+    "ky-house"
+  ],
+  "session": "2026RS",
+  "identifier": "HB 775",
+  "title": "AN ACT relating to the selection and oversight of Article V convention delegates and declaring an emergency.",
+  "abstract": "Create new sections of KRS Chapter 6 to provide for the selection and oversight of Article V commissioners if an Article V convention is called and the Commonwealth is a participant; define terms; establish rules and procedures for appointing, recalling, or filling vacancies for delegates and alternate delegates to Article V conventions; establish duties of delegates and oath requirements; rules and procedures for adoption of instructions to the delegates for an Article V convention; create guidelines for invalidation an unauthorized vote and penalties for an unauthorized vote; establish procedures and the composition of Article V Oversight Committee membership; EMERGENCY.",
+  "classification": [
+    "bill"
+  ],
+  "sponsors": [
+    {
+      "name": "J. Decker",
+      "party": null,
+      "district": "58",
+      "primary": true
+    },
+    {
+      "name": "J. Petrie",
+      "party": null,
+      "district": "16",
+      "primary": true
+    },
+    {
+      "name": "E. Callaway",
+      "party": null,
+      "district": "37",
+      "primary": true
+    },
+    {
+      "name": "M. Imes",
+      "party": null,
+      "district": "5",
+      "primary": true
+    },
+    {
+      "name": "M. Lockett",
+      "party": null,
+      "district": "39",
+      "primary": true
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "description": "introduced in House",
+      "chamber": "lower",
+      "classification": [
+        "introduction"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "description": "to Committee on Committees (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "description": "to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": [
+        "referral-committee"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "taken from Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": []
+    },
+    {
+      "date": "2026-03-13",
+      "description": "1st reading",
+      "chamber": "lower",
+      "classification": [
+        "reading-1"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "description": "returned to Elections, Const. Amendments & Intergovernmental Affairs (H)",
+      "chamber": "lower",
+      "classification": []
+    }
+  ],
+  "votes": [],
+  "subjects": [
+    "Constitution, U.S.",
+    "Corrections Impact",
+    "Crimes And Punishments",
+    "Effective Dates, Emergency",
+    "Federal Laws And Regulations",
+    "General Assembly",
+    "Local Mandate",
+    "Secretary Of State",
+    "United States"
+  ],
+  "chamber_progress": {
+    "lower": "in_committee",
+    "upper": null,
+    "governor": null
+  },
+  "current_status": "In House committee",
+  "last_action_date": "2026-03-13",
+  "source_url": "",
+  "openstates_id": "ocd-bill/c5e3d546-0914-4060-8a6e-735ee1782dac"
+}
