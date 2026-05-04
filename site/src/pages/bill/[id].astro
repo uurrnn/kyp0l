@@ -63,13 +63,18 @@ function stateLabel(state: string | null): string {
       <section>
         <h2>Sponsors ({bill.sponsors.length})</h2>
         <ul class="items">
-          {bill.sponsors.map((s) => (
-            <li>
-              <span class="num">{s.primary ? "Primary" : "Co"}</span>
-              <strong>{s.name}</strong>
-              {s.party && <> ({s.party}{s.district ? `-${s.district}` : ""})</>}
-            </li>
-          ))}
+          {bill.sponsors.map((s) => {
+            const party = s.party ?? "";
+            const district = s.district ?? "";
+            const tag = party && district ? `${party}-${district}` : (party || district);
+            return (
+              <li>
+                <span class="num">{s.primary ? "Primary" : "Co"}</span>
+                <strong>{s.name}</strong>
+                {tag && <> ({tag})</>}
+              </li>
+            );
+          })}
         </ul>
       </section>
 

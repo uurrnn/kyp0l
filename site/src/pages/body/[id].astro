@@ -11,9 +11,10 @@ const body = getBodyById(id!);
 const meetings = body ? getMeetingsByBody(body.id) : [];
 const bills = body ? getBillsByBody(body.id) : [];
 const base = import.meta.env.BASE_URL;
+const MAX_BILLS_PER_BODY = 100;
 ---
 
-<Layout title={`${body?.name ?? "Body"} — Louisville Local Politics`}>
+<Layout title={`${body?.name ?? "Body"} — Kentucky + Louisville Politics`}>
   {!body ? (
     <p class="empty-state">No such body.</p>
   ) : (
@@ -43,7 +44,7 @@ const base = import.meta.env.BASE_URL;
         <section style="margin-top: 2rem;">
           <h2>Bills ({bills.length})</h2>
           <div data-pagefind-ignore>
-            {bills.slice(0, 100).map((b) => (
+            {bills.slice(0, MAX_BILLS_PER_BODY).map((b) => (
               <a class="meeting-card" href={`${base}bill/${b.id}`}>
                 <div class="date">{b.last_action_date}</div>
                 <div class="body-name">{b.identifier}</div>
@@ -51,8 +52,8 @@ const base = import.meta.env.BASE_URL;
                 <div class="meta">{b.current_status}</div>
               </a>
             ))}
-            {bills.length > 100 && (
-              <p style="color: var(--fg-muted);">Showing 100 of {bills.length}. Use search for more.</p>
+            {bills.length > MAX_BILLS_PER_BODY && (
+              <p style="color: var(--fg-muted);">Showing {MAX_BILLS_PER_BODY} of {bills.length}. Use search for more.</p>
             )}
           </div>
         </section>
