@@ -212,6 +212,69 @@ def derive_chamber_progress(actions: list[Action]) -> dict[str, str | None]:
     return progress
 
 
+_CHAMBER_LABEL = {"lower": "House", "upper": "Senate"}
+_STATE_VERB = {
+    "introduced": "Introduced",
+    "in_committee": "in committee",
+    "passed_committee": "passed committee",
+    "passed": "Passed",
+    "failed": "Failed",
+}
+
+
+def _in_chamber_phrase(state: str, chamber_label: str) -> str:
+    """Render the 'still in <chamber>' clause of a status string idiomatically."""
+    if state == "in_committee":
+        return f"in {chamber_label} committee"
+    if state == "passed_committee":
+        return f"out of {chamber_label} committee"
+    if state == "introduced":
+        return f"in {chamber_label}"
+    return f"{_STATE_VERB[state]} {chamber_label}"
+
+
+def chamber_progress_to_status(cp: dict[str, str | None]) -> str:
+    """Render a chamber_progress dict as a one-line human summary."""
+    if cp.get("governor") == "signed":
+        return "Signed by governor"
+    if cp.get("governor") == "vetoed":
+        return "Vetoed by governor"
+
+    lower = cp.get("lower")
+    upper = cp.get("upper")
+
+    if lower == "passed" and upper == "passed":
+        return "Passed House and Senate"
+    if lower == "passed" and upper in (None, "introduced"):
+        return "Passed House, in Senate" if upper == "introduced" else "Passed House"
+    if upper == "passed" and lower in (None, "introduced"):
+        return "Passed Senate, in House" if lower == "introduced" else "Passed Senate"
+    if lower == "passed" and upper:
+        return f"Passed House, {_in_chamber_phrase(upper, 'Senate')}"
+    if upper == "passed" and lower:
+        return f"Passed Senate, {_in_chamber_phrase(lower, 'House')}"
+
+    if lower == "failed":
+        return "Failed in House"
+    if upper == "failed":
+        return "Failed in Senate"
+    if lower == "in_committee" and not upper:
+        return "In House committee"
+    if upper == "in_committee" and not lower:
+        return "In Senate committee"
+    if lower == "introduced" and not upper:
+        return "Introduced in House"
+    if upper == "introduced" and not lower:
+        return "Introduced in Senate"
+
+    parts = []
+    for ch in ("lower", "upper"):
+        s = cp.get(ch)
+        if s:
+            parts.append(f"{_STATE_VERB[s]} {_CHAMBER_LABEL[ch]}")
+    return " · ".join(parts) or "Status unknown"
+
+
 def write_json(path: Path, obj: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, indent=2, default=str), encoding="utf-8")
