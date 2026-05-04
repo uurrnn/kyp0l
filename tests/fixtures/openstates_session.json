@@ -1,0 +1,293 @@
+{
+  "id": "ocd-jurisdiction/country:us/state:ky/government",
+  "name": "Kentucky",
+  "classification": "state",
+  "division_id": "ocd-division/country:us/state:ky",
+  "url": "http://www.lrc.ky.gov/",
+  "latest_bill_update": "2026-05-03T01:47:35.747486+00:00",
+  "latest_people_update": "2026-05-01T06:49:54.768034+00:00",
+  "legislative_sessions": [
+    {
+      "identifier": "2011 Regular Session",
+      "name": "2011 Regular Session",
+      "classification": "primary",
+      "start_date": "2011-01-04",
+      "end_date": "2011-03-09",
+      "downloads": []
+    },
+    {
+      "identifier": "2011SS",
+      "name": "2011 Extraordinary Session",
+      "classification": "special",
+      "start_date": "2011-03-14",
+      "end_date": "2011-04-06",
+      "downloads": []
+    },
+    {
+      "identifier": "2012RS",
+      "name": "2012 Regular Session",
+      "classification": "primary",
+      "start_date": "2012-01-03",
+      "end_date": "2012-04-12",
+      "downloads": []
+    },
+    {
+      "identifier": "2012SS",
+      "name": "2012 Extraordinary Session",
+      "classification": "special",
+      "start_date": "2012-04-16",
+      "end_date": "2012-04-20",
+      "downloads": []
+    },
+    {
+      "identifier": "2013RS",
+      "name": "2013 Regular Session",
+      "classification": "primary",
+      "start_date": "2013-01-08",
+      "end_date": "2013-03-26",
+      "downloads": []
+    },
+    {
+      "identifier": "2013SS",
+      "name": "2013 Extraordinary Session",
+      "classification": "special",
+      "start_date": "2013-08-19",
+      "end_date": "2013-08-19",
+      "downloads": []
+    },
+    {
+      "identifier": "2014RS",
+      "name": "2014 Regular Session",
+      "classification": "primary",
+      "start_date": "2014-01-07",
+      "end_date": "2014-04-15",
+      "downloads": []
+    },
+    {
+      "identifier": "2015RS",
+      "name": "2015 Regular Session",
+      "classification": "primary",
+      "start_date": "2015-01-06",
+      "end_date": "2015-03-25",
+      "downloads": []
+    },
+    {
+      "identifier": "2016RS",
+      "name": "2016 Regular Session",
+      "classification": "primary",
+      "start_date": "2016-01-05",
+      "end_date": "2016-04-12",
+      "downloads": []
+    },
+    {
+      "identifier": "2017RS",
+      "name": "2017 Regular Session",
+      "classification": "primary",
+      "start_date": "2017-01-03",
+      "end_date": "2017-03-30",
+      "downloads": [
+        {
+          "created_at": "2020-02-24T22:53:47.145517+00:00",
+          "updated_at": "2021-02-01T00:47:43.854599+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2017RS_csv_6Pxael56MVbu11vEaVmUw.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2018RS",
+      "name": "2018 Regular Session",
+      "classification": "primary",
+      "start_date": "2018-01-02",
+      "end_date": "2018-04-14",
+      "downloads": [
+        {
+          "created_at": "2020-02-24T22:53:51.274453+00:00",
+          "updated_at": "2021-02-01T00:47:50.241908+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2018RS_csv_4eJAD7MzyUuNKijQY65DHe.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2018SS",
+      "name": "2018 Special Session",
+      "classification": "special",
+      "start_date": "2018-12-19",
+      "end_date": "2018-12-17",
+      "downloads": [
+        {
+          "created_at": "2020-02-24T22:53:52.426614+00:00",
+          "updated_at": "2021-02-01T00:47:50.941874+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2018SS_csv_3gKhSY3KaOlLKhwFKuZoTD.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2019RS",
+      "name": "2019 Regular Session",
+      "classification": "primary",
+      "start_date": "2019-01-08",
+      "end_date": "2019-03-28",
+      "downloads": [
+        {
+          "created_at": "2020-02-24T22:53:55.355541+00:00",
+          "updated_at": "2021-02-01T00:47:54.610440+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2019RS_csv_UK92APhcs8qt7mJJxttCa.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2019SS",
+      "name": "2019 Special Session",
+      "classification": "special",
+      "start_date": "2019-07-19",
+      "end_date": "2019-07-24",
+      "downloads": [
+        {
+          "created_at": "2020-02-24T22:53:56.886132+00:00",
+          "updated_at": "2021-02-01T00:47:55.647832+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2019SS_csv_4btloJKs9YsEOM76JfF2cI.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2020RS",
+      "name": "2020 Regular Session",
+      "classification": "primary",
+      "start_date": "2020-01-07",
+      "end_date": "2020-04-15",
+      "downloads": [
+        {
+          "created_at": "2020-02-24T22:54:02.653445+00:00",
+          "updated_at": "2021-02-01T00:48:01.598501+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2020RS_csv_2HBccwSILMsAvy1t6zJHwd.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2021RS",
+      "name": "2021 Regular Session",
+      "classification": "primary",
+      "start_date": "2021-01-05",
+      "end_date": "2021-03-30",
+      "downloads": [
+        {
+          "created_at": "2020-12-01T00:44:19.106304+00:00",
+          "updated_at": "2022-01-01T00:17:06.861058+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2021RS_csv_3yksR1dHzbfGPY89fJTAV7.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2021SS",
+      "name": "2021 Special Session",
+      "classification": "special",
+      "start_date": "2021-09-07",
+      "end_date": "2021-09-09",
+      "downloads": [
+        {
+          "created_at": "2021-11-01T00:14:39.578241+00:00",
+          "updated_at": "2022-01-01T00:17:13.247746+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2021SS_csv_2l2jZbPhiuMWTdao4dilCh.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2022RS",
+      "name": "2022 Regular Session",
+      "classification": "primary",
+      "start_date": "2022-01-05",
+      "end_date": "2022-04-14",
+      "downloads": [
+        {
+          "created_at": "2022-01-01T00:17:21.861042+00:00",
+          "updated_at": "2022-08-29T07:04:33.932280+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2022RS_csv_42nC8owL9IbnmETOj1hFgK.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2022SS",
+      "name": "2022 Special Session",
+      "classification": "special",
+      "start_date": "2022-08-24",
+      "end_date": "2021-08-26",
+      "downloads": [
+        {
+          "created_at": "2022-08-26T07:05:12.496026+00:00",
+          "updated_at": "2022-09-02T23:05:11.003369+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2022SS_csv_3bwVOtM2A9vW9fcyczz80k.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2023RS",
+      "name": "2023 Regular Session",
+      "classification": "primary",
+      "start_date": "2023-01-03",
+      "end_date": "2023-03-30",
+      "downloads": [
+        {
+          "created_at": "2023-01-04T02:53:57.307039+00:00",
+          "updated_at": "2023-11-16T23:04:24.165014+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2023RS_csv_7f6iBwZXpIR5TlQpZlGZ4H.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2024RS",
+      "name": "2024 Regular Session",
+      "classification": "primary",
+      "start_date": "2024-01-02",
+      "end_date": "2024-04-15",
+      "downloads": [
+        {
+          "created_at": "2024-01-03T23:02:55.335218+00:00",
+          "updated_at": "2024-11-06T23:03:51.746489+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2024RS_csv_7Aso1Tcu6nhwgeSzC27MFt.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2025RS",
+      "name": "2025 Regular Session",
+      "classification": "primary",
+      "start_date": "2025-01-07",
+      "end_date": "2025-04-15",
+      "downloads": [
+        {
+          "created_at": "2025-01-08T23:05:45.544109+00:00",
+          "updated_at": "2025-07-31T23:09:58.140138+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2025RS_csv_KT0cKtNFi38fUnUwdk5bX.zip"
+        }
+      ]
+    },
+    {
+      "identifier": "2026RS",
+      "name": "2026 Regular Session",
+      "classification": "primary",
+      "start_date": "2026-01-06",
+      "end_date": "2026-04-15",
+      "downloads": [
+        {
+          "created_at": "2026-01-07T23:04:00.550449+00:00",
+          "updated_at": "2026-05-03T23:09:02.062559+00:00",
+          "data_type": "csv",
+          "url": "https://data.openstates.org/csv/latest/KY_2026RS_csv_7eTREGJUfiy2eMGgv3Ga4h.zip"
+        }
+      ]
+    }
+  ]
+}

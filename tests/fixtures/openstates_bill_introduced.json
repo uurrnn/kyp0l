@@ -1,0 +1,3600 @@
+{
+  "id": "ocd-bill/481c13c3-b0a5-4b3d-b0ce-e6a084a0567a",
+  "session": "2026RS",
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state"
+  },
+  "from_organization": {
+    "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+    "name": "Senate",
+    "classification": "upper"
+  },
+  "identifier": "SB 197",
+  "title": "AN ACT providing funding and establishing conditions for state government agencies and institutions, making an appropriation therefor, and declaring an emergency.",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Economic Development",
+    "Local Government",
+    "Small Business",
+    "State Agencies",
+    "Taxation",
+    "Taxation, Income--Corporate"
+  ],
+  "extras": {
+    "BDR": "1782"
+  },
+  "created_at": "2026-02-13T22:49:49.779349+00:00",
+  "updated_at": "2026-04-28T01:16:37.016727+00:00",
+  "openstates_url": "https://openstates.org/ky/bills/2026RS/SB197/",
+  "first_action_date": "2026-02-13T05:00:00+00:00",
+  "latest_action_date": "2026-04-27T04:00:00+00:00",
+  "latest_action_description": "delivered to Secretary of State",
+  "latest_passage_date": "2026-04-15T04:00:00+00:00",
+  "abstracts": [
+    {
+      "abstract": "Create a new section of Subchapter 32 of KRS Chapter 154 to establish a tiered county system for eligible companies to receive incentives under the Kentucky Business Investment Program; amends KRS 154.32-010 to define \"tier\"; amends KRS 154.32-020 and 154.32-040 to conform; amend KRS 154.32-050 to specify tiering procedures; amend KRS 154.32-060 to require the Kentucky Economic Development Finance Authority to identify and certify or decertify the tiers for all counties on an annual basis into 4 tax credit tiers; provide that the incentives available under this subchapter be determined based on the county where the economic development project is located by an approved company; provide a county's tier will be based on a 5 year average of its unemployment rate and population ranking; amend KRS 154.32-090, 154.61-010, 154.61-020, and 141.383  to conform.",
+      "note": "Summary of Original Version"
+    }
+  ],
+  "sponsorships": [
+    {
+      "id": "af0bc2d0-0d86-4183-95db-1fa85cc43d05",
+      "name": "P. Wheeler",
+      "entity_type": "person",
+      "person": {
+        "id": "ocd-person/18063ded-67cb-46a9-b558-14d5da92b860",
+        "name": "Phillip Wheeler",
+        "party": "Republican",
+        "current_role": {
+          "title": "Senator",
+          "org_classification": "upper",
+          "district": "31",
+          "division_id": "ocd-division/country:us/state:ky/sldu:31"
+        }
+      },
+      "primary": true,
+      "classification": "primary"
+    },
+    {
+      "id": "b1d7ec48-37e9-483f-8e55-188100b03ab6",
+      "name": "S. Madon",
+      "entity_type": "person",
+      "person": {
+        "id": "ocd-person/d7adea26-9f4f-477f-a0bd-4b29ae9072b4",
+        "name": "Scott Madon",
+        "party": "Republican",
+        "current_role": {
+          "title": "Senator",
+          "org_classification": "upper",
+          "district": "29",
+          "division_id": "ocd-division/country:us/state:ky/sldu:29"
+        }
+      },
+      "primary": true,
+      "classification": "primary"
+    },
+    {
+      "id": "32fba146-d54b-4628-970e-c210e82e9ca9",
+      "name": "S. Funke Frommeyer",
+      "entity_type": "person",
+      "person": {
+        "id": "ocd-person/b7112818-3357-413d-acae-a46bf3442b1d",
+        "name": "Shelley Frommeyer",
+        "party": "Republican",
+        "current_role": {
+          "title": "Senator",
+          "org_classification": "upper",
+          "district": "24",
+          "division_id": "ocd-division/country:us/state:ky/sldu:24"
+        }
+      },
+      "primary": true,
+      "classification": "primary"
+    },
+    {
+      "id": "9c34c84c-2ccb-4a90-b108-b8cc6a259425",
+      "name": "R. Mills",
+      "entity_type": "person",
+      "person": {
+        "id": "ocd-person/366daab1-a877-49b9-86b8-e3c497143bf0",
+        "name": "Robby Mills",
+        "party": "Republican",
+        "current_role": {
+          "title": "Senator",
+          "org_classification": "upper",
+          "district": "4",
+          "division_id": "ocd-division/country:us/state:ky/sldu:4"
+        }
+      },
+      "primary": true,
+      "classification": "primary"
+    },
+    {
+      "id": "ca1e0fbd-d1bd-455d-8ce0-97ed2b3da72a",
+      "name": "R. Webb",
+      "entity_type": "person",
+      "person": {
+        "id": "ocd-person/42990da5-7020-4327-bbd8-496955b00040",
+        "name": "Robin Webb",
+        "party": "Republican",
+        "current_role": {
+          "title": "Senator",
+          "org_classification": "upper",
+          "district": "18",
+          "division_id": "ocd-division/country:us/state:ky/sldu:18"
+        }
+      },
+      "primary": true,
+      "classification": "primary"
+    }
+  ],
+  "actions": [
+    {
+      "id": "dd60f617-df30-4af3-aec3-42f5011e235f",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "passed 35-1",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [
+        "passage"
+      ],
+      "order": 32,
+      "related_entities": []
+    },
+    {
+      "id": "f2470cef-c13f-4d0d-b0d0-efb50dba344e",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "enrolled, signed by President of the Senate",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [
+        "passage"
+      ],
+      "order": 33,
+      "related_entities": []
+    },
+    {
+      "id": "08c3bda3-6354-47f7-abee-3886493e78ab",
+      "organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "description": "enrolled, signed by Speaker of the House",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [
+        "passage"
+      ],
+      "order": 34,
+      "related_entities": []
+    },
+    {
+      "id": "ce7467e7-62ac-4b2f-bea0-83bfc855f7a3",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "delivered to Governor",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [],
+      "order": 35,
+      "related_entities": []
+    },
+    {
+      "id": "e0432b0b-d112-4865-b0ef-57017b977975",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "line items vetoed",
+      "date": "2026-04-27T04:00:00+00:00",
+      "classification": [
+        "executive-veto-line-item"
+      ],
+      "order": 36,
+      "related_entities": []
+    },
+    {
+      "id": "dfbe8b16-98b7-4ac6-9906-e71eb93fcfb2",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "delivered to Secretary of State",
+      "date": "2026-04-27T04:00:00+00:00",
+      "classification": [
+        "became-law"
+      ],
+      "order": 37,
+      "related_entities": []
+    },
+    {
+      "id": "a02360c8-ad04-4e8a-bad4-6c5ac95e442d",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "introduced in Senate",
+      "date": "2026-02-13T05:00:00+00:00",
+      "classification": [
+        "introduction"
+      ],
+      "order": 0,
+      "related_entities": []
+    },
+    {
+      "id": "84d64139-347c-44a3-8070-a96d9a11235a",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "to Committee on Committees (S)",
+      "date": "2026-02-13T05:00:00+00:00",
+      "classification": [
+        "referral-committee"
+      ],
+      "order": 1,
+      "related_entities": []
+    },
+    {
+      "id": "5fb32704-4ce1-444d-a51c-8369b5a185be",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "to Economic Development, Tourism, & Labor (S)",
+      "date": "2026-02-17T05:00:00+00:00",
+      "classification": [
+        "referral-committee"
+      ],
+      "order": 2,
+      "related_entities": []
+    },
+    {
+      "id": "e486502c-eb50-4ff8-aacf-13a34f14fe95",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "reported favorably, 1st reading, to Calendar with Committee Substitute (1) and Committee Amendment (1-title)",
+      "date": "2026-02-26T05:00:00+00:00",
+      "classification": [
+        "committee-passage"
+      ],
+      "order": 3,
+      "related_entities": []
+    },
+    {
+      "id": "510e3fcb-2d78-4462-a6da-efbbcb423796",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "2nd reading, to Rules",
+      "date": "2026-02-27T05:00:00+00:00",
+      "classification": [
+        "reading-2"
+      ],
+      "order": 4,
+      "related_entities": []
+    },
+    {
+      "id": "e3c99a49-822e-4d0e-bae7-37624b4ecc88",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "floor amendment (1) filed to Committee Substitute",
+      "date": "2026-03-03T05:00:00+00:00",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "order": 5,
+      "related_entities": []
+    },
+    {
+      "id": "69f76306-b7cf-48a4-9f9b-3a454e2e6c8b",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "posted for passage in the Regular Orders of the Day for Thursday, March 05 2026",
+      "date": "2026-03-04T05:00:00+00:00",
+      "classification": [],
+      "order": 6,
+      "related_entities": []
+    },
+    {
+      "id": "e35fec55-4114-4794-9713-8d65770134af",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "passed over and retained in the Orders of the Day",
+      "date": "2026-03-05T05:00:00+00:00",
+      "classification": [
+        "passage"
+      ],
+      "order": 7,
+      "related_entities": []
+    },
+    {
+      "id": "71b1ccf6-92ae-4056-9b8d-13c9d9dbf065",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "floor amendment (2) filed to Committee Substitute",
+      "date": "2026-03-05T05:00:00+00:00",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "order": 8,
+      "related_entities": []
+    },
+    {
+      "id": "00a12b97-b514-4024-af46-6e12e4a3251a",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "3rd reading, passed 36-0 with Committee Substitute (1),  Floor Amendments (2) and (1) and  Committee Amendment (1-title)",
+      "date": "2026-03-06T05:00:00+00:00",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "order": 9,
+      "related_entities": []
+    },
+    {
+      "id": "53ccf4ea-428c-42dc-b5e9-14ec6276a596",
+      "organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "description": "received in House",
+      "date": "2026-03-10T04:00:00+00:00",
+      "classification": [],
+      "order": 10,
+      "related_entities": []
+    },
+    {
+      "id": "6696bd98-8418-40bf-a58a-31e75f3074b4",
+      "organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "description": "to Committee on Committees (H)",
+      "date": "2026-03-10T04:00:00+00:00",
+      "classification": [
+        "referral-committee"
+      ],
+      "order": 11,
+      "related_entities": []
+    },
+    {
+      "id": "b13ddf41-e890-4d19-bf6b-a5828703107d",
+      "organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "description": "to Appropriations & Revenue (H)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "classification": [
+        "referral-committee"
+      ],
+      "order": 12,
+      "related_entities": []
+    },
+    {
+      "id": "7d2d41b7-f9b9-404c-9da7-f573dc63729e",
+      "organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "description": "taken from Appropriations & Revenue (H)",
+      "date": "2026-03-25T04:00:00+00:00",
+      "classification": [],
+      "order": 13,
+      "related_entities": []
+    },
+    {
+      "id": "9e8499d8-64f4-48bb-99c0-7bb2975a2e39",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "1st reading",
+      "date": "2026-03-25T04:00:00+00:00",
+      "classification": [
+        "reading-1"
+      ],
+      "order": 14,
+      "related_entities": []
+    },
+    {
+      "id": "ffa67a59-7dfd-431f-addd-18c3c4aee23c",
+      "organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "description": "returned to Appropriations & Revenue (H)",
+      "date": "2026-03-25T04:00:00+00:00",
+      "classification": [],
+      "order": 15,
+      "related_entities": []
+    },
+    {
+      "id": "39482955-9bda-40a8-a680-2eb950269580",
+      "organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "description": "taken from Appropriations & Revenue (H)",
+      "date": "2026-03-26T04:00:00+00:00",
+      "classification": [],
+      "order": 16,
+      "related_entities": []
+    },
+    {
+      "id": "7c5f1f1f-70a8-4000-9018-dad44e50a66a",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "2nd reading",
+      "date": "2026-03-26T04:00:00+00:00",
+      "classification": [
+        "reading-2"
+      ],
+      "order": 17,
+      "related_entities": []
+    },
+    {
+      "id": "5db37db1-9d21-47f9-a118-2230e05f00dc",
+      "organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "description": "returned to Appropriations & Revenue (H)",
+      "date": "2026-03-26T04:00:00+00:00",
+      "classification": [],
+      "order": 18,
+      "related_entities": []
+    },
+    {
+      "id": "b398843a-96f0-497a-9bed-390140f58d17",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "reported favorably, to Rules with Committee Substitute (1) and Committee Amendment (1-title)",
+      "date": "2026-03-27T04:00:00+00:00",
+      "classification": [
+        "committee-passage"
+      ],
+      "order": 19,
+      "related_entities": []
+    },
+    {
+      "id": "5096352e-f981-4eb2-8aba-8fc4958a65b8",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "posted for passage in the Regular Orders of the Day for Tuesday, March 31 2026",
+      "date": "2026-03-27T04:00:00+00:00",
+      "classification": [],
+      "order": 20,
+      "related_entities": []
+    },
+    {
+      "id": "e93c24b6-ea39-4115-a4c2-b092a151bec9",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "floor amendments (1) and (2) filed to Committee Substitute",
+      "date": "2026-03-27T04:00:00+00:00",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "order": 21,
+      "related_entities": []
+    },
+    {
+      "id": "55081b2a-4588-4d8d-bffd-4e66bb92fc2e",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "taken from the Orders of the Day",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [],
+      "order": 22,
+      "related_entities": []
+    },
+    {
+      "id": "47437f60-611c-47a3-92dd-c10e0adc4107",
+      "organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "description": "recommitted to Appropriations & Revenue (H)",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [],
+      "order": 23,
+      "related_entities": []
+    },
+    {
+      "id": "f50b9a6b-3a48-486a-a75d-10c4ca9b0f14",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "reported favorably, to Rules with Committee Substitute (2) and Committee Amendment (2-title)",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [
+        "committee-passage"
+      ],
+      "order": 24,
+      "related_entities": []
+    },
+    {
+      "id": "1cde216b-539f-4812-9d0c-c0823c80bd57",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "taken from Rules",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [],
+      "order": 25,
+      "related_entities": []
+    },
+    {
+      "id": "e71e0514-03b6-45ac-99fc-9b620e584f83",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "placed in the Orders of the Day",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [],
+      "order": 26,
+      "related_entities": []
+    },
+    {
+      "id": "927eaf62-38f1-482e-9437-06b5a393da2b",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "3rd reading, passed 82-7 with Committee Substitute (2) and  Committee Amendment (2-title)",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "order": 27,
+      "related_entities": []
+    },
+    {
+      "id": "a237bc11-79ac-47f5-a893-8dd44b20672b",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "received in Senate",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [],
+      "order": 28,
+      "related_entities": []
+    },
+    {
+      "id": "e39d4dc2-57e8-414e-8cd7-07e95e143cd6",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "to Rules (S)",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [
+        "referral-committee"
+      ],
+      "order": 29,
+      "related_entities": []
+    },
+    {
+      "id": "283163bc-a52f-4473-9c59-ca9eb2fc75e6",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "posted for passage for concurrence in House Committee Substitute (2) and  Committee Amendment (2-title)",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [],
+      "order": 30,
+      "related_entities": []
+    },
+    {
+      "id": "a5d5d691-08e7-480f-9206-45dd6bdccf39",
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "description": "Senate concurred in Committee Substitute (2) and  Committee Amendment (2-title)",
+      "date": "2026-04-15T04:00:00+00:00",
+      "classification": [],
+      "order": 31,
+      "related_entities": []
+    }
+  ],
+  "votes": [
+    {
+      "id": "ocd-vote/48bf0b32-3650-46b0-b412-355fe211bb9a",
+      "motion_text": "PASS SB 197 w/ SCS 1, SFA 2, SFA 1, SCA 1 (T)",
+      "motion_classification": [
+        "passage"
+      ],
+      "start_date": "2026-03-06T10:16:45-06:00",
+      "result": "pass",
+      "identifier": "",
+      "extras": {},
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "votes": [
+        {
+          "id": "15583c8b-994b-4dd8-b4e8-bd47061f39be",
+          "option": "not voting",
+          "voter_name": "Higdon",
+          "voter": {
+            "id": "ocd-person/4042b29b-c6bb-407e-856d-9197a03d55ff",
+            "name": "Jimmy Higdon",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "14",
+              "division_id": "ocd-division/country:us/state:ky/sldu:14"
+            }
+          }
+        },
+        {
+          "id": "5b0bc0a9-2d8e-4f00-b39e-9e43dd9551aa",
+          "option": "not voting",
+          "voter_name": "Funke Frommeyer",
+          "voter": {
+            "id": "ocd-person/b7112818-3357-413d-acae-a46bf3442b1d",
+            "name": "Shelley Frommeyer",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "24",
+              "division_id": "ocd-division/country:us/state:ky/sldu:24"
+            }
+          }
+        },
+        {
+          "id": "31d0f75b-adee-49ab-9c8f-358f5e3ca7ef",
+          "option": "yes",
+          "voter_name": "Wise",
+          "voter": {
+            "id": "ocd-person/32b5035e-6d1a-44b8-9f7a-4173a1cdb940",
+            "name": "Max Wise",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "16",
+              "division_id": "ocd-division/country:us/state:ky/sldu:16"
+            }
+          }
+        },
+        {
+          "id": "72ba2dac-96d5-4431-a4e7-278a8d0d0473",
+          "option": "yes",
+          "voter_name": "Stivers",
+          "voter": {
+            "id": "ocd-person/8659c7e3-ec01-4c40-b7ee-d21f37facff5",
+            "name": "Robert Stivers",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "25",
+              "division_id": "ocd-division/country:us/state:ky/sldu:25"
+            }
+          }
+        },
+        {
+          "id": "38fa734c-8f9b-4b07-84c9-951ea35bbd93",
+          "option": "yes",
+          "voter_name": "Mills",
+          "voter": {
+            "id": "ocd-person/366daab1-a877-49b9-86b8-e3c497143bf0",
+            "name": "Robby Mills",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "4",
+              "division_id": "ocd-division/country:us/state:ky/sldu:4"
+            }
+          }
+        },
+        {
+          "id": "314d5381-61d6-4b16-a513-0918b9309707",
+          "option": "yes",
+          "voter_name": "Elkins",
+          "voter": {
+            "id": "ocd-person/139d004c-7a19-4153-a58b-919a1b70180e",
+            "name": "Greg Elkins",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "28",
+              "division_id": "ocd-division/country:us/state:ky/sldu:28"
+            }
+          }
+        },
+        {
+          "id": "45f9a72c-d1ae-4d0a-9051-8fda79bfe96a",
+          "option": "yes",
+          "voter_name": "Wilson",
+          "voter": {
+            "id": "ocd-person/716d7b2c-0576-4bf8-b5a9-b6fa2c1f8024",
+            "name": "Nick Wilson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "82",
+              "division_id": "ocd-division/country:us/state:ky/sldl:82"
+            }
+          }
+        },
+        {
+          "id": "5b85506e-fe85-4419-85dd-546ffaeac85c",
+          "option": "yes",
+          "voter_name": "Smith",
+          "voter": {
+            "id": "ocd-person/5764151d-bf80-422b-bc46-93ac2be910cc",
+            "name": "Tom Smith",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "86",
+              "division_id": "ocd-division/country:us/state:ky/sldl:86"
+            }
+          }
+        },
+        {
+          "id": "2675bb63-ae39-4f2b-aca5-65bd2dd0fd11",
+          "option": "yes",
+          "voter_name": "Meredith",
+          "voter": {
+            "id": "ocd-person/f013115a-6bbc-48ac-aab4-7949dd902701",
+            "name": "Michael Meredith",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "19",
+              "division_id": "ocd-division/country:us/state:ky/sldl:19"
+            }
+          }
+        },
+        {
+          "id": "1fa27f34-20c5-40c9-a034-d7ea5990cc64",
+          "option": "yes",
+          "voter_name": "Douglas",
+          "voter": {
+            "id": "ocd-person/a7cd8577-c315-4bf0-b95f-3259ab7dfce7",
+            "name": "Don Douglas",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "22",
+              "division_id": "ocd-division/country:us/state:ky/sldu:22"
+            }
+          }
+        },
+        {
+          "id": "a07b12ad-8060-4874-b4ef-ba3741b66c7f",
+          "option": "yes",
+          "voter_name": "Williams",
+          "voter": {
+            "id": "ocd-person/66619aa2-a521-4318-b5d7-b4c36954b43d",
+            "name": "Wade Williams",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "4",
+              "division_id": "ocd-division/country:us/state:ky/sldl:4"
+            }
+          }
+        },
+        {
+          "id": "a659d24b-f0c6-4e99-850f-586d0edc7b81",
+          "option": "yes",
+          "voter_name": "Richardson",
+          "voter": {
+            "id": "ocd-person/3109e3ae-10c1-417e-bf7f-bf4f539bd3c8",
+            "name": "Craig Richardson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "3",
+              "division_id": "ocd-division/country:us/state:ky/sldu:3"
+            }
+          }
+        },
+        {
+          "id": "28f6fddc-6179-4341-a6b2-b51d92e82a29",
+          "option": "yes",
+          "voter_name": "McDaniel",
+          "voter": {
+            "id": "ocd-person/b32a95c9-42ba-449b-8581-97b9cef73c6a",
+            "name": "Chris McDaniel",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "23",
+              "division_id": "ocd-division/country:us/state:ky/sldu:23"
+            }
+          }
+        },
+        {
+          "id": "208dc130-43b9-47d9-82d1-e3ad719c81a2",
+          "option": "yes",
+          "voter_name": "Deneen",
+          "voter": {
+            "id": "ocd-person/b76a3218-b1bd-475c-a775-7a6cbefbc1f3",
+            "name": "Matt Deneen",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "10",
+              "division_id": "ocd-division/country:us/state:ky/sldu:10"
+            }
+          }
+        },
+        {
+          "id": "3ad79dc5-c8bc-4bda-83c7-83eb09431f9c",
+          "option": "yes",
+          "voter_name": "Wheeler",
+          "voter": {
+            "id": "ocd-person/18063ded-67cb-46a9-b558-14d5da92b860",
+            "name": "Phillip Wheeler",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "31",
+              "division_id": "ocd-division/country:us/state:ky/sldu:31"
+            }
+          }
+        },
+        {
+          "id": "dbf6243d-27ef-4320-8201-765b116c121d",
+          "option": "yes",
+          "voter_name": "Reed",
+          "voter": {
+            "id": "ocd-person/e46eb488-2e34-4f33-840f-917496473c64",
+            "name": "Aaron Reed",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "7",
+              "division_id": "ocd-division/country:us/state:ky/sldu:7"
+            }
+          }
+        },
+        {
+          "id": "0fa87003-7f96-40ba-81a2-3e68bb7e004f",
+          "option": "yes",
+          "voter_name": "Mays Bledsoe",
+          "voter": {
+            "id": "ocd-person/7c03bd44-8541-49b0-9794-a9e606c292ce",
+            "name": "Amanda Bledsoe",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "12",
+              "division_id": "ocd-division/country:us/state:ky/sldu:12"
+            }
+          }
+        },
+        {
+          "id": "fc6ed4b4-e5b1-4635-8b09-32f344ff8e6e",
+          "option": "yes",
+          "voter_name": "Clemons",
+          "voter": {
+            "id": "ocd-person/b0cb8f76-4b91-472c-97e2-106ef21f3342",
+            "name": "Gary Clemons",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "37",
+              "division_id": "ocd-division/country:us/state:ky/sldu:37"
+            }
+          }
+        },
+        {
+          "id": "fbe3b3f4-5772-4bce-8436-d7f8609ee4d9",
+          "option": "yes",
+          "voter_name": "West",
+          "voter": {
+            "id": "ocd-person/1f3bbab4-2be0-496c-9c3b-b8f340f6b404",
+            "name": "Steve West",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "27",
+              "division_id": "ocd-division/country:us/state:ky/sldu:27"
+            }
+          }
+        },
+        {
+          "id": "60eac7df-4a7c-409b-9ebc-9950eab872ef",
+          "option": "yes",
+          "voter_name": "Rawlings",
+          "voter": {
+            "id": "ocd-person/b702771e-135c-4444-b148-a321ee8088b2",
+            "name": "Steve Rawlings",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "11",
+              "division_id": "ocd-division/country:us/state:ky/sldu:11"
+            }
+          }
+        },
+        {
+          "id": "5e0d1d51-4098-4747-85e8-7f22aeb489cf",
+          "option": "yes",
+          "voter_name": "Madon",
+          "voter": {
+            "id": "ocd-person/d7adea26-9f4f-477f-a0bd-4b29ae9072b4",
+            "name": "Scott Madon",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "29",
+              "division_id": "ocd-division/country:us/state:ky/sldu:29"
+            }
+          }
+        },
+        {
+          "id": "556c79ee-9405-4f77-8a11-5479ea64b694",
+          "option": "yes",
+          "voter_name": "ChambersArmstrong",
+          "voter": {
+            "id": "ocd-person/8dbecabb-ef15-4925-8e50-26331e738a05",
+            "name": "Cassie Armstrong",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "19",
+              "division_id": "ocd-division/country:us/state:ky/sldu:19"
+            }
+          }
+        },
+        {
+          "id": "f4aa1005-b607-493a-95fa-063c4640afdd",
+          "option": "yes",
+          "voter_name": "Webb",
+          "voter": {
+            "id": "ocd-person/42990da5-7020-4327-bbd8-496955b00040",
+            "name": "Robin Webb",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "18",
+              "division_id": "ocd-division/country:us/state:ky/sldu:18"
+            }
+          }
+        },
+        {
+          "id": "178e5a36-1f2c-421f-930d-b065e326d471",
+          "option": "yes",
+          "voter_name": "Raque Adams",
+          "voter": {
+            "id": "ocd-person/38ae421f-f4fa-40f6-b025-a75bc6b42f35",
+            "name": "Julie Adams",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "36",
+              "division_id": "ocd-division/country:us/state:ky/sldu:36"
+            }
+          }
+        },
+        {
+          "id": "b5a0d85f-4762-41ba-9747-d686017c24cd",
+          "option": "yes",
+          "voter_name": "Howell",
+          "voter": {
+            "id": "ocd-person/a796965c-0c0f-43b2-975b-d9726b34acd8",
+            "name": "Jason Howell",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "1",
+              "division_id": "ocd-division/country:us/state:ky/sldu:1"
+            }
+          }
+        },
+        {
+          "id": "3b8ac88e-4ccf-428c-9beb-826fcdc6f8d8",
+          "option": "yes",
+          "voter_name": "Carroll",
+          "voter": {
+            "id": "ocd-person/0ec7d376-4235-44e7-a6d7-d63962dff167",
+            "name": "Danny Carroll",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "2",
+              "division_id": "ocd-division/country:us/state:ky/sldu:2"
+            }
+          }
+        },
+        {
+          "id": "aee56a27-2119-42f1-9227-976fd176fa53",
+          "option": "yes",
+          "voter_name": "Tichenor",
+          "voter": {
+            "id": "ocd-person/db2324a8-1ae2-4e3a-81e5-ac83cb7bbb05",
+            "name": "Lindsey Tichenor",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "6",
+              "division_id": "ocd-division/country:us/state:ky/sldu:6"
+            }
+          }
+        },
+        {
+          "id": "ffca0fca-1578-4aec-b28a-f8319fd2233f",
+          "option": "yes",
+          "voter_name": "Nunn",
+          "voter": {
+            "id": "ocd-person/86bd13c4-c404-4a34-aaf4-561621f2b2d8",
+            "name": "Matt Nunn",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "17",
+              "division_id": "ocd-division/country:us/state:ky/sldu:17"
+            }
+          }
+        },
+        {
+          "id": "71a6653b-caf0-45c9-b3ed-51d3a3c282c2",
+          "option": "yes",
+          "voter_name": "Herron",
+          "voter": {
+            "id": "ocd-person/15b970f1-bd55-4876-80d5-13570b8f1a1a",
+            "name": "Keturah Herron",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "35",
+              "division_id": "ocd-division/country:us/state:ky/sldu:35"
+            }
+          }
+        },
+        {
+          "id": "8718bd7f-d2e0-4aa1-a85b-ca44d6e18639",
+          "option": "yes",
+          "voter_name": "Carpenter",
+          "voter": {
+            "id": "ocd-person/b2299f51-c122-46ac-9937-3a6a7b682bb8",
+            "name": "Jared Carpenter",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "34",
+              "division_id": "ocd-division/country:us/state:ky/sldu:34"
+            }
+          }
+        },
+        {
+          "id": "0180f0ea-4e8a-4352-afaf-c25b342f2c41",
+          "option": "yes",
+          "voter_name": "Thomas",
+          "voter": {
+            "id": "ocd-person/ec846db3-c75b-4460-ba72-3e2b3fd9e04d",
+            "name": "Walker Thomas",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "8",
+              "division_id": "ocd-division/country:us/state:ky/sldl:8"
+            }
+          }
+        },
+        {
+          "id": "b56bd8b8-5977-45d0-be37-1bcfabde62c8",
+          "option": "yes",
+          "voter_name": "Nemes",
+          "voter": {
+            "id": "ocd-person/c56fc398-975e-47b9-919a-fbdd0c9f721d",
+            "name": "Jason Nemes",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "33",
+              "division_id": "ocd-division/country:us/state:ky/sldl:33"
+            }
+          }
+        },
+        {
+          "id": "950e3b03-d864-4f31-8662-1b8857e0219e",
+          "option": "yes",
+          "voter_name": "Givens",
+          "voter": {
+            "id": "ocd-person/5594a97f-7358-427e-af84-43150a21c97e",
+            "name": "David Givens",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "9",
+              "division_id": "ocd-division/country:us/state:ky/sldu:9"
+            }
+          }
+        },
+        {
+          "id": "d5e727d6-8101-4452-a80e-12802f945d95",
+          "option": "yes",
+          "voter_name": "Boswell",
+          "voter": {
+            "id": "ocd-person/2d6a7358-f685-4476-aa31-b92cf72b11ec",
+            "name": "Gary Boswell",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "8",
+              "division_id": "ocd-division/country:us/state:ky/sldu:8"
+            }
+          }
+        },
+        {
+          "id": "56f7c9eb-5d3b-4231-a3ef-79030fb5806c",
+          "option": "yes",
+          "voter_name": "Storm",
+          "voter": {
+            "id": "ocd-person/257271f3-68b1-4481-94e5-f98300493413",
+            "name": "Brandon Storm",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "21",
+              "division_id": "ocd-division/country:us/state:ky/sldu:21"
+            }
+          }
+        },
+        {
+          "id": "66b49f68-f618-4aed-ae38-6b55c660db08",
+          "option": "yes",
+          "voter_name": "Neal",
+          "voter": {
+            "id": "ocd-person/0d92a09c-ce23-46cd-9582-b7d1b08d76dd",
+            "name": "Gerald Neal",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "33",
+              "division_id": "ocd-division/country:us/state:ky/sldu:33"
+            }
+          }
+        },
+        {
+          "id": "e984151d-0e55-4607-bb08-296f5da43fe7",
+          "option": "yes",
+          "voter_name": "Girdler",
+          "voter": {
+            "id": "ocd-person/34ed9881-46b8-41ba-b625-3d350140d2b9",
+            "name": "Rick Girdler",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "15",
+              "division_id": "ocd-division/country:us/state:ky/sldu:15"
+            }
+          }
+        },
+        {
+          "id": "333dc9e4-8dd5-4618-96c0-cb674963e1f2",
+          "option": "yes",
+          "voter_name": "Berg",
+          "voter": {
+            "id": "ocd-person/b45a3156-f662-4884-9c13-b33a4c2d9105",
+            "name": "Karen Berg",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "26",
+              "division_id": "ocd-division/country:us/state:ky/sldu:26"
+            }
+          }
+        }
+      ],
+      "counts": [
+        {
+          "option": "yes",
+          "value": 36
+        },
+        {
+          "option": "no",
+          "value": 0
+        },
+        {
+          "option": "other",
+          "value": 2
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://apps.legislature.ky.gov/record/26RS/sb197/vote_history.pdf",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ocd-vote/7081687b-f142-4da8-9fac-4fae8b8ab04e",
+      "motion_text": "FINAL PASSAGE OF SB 197 w/ HCS 2, HCA 2 (T)",
+      "motion_classification": [
+        "passage"
+      ],
+      "start_date": "2026-04-15T20:16:19-05:00",
+      "result": "pass",
+      "identifier": "",
+      "extras": {},
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "votes": [
+        {
+          "id": "a85fc844-a391-4087-8122-c93587a10a6c",
+          "option": "not voting",
+          "voter_name": "Tichenor",
+          "voter": {
+            "id": "ocd-person/db2324a8-1ae2-4e3a-81e5-ac83cb7bbb05",
+            "name": "Lindsey Tichenor",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "6",
+              "division_id": "ocd-division/country:us/state:ky/sldu:6"
+            }
+          }
+        },
+        {
+          "id": "ceab2589-b3e8-4d60-b68f-e4fdb643b209",
+          "option": "not voting",
+          "voter_name": "Girdler",
+          "voter": {
+            "id": "ocd-person/34ed9881-46b8-41ba-b625-3d350140d2b9",
+            "name": "Rick Girdler",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "15",
+              "division_id": "ocd-division/country:us/state:ky/sldu:15"
+            }
+          }
+        },
+        {
+          "id": "907b278c-1187-4b0d-b2a6-de5bc9d94161",
+          "option": "no",
+          "voter_name": "West",
+          "voter": {
+            "id": "ocd-person/1f3bbab4-2be0-496c-9c3b-b8f340f6b404",
+            "name": "Steve West",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "27",
+              "division_id": "ocd-division/country:us/state:ky/sldu:27"
+            }
+          }
+        },
+        {
+          "id": "febf4b07-71a0-4b78-999d-de9ec97b5fb2",
+          "option": "yes",
+          "voter_name": "Smith",
+          "voter": {
+            "id": "ocd-person/5764151d-bf80-422b-bc46-93ac2be910cc",
+            "name": "Tom Smith",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "86",
+              "division_id": "ocd-division/country:us/state:ky/sldl:86"
+            }
+          }
+        },
+        {
+          "id": "b306af24-bbfc-494e-8d26-7803446ab8b5",
+          "option": "yes",
+          "voter_name": "Meredith",
+          "voter": {
+            "id": "ocd-person/f013115a-6bbc-48ac-aab4-7949dd902701",
+            "name": "Michael Meredith",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "19",
+              "division_id": "ocd-division/country:us/state:ky/sldl:19"
+            }
+          }
+        },
+        {
+          "id": "299d6d09-3a61-435c-8d43-879d282c9d68",
+          "option": "yes",
+          "voter_name": "Elkins",
+          "voter": {
+            "id": "ocd-person/139d004c-7a19-4153-a58b-919a1b70180e",
+            "name": "Greg Elkins",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "28",
+              "division_id": "ocd-division/country:us/state:ky/sldu:28"
+            }
+          }
+        },
+        {
+          "id": "87dfe9ba-8ded-4610-80a6-153bfd0356f1",
+          "option": "yes",
+          "voter_name": "Wise",
+          "voter": {
+            "id": "ocd-person/32b5035e-6d1a-44b8-9f7a-4173a1cdb940",
+            "name": "Max Wise",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "16",
+              "division_id": "ocd-division/country:us/state:ky/sldu:16"
+            }
+          }
+        },
+        {
+          "id": "f7982854-71db-4c1d-bd09-2a2d2b9d73d5",
+          "option": "yes",
+          "voter_name": "Richardson",
+          "voter": {
+            "id": "ocd-person/3109e3ae-10c1-417e-bf7f-bf4f539bd3c8",
+            "name": "Craig Richardson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "3",
+              "division_id": "ocd-division/country:us/state:ky/sldu:3"
+            }
+          }
+        },
+        {
+          "id": "4b42b1ad-a7cd-4996-b0a1-242acce45785",
+          "option": "yes",
+          "voter_name": "McDaniel",
+          "voter": {
+            "id": "ocd-person/b32a95c9-42ba-449b-8581-97b9cef73c6a",
+            "name": "Chris McDaniel",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "23",
+              "division_id": "ocd-division/country:us/state:ky/sldu:23"
+            }
+          }
+        },
+        {
+          "id": "87ddb73b-95f1-4813-93c2-e83872bc53e6",
+          "option": "yes",
+          "voter_name": "Douglas",
+          "voter": {
+            "id": "ocd-person/a7cd8577-c315-4bf0-b95f-3259ab7dfce7",
+            "name": "Don Douglas",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "22",
+              "division_id": "ocd-division/country:us/state:ky/sldu:22"
+            }
+          }
+        },
+        {
+          "id": "4486a83e-75b9-4b09-8519-b4d3def71685",
+          "option": "yes",
+          "voter_name": "Wilson",
+          "voter": {
+            "id": "ocd-person/716d7b2c-0576-4bf8-b5a9-b6fa2c1f8024",
+            "name": "Nick Wilson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "82",
+              "division_id": "ocd-division/country:us/state:ky/sldl:82"
+            }
+          }
+        },
+        {
+          "id": "0ebeca4b-add7-4780-b917-c6c419a776e2",
+          "option": "yes",
+          "voter_name": "Reed",
+          "voter": {
+            "id": "ocd-person/e46eb488-2e34-4f33-840f-917496473c64",
+            "name": "Aaron Reed",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "7",
+              "division_id": "ocd-division/country:us/state:ky/sldu:7"
+            }
+          }
+        },
+        {
+          "id": "ef0cbcc3-f034-462f-aa51-faf9e2b77cb0",
+          "option": "yes",
+          "voter_name": "Mays Bledsoe",
+          "voter": {
+            "id": "ocd-person/7c03bd44-8541-49b0-9794-a9e606c292ce",
+            "name": "Amanda Bledsoe",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "12",
+              "division_id": "ocd-division/country:us/state:ky/sldu:12"
+            }
+          }
+        },
+        {
+          "id": "a26c58cd-d7ad-434a-a90b-1d4bd757936c",
+          "option": "yes",
+          "voter_name": "Deneen",
+          "voter": {
+            "id": "ocd-person/b76a3218-b1bd-475c-a775-7a6cbefbc1f3",
+            "name": "Matt Deneen",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "10",
+              "division_id": "ocd-division/country:us/state:ky/sldu:10"
+            }
+          }
+        },
+        {
+          "id": "5b24727b-f1d1-475b-9e95-1057feb8bceb",
+          "option": "yes",
+          "voter_name": "Williams",
+          "voter": {
+            "id": "ocd-person/66619aa2-a521-4318-b5d7-b4c36954b43d",
+            "name": "Wade Williams",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "4",
+              "division_id": "ocd-division/country:us/state:ky/sldl:4"
+            }
+          }
+        },
+        {
+          "id": "db665eea-bf26-4dab-9ba6-5404bc3fe300",
+          "option": "yes",
+          "voter_name": "Rawlings",
+          "voter": {
+            "id": "ocd-person/b702771e-135c-4444-b148-a321ee8088b2",
+            "name": "Steve Rawlings",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "11",
+              "division_id": "ocd-division/country:us/state:ky/sldu:11"
+            }
+          }
+        },
+        {
+          "id": "b6b15fcd-4776-4c02-b9c4-e5f5fb38c781",
+          "option": "yes",
+          "voter_name": "Madon",
+          "voter": {
+            "id": "ocd-person/d7adea26-9f4f-477f-a0bd-4b29ae9072b4",
+            "name": "Scott Madon",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "29",
+              "division_id": "ocd-division/country:us/state:ky/sldu:29"
+            }
+          }
+        },
+        {
+          "id": "21d75362-c49a-462f-8a5d-45828857deae",
+          "option": "yes",
+          "voter_name": "Clemons",
+          "voter": {
+            "id": "ocd-person/b0cb8f76-4b91-472c-97e2-106ef21f3342",
+            "name": "Gary Clemons",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "37",
+              "division_id": "ocd-division/country:us/state:ky/sldu:37"
+            }
+          }
+        },
+        {
+          "id": "01c69959-d751-4332-8cc7-a027737c5a06",
+          "option": "yes",
+          "voter_name": "Wheeler",
+          "voter": {
+            "id": "ocd-person/18063ded-67cb-46a9-b558-14d5da92b860",
+            "name": "Phillip Wheeler",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "31",
+              "division_id": "ocd-division/country:us/state:ky/sldu:31"
+            }
+          }
+        },
+        {
+          "id": "df3576a8-b5d4-4990-81a5-a3d6e5c943dd",
+          "option": "yes",
+          "voter_name": "Raque Adams",
+          "voter": {
+            "id": "ocd-person/38ae421f-f4fa-40f6-b025-a75bc6b42f35",
+            "name": "Julie Adams",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "36",
+              "division_id": "ocd-division/country:us/state:ky/sldu:36"
+            }
+          }
+        },
+        {
+          "id": "3c86b5f2-f12d-4036-93ad-b9940317392a",
+          "option": "yes",
+          "voter_name": "Howell",
+          "voter": {
+            "id": "ocd-person/a796965c-0c0f-43b2-975b-d9726b34acd8",
+            "name": "Jason Howell",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "1",
+              "division_id": "ocd-division/country:us/state:ky/sldu:1"
+            }
+          }
+        },
+        {
+          "id": "2f8ffb42-95cd-4318-9fef-48e16047f6b5",
+          "option": "yes",
+          "voter_name": "ChambersArmstrong",
+          "voter": {
+            "id": "ocd-person/8dbecabb-ef15-4925-8e50-26331e738a05",
+            "name": "Cassie Armstrong",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "19",
+              "division_id": "ocd-division/country:us/state:ky/sldu:19"
+            }
+          }
+        },
+        {
+          "id": "711a82ce-1f3b-4f02-8fdd-4011ad077a35",
+          "option": "yes",
+          "voter_name": "Webb",
+          "voter": {
+            "id": "ocd-person/42990da5-7020-4327-bbd8-496955b00040",
+            "name": "Robin Webb",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "18",
+              "division_id": "ocd-division/country:us/state:ky/sldu:18"
+            }
+          }
+        },
+        {
+          "id": "89cdb28c-26d4-4f3d-9e61-7a9b09dfd826",
+          "option": "yes",
+          "voter_name": "Nunn",
+          "voter": {
+            "id": "ocd-person/86bd13c4-c404-4a34-aaf4-561621f2b2d8",
+            "name": "Matt Nunn",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "17",
+              "division_id": "ocd-division/country:us/state:ky/sldu:17"
+            }
+          }
+        },
+        {
+          "id": "348b7912-2288-4e9f-8fd7-d4a20e63df49",
+          "option": "yes",
+          "voter_name": "Higdon",
+          "voter": {
+            "id": "ocd-person/4042b29b-c6bb-407e-856d-9197a03d55ff",
+            "name": "Jimmy Higdon",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "14",
+              "division_id": "ocd-division/country:us/state:ky/sldu:14"
+            }
+          }
+        },
+        {
+          "id": "2c170d30-d4a2-4f26-a615-8fb90fa9f4c4",
+          "option": "yes",
+          "voter_name": "Carroll",
+          "voter": {
+            "id": "ocd-person/0ec7d376-4235-44e7-a6d7-d63962dff167",
+            "name": "Danny Carroll",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "2",
+              "division_id": "ocd-division/country:us/state:ky/sldu:2"
+            }
+          }
+        },
+        {
+          "id": "f0530a50-4600-43ff-b8d3-baa7f19c01d8",
+          "option": "yes",
+          "voter_name": "Thomas",
+          "voter": {
+            "id": "ocd-person/ec846db3-c75b-4460-ba72-3e2b3fd9e04d",
+            "name": "Walker Thomas",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "8",
+              "division_id": "ocd-division/country:us/state:ky/sldl:8"
+            }
+          }
+        },
+        {
+          "id": "0ce77673-da8e-4686-b8fd-1ba795f466b4",
+          "option": "yes",
+          "voter_name": "Nemes",
+          "voter": {
+            "id": "ocd-person/c56fc398-975e-47b9-919a-fbdd0c9f721d",
+            "name": "Jason Nemes",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "33",
+              "division_id": "ocd-division/country:us/state:ky/sldl:33"
+            }
+          }
+        },
+        {
+          "id": "99056444-71f7-4b66-859c-e0eafbf88e24",
+          "option": "yes",
+          "voter_name": "Herron",
+          "voter": {
+            "id": "ocd-person/15b970f1-bd55-4876-80d5-13570b8f1a1a",
+            "name": "Keturah Herron",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "35",
+              "division_id": "ocd-division/country:us/state:ky/sldu:35"
+            }
+          }
+        },
+        {
+          "id": "b0a586ec-3bff-4bb9-8e3a-83d27dcab5ed",
+          "option": "yes",
+          "voter_name": "Carpenter",
+          "voter": {
+            "id": "ocd-person/b2299f51-c122-46ac-9937-3a6a7b682bb8",
+            "name": "Jared Carpenter",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "34",
+              "division_id": "ocd-division/country:us/state:ky/sldu:34"
+            }
+          }
+        },
+        {
+          "id": "45d56f61-3d41-4895-8cb7-1b0cdde90d47",
+          "option": "yes",
+          "voter_name": "Storm",
+          "voter": {
+            "id": "ocd-person/257271f3-68b1-4481-94e5-f98300493413",
+            "name": "Brandon Storm",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "21",
+              "division_id": "ocd-division/country:us/state:ky/sldu:21"
+            }
+          }
+        },
+        {
+          "id": "b853fd18-aa2f-462b-9870-0bdf8b0bfbd1",
+          "option": "yes",
+          "voter_name": "Neal",
+          "voter": {
+            "id": "ocd-person/0d92a09c-ce23-46cd-9582-b7d1b08d76dd",
+            "name": "Gerald Neal",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "33",
+              "division_id": "ocd-division/country:us/state:ky/sldu:33"
+            }
+          }
+        },
+        {
+          "id": "fcacecd3-557a-4a9f-9e3c-d6e3469a038d",
+          "option": "yes",
+          "voter_name": "Givens",
+          "voter": {
+            "id": "ocd-person/5594a97f-7358-427e-af84-43150a21c97e",
+            "name": "David Givens",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "9",
+              "division_id": "ocd-division/country:us/state:ky/sldu:9"
+            }
+          }
+        },
+        {
+          "id": "62f73383-6916-4537-b8db-6cb2b571e015",
+          "option": "yes",
+          "voter_name": "Boswell",
+          "voter": {
+            "id": "ocd-person/2d6a7358-f685-4476-aa31-b92cf72b11ec",
+            "name": "Gary Boswell",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "8",
+              "division_id": "ocd-division/country:us/state:ky/sldu:8"
+            }
+          }
+        },
+        {
+          "id": "336b7b53-0f97-4741-be60-6a52920b4fd5",
+          "option": "yes",
+          "voter_name": "Stivers",
+          "voter": {
+            "id": "ocd-person/8659c7e3-ec01-4c40-b7ee-d21f37facff5",
+            "name": "Robert Stivers",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "25",
+              "division_id": "ocd-division/country:us/state:ky/sldu:25"
+            }
+          }
+        },
+        {
+          "id": "e942460f-f08f-4570-b251-01124d5416e2",
+          "option": "yes",
+          "voter_name": "Mills",
+          "voter": {
+            "id": "ocd-person/366daab1-a877-49b9-86b8-e3c497143bf0",
+            "name": "Robby Mills",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "4",
+              "division_id": "ocd-division/country:us/state:ky/sldu:4"
+            }
+          }
+        },
+        {
+          "id": "7c67082f-16a6-4ffa-a1f9-b93096343ee1",
+          "option": "yes",
+          "voter_name": "Funke Frommeyer",
+          "voter": {
+            "id": "ocd-person/b7112818-3357-413d-acae-a46bf3442b1d",
+            "name": "Shelley Frommeyer",
+            "party": "Republican",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "24",
+              "division_id": "ocd-division/country:us/state:ky/sldu:24"
+            }
+          }
+        },
+        {
+          "id": "e6d554be-d814-4251-8b19-44bb619ee949",
+          "option": "yes",
+          "voter_name": "Berg",
+          "voter": {
+            "id": "ocd-person/b45a3156-f662-4884-9c13-b33a4c2d9105",
+            "name": "Karen Berg",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Senator",
+              "org_classification": "upper",
+              "district": "26",
+              "division_id": "ocd-division/country:us/state:ky/sldu:26"
+            }
+          }
+        }
+      ],
+      "counts": [
+        {
+          "option": "yes",
+          "value": 35
+        },
+        {
+          "option": "no",
+          "value": 1
+        },
+        {
+          "option": "other",
+          "value": 2
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://apps.legislature.ky.gov/record/26RS/sb197/vote_history.pdf",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ocd-vote/07cbc828-deea-489a-90bb-9c5b998c2008",
+      "motion_text": "Pass",
+      "motion_classification": [
+        "passage"
+      ],
+      "start_date": "2026-04-15T17:04:45-05:00",
+      "result": "pass",
+      "identifier": "",
+      "extras": {},
+      "organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "votes": [
+        {
+          "id": "7903676a-8033-4d1d-aa04-10841ef7b992",
+          "option": "not voting",
+          "voter_name": "Donworth",
+          "voter": {
+            "id": "ocd-person/2b9ac6b5-8979-40b1-b2d1-8241b93061a7",
+            "name": "Anne Donworth",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "76",
+              "division_id": "ocd-division/country:us/state:ky/sldl:76"
+            }
+          }
+        },
+        {
+          "id": "2558ea66-eff2-4599-b645-7e70f592939c",
+          "option": "not voting",
+          "voter_name": "Tate",
+          "voter": {
+            "id": "ocd-person/911af3e2-7435-4f82-a477-99cb078ea99b",
+            "name": "Nancy Tate",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "27",
+              "division_id": "ocd-division/country:us/state:ky/sldl:27"
+            }
+          }
+        },
+        {
+          "id": "8368f53f-5f2d-4f11-a5f4-9d64af75eca3",
+          "option": "not voting",
+          "voter_name": "Roberts",
+          "voter": {
+            "id": "ocd-person/1c369689-ed04-484c-ab53-c50bd6011192",
+            "name": "T.J. Roberts",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "66",
+              "division_id": "ocd-division/country:us/state:ky/sldl:66"
+            }
+          }
+        },
+        {
+          "id": "24014f62-9e34-44f1-8ce7-e11cc4489f50",
+          "option": "not voting",
+          "voter_name": "Massaroni",
+          "voter": {
+            "id": "ocd-person/70d58905-dd36-4e9a-b281-639600e6b945",
+            "name": "Candy Massaroni",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "50",
+              "division_id": "ocd-division/country:us/state:ky/sldl:50"
+            }
+          }
+        },
+        {
+          "id": "bb4e7191-97cf-4dfd-a699-58068b138886",
+          "option": "not voting",
+          "voter_name": "Lewis S",
+          "voter": {
+            "id": "ocd-person/07773b3f-387f-4e4e-ba79-571940c186f0",
+            "name": "Scott Lewis",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "14",
+              "division_id": "ocd-division/country:us/state:ky/sldl:14"
+            }
+          }
+        },
+        {
+          "id": "18393ff1-6ccb-4cf7-95eb-e9bccd7241a7",
+          "option": "not voting",
+          "voter_name": "Doan",
+          "voter": {
+            "id": "ocd-person/a41c47ce-cbfa-49e3-8a21-5666f24ef96a",
+            "name": "Steven Doan",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "69",
+              "division_id": "ocd-division/country:us/state:ky/sldl:69"
+            }
+          }
+        },
+        {
+          "id": "8f494259-3f7c-45bf-895f-9fbbd5362709",
+          "option": "not voting",
+          "voter_name": "Stalker",
+          "voter": {
+            "id": "ocd-person/bb3f614a-7fa0-4e55-a76b-dedfea0fdaa9",
+            "name": "Sarah Stalker",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "34",
+              "division_id": "ocd-division/country:us/state:ky/sldl:34"
+            }
+          }
+        },
+        {
+          "id": "d653671c-be28-4c40-ae6d-d4e0f4dcac7f",
+          "option": "not voting",
+          "voter_name": "Proctor",
+          "voter": {
+            "id": "ocd-person/1ad4657b-84d4-4ce1-864e-2f1f75686cc7",
+            "name": "Marianne Proctor",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "60",
+              "division_id": "ocd-division/country:us/state:ky/sldl:60"
+            }
+          }
+        },
+        {
+          "id": "cfb4b403-90e7-4ac4-97cf-cd02b519ce83",
+          "option": "not voting",
+          "voter_name": "Maddox",
+          "voter": {
+            "id": "ocd-person/a8988de2-d65f-461c-96d1-4f1cddc6a969",
+            "name": "Savannah Maddox",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "61",
+              "division_id": "ocd-division/country:us/state:ky/sldl:61"
+            }
+          }
+        },
+        {
+          "id": "16ecd432-1316-4eb9-a3a5-d8e14e60d331",
+          "option": "not voting",
+          "voter_name": "Holloway",
+          "voter": {
+            "id": "ocd-person/5cb48d67-2db5-4b6e-89b1-1509110bd708",
+            "name": "Kim Holloway",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "2",
+              "division_id": "ocd-division/country:us/state:ky/sldl:2"
+            }
+          }
+        },
+        {
+          "id": "46045df7-7237-4114-93f5-42af46ec72d3",
+          "option": "not voting",
+          "voter_name": "Calloway",
+          "voter": {
+            "id": "ocd-person/f218fb5a-2336-4f82-b192-acc3893dabdf",
+            "name": "Josh Calloway",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "10",
+              "division_id": "ocd-division/country:us/state:ky/sldl:10"
+            }
+          }
+        },
+        {
+          "id": "b489d4a8-f54d-4c2e-b563-7bb0087c50eb",
+          "option": "no",
+          "voter_name": "Hancock",
+          "voter": {
+            "id": "ocd-person/4ce23404-165d-4c96-9130-56acaf2e73a7",
+            "name": "Erika Hancock",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "57",
+              "division_id": "ocd-division/country:us/state:ky/sldl:57"
+            }
+          }
+        },
+        {
+          "id": "1450067c-c57c-4f67-a556-46068c6d49bd",
+          "option": "no",
+          "voter_name": "Burke",
+          "voter": {
+            "id": "ocd-person/8048f367-9d46-4be5-9cb8-7a249d06cb13",
+            "name": "Lindsey Burke",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "75",
+              "division_id": "ocd-division/country:us/state:ky/sldl:75"
+            }
+          }
+        },
+        {
+          "id": "06417f17-57d2-4797-98da-bc96f310352e",
+          "option": "no",
+          "voter_name": "Watkins",
+          "voter": {
+            "id": "ocd-person/118003d1-9f48-4ef8-bbd0-748d17ebb699",
+            "name": "Joshua Watkins",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "42",
+              "division_id": "ocd-division/country:us/state:ky/sldl:42"
+            }
+          }
+        },
+        {
+          "id": "cdced41b-7005-4858-b620-1a9d3b61d280",
+          "option": "no",
+          "voter_name": "Stevenson P",
+          "voter": {
+            "id": "ocd-person/897f811e-273d-4fc1-9268-0087e57444cf",
+            "name": "Pamela Stevenson",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "43",
+              "division_id": "ocd-division/country:us/state:ky/sldl:43"
+            }
+          }
+        },
+        {
+          "id": "e165b495-40ad-42f9-a32b-6eff7f85b6f3",
+          "option": "no",
+          "voter_name": "Rabourn",
+          "voter": {
+            "id": "ocd-person/4342be62-2791-4d48-b601-43949239cd94",
+            "name": "Felicia Rabourn",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "47",
+              "division_id": "ocd-division/country:us/state:ky/sldl:47"
+            }
+          }
+        },
+        {
+          "id": "f3bae878-b900-4c5c-a60a-a4b642adb45e",
+          "option": "no",
+          "voter_name": "Camuel",
+          "voter": {
+            "id": "ocd-person/943724d5-5e02-4d0f-bd79-a74e30f18d1a",
+            "name": "Adrielle Camuel",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "93",
+              "division_id": "ocd-division/country:us/state:ky/sldl:93"
+            }
+          }
+        },
+        {
+          "id": "c5ad8276-df90-42d5-8ad1-7b77e929b4bc",
+          "option": "no",
+          "voter_name": "Brown",
+          "voter": {
+            "id": "ocd-person/bb3e5fee-3bda-4a5d-95ee-dc31ff9defed",
+            "name": "George Brown",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "77",
+              "division_id": "ocd-division/country:us/state:ky/sldl:77"
+            }
+          }
+        },
+        {
+          "id": "af9c24b5-2d02-472a-a9d5-c4418bbe42b8",
+          "option": "yes",
+          "voter_name": "Hampton",
+          "voter": {
+            "id": "ocd-person/79a62906-5436-4ac8-adea-0c566273bbde",
+            "name": "Tony Hampton",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "62",
+              "division_id": "ocd-division/country:us/state:ky/sldl:62"
+            }
+          }
+        },
+        {
+          "id": "3b1412b6-045b-4380-9545-f033b3254ee4",
+          "option": "yes",
+          "voter_name": "Dietz",
+          "voter": {
+            "id": "ocd-person/737ae037-a61c-4649-9c08-bf5fe052ff36",
+            "name": "Stephanie Dietz",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "65",
+              "division_id": "ocd-division/country:us/state:ky/sldl:65"
+            }
+          }
+        },
+        {
+          "id": "b5095dec-9327-482a-90cf-8fb116be51cb",
+          "option": "yes",
+          "voter_name": "Witten",
+          "voter": {
+            "id": "ocd-person/c85ace8f-67e3-438d-afeb-e6442aec43cd",
+            "name": "Susan Witten",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "31",
+              "division_id": "ocd-division/country:us/state:ky/sldl:31"
+            }
+          }
+        },
+        {
+          "id": "ead455ac-6c27-4c8b-9882-015addf03f6a",
+          "option": "yes",
+          "voter_name": "Roarx",
+          "voter": {
+            "id": "ocd-person/1217ac1a-4ca4-4fe4-953b-572beb008bed",
+            "name": "Rachel Roarx",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "38",
+              "division_id": "ocd-division/country:us/state:ky/sldl:38"
+            }
+          }
+        },
+        {
+          "id": "0692804b-664c-41eb-a68f-1b9b02e9ba78",
+          "option": "yes",
+          "voter_name": "Marzian",
+          "voter": {
+            "id": "ocd-person/86342422-7a28-4631-b3d7-3912eb444ffd",
+            "name": "Mary Lou Marzian",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "41",
+              "division_id": "ocd-division/country:us/state:ky/sldl:41"
+            }
+          }
+        },
+        {
+          "id": "f98e99b8-a06e-46f1-b7bc-2e2582e20791",
+          "option": "yes",
+          "voter_name": "Hale",
+          "voter": {
+            "id": "ocd-person/ebd5f90d-e3cc-45ef-97ff-d51ff1685bcc",
+            "name": "David Hale",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "74",
+              "division_id": "ocd-division/country:us/state:ky/sldl:74"
+            }
+          }
+        },
+        {
+          "id": "e0cdb436-4e20-4436-b329-0570de823062",
+          "option": "yes",
+          "voter_name": "Decker",
+          "voter": {
+            "id": "ocd-person/2c5c20cc-807b-44c8-a1a9-582fe69ca87c",
+            "name": "Jennifer Decker",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "58",
+              "division_id": "ocd-division/country:us/state:ky/sldl:58"
+            }
+          }
+        },
+        {
+          "id": "2e9937ee-f74d-4650-8a1d-4fd8032b642a",
+          "option": "yes",
+          "voter_name": "Wilson",
+          "voter": {
+            "id": "ocd-person/716d7b2c-0576-4bf8-b5a9-b6fa2c1f8024",
+            "name": "Nick Wilson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "82",
+              "division_id": "ocd-division/country:us/state:ky/sldl:82"
+            }
+          }
+        },
+        {
+          "id": "133249ef-103e-403f-9078-621519ee5f99",
+          "option": "yes",
+          "voter_name": "Riley",
+          "voter": {
+            "id": "ocd-person/817df40b-8e76-460d-81cf-63277866268a",
+            "name": "Steve Riley",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "23",
+              "division_id": "ocd-division/country:us/state:ky/sldl:23"
+            }
+          }
+        },
+        {
+          "id": "a214b957-3923-4c3f-856c-5f93cee2bddc",
+          "option": "yes",
+          "voter_name": "Lockett",
+          "voter": {
+            "id": "ocd-person/9a6d1b5a-6cb4-421e-b7c2-2cb27cfa4cc9",
+            "name": "Matt Lockett",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "39",
+              "division_id": "ocd-division/country:us/state:ky/sldl:39"
+            }
+          }
+        },
+        {
+          "id": "1319153b-7e84-440f-b79f-dc14d5bf444f",
+          "option": "yes",
+          "voter_name": "Grossl",
+          "voter": {
+            "id": "ocd-person/bc34f3ad-05ad-494c-bb80-bd2eb99e4fe9",
+            "name": "Vanessa Grossl",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "88",
+              "division_id": "ocd-division/country:us/state:ky/sldl:88"
+            }
+          }
+        },
+        {
+          "id": "48bba8b1-6934-45e4-b007-9278117c8c13",
+          "option": "yes",
+          "voter_name": "Clines",
+          "voter": {
+            "id": "ocd-person/34a39b2d-1ff6-4ced-adf2-32f92fa781b1",
+            "name": "Mike Clines",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "68",
+              "division_id": "ocd-division/country:us/state:ky/sldl:68"
+            }
+          }
+        },
+        {
+          "id": "2aef4b50-c909-42fe-9d5d-752a34eb2f46",
+          "option": "yes",
+          "voter_name": "Willner",
+          "voter": {
+            "id": "ocd-person/6dd815a4-fc3c-4e79-8cd5-a574d8cf0af8",
+            "name": "Lisa Willner",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "35",
+              "division_id": "ocd-division/country:us/state:ky/sldl:35"
+            }
+          }
+        },
+        {
+          "id": "a6943bd7-b5d5-4b3a-9b37-54f7267b7f13",
+          "option": "yes",
+          "voter_name": "Raymer",
+          "voter": {
+            "id": "ocd-person/be2fd4e3-6dfe-4d54-8c45-631eac63bc27",
+            "name": "Rebecca Raymer",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "15",
+              "division_id": "ocd-division/country:us/state:ky/sldl:15"
+            }
+          }
+        },
+        {
+          "id": "726742e3-a850-4a1d-95cc-9e62137c93fd",
+          "option": "yes",
+          "voter_name": "Lewis D",
+          "voter": {
+            "id": "ocd-person/60ef609e-8aed-4698-a626-664f536a6122",
+            "name": "Derek Lewis",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "90",
+              "division_id": "ocd-division/country:us/state:ky/sldl:90"
+            }
+          }
+        },
+        {
+          "id": "1d9e358b-9045-4e1f-8858-b3b70f95a12a",
+          "option": "yes",
+          "voter_name": "Chester-Burton",
+          "voter": {
+            "id": "ocd-person/c8a9f2cf-9a79-45f6-94df-346b546e1d9b",
+            "name": "Beverly Chester-Burton",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "44",
+              "division_id": "ocd-division/country:us/state:ky/sldl:44"
+            }
+          }
+        },
+        {
+          "id": "e06ab4dc-62e7-42eb-971d-c00a1abb5257",
+          "option": "yes",
+          "voter_name": "Williams",
+          "voter": {
+            "id": "ocd-person/66619aa2-a521-4318-b5d7-b4c36954b43d",
+            "name": "Wade Williams",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "4",
+              "division_id": "ocd-division/country:us/state:ky/sldl:4"
+            }
+          }
+        },
+        {
+          "id": "69e11925-663a-416e-9c44-77d87f907e51",
+          "option": "yes",
+          "voter_name": "Pollock",
+          "voter": {
+            "id": "ocd-person/3e417407-423f-45d3-b18a-c2845cd1ec57",
+            "name": "Sarge Pollock",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "51",
+              "division_id": "ocd-division/country:us/state:ky/sldl:51"
+            }
+          }
+        },
+        {
+          "id": "00df8e00-09f6-4dc4-855c-57a0ca15aa99",
+          "option": "yes",
+          "voter_name": "Lewis C"
+        },
+        {
+          "id": "311e0634-90e6-4e8f-b6f5-18c74e52d509",
+          "option": "yes",
+          "voter_name": "Griffee",
+          "voter": {
+            "id": "ocd-person/eddce954-34a0-4b9a-aaca-6114e6bf418f",
+            "name": "Peyton Griffee",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "26",
+              "division_id": "ocd-division/country:us/state:ky/sldl:26"
+            }
+          }
+        },
+        {
+          "id": "b245ff6d-df27-4215-9054-f19a1980de02",
+          "option": "yes",
+          "voter_name": "Callaway",
+          "voter": {
+            "id": "ocd-person/67b233b8-474d-49ce-81a8-7f48eec3c79a",
+            "name": "Emily Callaway",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "37",
+              "division_id": "ocd-division/country:us/state:ky/sldl:37"
+            }
+          }
+        },
+        {
+          "id": "dc2854e9-f587-4f60-934b-001a43c44ef5",
+          "option": "yes",
+          "voter_name": "White",
+          "voter": {
+            "id": "ocd-person/29b248e1-4033-41f6-ba30-136f2aa55045",
+            "name": "Richard White",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "99",
+              "division_id": "ocd-division/country:us/state:ky/sldl:99"
+            }
+          }
+        },
+        {
+          "id": "3616f9f5-5ea8-425a-a456-675f758e65fe",
+          "option": "yes",
+          "voter_name": "Petrie",
+          "voter": {
+            "id": "ocd-person/3fac3a9c-78ad-4b24-8483-f1786fac9c9e",
+            "name": "Jason Petrie",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "16",
+              "division_id": "ocd-division/country:us/state:ky/sldl:16"
+            }
+          }
+        },
+        {
+          "id": "fc257e92-9122-4450-9efd-9bf5a1774a9a",
+          "option": "yes",
+          "voter_name": "Lehman",
+          "voter": {
+            "id": "ocd-person/7afd2d36-9415-44ff-b96d-0010cf4f864e",
+            "name": "Matt Lehman",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "67",
+              "division_id": "ocd-division/country:us/state:ky/sldl:67"
+            }
+          }
+        },
+        {
+          "id": "9712f828-096c-40f7-baea-e70263bc69e7",
+          "option": "yes",
+          "voter_name": "Gordon",
+          "voter": {
+            "id": "ocd-person/96ab59e2-44c2-4c3d-ac8a-1ee24acc5b55",
+            "name": "Deanna Gordon",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "81",
+              "division_id": "ocd-division/country:us/state:ky/sldl:81"
+            }
+          }
+        },
+        {
+          "id": "f0c7e263-c762-4563-addd-1c9cbdb432f7",
+          "option": "yes",
+          "voter_name": "Bridges",
+          "voter": {
+            "id": "ocd-person/c033dd77-f8d7-4558-8582-9e0088ae5406",
+            "name": "Randy Bridges",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "3",
+              "division_id": "ocd-division/country:us/state:ky/sldl:3"
+            }
+          }
+        },
+        {
+          "id": "68dbd74d-619e-4386-81ec-c236f17f8980",
+          "option": "yes",
+          "voter_name": "Whitaker",
+          "voter": {
+            "id": "ocd-person/3f4b9459-8c62-4d89-b2d6-9d0e951ed24f",
+            "name": "Mitch Whitaker",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "94",
+              "division_id": "ocd-division/country:us/state:ky/sldl:94"
+            }
+          }
+        },
+        {
+          "id": "9020cc73-1a47-4bdc-a3c0-636495c3a643",
+          "option": "yes",
+          "voter_name": "Payne",
+          "voter": {
+            "id": "ocd-person/fded60a9-de72-47ba-bf20-90dddd9f9138",
+            "name": "J.T. Payne",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "11",
+              "division_id": "ocd-division/country:us/state:ky/sldl:11"
+            }
+          }
+        },
+        {
+          "id": "f43a6405-531c-49dd-86e3-98cf341ea13d",
+          "option": "yes",
+          "voter_name": "Lawrence",
+          "voter": {
+            "id": "ocd-person/3d3b33bc-8852-48fe-90cf-42ce9551424c",
+            "name": "William Lawrence",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "70",
+              "division_id": "ocd-division/country:us/state:ky/sldl:70"
+            }
+          }
+        },
+        {
+          "id": "fb702e35-f3f2-411d-8e9a-002a974fc7b0",
+          "option": "yes",
+          "voter_name": "Gooch",
+          "voter": {
+            "id": "ocd-person/f40ed494-ce37-43f4-b323-1bc2b6197831",
+            "name": "Jim Gooch",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "12",
+              "division_id": "ocd-division/country:us/state:ky/sldl:12"
+            }
+          }
+        },
+        {
+          "id": "17659b02-4115-49d1-b1c6-ee8f4644150a",
+          "option": "yes",
+          "voter_name": "Bray",
+          "voter": {
+            "id": "ocd-person/a110d6ba-f17f-4847-b0e9-327c82cd7122",
+            "name": "Josh Bray",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "71",
+              "division_id": "ocd-division/country:us/state:ky/sldl:71"
+            }
+          }
+        },
+        {
+          "id": "2f2f6403-91cd-409d-8838-5c9aadb1154d",
+          "option": "yes",
+          "voter_name": "Wesley",
+          "voter": {
+            "id": "ocd-person/91eec267-436a-49a5-9d41-b6b2632d0a51",
+            "name": "Bill Wesley",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "91",
+              "division_id": "ocd-division/country:us/state:ky/sldl:91"
+            }
+          }
+        },
+        {
+          "id": "bfa19cd9-ee50-4393-b37d-0320b0e4943b",
+          "option": "yes",
+          "voter_name": "Osborne",
+          "voter": {
+            "id": "ocd-person/bf8bfdc3-66f2-417c-8178-9ed16bf8843f",
+            "name": "David Osborne",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "59",
+              "division_id": "ocd-division/country:us/state:ky/sldl:59"
+            }
+          }
+        },
+        {
+          "id": "df0294c8-bbdc-4880-a71c-ca43ca33af5b",
+          "option": "yes",
+          "voter_name": "Kulkarni",
+          "voter": {
+            "id": "ocd-person/bee3f0dd-450a-41a2-b9b9-e056d0a0f14d",
+            "name": "Nima Kulkarni",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "40",
+              "division_id": "ocd-division/country:us/state:ky/sldl:40"
+            }
+          }
+        },
+        {
+          "id": "dacd47b6-f7d3-4172-a1f5-774ef3acbbc4",
+          "option": "yes",
+          "voter_name": "Gentry",
+          "voter": {
+            "id": "ocd-person/dfaa3769-decc-4c1c-9c0b-7195153ab6c8",
+            "name": "Al Gentry",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "46",
+              "division_id": "ocd-division/country:us/state:ky/sldl:46"
+            }
+          }
+        },
+        {
+          "id": "dd39ddd9-81b3-44eb-bd9e-27ab95a346e3",
+          "option": "yes",
+          "voter_name": "Bratcher S.",
+          "voter": {
+            "id": "ocd-person/e0860aa8-43ba-4bf2-94d7-3632c7375ab6",
+            "name": "Steve Bratcher",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "25",
+              "division_id": "ocd-division/country:us/state:ky/sldl:25"
+            }
+          }
+        },
+        {
+          "id": "4f903d89-507d-48b3-893c-b6c2b78d1e70",
+          "option": "yes",
+          "voter_name": "Upchurch",
+          "voter": {
+            "id": "ocd-person/7aa13bf4-126a-4901-bfeb-2244bd2d3cc3",
+            "name": "Ken Upchurch",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "52",
+              "division_id": "ocd-division/country:us/state:ky/sldl:52"
+            }
+          }
+        },
+        {
+          "id": "c0194473-2306-4e33-8737-14e3ac9a2b8c",
+          "option": "yes",
+          "voter_name": "Nemes",
+          "voter": {
+            "id": "ocd-person/c56fc398-975e-47b9-919a-fbdd0c9f721d",
+            "name": "Jason Nemes",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "33",
+              "division_id": "ocd-division/country:us/state:ky/sldl:33"
+            }
+          }
+        },
+        {
+          "id": "5e139c9a-013b-4bf7-9512-b696345c0944",
+          "option": "yes",
+          "voter_name": "Koch",
+          "voter": {
+            "id": "ocd-person/1b8bc567-b895-4fae-8b3f-7a7160ca5138",
+            "name": "Matt Koch",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "72",
+              "division_id": "ocd-division/country:us/state:ky/sldl:72"
+            }
+          }
+        },
+        {
+          "id": "9f78f306-5de2-4475-a66d-b0a73361e419",
+          "option": "yes",
+          "voter_name": "Fugate",
+          "voter": {
+            "id": "ocd-person/6843e90b-a30a-4dbf-885c-7321ccc8f73f",
+            "name": "Chris Fugate",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "84",
+              "division_id": "ocd-division/country:us/state:ky/sldl:84"
+            }
+          }
+        },
+        {
+          "id": "ffa64057-79f9-40a6-a982-caec8ca91198",
+          "option": "yes",
+          "voter_name": "Branscum",
+          "voter": {
+            "id": "ocd-person/ff91cf3b-77a1-47b0-81b3-1c18f006349a",
+            "name": "Josh Branscum",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "83",
+              "division_id": "ocd-division/country:us/state:ky/sldl:83"
+            }
+          }
+        },
+        {
+          "id": "97ce4188-72df-4acb-9d6d-882190244917",
+          "option": "yes",
+          "voter_name": "Truett",
+          "voter": {
+            "id": "ocd-person/b2834b48-3186-4fbd-aa3e-daa1d38fa308",
+            "name": "Timmy Truett",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "89",
+              "division_id": "ocd-division/country:us/state:ky/sldl:89"
+            }
+          }
+        },
+        {
+          "id": "a86455e7-0628-4fec-8ad2-d2fab5b83c3f",
+          "option": "yes",
+          "voter_name": "Neighbors",
+          "voter": {
+            "id": "ocd-person/f7bb262c-026f-4af2-9e17-939692c96e89",
+            "name": "Amy Neighbors",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "21",
+              "division_id": "ocd-division/country:us/state:ky/sldl:21"
+            }
+          }
+        },
+        {
+          "id": "a8915ba2-397a-4949-abb0-4b00cdd9b336",
+          "option": "yes",
+          "voter_name": "King",
+          "voter": {
+            "id": "ocd-person/cd95ada0-14f0-4b63-aeea-f4a92525eeaf",
+            "name": "Kim King",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "55",
+              "division_id": "ocd-division/country:us/state:ky/sldl:55"
+            }
+          }
+        },
+        {
+          "id": "dd9e2474-ddd8-4e5d-a707-2d48135d7edf",
+          "option": "yes",
+          "voter_name": "Freeland",
+          "voter": {
+            "id": "ocd-person/db36edd8-6c2f-4441-aa30-5b4dc48b3357",
+            "name": "Chris Freeland",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "6",
+              "division_id": "ocd-division/country:us/state:ky/sldl:6"
+            }
+          }
+        },
+        {
+          "id": "a441a864-edd0-4552-87c7-6bb232d068ed",
+          "option": "yes",
+          "voter_name": "Bowling",
+          "voter": {
+            "id": "ocd-person/e7f7a316-4eb0-4be9-adf9-e7067b20dcfc",
+            "name": "Adam Bowling",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "87",
+              "division_id": "ocd-division/country:us/state:ky/sldl:87"
+            }
+          }
+        },
+        {
+          "id": "a5d19fe9-0a93-4946-8495-a04d8e6e079b",
+          "option": "yes",
+          "voter_name": "Tipton",
+          "voter": {
+            "id": "ocd-person/d6c9aa9b-3c6b-411a-bff1-fc1c38d4bce0",
+            "name": "James Tipton",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "53",
+              "division_id": "ocd-division/country:us/state:ky/sldl:53"
+            }
+          }
+        },
+        {
+          "id": "6ba8f39c-0292-4c8c-8a4c-140ba6da5267",
+          "option": "yes",
+          "voter_name": "Moser",
+          "voter": {
+            "id": "ocd-person/92511255-ca06-4241-bd91-0cafd92e3d5c",
+            "name": "Kim Moser",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "64",
+              "division_id": "ocd-division/country:us/state:ky/sldl:64"
+            }
+          }
+        },
+        {
+          "id": "3187dbac-e66f-4ac2-8e9b-4165c69f3f09",
+          "option": "yes",
+          "voter_name": "Johnson",
+          "voter": {
+            "id": "ocd-person/ed9307f1-cd95-4004-9e72-46970ea64adf",
+            "name": "D.J. Johnson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "13",
+              "division_id": "ocd-division/country:us/state:ky/sldl:13"
+            }
+          }
+        },
+        {
+          "id": "764f3716-e254-47e6-b361-d048d0fce6b4",
+          "option": "yes",
+          "voter_name": "Fleming",
+          "voter": {
+            "id": "ocd-person/d7b86c25-2f90-4d8b-a92e-4b4ef5dd0512",
+            "name": "Ken Fleming",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "48",
+              "division_id": "ocd-division/country:us/state:ky/sldl:48"
+            }
+          }
+        },
+        {
+          "id": "7b61eb69-462e-4b6e-94e9-d89924c066ad",
+          "option": "yes",
+          "voter_name": "Bojanowski",
+          "voter": {
+            "id": "ocd-person/77db7bcf-dfa8-4365-bb3a-4ca0351a8368",
+            "name": "Tina Bojanowski",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "32",
+              "division_id": "ocd-division/country:us/state:ky/sldl:32"
+            }
+          }
+        },
+        {
+          "id": "3c7da9c2-b2ff-4b0d-8d23-36bfa59f6bce",
+          "option": "yes",
+          "voter_name": "Thompson",
+          "voter": {
+            "id": "ocd-person/1439bad2-f18b-49e2-94ca-21f2b563dfdd",
+            "name": "Aaron Thompson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "98",
+              "division_id": "ocd-division/country:us/state:ky/sldl:98"
+            }
+          }
+        },
+        {
+          "id": "0d4d32ae-6cf3-41b4-ac87-f4c7db18c483",
+          "option": "yes",
+          "voter_name": "Moore",
+          "voter": {
+            "id": "ocd-person/1ce736fd-c1ca-4366-a235-9509fdb2dcaf",
+            "name": "Adam Moore",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "45",
+              "division_id": "ocd-division/country:us/state:ky/sldl:45"
+            }
+          }
+        },
+        {
+          "id": "8e0db826-7ca4-42ab-b45e-9963a84c4cba",
+          "option": "yes",
+          "voter_name": "Jackson",
+          "voter": {
+            "id": "ocd-person/0e905c68-fbcc-4392-865e-a4dbc5d2ea42",
+            "name": "Kevin Jackson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "20",
+              "division_id": "ocd-division/country:us/state:ky/sldl:20"
+            }
+          }
+        },
+        {
+          "id": "a622c322-2df5-4004-a062-8d49cb615a25",
+          "option": "yes",
+          "voter_name": "Flannery",
+          "voter": {
+            "id": "ocd-person/8ae56ea2-3f37-490b-a3dc-0dec9fe85c7c",
+            "name": "Patrick Flannery",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "96",
+              "division_id": "ocd-division/country:us/state:ky/sldl:96"
+            }
+          }
+        },
+        {
+          "id": "48269078-fe50-46fb-8b9e-1b3feeed190c",
+          "option": "yes",
+          "voter_name": "Blanton",
+          "voter": {
+            "id": "ocd-person/7cda4251-f26b-4bab-bf88-ed61b947018e",
+            "name": "John Blanton",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "92",
+              "division_id": "ocd-division/country:us/state:ky/sldl:92"
+            }
+          }
+        },
+        {
+          "id": "7acf9c6d-f7ec-4a60-b72e-fe8a4997cffa",
+          "option": "yes",
+          "voter_name": "Thomas",
+          "voter": {
+            "id": "ocd-person/ec846db3-c75b-4460-ba72-3e2b3fd9e04d",
+            "name": "Walker Thomas",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "8",
+              "division_id": "ocd-division/country:us/state:ky/sldl:8"
+            }
+          }
+        },
+        {
+          "id": "f7cb7daf-b745-4745-8152-d099c1abb312",
+          "option": "yes",
+          "voter_name": "Miles",
+          "voter": {
+            "id": "ocd-person/92576283-508e-4613-b1a0-3d227edf4068",
+            "name": "Suzanne Miles",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "7",
+              "division_id": "ocd-division/country:us/state:ky/sldl:7"
+            }
+          }
+        },
+        {
+          "id": "ca888038-4504-418b-9a4e-50023cf055f8",
+          "option": "yes",
+          "voter_name": "Imes",
+          "voter": {
+            "id": "ocd-person/ad063b4f-a860-48c3-abfb-18e977a21caf",
+            "name": "Mary Beth Imes",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "5",
+              "division_id": "ocd-division/country:us/state:ky/sldl:5"
+            }
+          }
+        },
+        {
+          "id": "885e2432-68f1-4a44-b26f-ad133e8c5dea",
+          "option": "yes",
+          "voter_name": "Fister",
+          "voter": {
+            "id": "ocd-person/c88c6162-de24-4d8b-98a9-f1788390d043",
+            "name": "Dan Fister",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "56",
+              "division_id": "ocd-division/country:us/state:ky/sldl:56"
+            }
+          }
+        },
+        {
+          "id": "dc36e706-d047-4bed-beb9-6acca674e7fc",
+          "option": "yes",
+          "voter_name": "Bivens",
+          "voter": {
+            "id": "ocd-person/af59339a-aedf-4d1c-94b6-de071030773b",
+            "name": "Ryan Bivens",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "24",
+              "division_id": "ocd-division/country:us/state:ky/sldl:24"
+            }
+          }
+        },
+        {
+          "id": "62d3c357-e997-433c-b3fe-5140524293b6",
+          "option": "yes",
+          "voter_name": "Tackett Laferty",
+          "voter": {
+            "id": "ocd-person/6bc2a8c3-3370-4586-b0b7-a5028f336d12",
+            "name": "Ashley Laferty",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "95",
+              "division_id": "ocd-division/country:us/state:ky/sldl:95"
+            }
+          }
+        },
+        {
+          "id": "6ad5f019-9c02-4a05-bbb0-cdd295e77d6a",
+          "option": "yes",
+          "voter_name": "Meredith",
+          "voter": {
+            "id": "ocd-person/f013115a-6bbc-48ac-aab4-7949dd902701",
+            "name": "Michael Meredith",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "19",
+              "division_id": "ocd-division/country:us/state:ky/sldl:19"
+            }
+          }
+        },
+        {
+          "id": "ca56c7d3-429b-408e-8853-96ed5e217c57",
+          "option": "yes",
+          "voter_name": "Huff T",
+          "voter": {
+            "id": "ocd-person/7d2b01df-9356-4eaa-923f-144e3f229860",
+            "name": "Thomas Huff",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "49",
+              "division_id": "ocd-division/country:us/state:ky/sldl:49"
+            }
+          }
+        },
+        {
+          "id": "3930c184-dc68-46d8-ae8f-931c72e55c9e",
+          "option": "yes",
+          "voter_name": "Elliott",
+          "voter": {
+            "id": "ocd-person/d93e2493-49a8-4395-b7e0-5842893344e1",
+            "name": "Daniel Elliott",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "54",
+              "division_id": "ocd-division/country:us/state:ky/sldl:54"
+            }
+          }
+        },
+        {
+          "id": "46438d48-fb16-4b2f-be8e-ff76da2dddde",
+          "option": "yes",
+          "voter_name": "Bauman",
+          "voter": {
+            "id": "ocd-person/b86f4912-39b1-44a0-90a8-0b233921a094",
+            "name": "Jared Bauman",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "28",
+              "division_id": "ocd-division/country:us/state:ky/sldl:28"
+            }
+          }
+        },
+        {
+          "id": "8f7cd36b-8033-4716-8000-d820795de5fd",
+          "option": "yes",
+          "voter_name": "Smith",
+          "voter": {
+            "id": "ocd-person/5764151d-bf80-422b-bc46-93ac2be910cc",
+            "name": "Tom Smith",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "86",
+              "division_id": "ocd-division/country:us/state:ky/sldl:86"
+            }
+          }
+        },
+        {
+          "id": "dc217d7a-b941-41f8-8bf4-1e918228b8ba",
+          "option": "yes",
+          "voter_name": "Meade",
+          "voter": {
+            "id": "ocd-person/3643503c-1da8-4a57-90f1-54f063b1d25e",
+            "name": "David Meade",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "80",
+              "division_id": "ocd-division/country:us/state:ky/sldl:80"
+            }
+          }
+        },
+        {
+          "id": "c2b46829-6a33-461f-ae9e-a228f5b22fa9",
+          "option": "yes",
+          "voter_name": "Hodgson",
+          "voter": {
+            "id": "ocd-person/2f3255d6-7801-4089-a275-f01e00444ee0",
+            "name": "John Hodgson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "36",
+              "division_id": "ocd-division/country:us/state:ky/sldl:36"
+            }
+          }
+        },
+        {
+          "id": "92cb0f13-9d27-4b3f-a7c1-96a76a636925",
+          "option": "yes",
+          "voter_name": "Duvall",
+          "voter": {
+            "id": "ocd-person/ad2d1d2a-b838-4727-ac0f-a6fb64298b14",
+            "name": "Robert Duvall",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "17",
+              "division_id": "ocd-division/country:us/state:ky/sldl:17"
+            }
+          }
+        },
+        {
+          "id": "b78a6e5b-5b57-404c-9b04-8f03d61a5f37",
+          "option": "yes",
+          "voter_name": "Banta",
+          "voter": {
+            "id": "ocd-person/27b951aa-c951-4160-9373-721ca3b6a9db",
+            "name": "Kim Banta",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "63",
+              "division_id": "ocd-division/country:us/state:ky/sldl:63"
+            }
+          }
+        },
+        {
+          "id": "b0042354-ab6a-456f-b620-03876e5ab958",
+          "option": "yes",
+          "voter_name": "Sharp",
+          "voter": {
+            "id": "ocd-person/65469c71-edc2-4c9f-87da-bcf4d3277591",
+            "name": "Scott Sharp",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "100",
+              "division_id": "ocd-division/country:us/state:ky/sldl:100"
+            }
+          }
+        },
+        {
+          "id": "31d09d70-079c-4113-b286-39c11fe34e53",
+          "option": "yes",
+          "voter_name": "McPherson",
+          "voter": {
+            "id": "ocd-person/5a327e3b-ae91-4279-ae17-9214aad32fa9",
+            "name": "Shawn McPherson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "22",
+              "division_id": "ocd-division/country:us/state:ky/sldl:22"
+            }
+          }
+        },
+        {
+          "id": "b08c0fed-8cfa-415e-835c-d5f5a4b4c84e",
+          "option": "yes",
+          "voter_name": "Heavrin",
+          "voter": {
+            "id": "ocd-person/d3176059-683c-48be-9c43-a57da08a2f49",
+            "name": "Samara Heavrin",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "18",
+              "division_id": "ocd-division/country:us/state:ky/sldl:18"
+            }
+          }
+        },
+        {
+          "id": "2dc2677b-14a9-4d00-bf11-a0cdbb9f56f3",
+          "option": "yes",
+          "voter_name": "Dotson",
+          "voter": {
+            "id": "ocd-person/718ec3d2-325d-4ddf-b72b-728cea857222",
+            "name": "Ryan Dotson",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "73",
+              "division_id": "ocd-division/country:us/state:ky/sldl:73"
+            }
+          }
+        },
+        {
+          "id": "f5cb4604-22fa-47dc-a1f9-208931bf88b2",
+          "option": "yes",
+          "voter_name": "Baker",
+          "voter": {
+            "id": "ocd-person/2eab3a78-154d-43cd-8278-73ad2e166b08",
+            "name": "Shane Baker",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "85",
+              "division_id": "ocd-division/country:us/state:ky/sldl:85"
+            }
+          }
+        },
+        {
+          "id": "b0474bd0-fc83-4408-8528-612983489463",
+          "option": "yes",
+          "voter_name": "Rudy",
+          "voter": {
+            "id": "ocd-person/f73e54d0-9547-4688-b97d-4818b104d160",
+            "name": "Steven Rudy",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "1",
+              "division_id": "ocd-division/country:us/state:ky/sldl:1"
+            }
+          }
+        },
+        {
+          "id": "62d11b8c-1f5d-4453-b081-5de421108baa",
+          "option": "yes",
+          "voter_name": "McCool",
+          "voter": {
+            "id": "ocd-person/22e056d2-728a-425a-a0a1-19e0e5cc59cb",
+            "name": "Bobby McCool",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "97",
+              "division_id": "ocd-division/country:us/state:ky/sldl:97"
+            }
+          }
+        },
+        {
+          "id": "b14e0b23-6e47-43a6-bd64-8ff76f0b2dd1",
+          "option": "yes",
+          "voter_name": "Hart",
+          "voter": {
+            "id": "ocd-person/b1a31b02-5d89-42be-97d4-7d08d99161d8",
+            "name": "Mark Hart",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "78",
+              "division_id": "ocd-division/country:us/state:ky/sldl:78"
+            }
+          }
+        },
+        {
+          "id": "3680fa0c-fedf-4150-aa4e-c13ebbc6f12a",
+          "option": "yes",
+          "voter_name": "Dossett",
+          "voter": {
+            "id": "ocd-person/c6904810-37a8-428d-8342-7831d7dc100c",
+            "name": "Myron Dossett",
+            "party": "Republican",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "9",
+              "division_id": "ocd-division/country:us/state:ky/sldl:9"
+            }
+          }
+        },
+        {
+          "id": "52f06c90-d18b-4466-8de8-f3cc5db277bc",
+          "option": "yes",
+          "voter_name": "Aull",
+          "voter": {
+            "id": "ocd-person/51dc7033-7377-44d4-a5d8-7bd36b371896",
+            "name": "Chad Aull",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "79",
+              "division_id": "ocd-division/country:us/state:ky/sldl:79"
+            }
+          }
+        },
+        {
+          "id": "ef7f0779-5d46-4a87-9026-4ec451a229c2",
+          "option": "yes",
+          "voter_name": "Grossberg",
+          "voter": {
+            "id": "ocd-person/d4dd968d-1508-476b-bde1-7504a47288f0",
+            "name": "Daniel Grossberg",
+            "party": "Democratic",
+            "current_role": {
+              "title": "Representative",
+              "org_classification": "lower",
+              "district": "30",
+              "division_id": "ocd-division/country:us/state:ky/sldl:30"
+            }
+          }
+        }
+      ],
+      "counts": [
+        {
+          "option": "yes",
+          "value": 82
+        },
+        {
+          "option": "no",
+          "value": 7
+        },
+        {
+          "option": "other",
+          "value": 11
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://apps.legislature.ky.gov/record/26RS/sb197/vote_history.pdf",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

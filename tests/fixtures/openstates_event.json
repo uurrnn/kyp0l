@@ -1,0 +1,21 @@
+{
+  "id": "ocd-event/88be3645-8a32-44dd-8ce2-22b4ca45267e",
+  "name": "CAPITAL PROJECTS AND BOND OVERSIGHT COMMITTEE",
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ky/government",
+    "name": "Kentucky",
+    "classification": "state"
+  },
+  "description": "",
+  "classification": "committee-meeting",
+  "start_date": "2026-04-27T04:00:00+00:00",
+  "end_date": "",
+  "all_day": false,
+  "status": "tentative",
+  "upstream_id": "",
+  "deleted": false,
+  "location": {
+    "name": "Annex Room 131",
+    "url": ""
+  }
+}
