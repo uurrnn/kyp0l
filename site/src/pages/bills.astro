@@ -1,0 +1,33 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import { getBills } from "~/lib/data";
+
+const bills = getBills();
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title="Bills — Kentucky + Louisville Politics" description="Recent Kentucky General Assembly bills.">
+  <h1>Bills</h1>
+  <p>
+    {bills.length} bills tracked in the current Kentucky General Assembly session,
+    sorted by most recent action.
+  </p>
+
+  <div data-pagefind-ignore>
+    {bills.length === 0 && (
+      <p class="empty-state">
+        No bills yet — set <code>OPENSTATES_API_KEY</code> and run
+        <code>python -m scrapers --sources openstates</code> to populate
+        <code>data/bills/</code>.
+      </p>
+    )}
+    {bills.map((b) => (
+      <a class="meeting-card" href={`${base}bill/${b.id}`}>
+        <div class="date">{b.last_action_date}</div>
+        <div class="body-name">{b.session} · {b.identifier}</div>
+        <div class="title">{b.title}</div>
+        <div class="meta">{b.current_status} · {b.sponsors.length} sponsors · {b.votes.length} votes</div>
+      </a>
+    ))}
+  </div>
+</Layout>

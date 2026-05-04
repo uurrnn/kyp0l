@@ -1,0 +1,123 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import { getBills, getBillById, getBodyById } from "~/lib/data";
+
+export function getStaticPaths() {
+  return getBills().map((b) => ({ params: { id: b.id } }));
+}
+
+const { id } = Astro.params;
+const bill = getBillById(id!);
+const base = import.meta.env.BASE_URL;
+
+function chamberLabel(ch: "lower" | "upper" | null): string {
+  if (ch === "lower") return "House";
+  if (ch === "upper") return "Senate";
+  return "";
+}
+
+function stateLabel(state: string | null): string {
+  if (!state) return "—";
+  return state.replace(/_/g, " ");
+}
+---
+
+<Layout
+  title={bill ? `${bill.identifier} — ${bill.title}` : "Bill"}
+  description={bill?.title}
+>
+  {!bill ? (
+    <p class="empty-state">No such bill.</p>
+  ) : (
+    <article data-pagefind-body>
+      <p>
+        <a href={base}>&larr; Home</a> ·
+        <a href={`${base}bills`}>All bills</a>
+      </p>
+      <h1>{bill.identifier}: {bill.title}</h1>
+
+      <p data-pagefind-meta={`session:${bill.session}`} style="color: var(--fg-muted);">
+        <strong>{bill.current_status}</strong> ·
+        Session {bill.session} ·
+        Last action {bill.last_action_date}
+        {bill.source_url && (<> · <a href={bill.source_url} target="_blank" rel="noopener">Source on LRC</a></>)}
+      </p>
+
+      <section style="margin: 1rem 0; display: flex; gap: 0.6rem; flex-wrap: wrap;">
+        <span class="status-pill">House: {stateLabel(bill.chamber_progress.lower)}</span>
+        <span class="status-pill">Senate: {stateLabel(bill.chamber_progress.upper)}</span>
+        <span class="status-pill">Gov: {bill.chamber_progress.governor ?? "—"}</span>
+        {bill.body_ids.map((bid) => {
+          const body = getBodyById(bid);
+          return body ? <a class="body-pill" href={`${base}body/${bid}`}>{body.name}</a> : null;
+        })}
+      </section>
+
+      {bill.abstract && (
+        <section>
+          <h2>Summary</h2>
+          <p>{bill.abstract}</p>
+        </section>
+      )}
+
+      <section>
+        <h2>Sponsors ({bill.sponsors.length})</h2>
+        <ul class="items">
+          {bill.sponsors.map((s) => (
+            <li>
+              <span class="num">{s.primary ? "Primary" : "Co"}</span>
+              <strong>{s.name}</strong>
+              {s.party && <> ({s.party}{s.district ? `-${s.district}` : ""})</>}
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section>
+        <h2>Actions ({bill.actions.length})</h2>
+        <ul class="items">
+          {bill.actions.map((a) => (
+            <li>
+              <span class="num">{a.date}</span>
+              {a.chamber && <span class="section-tag">{chamberLabel(a.chamber)}</span>}
+              {a.description}
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section>
+        <h2>Votes ({bill.votes.length})</h2>
+        {bill.votes.length === 0 ? (
+          <p class="empty-state">No roll-call votes recorded yet.</p>
+        ) : (
+          bill.votes.map((v, i) => (
+            <details class="corpus" open={i === 0}>
+              <summary>
+                {v.date} · {chamberLabel(v.chamber)} · {v.motion} ·
+                <strong>{v.result}</strong>
+                ({v.counts.yes}–{v.counts.no})
+              </summary>
+              <ul class="items">
+                {v.member_votes.map((mv) => (
+                  <li>
+                    <span class="num">{mv.option}</span>
+                    {mv.name}
+                  </li>
+                ))}
+              </ul>
+            </details>
+          ))
+        )}
+      </section>
+    </article>
+  )}
+
+  <style>
+    .status-pill {
+      display: inline-block; font-size: 0.8rem; padding: 3px 10px;
+      background: #efeae6; color: #333; border-radius: 12px;
+      font-variant-caps: small-caps;
+    }
+  </style>
+</Layout>

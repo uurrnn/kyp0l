@@ -6,17 +6,17 @@
       "path": "data/meetings/metro-council/2026/primegov-louisvilleky-9477.json"
     },
     "ksba-89-53915": {
-      "primary_sha": "6d6be52dd48fe73b3b8fd7bfaf50f15f19071012faab1ccf1ea991d00d5a805c",
+      "primary_sha": "e14d5fa50f64915a8185b3a09dd02f28062dc8b0c2f6fba765ee5481cb5ef39b",
       "items_count": 73,
       "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53915.json"
     },
     "ksba-89-54036": {
-      "primary_sha": "78fe05a53998d7e2476151d2e6475fba8687a409203fd6bd9acd3274e9a22116",
+      "primary_sha": "daa6ce2e145eb7fa3e26a9fa2041fbfe4f6c95c2b73df9b531483f59cc0ff13d",
       "items_count": 5,
       "path": "data/meetings/jcps-board-of-education/2026/ksba-89-54036.json"
     },
     "ksba-89-53705": {
-      "primary_sha": "7a929f6ccaee6f5b424fe807f991184811085a60a976786c6522395743be1a06",
+      "primary_sha": "cc949d180d7dfe0345392068196c8b4bacb74de971487d0185d9232123a4f191",
       "items_count": 91,
       "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53705.json"
     },
@@ -851,12 +851,12 @@
       "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-10242.json"
     },
     "ksba-89-53384": {
-      "primary_sha": "9b23f8f0f7abe2119e6d1f8fd3bb8719893ce06608b25b76670241230ec2187b",
+      "primary_sha": "73e251243374b18785c29b1584de1df6d815a1b8923c4c299cfd2fcc8ff687ef",
       "items_count": 87,
       "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53384.json"
     },
     "ksba-89-53628": {
-      "primary_sha": "87801d097fdf764e29563a7055a5900a0ca949ffbc60c7be7658fcc11b558878",
+      "primary_sha": "31a4eeeab64f66d6757e1adc0a92a678a873be2121f63a87c37b7b9c476c3154",
       "items_count": 1,
       "path": "data/meetings/jcps-board-of-education/2026/ksba-89-53628.json"
     },
@@ -960,5 +960,12 @@
       "items_count": 5,
       "path": "data/meetings/jcps-board-of-education/2025/ksba-89-49975.json"
     }
+  },
+  "bills_updated_at": {
+    "ocd-bill/481c13c3-b0a5-4b3d-b0ce-e6a084a0567a": "2026-04-28T01:16:37.016727+00:00",
+    "ocd-bill/861f4791-2926-4695-a03a-dae49f82c6c0": "2026-04-28T01:14:32.671253+00:00",
+    "ocd-bill/9870f657-4a40-4fc3-ab86-134462d93c10": "2026-04-28T01:13:21.692258+00:00",
+    "ocd-bill/6a0718b7-c258-44f8-bbe9-15e40711bb92": "2026-04-28T01:12:20.061931+00:00",
+    "ocd-bill/3030bfb6-7856-4bd9-82f7-2370fc371395": "2026-04-28T01:08:30.509609+00:00"
   }
 }

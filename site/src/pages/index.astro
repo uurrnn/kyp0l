@@ -1,20 +1,22 @@
 ---
 import Layout from "~/layouts/Layout.astro";
-import { getMeetings, getBodies, formatMeetingDate, getBodyById } from "~/lib/data";
+import { getMeetings, getBodies, formatMeetingDate, getBodyById, getBills, getRecentBills } from "~/lib/data";
 
 const meetings = getMeetings();
 const bodies = getBodies();
 const recent = meetings.slice(0, 50);
+const allBills = getBills();
+const recentBills = getRecentBills(10);
 const base = import.meta.env.BASE_URL;
 ---
 
-<Layout title="Louisville Local Politics" description="Searchable index of Louisville Metro and JCPS Board agendas.">
+<Layout title="Kentucky + Louisville Politics" description="Searchable index of Kentucky General Assembly bills, Louisville Metro Council, and JCPS Board agendas.">
   <h1>Recent meetings</h1>
   <p>
-    Tracking <strong>{bodies.length}</strong> local bodies across Louisville Metro Council
-    (PrimeGov) and JCPS Board of Education (KSBA).
-    <strong>{meetings.length}</strong> meetings indexed.
-    Showing the {recent.length} most recent.
+    Tracking <strong>{bodies.length}</strong> bodies across Louisville Metro
+    (PrimeGov), JCPS Board of Education (KSBA), and the Kentucky General
+    Assembly (Open States).
+    <strong>{meetings.length}</strong> meetings · <strong>{allBills.length}</strong> bills indexed.
   </p>
 
   <div data-pagefind-ignore>
@@ -31,6 +33,23 @@ const base = import.meta.env.BASE_URL;
       );
     })}
   </div>
+
+  {recentBills.length > 0 && (
+    <section style="margin-top: 2rem;">
+      <h2>Recent legislative activity</h2>
+      <div data-pagefind-ignore>
+        {recentBills.map((b) => (
+          <a class="meeting-card" href={`${base}bill/${b.id}`}>
+            <div class="date">{b.last_action_date}</div>
+            <div class="body-name">{b.identifier} · Session {b.session}</div>
+            <div class="title">{b.title}</div>
+            <div class="meta">{b.current_status}</div>
+          </a>
+        ))}
+        <p style="margin-top: 0.6rem;"><a href={`${base}bills`}>All bills &rarr;</a></p>
+      </div>
+    </section>
+  )}
 
   {bodies.length > 0 && (
     <section style="margin-top: 2rem;">

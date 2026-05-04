@@ -238,5 +238,17 @@
     "name": "JCPS Board of Education",
     "source_type": "ksba",
     "source_id": "89"
+  },
+  "ky-house": {
+    "id": "ky-house",
+    "name": "Kentucky House of Representatives",
+    "source_type": "openstates",
+    "source_id": "ky-house"
+  },
+  "ky-senate": {
+    "id": "ky-senate",
+    "name": "Kentucky Senate",
+    "source_type": "openstates",
+    "source_id": "ky-senate"
   }
 }
