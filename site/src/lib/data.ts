@@ -230,6 +230,22 @@ export function formatMeetingDate(m: Meeting): string {
   return `${date} ${h12}:${String(mm).padStart(2, "0")} ${ampm}`;
 }
 
+export type StatusTone = "pending" | "committee-out" | "cross" | "passed" | "law" | "fail";
+
+export function billStatusTone(bill: Bill): StatusTone {
+  const cp = bill.chamber_progress;
+  const classifs = new Set(bill.actions.flatMap((a) => a.classification));
+  const becameLaw = classifs.has("became-law") || cp.governor === "signed";
+  const vetoOverride = cp.governor === "vetoed" && classifs.has("veto-override-passage");
+  if (becameLaw || vetoOverride) return "law";
+  if (cp.governor === "vetoed") return "fail";
+  if (cp.lower === "passed" && cp.upper === "passed") return "passed";
+  if (cp.lower === "failed" || cp.upper === "failed") return "fail";
+  if (cp.lower === "passed" || cp.upper === "passed") return "cross";
+  if (cp.lower === "passed_committee" || cp.upper === "passed_committee") return "committee-out";
+  return "pending";
+}
+
 export const dataPaths = {
   REPO_ROOT,
   DATA_ROOT,

@@ -3,10 +3,10 @@ import Layout from "~/layouts/Layout.astro";
 const base = import.meta.env.BASE_URL;
 ---
 
-<Layout title="Search — Louisville Local Politics" description="Search agenda items, attachments, and meeting text.">
+<Layout title="Search — kyp0l" description="Search agenda items, attachments, bills, and meeting text.">
   <h1>Search</h1>
-  <p>
-    Full-text search across all indexed agenda content. Try
+  <p style="color: var(--fg-muted); margin-bottom: var(--space-5);">
+    Full-text search across all indexed agenda content and bill metadata. Try
     <code>budget</code>, <code>zoning</code>, <code>JCPS</code>, or a council member name.
   </p>
 
@@ -25,4 +25,19 @@ const base = import.meta.env.BASE_URL;
       }
     });
   </script>
+
+  <style is:global>
+    /* tone Pagefind defaults to match the site palette */
+    :root {
+      --pagefind-ui-primary: var(--accent);
+      --pagefind-ui-text: var(--fg);
+      --pagefind-ui-background: var(--bg-card);
+      --pagefind-ui-border: var(--border);
+      --pagefind-ui-tag: var(--bg-subtle);
+      --pagefind-ui-border-width: 1px;
+      --pagefind-ui-border-radius: 5px;
+      --pagefind-ui-font: var(--font-sans);
+    }
+    .pagefind-ui__result-title { font-family: var(--font-serif); }
+  </style>
 </Layout>

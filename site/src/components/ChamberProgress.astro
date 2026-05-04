@@ -1,0 +1,96 @@
+---
+import type { Bill } from "~/lib/data";
+
+interface Props { bill: Bill }
+const { bill } = Astro.props;
+
+type Tone = "blank" | "pending" | "committee-out" | "passed" | "fail" | "law";
+interface Stop { label: string; letter: string; state: string; tone: Tone; }
+
+const cp = bill.chamber_progress;
+const classifs = new Set(bill.actions.flatMap((a) => a.classification));
+const wasOverride = classifs.has("veto-override-passage");
+const isBecameLaw = classifs.has("became-law") || cp.governor === "signed";
+
+const chamberMap: Record<string, { tone: Tone; text: string }> = {
+  introduced: { tone: "pending", text: "Introduced" },
+  in_committee: { tone: "pending", text: "In committee" },
+  passed_committee: { tone: "committee-out", text: "Out of cmte" },
+  passed: { tone: "passed", text: "Passed" },
+  failed: { tone: "fail", text: "Failed" },
+};
+
+function chamberStop(label: string, letter: string, state: string | null): Stop {
+  if (!state) return { label, letter, state: "—", tone: "blank" };
+  const m = chamberMap[state];
+  return m
+    ? { label, letter, state: m.text, tone: m.tone }
+    : { label, letter, state, tone: "pending" };
+}
+
+function governorStop(): Stop {
+  if (cp.governor === "signed") return { label: "Governor", letter: "G", state: "Signed", tone: "passed" };
+  if (cp.governor === "vetoed") {
+    return { label: "Governor", letter: "G", state: wasOverride ? "Vetoed · overridden" : "Vetoed", tone: "fail" };
+  }
+  if (cp.lower === "passed" && cp.upper === "passed") {
+    return { label: "Governor", letter: "G", state: "Awaiting", tone: "pending" };
+  }
+  return { label: "Governor", letter: "G", state: "—", tone: "blank" };
+}
+
+function lawStop(): Stop {
+  const becameLaw = isBecameLaw || (cp.governor === "vetoed" && wasOverride);
+  return becameLaw
+    ? { label: "Law", letter: "L", state: "Became law", tone: "law" }
+    : { label: "Law", letter: "L", state: "—", tone: "blank" };
+}
+
+const stops: Stop[] = [
+  chamberStop("House", "H", cp.lower),
+  chamberStop("Senate", "S", cp.upper),
+  governorStop(),
+  lawStop(),
+];
+
+function connectorActive(i: number): boolean {
+  if (i === 0) return cp.lower === "passed";
+  if (i === 1) return cp.upper === "passed";
+  if (i === 2) return isBecameLaw || (cp.governor === "vetoed" && wasOverride);
+  return false;
+}
+
+const tones: Record<Tone, { fill: string; stroke: string; text: string }> = {
+  blank:           { fill: "var(--bg-card)",                stroke: "var(--border-strong)",         text: "var(--fg-mute2)" },
+  pending:         { fill: "var(--status-pending-bg)",      stroke: "var(--status-pending)",        text: "var(--status-pending)" },
+  "committee-out": { fill: "var(--status-committee-out-bg)", stroke: "var(--status-committee-out)", text: "var(--status-committee-out)" },
+  passed:          { fill: "var(--status-passed-bg)",       stroke: "var(--status-passed)",         text: "var(--status-passed)" },
+  fail:            { fill: "var(--status-fail-bg)",         stroke: "var(--status-fail)",           text: "var(--status-fail)" },
+  law:             { fill: "var(--status-law-bg)",          stroke: "var(--status-law)",            text: "var(--status-law)" },
+};
+
+const xs = [90, 270, 450, 630];
+---
+
+<div class="chamber-progress" role="img" aria-label={`Bill progress: ${stops.map((s) => `${s.label} ${s.state}`).join(", ")}`}>
+  <svg viewBox="0 0 720 110" xmlns="http://www.w3.org/2000/svg">
+    {[0, 1, 2].map((i) => (
+      <line
+        x1={xs[i] + 24} y1="40" x2={xs[i + 1] - 24} y2="40"
+        stroke-width="4"
+        style={`stroke: ${connectorActive(i) ? "var(--status-passed)" : "var(--border-strong)"};`}
+      />
+    ))}
+    {stops.map((s, i) => {
+      const t = tones[s.tone];
+      return (
+        <g>
+          <circle cx={xs[i]} cy="40" r="22" stroke-width="2" style={`fill: ${t.fill}; stroke: ${t.stroke};`} />
+          <text x={xs[i]} y="46" text-anchor="middle" font-weight="700" font-size="16" style={`fill: ${t.text}; font-family: var(--font-serif);`}>{s.letter}</text>
+          <text x={xs[i]} y="78" text-anchor="middle" font-size="11" font-weight="600" letter-spacing="0.04em" style="fill: var(--fg-muted); font-family: var(--font-sans); text-transform: uppercase;">{s.label}</text>
+          <text x={xs[i]} y="95" text-anchor="middle" font-size="11.5" font-weight="500" style={`fill: ${t.text}; font-family: var(--font-sans);`}>{s.state}</text>
+        </g>
+      );
+    })}
+  </svg>
+</div>

@@ -17,6 +17,21 @@ const m = getMeetingById(id!);
 const body = m ? getBodyById(m.body_id) : undefined;
 const base = import.meta.env.BASE_URL;
 
+// Group items by section. Items without a section land under "(unsectioned)".
+const UNSECTIONED = "(unsectioned)";
+const sectionedItems = new Map<string, typeof m.items>();
+const sectionOrder: string[] = [];
+if (m) {
+  for (const it of m.items) {
+    const key = it.section || UNSECTIONED;
+    if (!sectionedItems.has(key)) {
+      sectionedItems.set(key, []);
+      sectionOrder.push(key);
+    }
+    sectionedItems.get(key)!.push(it);
+  }
+}
+
 // Pull the longest extracted-text attachment as the search corpus to inline.
 const corpusAttachment = m
   ? m.attachments
@@ -34,35 +49,56 @@ const corpusText = readExtractedText(corpusAttachment?.extracted_text_path ?? nu
     <p class="empty-state">No such meeting.</p>
   ) : (
     <article data-pagefind-body>
-      <p>
-        <a href={base}>&larr; Home</a>
+      <p class="page-back">
+        <a href={base}>Home</a>
         {body && <> · <a href={`${base}body/${body.id}`}>{body.name}</a></>}
       </p>
       <h1>{m.title}</h1>
-      <p data-pagefind-meta={`date:${m.date}`} style="color: var(--fg-muted);">
-        {formatMeetingDate(m)} ·
-        <span class="body-pill">{body?.name ?? m.body_id}</span>
-        <a href={m.source_url} target="_blank" rel="noopener">View on {m.source_type}</a>
-        {m.video_url && (<>· <a href={m.video_url} target="_blank" rel="noopener">Video</a></>)}
+      <p data-pagefind-meta={`date:${m.date}`} style="color: var(--fg-muted); margin-bottom: var(--space-5);">
+        <span class="tabular">{formatMeetingDate(m)}</span>
+        {body && <> · <span class="body-pill">{body.name}</span></>}
+        · <a href={m.source_url} target="_blank" rel="noopener">View on {m.source_type}</a>
+        {m.video_url && (<> · <a href={m.video_url} target="_blank" rel="noopener">Video</a></>)}
       </p>
 
       <h2>Agenda items ({m.items.length})</h2>
       {m.items.length === 0 ? (
-        <p class="empty-state">No structured items parsed for this meeting. Try the full-text search below.</p>
-      ) : (
+        <p class="empty-state">No structured items parsed for this meeting. Try the full agenda text below.</p>
+      ) : sectionOrder.length === 1 && sectionOrder[0] === UNSECTIONED ? (
+        // Source has no section data; render the items flat without a header.
         <ul class="items">
           {m.items.map((it) => (
             <li>
               <span class="num">{it.item_number}.</span>
               {it.file_number && <span class="file">{it.file_number}</span>}
               <span>{it.title}</span>
-              {it.section && <span class="section-tag">{it.section}</span>}
             </li>
           ))}
         </ul>
+      ) : (
+        sectionOrder.map((section) => {
+          const items = sectionedItems.get(section)!;
+          return (
+            <section class="agenda-section">
+              <h3 class="agenda-section-header">
+                <span>{section === UNSECTIONED ? "Other items" : section}</span>
+                <span class="agenda-section-count">{items.length} {items.length === 1 ? "item" : "items"}</span>
+              </h3>
+              <ul class="items">
+                {items.map((it) => (
+                  <li>
+                    <span class="num">{it.item_number}.</span>
+                    {it.file_number && <span class="file">{it.file_number}</span>}
+                    <span>{it.title}</span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          );
+        })
       )}
 
-      <h2 style="margin-top: 2rem;">Attachments ({m.attachments.length})</h2>
+      <h2 style="margin-top: var(--space-6);">Attachments ({m.attachments.length})</h2>
       <ul class="items">
         {m.attachments.map((a) => (
           <li>

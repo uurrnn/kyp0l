@@ -1,4 +1,5 @@
 import { defineConfig } from "astro/config";
+import preact from "@astrojs/preact";
 
 // SITE_URL: deploy origin, e.g. https://<user>.github.io  (no trailing slash)
 // BASE_PATH: path prefix, e.g. "/louisville-politics-tracker/" (with leading + trailing slash)
@@ -19,6 +20,7 @@ export default defineConfig({
   site: SITE_URL,
   base: BASE_PATH,
   trailingSlash: "ignore",
+  integrations: [preact()],
   build: {
     format: "directory",
   },

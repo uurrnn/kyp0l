@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap");
+
+:root {
+  --bg: #fafaf7;
+  --bg-card: #ffffff;
+  --bg-subtle: #f4f2ee;
+  --fg: #1a1a1a;
+  --fg-muted: #555;
+  --fg-mute2: #777;
+  --border: #e2e2dc;
+  --border-strong: #c8c5bc;
+
+  --accent: #6b1d2e;
+  --accent-soft: #f4e9ec;
+
+  --status-pending: #6b6b6b;
+  --status-pending-bg: #ececea;
+  --status-committee-out: #8a6a1f;
+  --status-committee-out-bg: #f5ecd3;
+  --status-cross: #1f4a6b;
+  --status-cross-bg: #dde7f0;
+  --status-passed: #1f6b3a;
+  --status-passed-bg: #d8ebde;
+  --status-law: #134d28;
+  --status-law-bg: #cee0d3;
+  --status-fail: #93302d;
+  --status-fail-bg: #f3dad7;
+
+  --font-serif: "Source Serif 4", "Source Serif Pro", "Charter", "Iowan Old Style", "Apple Garamond", "Baskerville", "Times New Roman", serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+
+  --text-xs: 0.78rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.35rem;
+  --text-2xl: 1.7rem;
+  --text-3xl: 2.2rem;
+  --text-4xl: 3rem;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-8: 3rem;
+
+  --radius-sm: 3px;
+  --radius: 5px;
+  --radius-lg: 10px;
+
+  --container: 1100px;
+  --sidebar-width: 280px;
+  --bill-sidebar-width: 300px;
+}

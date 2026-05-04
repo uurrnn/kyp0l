@@ -1,10 +1,19 @@
 ---
+import "~/styles/tokens.css";
+import "~/styles/base.css";
+import "~/styles/components.css";
+
 interface Props {
   title: string;
   description?: string;
 }
 const { title, description } = Astro.props;
 const base = import.meta.env.BASE_URL; // always ends with "/"
+const path = Astro.url.pathname;
+function isActive(prefix: string): boolean {
+  if (prefix === base) return path === base || path === base.replace(/\/$/, "");
+  return path.startsWith(prefix);
+}
 ---
 <!doctype html>
 <html lang="en">
@@ -18,95 +27,30 @@ const base = import.meta.env.BASE_URL; // always ends with "/"
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href={base}>Kentucky + Louisville Politics</a>
-      <nav>
-        <a href={base}>Home</a>
-        <a href={`${base}search`}>Search</a>
-      </nav>
+      <div class="site-header-inner">
+        <a class="brand-stack" href={base} style="text-decoration: none;">
+          <span class="wordmark">kyp0l</span>
+          <span class="tagline">A standing record of state and city business.</span>
+        </a>
+        <nav class="site-nav">
+          <a href={base} class={isActive(base) ? "active" : ""}>Home</a>
+          <a href={`${base}bills`} class={isActive(`${base}bills`) ? "active" : ""}>Bills</a>
+          <a href={`${base}search`} class={isActive(`${base}search`) ? "active" : ""}>Search</a>
+        </nav>
+      </div>
     </header>
-    <main>
+    <main class="container">
       <slot />
     </main>
     <footer class="site-footer">
       <p>
         Aggregated from
-        <a href="https://louisvilleky.primegov.com/public/portal" rel="noopener" target="_blank">PrimeGov</a>
+        <a href="https://louisvilleky.primegov.com/public/portal" rel="noopener" target="_blank">PrimeGov</a>,
+        <a href="https://portal.ksba.org/public/" rel="noopener" target="_blank">KSBA Public Portal</a>,
         and
-        <a href="https://portal.ksba.org/public/" rel="noopener" target="_blank">KSBA Public Portal</a>.
+        <a href="https://openstates.org" rel="noopener" target="_blank">Open States</a>.
         Source data refreshed automatically.
       </p>
     </footer>
-    <style is:global>
-      :root {
-        --fg: #1a1a1a;
-        --fg-muted: #555;
-        --bg: #fafaf7;
-        --bg-card: #ffffff;
-        --accent: #6b1d2e;
-        --border: #e2e2dc;
-        --max: 920px;
-      }
-      * { box-sizing: border-box; }
-      html, body { margin: 0; padding: 0; }
-      body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        font-size: 16px;
-        line-height: 1.55;
-        color: var(--fg);
-        background: var(--bg);
-      }
-      a { color: var(--accent); }
-      a:hover { text-decoration: underline; }
-      h1, h2, h3 { line-height: 1.2; margin: 0 0 0.6rem; }
-      h1 { font-size: 1.8rem; }
-      h2 { font-size: 1.3rem; }
-      h3 { font-size: 1.05rem; font-weight: 600; }
-      p { margin: 0 0 0.8rem; }
-      .site-header {
-        display: flex; align-items: baseline; gap: 1.5rem;
-        max-width: var(--max); margin: 0 auto;
-        padding: 1.2rem 1rem 0.6rem; border-bottom: 1px solid var(--border);
-      }
-      .site-header .brand {
-        font-weight: 700; text-decoration: none; color: var(--fg);
-        font-size: 1.05rem; letter-spacing: 0.01em;
-      }
-      .site-header nav { margin-left: auto; display: flex; gap: 1rem; font-size: 0.95rem; }
-      main {
-        max-width: var(--max); margin: 0 auto; padding: 1.5rem 1rem 4rem;
-      }
-      .site-footer {
-        max-width: var(--max); margin: 2rem auto 0;
-        padding: 1rem; font-size: 0.85rem; color: var(--fg-muted);
-        border-top: 1px solid var(--border);
-      }
-      .meeting-card {
-        display: block; padding: 0.9rem 1rem; margin: 0 0 0.5rem;
-        background: var(--bg-card); border: 1px solid var(--border); border-radius: 6px;
-        text-decoration: none; color: inherit;
-      }
-      .meeting-card:hover { border-color: var(--accent); }
-      .meeting-card .date { color: var(--fg-muted); font-size: 0.85rem; }
-      .meeting-card .body-name { font-size: 0.85rem; color: var(--fg-muted); }
-      .meeting-card .title { font-weight: 600; margin: 0.15rem 0; }
-      .meeting-card .meta { color: var(--fg-muted); font-size: 0.85rem; }
-      ul.items { list-style: none; padding: 0; margin: 0; }
-      ul.items li { border-bottom: 1px dotted var(--border); padding: 0.5rem 0; }
-      ul.items li .num { color: var(--fg-muted); font-variant-numeric: tabular-nums; margin-right: 0.5rem; font-size: 0.85rem; }
-      ul.items li .file { color: var(--accent); font-weight: 600; margin-right: 0.5rem; font-size: 0.85rem; }
-      ul.items li .section-tag { font-size: 0.7rem; padding: 1px 6px; margin-left: 0.5rem; border-radius: 3px; background: #eee; color: #444; }
-      .body-pill {
-        display: inline-block; font-size: 0.75rem; padding: 2px 8px;
-        background: #efeae6; color: #333; border-radius: 12px;
-        margin-right: 0.4rem;
-      }
-      details.corpus { margin-top: 1rem; }
-      details.corpus summary { cursor: pointer; color: var(--fg-muted); font-size: 0.9rem; }
-      details.corpus pre {
-        white-space: pre-wrap; font-size: 0.82rem; background: #f4f2ee;
-        padding: 0.7rem; border-radius: 4px; max-height: 60vh; overflow: auto;
-      }
-      .empty-state { color: var(--fg-muted); font-style: italic; padding: 2rem 0; }
-    </style>
   </body>
 </html>

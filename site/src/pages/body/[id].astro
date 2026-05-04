@@ -1,6 +1,13 @@
 ---
 import Layout from "~/layouts/Layout.astro";
-import { getBodies, getBodyById, getMeetingsByBody, getBillsByBody, formatMeetingDate } from "~/lib/data";
+import {
+  getBodies,
+  getBodyById,
+  getMeetingsByBody,
+  getBillsByBody,
+  formatMeetingDate,
+  billStatusTone,
+} from "~/lib/data";
 
 export function getStaticPaths() {
   return getBodies().map((b) => ({ params: { id: b.id } }));
@@ -14,49 +21,73 @@ const base = import.meta.env.BASE_URL;
 const MAX_BILLS_PER_BODY = 100;
 ---
 
-<Layout title={`${body?.name ?? "Body"} — Kentucky + Louisville Politics`}>
+<Layout title={`${body?.name ?? "Body"} — kyp0l`}>
   {!body ? (
     <p class="empty-state">No such body.</p>
   ) : (
     <>
-      <p><a href={base}>&larr; All bodies</a></p>
+      <p class="page-back"><a href={base}>Home</a></p>
       <h1>{body.name}</h1>
-      <p class="meta" style="color: var(--fg-muted);">
+      <p style="color: var(--fg-muted); margin-bottom: var(--space-5);">
         Source: <strong>{body.source_type}</strong> ·
         {meetings.length} meetings indexed
+        {bills.length > 0 && <> · {bills.length} bills</>}
       </p>
 
-      {meetings.length > 0 && <h2>Meetings ({meetings.length})</h2>}
-      <div data-pagefind-ignore>
-        {meetings.map((m) => (
-          <a class="meeting-card" href={`${base}meeting/${m.id}`}>
-            <div class="date">{formatMeetingDate(m)}</div>
-            <div class="title">{m.title}</div>
-            <div class="meta">{m.items.length} items · {m.attachments.length} attachments</div>
-          </a>
-        ))}
-        {meetings.length === 0 && bills.length === 0 && (
-          <p class="empty-state">Nothing indexed yet for this body.</p>
-        )}
-      </div>
+      {meetings.length === 0 && bills.length === 0 && (
+        <p class="empty-state">Nothing indexed yet for this body.</p>
+      )}
 
-      {bills.length > 0 && (
-        <section style="margin-top: 2rem;">
-          <h2>Bills ({bills.length})</h2>
+      {meetings.length > 0 && (
+        <>
+          <h2 class="dashboard-section-header">Meetings ({meetings.length})</h2>
           <div data-pagefind-ignore>
-            {bills.slice(0, MAX_BILLS_PER_BODY).map((b) => (
-              <a class="meeting-card" href={`${base}bill/${b.id}`}>
-                <div class="date">{b.last_action_date}</div>
-                <div class="body-name">{b.identifier}</div>
-                <div class="title">{b.title}</div>
-                <div class="meta">{b.current_status}</div>
+            {meetings.map((m) => (
+              <a class="meeting-card" href={`${base}meeting/${m.id}`}>
+                <div class="date">{formatMeetingDate(m)}</div>
+                <div class="title">{m.title}</div>
+                <div class="meta">{m.items.length} items · {m.attachments.length} attachments</div>
               </a>
             ))}
+          </div>
+        </>
+      )}
+
+      {bills.length > 0 && (
+        <>
+          <h2 class="dashboard-section-header">Bills ({bills.length})</h2>
+          <div data-pagefind-ignore>
+            <table class="bills-table">
+              <thead>
+                <tr>
+                  <th class="col-id">Bill</th>
+                  <th class="col-title">Title</th>
+                  <th class="col-status">Status</th>
+                  <th class="col-date">Last action</th>
+                </tr>
+              </thead>
+              <tbody>
+                {bills.slice(0, MAX_BILLS_PER_BODY).map((b) => {
+                  const tone = billStatusTone(b);
+                  return (
+                    <tr>
+                      <td class="col-id"><a href={`${base}bill/${b.id}`}>{b.identifier}</a></td>
+                      <td class="col-title"><a href={`${base}bill/${b.id}`}>{b.title}</a></td>
+                      <td class="col-status"><span class={`status-badge ${tone}`}>{b.current_status}</span></td>
+                      <td class="col-date">{b.last_action_date}</td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
             {bills.length > MAX_BILLS_PER_BODY && (
-              <p style="color: var(--fg-muted);">Showing {MAX_BILLS_PER_BODY} of {bills.length}. Use search for more.</p>
+              <p class="results-meta" style="margin-top: var(--space-3);">
+                Showing {MAX_BILLS_PER_BODY} of {bills.length}.
+                <a href={`${base}bills?body=${body.id}`}>See all in /bills →</a>
+              </p>
             )}
           </div>
-        </section>
+        </>
       )}
     </>
   )}

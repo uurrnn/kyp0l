@@ -1,64 +1,241 @@
 ---
 import Layout from "~/layouts/Layout.astro";
-import { getMeetings, getBodies, formatMeetingDate, getBodyById, getBills, getRecentBills } from "~/lib/data";
+import {
+  getMeetings,
+  getBodies,
+  getBills,
+  formatMeetingDate,
+  getBodyById,
+  billStatusTone,
+} from "~/lib/data";
+import { FEATURED_SUBJECTS } from "~/lib/featured-subjects";
 
 const meetings = getMeetings();
 const bodies = getBodies();
-const recent = meetings.slice(0, 50);
-const allBills = getBills();
-const recentBills = getRecentBills(10);
+const bills = getBills();
 const base = import.meta.env.BASE_URL;
+
+// ----------------------------------------------------------- masthead numbers
+
+const now = new Date();
+const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000)
+  .toISOString()
+  .slice(0, 10);
+const todayISO = now.toISOString().slice(0, 10);
+
+const billsActiveThisWeek = bills.filter((b) => b.last_action_date >= sevenDaysAgo).length;
+// "Awaiting governor" = passed both chambers but not yet signed/vetoed/became law.
+// billStatusTone === "passed" captures this exactly, since the helper promotes a
+// bill to "law" once any became-law action exists (some bills are delivered to
+// the Secretary of State without an explicit executive-signature classification).
+const billsAwaitingGovernor = bills.filter((b) => billStatusTone(b) === "passed").length;
+
+const masthead = [
+  { num: bills.length, label: "Bills tracked", href: `${base}bills` },
+  { num: bodies.length, label: "Bodies", href: `${base}#bodies` },
+  { num: meetings.length, label: "Meetings indexed", href: `${base}#meetings` },
+  { num: billsActiveThisWeek, label: "Active this week", href: `${base}bills?recent=7` },
+  { num: billsAwaitingGovernor, label: "Awaiting governor", href: `${base}bills?status=passed` },
+];
+
+// ----------------------------------------------------------- this-week columns
+//
+// During session recess the strict "last 7 days" predicate returns an empty
+// list, which is honest but a dead-feeling dashboard. We render the predicate
+// match if there is any, otherwise fall back to the latest-N regardless of
+// date and label the column "(recent)" instead of "(this week)".
+
+interface BillTouch { bill: typeof bills[number]; date: string; }
+function latestActionMatching(b: typeof bills[number], pred: (cls: string[]) => boolean): string | null {
+  for (let i = b.actions.length - 1; i >= 0; i--) {
+    if (pred(b.actions[i].classification)) return b.actions[i].date;
+  }
+  return null;
+}
+
+const referrals: BillTouch[] = [];
+const floorActions: BillTouch[] = [];
+for (const b of bills) {
+  const ref = latestActionMatching(b, (cls) => cls.includes("referral-committee"));
+  if (ref) referrals.push({ bill: b, date: ref });
+  const floor = latestActionMatching(b, (cls) =>
+    cls.some((c) => c === "passage" || c === "failure" || c === "executive-veto" || c === "veto-override-passage" || c === "executive-signature" || c === "became-law"),
+  );
+  if (floor) floorActions.push({ bill: b, date: floor });
+}
+referrals.sort((a, b) => b.date.localeCompare(a.date));
+floorActions.sort((a, b) => b.date.localeCompare(a.date));
+
+const recentReferrals = referrals.filter((r) => r.date >= sevenDaysAgo);
+const recentFloor = floorActions.filter((r) => r.date >= sevenDaysAgo);
+
+const referralsToShow = recentReferrals.length > 0 ? recentReferrals.slice(0, 5) : referrals.slice(0, 5);
+const referralsLabel = recentReferrals.length > 0 ? "Committee referrals · this week" : "Committee referrals · recent";
+
+const floorToShow = recentFloor.length > 0 ? recentFloor.slice(0, 5) : floorActions.slice(0, 5);
+const floorLabel = recentFloor.length > 0 ? "Floor actions · this week" : "Floor actions · recent";
+
+const upcomingMeetings = meetings
+  .filter((m) => m.date >= todayISO)
+  .sort((a, b) => a.date.localeCompare(b.date))
+  .slice(0, 5);
+
+// ----------------------------------------------------------- subject pulse
+
+const subjectCounts = new Map<string, number>();
+for (const b of bills) {
+  for (const s of b.subjects) subjectCounts.set(s, (subjectCounts.get(s) || 0) + 1);
+}
+const featuredWithCounts = FEATURED_SUBJECTS
+  .map((s) => ({ subject: s, count: subjectCounts.get(s) || 0 }))
+  .filter((s) => s.count > 0)
+  .sort((a, b) => b.count - a.count);
+const totalSubjects = subjectCounts.size;
+
+// ----------------------------------------------------------- recent activity
+
+const recentActivity = bills.slice(0, 25);
+const recentMeetings = meetings.slice(0, 10);
 ---
 
-<Layout title="Kentucky + Louisville Politics" description="Searchable index of Kentucky General Assembly bills, Louisville Metro Council, and JCPS Board agendas.">
-  <h1>Recent meetings</h1>
-  <p>
-    Tracking <strong>{bodies.length}</strong> bodies across Louisville Metro
-    (PrimeGov), JCPS Board of Education (KSBA), and the Kentucky General
-    Assembly (Open States).
-    <strong>{meetings.length}</strong> meetings · <strong>{allBills.length}</strong> bills indexed.
-  </p>
-
-  <div data-pagefind-ignore>
-    {recent.length === 0 && <p class="empty-state">No meetings yet — run <code>python -m scrapers</code> to populate <code>/data/</code>.</p>}
-    {recent.map((m) => {
-      const body = getBodyById(m.body_id);
-      return (
-        <a class="meeting-card" href={`${base}meeting/${m.id}`}>
-          <div class="date">{formatMeetingDate(m)}</div>
-          <div class="body-name">{body?.name ?? m.body_id}</div>
-          <div class="title">{m.title}</div>
-          <div class="meta">{m.items.length} items · {m.attachments.length} attachments</div>
-        </a>
-      );
-    })}
+<Layout title="kyp0l — A standing record of state and city business" description="Searchable index of Kentucky General Assembly bills, Louisville Metro Council, and JCPS Board agendas.">
+  {/* masthead numbers */}
+  <div class="numbers-strip" data-pagefind-ignore>
+    {masthead.map((t) => (
+      <a class="tile" href={t.href}>
+        <div class="tile-num">{t.num.toLocaleString()}</div>
+        <div class="tile-label">{t.label}</div>
+      </a>
+    ))}
   </div>
 
-  {recentBills.length > 0 && (
-    <section style="margin-top: 2rem;">
-      <h2>Recent legislative activity</h2>
-      <div data-pagefind-ignore>
-        {recentBills.map((b) => (
-          <a class="meeting-card" href={`${base}bill/${b.id}`}>
-            <div class="date">{b.last_action_date}</div>
-            <div class="body-name">{b.identifier} · Session {b.session}</div>
-            <div class="title">{b.title}</div>
-            <div class="meta">{b.current_status}</div>
+  {/* today / this week strip */}
+  <div class="this-week-strip" data-pagefind-ignore>
+    <div class="column-card">
+      <h3>{referralsLabel}</h3>
+      {referralsToShow.length === 0 ? (
+        <p class="empty">No committee referrals on record.</p>
+      ) : (
+        referralsToShow.map(({ bill, date }) => (
+          <a class="item" href={`${base}bill/${bill.id}`}>
+            <strong>{bill.identifier}</strong> · {bill.title.slice(0, 90)}{bill.title.length > 90 ? "…" : ""}
+            <div class="meta">{date}</div>
+          </a>
+        ))
+      )}
+    </div>
+    <div class="column-card">
+      <h3>{floorLabel}</h3>
+      {floorToShow.length === 0 ? (
+        <p class="empty">No recent floor activity.</p>
+      ) : (
+        floorToShow.map(({ bill, date }) => {
+          const tone = billStatusTone(bill);
+          return (
+            <a class="item" href={`${base}bill/${bill.id}`}>
+              <strong>{bill.identifier}</strong> · {bill.title.slice(0, 80)}{bill.title.length > 80 ? "…" : ""}
+              <div class="meta">{date} · <span class={`status-badge ${tone}`}>{bill.current_status}</span></div>
+            </a>
+          );
+        })
+      )}
+    </div>
+    <div class="column-card">
+      <h3>Meetings ahead</h3>
+      {upcomingMeetings.length === 0 ? (
+        <p class="empty">No future meetings on the calendar yet.</p>
+      ) : (
+        upcomingMeetings.map((m) => {
+          const body = getBodyById(m.body_id);
+          return (
+            <a class="item" href={`${base}meeting/${m.id}`}>
+              <strong>{body?.name ?? m.body_id}</strong>
+              <div class="meta">{formatMeetingDate(m)}</div>
+            </a>
+          );
+        })
+      )}
+    </div>
+  </div>
+
+  {/* subject pulse */}
+  {featuredWithCounts.length > 0 && (
+    <div class="pulse-strip" data-pagefind-ignore>
+      <h3>Subjects</h3>
+      <div>
+        {featuredWithCounts.map((s) => (
+          <a class="subject-chip" href={`${base}bills?subject=${encodeURIComponent(s.subject)}`}>
+            {s.subject}<span class="count">{s.count}</span>
           </a>
         ))}
-        <p style="margin-top: 0.6rem;"><a href={`${base}bills`}>All bills &rarr;</a></p>
+        <a class="subject-chip" href={`${base}bills`} style="font-weight: 600;">
+          All subjects ({totalSubjects}) →
+        </a>
       </div>
-    </section>
+    </div>
   )}
 
+  {/* recent legislative activity feed */}
+  <h2 class="dashboard-section-header">Recent legislative activity</h2>
+  <div data-pagefind-ignore>
+    {recentActivity.length === 0 ? (
+      <p class="empty-state">No bills yet — set <code>OPENSTATES_API_KEY</code> and run <code>python -m scrapers --sources openstates</code>.</p>
+    ) : (
+      <table class="bills-table">
+        <thead>
+          <tr>
+            <th class="col-id">Bill</th>
+            <th class="col-title">Title</th>
+            <th class="col-status">Status</th>
+            <th class="col-date">Last action</th>
+          </tr>
+        </thead>
+        <tbody>
+          {recentActivity.map((b) => {
+            const tone = billStatusTone(b);
+            return (
+              <tr>
+                <td class="col-id"><a href={`${base}bill/${b.id}`}>{b.identifier}</a></td>
+                <td class="col-title"><a href={`${base}bill/${b.id}`}>{b.title}</a></td>
+                <td class="col-status"><span class={`status-badge ${tone}`}>{b.current_status}</span></td>
+                <td class="col-date">{b.last_action_date}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    )}
+  </div>
+
+  {/* recent meetings */}
+  <h2 id="meetings" class="dashboard-section-header">Recent meetings</h2>
+  <div data-pagefind-ignore>
+    {recentMeetings.length === 0 ? (
+      <p class="empty-state">No meetings yet — run <code>python -m scrapers --sources primegov,ksba</code>.</p>
+    ) : (
+      recentMeetings.map((m) => {
+        const body = getBodyById(m.body_id);
+        return (
+          <a class="meeting-card" href={`${base}meeting/${m.id}`}>
+            <div class="date">{formatMeetingDate(m)}</div>
+            <div class="body-name">{body?.name ?? m.body_id}</div>
+            <div class="title">{m.title}</div>
+            <div class="meta">{m.items.length} items · {m.attachments.length} attachments</div>
+          </a>
+        );
+      })
+    )}
+  </div>
+
+  {/* browse by body */}
   {bodies.length > 0 && (
-    <section style="margin-top: 2rem;">
-      <h2>Browse by body</h2>
+    <>
+      <h2 id="bodies" class="dashboard-section-header">Browse by body</h2>
       <p>
         {bodies.map((b) => (
           <a class="body-pill" href={`${base}body/${b.id}`}>{b.name}</a>
         ))}
       </p>
-    </section>
+    </>
   )}
 </Layout>
