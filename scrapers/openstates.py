@@ -54,6 +54,10 @@ def parse_bill(raw: dict[str, Any], session: str) -> Bill:
     subjects = raw.get("subject") or []  # Open States returns "subject" as list[str]
 
     body_ids = _body_ids_for(raw, actions)
+    # Open States exposes `latest_action_date` as a top-level convenience field
+    # on bill responses; we prefer it because it can be slightly fresher than
+    # the actions[] timeline during in-flight updates. Fall back to the latest
+    # parsed action when absent (e.g. minimal/test fixtures).
     last_action_date = (
         raw.get("latest_action_date")
         or max((a.date for a in actions if a.date), default="")

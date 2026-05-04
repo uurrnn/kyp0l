@@ -269,9 +269,11 @@ def run_openstates(args: argparse.Namespace, state: dict, all_bodies: dict) -> t
 
             bill = parse_bill(raw, session=session)
             if selected and not (set(bill.body_ids) & selected):
+                skipped += 1
                 continue
 
-            bill_slug = bill.identifier.lower().replace(" ", "")
+            # bill.id encodes the slug as its last segment ("...-2026rs-hb15")
+            bill_slug = bill.id.rsplit("-", 1)[-1]
             out = bills_dir / f"{bill_slug}.json"
             write_json(out, bill.to_dict())
             bills_seen_at[os_id] = updated_at
