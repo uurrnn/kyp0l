@@ -8,7 +8,12 @@ import { defineConfig } from "astro/config";
 // `steps.pages.outputs.origin` and `steps.pages.outputs.base_path`. Locally
 // they default to friendly values that work with `astro dev` / `astro preview`.
 const SITE_URL = process.env.SITE_URL ?? "http://localhost:4321";
-const BASE_PATH = process.env.BASE_PATH || "/";
+// Normalise: GitHub's actions/configure-pages exposes `base_path` like
+// `/kyp0l` (no trailing slash). Astro respects whatever we pass in, so an
+// unterminated base produces hrefs like `/kyp0lbills`. Force a trailing
+// slash so `${import.meta.env.BASE_URL}bills` always renders correctly.
+const RAW_BASE = process.env.BASE_PATH || "/";
+const BASE_PATH = RAW_BASE.endsWith("/") ? RAW_BASE : `${RAW_BASE}/`;
 
 export default defineConfig({
   site: SITE_URL,
