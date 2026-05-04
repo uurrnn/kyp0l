@@ -65,6 +65,73 @@ class AgendaItem:
 
 
 @dc.dataclass
+class MemberVote:
+    name: str
+    option: str  # "yes" | "no" | "abstain" | "not voting"
+
+    def to_dict(self) -> dict[str, Any]:
+        return dc.asdict(self)
+
+
+@dc.dataclass
+class Vote:
+    motion: str
+    date: str
+    chamber: str             # "lower" | "upper"
+    result: str              # "pass" | "fail"
+    counts: dict[str, int]   # {"yes": N, "no": N, "abstain": N, "not voting": N}
+    member_votes: list[MemberVote]
+
+    def to_dict(self) -> dict[str, Any]:
+        return dc.asdict(self)
+
+
+@dc.dataclass
+class Sponsor:
+    name: str
+    party: str | None
+    district: str | None
+    primary: bool
+
+    def to_dict(self) -> dict[str, Any]:
+        return dc.asdict(self)
+
+
+@dc.dataclass
+class Action:
+    date: str                       # ISO YYYY-MM-DD
+    description: str
+    chamber: str | None             # "lower" | "upper" | None
+    classification: list[str]       # Open States action types
+
+    def to_dict(self) -> dict[str, Any]:
+        return dc.asdict(self)
+
+
+@dc.dataclass
+class Bill:
+    id: str
+    body_ids: list[str]
+    session: str
+    identifier: str
+    title: str
+    abstract: str | None
+    classification: list[str]
+    sponsors: list[Sponsor]
+    actions: list[Action]
+    votes: list[Vote]
+    subjects: list[str]
+    chamber_progress: dict[str, str | None]
+    current_status: str
+    last_action_date: str
+    source_url: str
+    openstates_id: str
+
+    def to_dict(self) -> dict[str, Any]:
+        return dc.asdict(self)
+
+
+@dc.dataclass
 class Meeting:
     id: str                       # e.g. "primegov-louisvilleky-9870"
     body_id: str                  # slug
