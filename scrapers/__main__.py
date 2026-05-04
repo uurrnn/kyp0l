@@ -15,6 +15,7 @@ and the sha256 of their primary attachment, so re-runs are cheap.
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 from datetime import date
 from pathlib import Path
@@ -22,6 +23,7 @@ from typing import Iterable
 
 from scrapers.ksba import KsbaScraper, write_meeting_record as write_ksba_meeting
 from scrapers.models import Body, write_json, read_json
+from scrapers.openstates import OpenStatesScraper, parse_bill
 from scrapers.primegov import (
     PrimeGovScraper,
     list_all_meetings,
@@ -37,6 +39,11 @@ BODIES_PATH = DATA_ROOT / "bodies.json"
 LOUISVILLE_INSTANCE = "louisvilleky"
 JCPS_KSBA_AGENCY_ID = 89
 JCPS_LABEL = "JCPS Board of Education"
+
+KY_BODIES = [
+    {"id": "ky-house", "name": "Kentucky House of Representatives"},
+    {"id": "ky-senate", "name": "Kentucky Senate"},
+]
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
@@ -79,8 +86,8 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     p.add_argument(
         "--sources",
         type=str,
-        default="primegov,ksba",
-        help="Comma-separated source names to run (default: primegov,ksba).",
+        default="primegov,ksba,openstates",
+        help="Comma-separated source names to run (default: primegov,ksba,openstates).",
     )
     return p.parse_args(argv)
 
@@ -109,6 +116,10 @@ def main(argv: list[str] | None = None) -> int:
 
     if "ksba" in sources:
         w, s_, f = run_ksba(args, state, all_bodies)
+        written += w; skipped += s_; failed += f
+
+    if "openstates" in sources:
+        w, s_, f = run_openstates(args, state, all_bodies)
         written += w; skipped += s_; failed += f
 
     write_json(BODIES_PATH, all_bodies)
@@ -222,6 +233,58 @@ def run_ksba(args: argparse.Namespace, state: dict, all_bodies: dict) -> tuple[i
                 f"       [{i}/{len(rows)}] {meeting.body_id} {meeting.date} "
                 f"{meeting.title[:50]:50s} items={len(meeting.items)} attachments={len(meeting.attachments)}"
             )
+    return written, skipped, failed
+
+
+def run_openstates(args: argparse.Namespace, state: dict, all_bodies: dict) -> tuple[int, int, int]:
+    api_key = os.environ.get("OPENSTATES_API_KEY", "").strip()
+    if not api_key:
+        print("\n[openstates] OPENSTATES_API_KEY not set; skipping.")
+        return 0, 0, 0
+
+    selected = {s.strip() for s in (args.bodies or "").split(",") if s.strip()}
+
+    for spec in KY_BODIES:
+        b = Body(id=spec["id"], name=spec["name"], source_type="openstates", source_id=spec["id"])
+        all_bodies[b.id] = b.to_dict()
+
+    scraper = OpenStatesScraper(api_key)
+    print("\n[openstates] resolving active session ...")
+    session = scraper.current_session()
+    print(f"             active session = {session}")
+
+    bills_seen_at = state.setdefault("bills_updated_at", {})
+
+    written = skipped = failed = 0
+    bills_dir = DATA_ROOT / "bills" / session
+
+    for raw in scraper.list_bills(session):
+        try:
+            updated_at = raw.get("updated_at") or ""
+            ident = raw.get("identifier") or "?"
+            os_id = raw["id"]
+            if updated_at and bills_seen_at.get(os_id) == updated_at:
+                skipped += 1
+                continue
+
+            bill = parse_bill(raw, session=session)
+            if selected and not (set(bill.body_ids) & selected):
+                continue
+
+            bill_slug = bill.identifier.lower().replace(" ", "")
+            out = bills_dir / f"{bill_slug}.json"
+            write_json(out, bill.to_dict())
+            bills_seen_at[os_id] = updated_at
+            written += 1
+            if written <= 10 or written % 50 == 0:
+                print(f"             [{written}] {ident:8s} -> {out.relative_to(REPO_ROOT)}  ({bill.current_status})")
+            if args.limit and written >= args.limit:
+                print(f"             stopped at --limit {args.limit}")
+                break
+        except Exception as e:  # noqa: BLE001
+            print(f"             FAIL bill {raw.get('identifier')}: {e!r}")
+            failed += 1
+
     return written, skipped, failed
 
 
