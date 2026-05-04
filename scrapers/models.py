@@ -150,6 +150,68 @@ class Meeting:
         return d
 
 
+# Order matters: later items override earlier ones unless the new state is
+# weaker (we never downgrade — see _PROGRESS_RANK).
+_PROGRESS_RANK = {
+    None: 0,
+    "introduced": 1,
+    "in_committee": 2,
+    "passed_committee": 3,
+    "passed": 4,
+    "failed": 4,  # terminal, same rank as passed so it can't be overridden
+}
+
+
+def _classify_chamber_action(classification: list[str]) -> str | None:
+    cs = set(classification or [])
+    if "passage" in cs:
+        return "passed"
+    if "failure" in cs:
+        return "failed"
+    if any(c.startswith("committee-passage") for c in cs):
+        return "passed_committee"
+    if "referral-committee" in cs:
+        return "in_committee"
+    if "introduction" in cs:
+        return "introduced"
+    return None
+
+
+def _classify_governor_action(classification: list[str]) -> str | None:
+    cs = set(classification or [])
+    if "executive-signature" in cs:
+        return "signed"
+    if "executive-veto" in cs:
+        return "vetoed"
+    return None
+
+
+def derive_chamber_progress(actions: list[Action]) -> dict[str, str | None]:
+    """Walk an action timeline and return the most-progressed state per chamber.
+
+    Progress is monotonic: once a chamber reaches 'passed' or 'failed' it can
+    not be downgraded by later actions (e.g. recommittal).
+    """
+    progress: dict[str, str | None] = {"lower": None, "upper": None, "governor": None}
+
+    for action in actions:
+        gov_state = _classify_governor_action(action.classification)
+        if gov_state is not None:
+            progress["governor"] = gov_state
+            continue
+
+        chamber = action.chamber
+        if chamber not in ("lower", "upper"):
+            continue
+        new_state = _classify_chamber_action(action.classification)
+        if new_state is None:
+            continue
+        if _PROGRESS_RANK[new_state] >= _PROGRESS_RANK[progress[chamber]]:
+            progress[chamber] = new_state
+
+    return progress
+
+
 def write_json(path: Path, obj: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, indent=2, default=str), encoding="utf-8")
