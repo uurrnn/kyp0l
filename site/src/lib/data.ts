@@ -11,10 +11,11 @@ const REPO_ROOT = path.resolve(
 );
 const DATA_ROOT = path.join(REPO_ROOT, "data");
 const MEETINGS_DIR = path.join(DATA_ROOT, "meetings");
+const BILLS_DIR = path.join(DATA_ROOT, "bills");
 const ATTACHMENTS_DIR = path.join(DATA_ROOT, "attachments");
 const BODIES_PATH = path.join(DATA_ROOT, "bodies.json");
 
-export type SourceType = "primegov" | "ksba";
+export type SourceType = "primegov" | "ksba" | "openstates";
 
 export interface Body {
   id: string;
@@ -122,6 +123,94 @@ export function readExtractedText(extractedPath: string | null): string {
   }
 }
 
+// ----------------------------------------------------------- Bills
+
+export type ChamberState = "introduced" | "in_committee" | "passed_committee" | "passed" | "failed";
+export type GovernorState = "signed" | "vetoed";
+
+export interface Sponsor {
+  name: string;
+  party: string | null;
+  district: string | null;
+  primary: boolean;
+}
+
+export interface Action {
+  date: string;
+  description: string;
+  chamber: "lower" | "upper" | null;
+  classification: string[];
+}
+
+export interface MemberVote {
+  name: string;
+  option: string;
+}
+
+export interface Vote {
+  motion: string;
+  date: string;
+  chamber: "lower" | "upper";
+  result: string;
+  counts: { yes: number; no: number; abstain: number; "not voting": number };
+  member_votes: MemberVote[];
+}
+
+export interface Bill {
+  id: string;
+  body_ids: string[];
+  session: string;
+  identifier: string;
+  title: string;
+  abstract: string | null;
+  classification: string[];
+  sponsors: Sponsor[];
+  actions: Action[];
+  votes: Vote[];
+  subjects: string[];
+  chamber_progress: {
+    lower: ChamberState | null;
+    upper: ChamberState | null;
+    governor: GovernorState | null;
+  };
+  current_status: string;
+  last_action_date: string;
+  source_url: string;
+  openstates_id: string;
+}
+
+let _bills: Bill[] | null = null;
+
+export function getBills(): Bill[] {
+  if (_bills) return _bills;
+  const out: Bill[] = [];
+  for (const file of walkJson(BILLS_DIR)) {
+    try {
+      const raw = JSON.parse(fs.readFileSync(file, "utf-8")) as Bill;
+      out.push(raw);
+    } catch {
+      // skip malformed
+    }
+  }
+  out.sort((a, b) => b.last_action_date.localeCompare(a.last_action_date));
+  _bills = out;
+  return _bills;
+}
+
+export function getBillById(id: string): Bill | undefined {
+  return getBills().find((b) => b.id === id);
+}
+
+export function getBillsByBody(bodyId: string): Bill[] {
+  return getBills().filter((b) => b.body_ids.includes(bodyId));
+}
+
+export function getRecentBills(n: number): Bill[] {
+  return getBills().slice(0, n);
+}
+
+// ----------------------------------------------------------- formatting
+
 export function formatMeetingDate(m: Meeting): string {
   // Render as e.g. "Apr 21, 2026 6:00 PM"
   if (!m.date) return "";
@@ -145,6 +234,7 @@ export const dataPaths = {
   REPO_ROOT,
   DATA_ROOT,
   MEETINGS_DIR,
+  BILLS_DIR,
   ATTACHMENTS_DIR,
   BODIES_PATH,
 };
