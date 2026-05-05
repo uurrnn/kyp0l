@@ -1,0 +1,33 @@
+{
+  "id": "ky-d-j-johnson",
+  "source": "openstates",
+  "source_id": "ocd-person/ed9307f1-cd95-4004-9e72-46970ea64adf",
+  "name": "D.J. Johnson",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "13",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house13.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 351C, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "dj.johnson@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/d-j-johnson-7EINEz2OSmdgof3kL9qw2h/"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ky-mary-lou-marzian",
+  "source": "openstates",
+  "source_id": "ocd-person/86342422-7a28-4631-b3d7-3912eb444ffd",
+  "name": "Mary Lou Marzian",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "41",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house41.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 457B, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "KY"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district",
+        "voice": "502-541-1376"
+      }
+    ],
+    "emails": [
+      "marylou.marzian@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/mary-lou-marzian-45Ench4g6Pcnq5yMQLwXuf/"
+  ]
+}

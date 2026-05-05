@@ -1,0 +1,41 @@
+{
+  "id": "ky-robin-webb",
+  "source": "openstates",
+  "source_id": "ocd-person/42990da5-7020-4327-bbd8-496955b00040",
+  "name": "Robin Webb",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "18",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate118.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 253, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "102 S. Hord St., Grayson, KY 41143"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district",
+        "voice": "606-474-5380"
+      }
+    ],
+    "emails": [
+      "robin.webb@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/robin-webb-21fRE2i7gUcpewdlyuRlGy/"
+  ]
+}

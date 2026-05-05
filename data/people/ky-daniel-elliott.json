@@ -1,0 +1,37 @@
+{
+  "id": "ky-daniel-elliott",
+  "source": "openstates",
+  "source_id": "ocd-person/d93e2493-49a8-4395-b7e0-5842893344e1",
+  "name": "Daniel Elliott",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "54",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house54.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 313, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 2082, Danville, KY 40423"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "daniel.elliott@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/daniel-elliott-6bvjWkxyRwM00x6RiDrrdp/"
+  ]
+}

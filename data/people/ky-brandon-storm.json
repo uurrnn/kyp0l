@@ -1,0 +1,33 @@
+{
+  "id": "ky-brandon-storm",
+  "source": "openstates",
+  "source_id": "ocd-person/257271f3-68b1-4481-94e5-f98300493413",
+  "name": "Brandon Storm",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "21",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate121.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 204, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "brandon.storm@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/brandon-storm-18f15tzW9rqsdgBxeAiqmZ/"
+  ]
+}

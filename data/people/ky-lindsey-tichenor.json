@@ -1,0 +1,37 @@
+{
+  "id": "ky-lindsey-tichenor",
+  "source": "openstates",
+  "source_id": "ocd-person/db2324a8-1ae2-4e3a-81e5-ac83cb7bbb05",
+  "name": "Lindsey Tichenor",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "6",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate106.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 290, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 651, La Grange, KY 40031"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "lindsey.tichenor@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/lindsey-tichenor-6fVNZ4lRL7cQDd6s36OtxV/"
+  ]
+}

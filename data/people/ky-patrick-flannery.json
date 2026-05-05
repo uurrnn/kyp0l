@@ -1,0 +1,33 @@
+{
+  "id": "ky-patrick-flannery",
+  "source": "openstates",
+  "source_id": "ocd-person/8ae56ea2-3f37-490b-a3dc-0dec9fe85c7c",
+  "name": "Patrick Flannery",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "96",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house96.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 373B, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "patrick.flannery@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/patrick-flannery-4E5n67hoGCus81pfId6xie/"
+  ]
+}

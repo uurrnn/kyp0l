@@ -1,0 +1,41 @@
+{
+  "id": "ky-mark-hart",
+  "source": "openstates",
+  "source_id": "ocd-person/b1a31b02-5d89-42be-97d4-7d08d99161d8",
+  "name": "Mark Hart",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "78",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house78.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 373, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "KY"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district",
+        "voice": "859-654-4278"
+      }
+    ],
+    "emails": [
+      "mark.hart@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/mark-hart-5PCBEv1ruH2jub4AU3yf8q/"
+  ]
+}

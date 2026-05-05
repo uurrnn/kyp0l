@@ -1,0 +1,33 @@
+{
+  "id": "ky-anne-donworth",
+  "source": "openstates",
+  "source_id": "ocd-person/2b9ac6b5-8979-40b1-b2d1-8241b93061a7",
+  "name": "Anne Donworth",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "76",
+  "active": true,
+  "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AnneDonworth.jpeg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 457C, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "anne.donworth@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/anne-donworth-1KHOz4bEthb9fptM9HfVEV/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ky-kevin-jackson",
+  "source": "openstates",
+  "source_id": "ocd-person/0e905c68-fbcc-4392-865e-a4dbc5d2ea42",
+  "name": "Kevin Jackson",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "20",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house20.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 351B, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "kevin.jackson@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/kevin-jackson-RTrfrNXBdrgxfrNVqEahO/"
+  ]
+}

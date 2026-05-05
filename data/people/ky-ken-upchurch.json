@@ -1,0 +1,41 @@
+{
+  "id": "ky-ken-upchurch",
+  "source": "openstates",
+  "source_id": "ocd-person/7aa13bf4-126a-4901-bfeb-2244bd2d3cc3",
+  "name": "Ken Upchurch",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "52",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house52.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 303, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "KY"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district",
+        "voice": "606-340-8490"
+      }
+    ],
+    "emails": [
+      "ken.upchurch@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/ken-upchurch-3jOkNn1Bxbyagr7DLcgazz/"
+  ]
+}

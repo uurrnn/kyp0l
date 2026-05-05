@@ -1,0 +1,37 @@
+{
+  "id": "ky-susan-witten",
+  "source": "openstates",
+  "source_id": "ocd-person/c85ace8f-67e3-438d-afeb-e6442aec43cd",
+  "name": "Susan Witten",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "31",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house31.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 395, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 43861, Louisville, KY 40253"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "susan.witten@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/susan-witten-663xmb5U4lKa1GmgyVDHjR/"
+  ]
+}

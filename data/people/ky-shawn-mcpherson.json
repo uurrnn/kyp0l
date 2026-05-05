@@ -1,0 +1,37 @@
+{
+  "id": "ky-shawn-mcpherson",
+  "source": "openstates",
+  "source_id": "ocd-person/5a327e3b-ae91-4279-ae17-9214aad32fa9",
+  "name": "Shawn McPherson",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "22",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house22.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 405D, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "801 E. Main St., Scottsville, KY 42164"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "shawn.mcpherson@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/shawn-mcpherson-2kCNrJwjZnbj9y9oFXXYrZ/"
+  ]
+}

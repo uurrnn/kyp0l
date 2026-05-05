@@ -1,0 +1,33 @@
+{
+  "id": "ky-tom-smith",
+  "source": "openstates",
+  "source_id": "ocd-person/5764151d-bf80-422b-bc46-93ac2be910cc",
+  "name": "Tom Smith",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "86",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house86.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 413G, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "tom.smith@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/tom-smith-2eu4M7dm6dFhzHhIZKPfno/"
+  ]
+}

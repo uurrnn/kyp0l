@@ -1,0 +1,41 @@
+{
+  "id": "ky-david-meade",
+  "source": "openstates",
+  "source_id": "ocd-person/3643503c-1da8-4a57-90f1-54f063b1d25e",
+  "name": "David Meade",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "80",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house80.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 332C, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "capitol-mail",
+        "address": "Room Capitol 307, 700 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-4334"
+      },
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-4334"
+      }
+    ],
+    "emails": [
+      "david.meade@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/david-meade-1eOLZcAyEQN6XowWfsqxJu/"
+  ]
+}

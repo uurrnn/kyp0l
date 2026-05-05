@@ -1,0 +1,33 @@
+{
+  "id": "ky-scott-madon",
+  "source": "openstates",
+  "source_id": "ocd-person/d7adea26-9f4f-477f-a0bd-4b29ae9072b4",
+  "name": "Scott Madon",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "29",
+  "active": true,
+  "photo_url": "https://thecityofpineville.com/wp-content/uploads/2018/08/mayor-scott-madon-228x300.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 215, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "scott.madon@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/scott-madon-6YypQfsbLsPGGzSU3i06mS/"
+  ]
+}

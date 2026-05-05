@@ -1,0 +1,33 @@
+{
+  "id": "ky-mike-nemes",
+  "source": "openstates",
+  "source_id": "ocd-person/230c230d-7313-4a94-8eb3-60f57a86543c",
+  "name": "Mike Nemes",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "38",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate138.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 252, 702 Capitol Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "mike.nemes@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/mike-nemes-148HElM6zjQHo3hQGroLTY/"
+  ]
+}

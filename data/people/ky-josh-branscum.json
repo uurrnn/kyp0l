@@ -1,0 +1,33 @@
+{
+  "id": "ky-josh-branscum",
+  "source": "openstates",
+  "source_id": "ocd-person/ff91cf3b-77a1-47b0-81b3-1c18f006349a",
+  "name": "Josh Branscum",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "83",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house83.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 357B, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "josh.branscum@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/josh-branscum-7mFg4BtmH1NOAtdLtSB01K/"
+  ]
+}

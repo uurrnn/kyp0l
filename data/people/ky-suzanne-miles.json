@@ -1,0 +1,41 @@
+{
+  "id": "ky-suzanne-miles",
+  "source": "openstates",
+  "source_id": "ocd-person/92576283-508e-4613-b1a0-3d227edf4068",
+  "name": "Suzanne Miles",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "7",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house7.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 370D, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "capitol-mail",
+        "address": "Room Capitol 309, 700 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-2217"
+      },
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-2217"
+      }
+    ],
+    "emails": [
+      "suzanne.miles@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/suzanne-miles-4S8oVkqDj965Dv5r7IzjuC/"
+  ]
+}

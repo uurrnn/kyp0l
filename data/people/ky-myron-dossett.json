@@ -1,0 +1,41 @@
+{
+  "id": "ky-myron-dossett",
+  "source": "openstates",
+  "source_id": "ocd-person/c6904810-37a8-428d-8342-7831d7dc100c",
+  "name": "Myron Dossett",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "9",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house9.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 401, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "KY"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district",
+        "voice": "270-475-9503"
+      }
+    ],
+    "emails": [
+      "myron.dossett@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/myron-dossett-62gPt960U2YJ9RZjIYfVwi/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ky-steve-bratcher",
+  "source": "openstates",
+  "source_id": "ocd-person/e0860aa8-43ba-4bf2-94d7-3632c7375ab6",
+  "name": "Steve Bratcher",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "25",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house25.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 424G, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "steve.bratcher@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/steve-bratcher-6pfXNlbCxK1dd8exOkw2WU/"
+  ]
+}

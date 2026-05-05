@@ -1,0 +1,33 @@
+{
+  "id": "ky-adam-moore",
+  "source": "openstates",
+  "source_id": "ocd-person/1ce736fd-c1ca-4366-a235-9509fdb2dcaf",
+  "name": "Adam Moore",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "45",
+  "active": true,
+  "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AdamMoore2024.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 429C, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "adam.moore@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/adam-moore-sXRwB6OVKEuYnmESe2J83/"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ky-reggie-thomas",
+  "source": "openstates",
+  "source_id": "ocd-person/42b259db-9ddb-4588-a463-b1a38c944c66",
+  "name": "Reggie Thomas",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Democratic",
+  "district": "13",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate113.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 254, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "capitol-mail",
+        "address": "Room Capitol 330, 700 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-2470"
+      }
+    ],
+    "emails": [
+      "reginald.thomas@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/reggie-thomas-21r00qG7oBmhPb9LM2MIVi/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ky-dan-fister",
+  "source": "openstates",
+  "source_id": "ocd-person/c88c6162-de24-4d8b-98a9-f1788390d043",
+  "name": "Dan Fister",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "56",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house56.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 432C, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "daniel.fister@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/dan-fister-66QcP4c4cY1nKP8ewexFdj/"
+  ]
+}

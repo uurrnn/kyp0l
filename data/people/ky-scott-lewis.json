@@ -1,0 +1,37 @@
+{
+  "id": "ky-scott-lewis",
+  "source": "openstates",
+  "source_id": "ocd-person/07773b3f-387f-4e4e-ba79-571940c186f0",
+  "name": "Scott Lewis",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "14",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house14.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 367B, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 454, Hartford, KY 42347"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "scott.lewis@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/scott-lewis-E5Qyvq7qeFzvTl8UAf4iW/"
+  ]
+}

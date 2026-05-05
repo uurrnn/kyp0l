@@ -1,0 +1,37 @@
+{
+  "id": "ky-john-hodgson",
+  "source": "openstates",
+  "source_id": "ocd-person/2f3255d6-7801-4089-a275-f01e00444ee0",
+  "name": "John Hodgson",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "36",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house36.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 351D, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 74, Fischerville, KY 40023"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "john.hodgson@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/john-hodgson-1R3dqPQ4Ze1bHpG3MFLUfo/"
+  ]
+}

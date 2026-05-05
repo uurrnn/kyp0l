@@ -1,0 +1,41 @@
+{
+  "id": "ky-brandon-smith",
+  "source": "openstates",
+  "source_id": "ocd-person/209d5334-d4a2-45f3-b910-0cd52f96dd4e",
+  "name": "Brandon Smith",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "30",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate130.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 252, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 846, Hazard, KY 41702"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district-mail",
+        "voice": "606-436-4526"
+      }
+    ],
+    "emails": [
+      "brandon.smith@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/brandon-smith-zXeR3jY3uGEVkpQOZ2OBa/"
+  ]
+}

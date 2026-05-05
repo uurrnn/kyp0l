@@ -1,0 +1,33 @@
+{
+  "id": "ky-cassie-armstrong",
+  "source": "openstates",
+  "source_id": "ocd-person/8dbecabb-ef15-4925-8e50-26331e738a05",
+  "name": "Cassie Armstrong",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Democratic",
+  "district": "19",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate119.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 255, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "cassie.armstrong@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/cassie-armstrong-4JT6pqG0Pbo9CeKQxQeAQH/"
+  ]
+}

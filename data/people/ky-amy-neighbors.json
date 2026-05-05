@@ -1,0 +1,33 @@
+{
+  "id": "ky-amy-neighbors",
+  "source": "openstates",
+  "source_id": "ocd-person/f7bb262c-026f-4af2-9e17-939692c96e89",
+  "name": "Amy Neighbors",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "21",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house21.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 395, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "amy.neighbors@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/amy-neighbors-7XSdByT1tPN5XYfReouxOj/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ky-matt-lehman",
+  "source": "openstates",
+  "source_id": "ocd-person/7afd2d36-9415-44ff-b96d-0010cf4f864e",
+  "name": "Matt Lehman",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "67",
+  "active": true,
+  "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MatthewLehman2024.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 429H, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "matt.lehman@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/matt-lehman-3k4lUEB1k93LYfeJSqDzgM/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ky-scott-sharp",
+  "source": "openstates",
+  "source_id": "ocd-person/65469c71-edc2-4c9f-87da-bcf4d3277591",
+  "name": "Scott Sharp",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "100",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house100.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 432B, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "scott.sharp@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/scott-sharp-356UeS5pvBqhusKw8umgUb/"
+  ]
+}

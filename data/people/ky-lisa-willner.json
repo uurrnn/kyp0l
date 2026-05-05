@@ -1,0 +1,33 @@
+{
+  "id": "ky-lisa-willner",
+  "source": "openstates",
+  "source_id": "ocd-person/6dd815a4-fc3c-4e79-8cd5-a574d8cf0af8",
+  "name": "Lisa Willner",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "35",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house35.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 457, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "lisa.willner@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/lisa-willner-3LGuhYNRPOyaVvnSvLFq80/"
+  ]
+}

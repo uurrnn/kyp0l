@@ -1,0 +1,33 @@
+{
+  "id": "ky-james-tipton",
+  "source": "openstates",
+  "source_id": "ocd-person/d6c9aa9b-3c6b-411a-bff1-fc1c38d4bce0",
+  "name": "James Tipton",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "53",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house53.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 313, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "james.tipton@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/james-tipton-6XIWE4wGldpVSV8FkYLluS/"
+  ]
+}

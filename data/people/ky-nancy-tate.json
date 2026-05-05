@@ -1,0 +1,33 @@
+{
+  "id": "ky-nancy-tate",
+  "source": "openstates",
+  "source_id": "ocd-person/911af3e2-7435-4f82-a477-99cb078ea99b",
+  "name": "Nancy Tate",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "27",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house27.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 351A, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "nancy.tate@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/nancy-tate-4PoChKF1Q4hKFLJkGSIk2t/"
+  ]
+}

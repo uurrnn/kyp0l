@@ -1,0 +1,33 @@
+{
+  "id": "ky-greg-elkins",
+  "source": "openstates",
+  "source_id": "ocd-person/139d004c-7a19-4153-a58b-919a1b70180e",
+  "name": "Greg Elkins",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "28",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate128.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 290, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "greg.elkins@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/greg-elkins-b0bRZNY7BlZMAdmmzR4la/"
+  ]
+}

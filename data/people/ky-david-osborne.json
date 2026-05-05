@@ -1,0 +1,49 @@
+{
+  "id": "ky-david-osborne",
+  "source": "openstates",
+  "source_id": "ocd-person/bf8bfdc3-66f2-417c-8178-9ed16bf8843f",
+  "name": "David Osborne",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "59",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house59.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 332, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "capitol-mail",
+        "address": "Room Capitol 308, 700 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 8, Prospect, KY 40059"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-4334"
+      },
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-4334"
+      },
+      {
+        "classification": "district-mail",
+        "voice": "502-645-2186"
+      }
+    ],
+    "emails": [
+      "david.osborne@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/david-osborne-5pRVettv4cNK1UJOwz0YZj/"
+  ]
+}

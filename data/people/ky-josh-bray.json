@@ -1,0 +1,33 @@
+{
+  "id": "ky-josh-bray",
+  "source": "openstates",
+  "source_id": "ocd-person/a110d6ba-f17f-4847-b0e9-327c82cd7122",
+  "name": "Josh Bray",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "71",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house71.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 392, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "josh.bray@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/josh-bray-4tvSWDJ74Rw454MrKMyD2o/"
+  ]
+}

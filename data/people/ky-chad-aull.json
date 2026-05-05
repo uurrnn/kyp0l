@@ -1,0 +1,33 @@
+{
+  "id": "ky-chad-aull",
+  "source": "openstates",
+  "source_id": "ocd-person/51dc7033-7377-44d4-a5d8-7bd36b371896",
+  "name": "Chad Aull",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "79",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house79.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 457E, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "chad.aull@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/chad-aull-2UT7NgEDDRi891vfjNhYO6/"
+  ]
+}

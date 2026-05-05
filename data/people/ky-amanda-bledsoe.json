@@ -1,0 +1,33 @@
+{
+  "id": "ky-amanda-bledsoe",
+  "source": "openstates",
+  "source_id": "ocd-person/7c03bd44-8541-49b0-9794-a9e606c292ce",
+  "name": "Amanda Bledsoe",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "12",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate112.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 203, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "amanda.maysbledsoe@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/amanda-bledsoe-3m0kxXDdN2RQpZ4kBXHT70/"
+  ]
+}

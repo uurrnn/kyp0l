@@ -1,0 +1,33 @@
+{
+  "id": "ky-peyton-griffee",
+  "source": "openstates",
+  "source_id": "ocd-person/eddce954-34a0-4b9a-aaca-6114e6bf418f",
+  "name": "Peyton Griffee",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "26",
+  "active": true,
+  "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PeytonGriffee2024.png",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 424G, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "peyton.griffee@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/peyton-griffee-7Eq8ZeKqD3OMN7v8mfrxDL/"
+  ]
+}

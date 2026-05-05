@@ -1,0 +1,33 @@
+{
+  "id": "ky-craig-richardson",
+  "source": "openstates",
+  "source_id": "ocd-person/3109e3ae-10c1-417e-bf7f-bf4f539bd3c8",
+  "name": "Craig Richardson",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "3",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate103.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 228, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "craig.richardson@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/craig-richardson-1UX8tX7dSVjdfgZnHvD6zY/"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ky-kim-moser",
+  "source": "openstates",
+  "source_id": "ocd-person/92511255-ca06-4241-bd91-0cafd92e3d5c",
+  "name": "Kim Moser",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "64",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house64.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 315, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 143, Independence, KY 41051"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "kimberly.moser@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/kim-moser-4S5vdHfLs3XFlWxec3x3DI/"
+  ]
+}

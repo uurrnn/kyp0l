@@ -1,0 +1,37 @@
+{
+  "id": "ky-aaron-thompson",
+  "source": "openstates",
+  "source_id": "ocd-person/1439bad2-f18b-49e2-94ca-21f2b563dfdd",
+  "name": "Aaron Thompson",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "98",
+  "active": true,
+  "photo_url": "https://content.campaignpartner.net/images/126420/Headshot.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 413, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 462, Greenup, KY 41144"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "aaron.thompson@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/aaron-thompson-cAECkXoA3dB4dSUhXoAXN/"
+  ]
+}

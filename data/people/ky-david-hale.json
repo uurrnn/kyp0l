@@ -1,0 +1,33 @@
+{
+  "id": "ky-david-hale",
+  "source": "openstates",
+  "source_id": "ocd-person/ebd5f90d-e3cc-45ef-97ff-d51ff1685bcc",
+  "name": "David Hale",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "74",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house74.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 405E, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "david.hale@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/david-hale-7B0yvYisT7FQDFL2MBuiWi/"
+  ]
+}

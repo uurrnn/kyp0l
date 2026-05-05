@@ -1,0 +1,41 @@
+{
+  "id": "ky-rachel-roarx",
+  "source": "openstates",
+  "source_id": "ocd-person/1217ac1a-4ca4-4fe4-953b-572beb008bed",
+  "name": "Rachel Roarx",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "38",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house38.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 451A, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "KY"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district",
+        "voice": "502-724-7529"
+      }
+    ],
+    "emails": [
+      "rachel.roarx@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/rachel-roarx-Y8gATtj4llDS7IHbtM85t/"
+  ]
+}

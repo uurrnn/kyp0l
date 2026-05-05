@@ -1,0 +1,33 @@
+{
+  "id": "ky-danny-carroll",
+  "source": "openstates",
+  "source_id": "ocd-person/0ec7d376-4235-44e7-a6d7-d63962dff167",
+  "name": "Danny Carroll",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "2",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate102.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 228, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "danny.carroll@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/danny-carroll-RtDE1TjbYvuCpRDO9Fh3f/"
+  ]
+}

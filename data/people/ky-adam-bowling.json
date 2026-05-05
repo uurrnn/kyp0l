@@ -1,0 +1,33 @@
+{
+  "id": "ky-adam-bowling",
+  "source": "openstates",
+  "source_id": "ocd-person/e7f7a316-4eb0-4be9-adf9-e7067b20dcfc",
+  "name": "Adam Bowling",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "87",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house87.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 392, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "adam.bowling@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/adam-bowling-73iOfrGXyKJW9N6hx5lcLM/"
+  ]
+}

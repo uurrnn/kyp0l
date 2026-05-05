@@ -1,0 +1,41 @@
+{
+  "id": "ky-jared-bauman",
+  "source": "openstates",
+  "source_id": "ocd-person/b86f4912-39b1-44a0-90a8-0b233921a094",
+  "name": "Jared Bauman",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "28",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house28.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 316D, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "KY"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district",
+        "voice": "502-544-1846"
+      }
+    ],
+    "emails": [
+      "jared.bauman@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/jared-bauman-5c1RdSzK5PLJcKlROGrkU0/"
+  ]
+}

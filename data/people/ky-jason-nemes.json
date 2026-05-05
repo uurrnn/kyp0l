@@ -1,0 +1,37 @@
+{
+  "id": "ky-jason-nemes",
+  "source": "openstates",
+  "source_id": "ocd-person/c56fc398-975e-47b9-919a-fbdd0c9f721d",
+  "name": "Jason Nemes",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "33",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house33.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 372, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "capitol-mail",
+        "address": "Room Capitol 316A, 700 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "jason.nemes@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/jason-nemes-60YZ0oeOYlUDSDh0FAyn89/"
+  ]
+}

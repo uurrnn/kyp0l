@@ -1,0 +1,33 @@
+{
+  "id": "ky-gex-williams",
+  "source": "openstates",
+  "source_id": "ocd-person/6aa07729-a16f-4465-a605-7afbbe982882",
+  "name": "Gex Williams",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "20",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate120.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 284, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "gex.williams@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/gex-williams-3FCWDIiCBgFMq3uu8SfAiw/"
+  ]
+}

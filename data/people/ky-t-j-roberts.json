@@ -1,0 +1,33 @@
+{
+  "id": "ky-t-j-roberts",
+  "source": "openstates",
+  "source_id": "ocd-person/1c369689-ed04-484c-ab53-c50bd6011192",
+  "name": "T.J. Roberts",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "66",
+  "active": true,
+  "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/T.J._Roberts.png",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 424, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "tj.roberts@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/t-j-roberts-rEjNehVeM07b2fghfAw7O/"
+  ]
+}

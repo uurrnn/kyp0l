@@ -1,0 +1,33 @@
+{
+  "id": "ky-rick-girdler",
+  "source": "openstates",
+  "source_id": "ocd-person/34ed9881-46b8-41ba-b625-3d350140d2b9",
+  "name": "Rick Girdler",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "15",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate115.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 252, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "rick.girdler@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/rick-girdler-1bsBJjFtFLI4xElfRJFFYf/"
+  ]
+}

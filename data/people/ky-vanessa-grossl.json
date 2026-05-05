@@ -1,0 +1,33 @@
+{
+  "id": "ky-vanessa-grossl",
+  "source": "openstates",
+  "source_id": "ocd-person/bc34f3ad-05ad-494c-bb80-bd2eb99e4fe9",
+  "name": "Vanessa Grossl",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "88",
+  "active": true,
+  "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/VanessaGrossl.jpeg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 413, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "vanessa.grossl@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/vanessa-grossl-5j8ku8oVaHGuAGWHscenMn/"
+  ]
+}

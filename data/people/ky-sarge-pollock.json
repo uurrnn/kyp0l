@@ -1,0 +1,33 @@
+{
+  "id": "ky-sarge-pollock",
+  "source": "openstates",
+  "source_id": "ocd-person/3e417407-423f-45d3-b18a-c2845cd1ec57",
+  "name": "Sarge Pollock",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "51",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house51.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 416, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "sarge.pollock@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/sarge-pollock-1tTR3qigUHEQAPGkpGcQvn/"
+  ]
+}

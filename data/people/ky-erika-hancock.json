@@ -1,0 +1,37 @@
+{
+  "id": "ky-erika-hancock",
+  "source": "openstates",
+  "source_id": "ocd-person/4ce23404-165d-4c96-9130-56acaf2e73a7",
+  "name": "Erika Hancock",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "57",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house57.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 467, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 4311, Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "erika.hancock@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/erika-hancock-2L4n6Qx0dR11Gr6sFqGDXL/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ky-chris-freeland",
+  "source": "openstates",
+  "source_id": "ocd-person/db36edd8-6c2f-4441-aa30-5b4dc48b3357",
+  "name": "Chris Freeland",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "6",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house6.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 373C, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "chris.freeland@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/chris-freeland-6feQBD6kkU9gcwSq9zhiDf/"
+  ]
+}

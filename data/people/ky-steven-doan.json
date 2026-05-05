@@ -1,0 +1,33 @@
+{
+  "id": "ky-steven-doan",
+  "source": "openstates",
+  "source_id": "ocd-person/a41c47ce-cbfa-49e3-8a21-5666f24ef96a",
+  "name": "Steven Doan",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "69",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house69.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 432A, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "steven.doan@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/steven-doan-4zffHWiUnRc4XCxTpWecqQ/"
+  ]
+}

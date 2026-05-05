@@ -1,0 +1,33 @@
+{
+  "id": "ky-jared-carpenter",
+  "source": "openstates",
+  "source_id": "ocd-person/b2299f51-c122-46ac-9937-3a6a7b682bb8",
+  "name": "Jared Carpenter",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "34",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate134.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 283, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "jared.carpenter@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/jared-carpenter-5QBeeNjuXAQQJ1ySMeL3pw/"
+  ]
+}

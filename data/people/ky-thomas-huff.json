@@ -1,0 +1,37 @@
+{
+  "id": "ky-thomas-huff",
+  "source": "openstates",
+  "source_id": "ocd-person/7d2b01df-9356-4eaa-923f-144e3f229860",
+  "name": "Thomas Huff",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "49",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house49.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 358A, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 1331, Shepherdsville, KY 40165"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "thomas.huff@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/thomas-huff-3oBh6cthIM9uhbLTIr7zii/"
+  ]
+}

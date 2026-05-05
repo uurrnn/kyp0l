@@ -1,0 +1,33 @@
+{
+  "id": "ky-emily-callaway",
+  "source": "openstates",
+  "source_id": "ocd-person/67b233b8-474d-49ce-81a8-7f48eec3c79a",
+  "name": "Emily Callaway",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "37",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house37.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 316C, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "emily.callaway@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/emily-callaway-39feBobdfc5cdLPeQFaFcQ/"
+  ]
+}

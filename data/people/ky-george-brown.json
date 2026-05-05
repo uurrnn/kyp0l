@@ -1,0 +1,41 @@
+{
+  "id": "ky-george-brown",
+  "source": "openstates",
+  "source_id": "ocd-person/bb3e5fee-3bda-4a5d-95ee-dc31ff9defed",
+  "name": "George Brown",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "77",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house77.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 429D, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "KY"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district",
+        "voice": "859-312-7513"
+      }
+    ],
+    "emails": [
+      "george.brown@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/george-brown-5hK4Mui6vOdOkugzFJlRtN/"
+  ]
+}

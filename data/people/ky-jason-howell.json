@@ -1,0 +1,33 @@
+{
+  "id": "ky-jason-howell",
+  "source": "openstates",
+  "source_id": "ocd-person/a796965c-0c0f-43b2-975b-d9726b34acd8",
+  "name": "Jason Howell",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "1",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate101.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 290, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "jason.howell@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/jason-howell-56EXJ3Eq2Chv5wRMXEier2/"
+  ]
+}

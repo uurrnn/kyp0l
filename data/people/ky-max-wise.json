@@ -1,0 +1,37 @@
+{
+  "id": "ky-max-wise",
+  "source": "openstates",
+  "source_id": "ocd-person/32b5035e-6d1a-44b8-9f7a-4173a1cdb940",
+  "name": "Max Wise",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "16",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate116.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 242, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "capitol-mail",
+        "address": "Room Capitol 319, 700 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-2450"
+      }
+    ],
+    "emails": [
+      "max.wise@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/max-wise-1XgL3OrxWZPk0PDhX7DPNY/"
+  ]
+}

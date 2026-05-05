@@ -1,0 +1,41 @@
+{
+  "id": "ky-kim-holloway",
+  "source": "openstates",
+  "source_id": "ocd-person/5cb48d67-2db5-4b6e-89b1-1509110bd708",
+  "name": "Kim Holloway",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "2",
+  "active": true,
+  "photo_url": "https://npr.brightspotcdn.com/01/2a/8d768d42405b8992ce1c5dcb8159/244626154-114463787658953-2523667072088681096-n.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 424, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district",
+        "address": "KY"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      },
+      {
+        "classification": "district",
+        "voice": "270-978-0583"
+      }
+    ],
+    "emails": [
+      "kim.holloway@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/kim-holloway-2ovo16i2WEQ698DZAhuLFY/"
+  ]
+}

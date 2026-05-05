@@ -1,0 +1,41 @@
+{
+  "id": "ky-david-givens",
+  "source": "openstates",
+  "source_id": "ocd-person/5594a97f-7358-427e-af84-43150a21c97e",
+  "name": "David Givens",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "9",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate109.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 236, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "capitol-mail",
+        "address": "Room Capitol 319, 700 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-3120"
+      },
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-3120"
+      }
+    ],
+    "emails": [
+      "david.givens@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/david-givens-2bUHlYCXhy00BToWurBvRO/"
+  ]
+}

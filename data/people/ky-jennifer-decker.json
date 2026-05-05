@@ -1,0 +1,33 @@
+{
+  "id": "ky-jennifer-decker",
+  "source": "openstates",
+  "source_id": "ocd-person/2c5c20cc-807b-44c8-a1a9-582fe69ca87c",
+  "name": "Jennifer Decker",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "58",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house58.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 357D, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "jennifer.decker@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/jennifer-decker-1LhlQsIUmTBouN9LRlcnq0/"
+  ]
+}

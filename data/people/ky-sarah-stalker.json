@@ -1,0 +1,33 @@
+{
+  "id": "ky-sarah-stalker",
+  "source": "openstates",
+  "source_id": "ocd-person/bb3f614a-7fa0-4e55-a76b-dedfea0fdaa9",
+  "name": "Sarah Stalker",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "34",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house34.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 451C, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "sarah.stalker@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/sarah-stalker-5hKWqxhbP5bzsqLuY06Sbp/"
+  ]
+}

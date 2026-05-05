@@ -1,0 +1,33 @@
+{
+  "id": "ky-candy-massaroni",
+  "source": "openstates",
+  "source_id": "ocd-person/70d58905-dd36-4e9a-b281-639600e6b945",
+  "name": "Candy Massaroni",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "50",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house50.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 413H, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "candy.massaroni@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/candy-massaroni-3Quj2ftoWbu2480BNSCikn/"
+  ]
+}

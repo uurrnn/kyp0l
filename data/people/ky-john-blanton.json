@@ -1,0 +1,33 @@
+{
+  "id": "ky-john-blanton",
+  "source": "openstates",
+  "source_id": "ocd-person/7cda4251-f26b-4bab-bf88-ed61b947018e",
+  "name": "John Blanton",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "92",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house92.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 307A, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "john.blanton@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/john-blanton-3nanB7n6rD8TweDFgiywus/"
+  ]
+}

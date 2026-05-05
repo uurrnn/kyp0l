@@ -1,0 +1,37 @@
+{
+  "id": "ky-chris-mcdaniel",
+  "source": "openstates",
+  "source_id": "ocd-person/b32a95c9-42ba-449b-8581-97b9cef73c6a",
+  "name": "Chris McDaniel",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "23",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate123.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 203, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 15231, Latonia, KY 41015"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "chris.mcdaniel@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/chris-mcdaniel-5S55SBJla0YfTjcGOfJGHK/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ky-samara-heavrin",
+  "source": "openstates",
+  "source_id": "ocd-person/d3176059-683c-48be-9c43-a57da08a2f49",
+  "name": "Samara Heavrin",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "18",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house18.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 381, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "ryan.dotson@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/samara-heavrin-6QK3y6M3dewBYZYT6oqBGz/"
+  ]
+}

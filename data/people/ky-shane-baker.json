@@ -1,0 +1,33 @@
+{
+  "id": "ky-shane-baker",
+  "source": "openstates",
+  "source_id": "ocd-person/2eab3a78-154d-43cd-8278-73ad2e166b08",
+  "name": "Shane Baker",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "85",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house85.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 357E, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "shane.baker@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/shane-baker-1Q3tiMFJKQ5Y0y3Aphtme0/"
+  ]
+}

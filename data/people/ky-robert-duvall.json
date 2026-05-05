@@ -1,0 +1,37 @@
+{
+  "id": "ky-robert-duvall",
+  "source": "openstates",
+  "source_id": "ocd-person/ad2d1d2a-b838-4727-ac0f-a6fb64298b14",
+  "name": "Robert Duvall",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "17",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house17.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 405B, 702 Capital Ave., Frankfort, KY 40601"
+      },
+      {
+        "classification": "district-mail",
+        "address": "P.O. Box 1297, Bowling Green, KY 42102"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "robert.duvall@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/robert-duvall-5GmHxa86B3aZbxlTs9rey4/"
+  ]
+}

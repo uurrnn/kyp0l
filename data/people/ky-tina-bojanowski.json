@@ -1,0 +1,33 @@
+{
+  "id": "ky-tina-bojanowski",
+  "source": "openstates",
+  "source_id": "ocd-person/77db7bcf-dfa8-4365-bb3a-4ca0351a8368",
+  "name": "Tina Bojanowski",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Democratic",
+  "district": "32",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house32.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 451, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "tina.bojanowski@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/tina-bojanowski-3eAOFpcCYIIwGo1KXnwq40/"
+  ]
+}

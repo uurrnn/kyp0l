@@ -1,0 +1,33 @@
+{
+  "id": "ky-deanna-gordon",
+  "source": "openstates",
+  "source_id": "ocd-person/96ab59e2-44c2-4c3d-ac8a-1ee24acc5b55",
+  "name": "Deanna Gordon",
+  "body_id": "ky-house",
+  "chamber": "lower",
+  "party": "Republican",
+  "district": "81",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house81.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 367, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "deanna.gordon@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/deanna-gordon-4aJ9iRccZCzyLW6yuxkxwT/"
+  ]
+}

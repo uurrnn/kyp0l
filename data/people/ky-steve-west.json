@@ -1,0 +1,33 @@
+{
+  "id": "ky-steve-west",
+  "source": "openstates",
+  "source_id": "ocd-person/1f3bbab4-2be0-496c-9c3b-b8f340f6b404",
+  "name": "Steve West",
+  "body_id": "ky-senate",
+  "chamber": "upper",
+  "party": "Republican",
+  "district": "27",
+  "active": true,
+  "photo_url": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate127.jpg",
+  "contact": {
+    "addresses": [
+      {
+        "classification": "capitol-mail",
+        "address": "Room Annex 228, 702 Capital Ave., Frankfort, KY 40601"
+      }
+    ],
+    "phones": [
+      {
+        "classification": "capitol-mail",
+        "voice": "502-564-8100"
+      }
+    ],
+    "emails": [
+      "steve.west@kylegislature.gov"
+    ],
+    "links": []
+  },
+  "sources": [
+    "https://openstates.org/person/steve-west-ww3cuAeioZuCZR5ws9EoO/"
+  ]
+}
