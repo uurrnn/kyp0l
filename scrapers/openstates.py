@@ -24,6 +24,7 @@ from scrapers.models import (
     Action,
     Bill,
     MemberVote,
+    Person,
     Sponsor,
     Vote,
     chamber_progress_to_status,
@@ -38,6 +39,19 @@ _CHAMBER_TO_BODY = {
     "lower": "ky-house",
     "upper": "ky-senate",
 }
+
+
+def slugify_person_name(name: str) -> str:
+    """`First M. Last` → `first-m-last`. ASCII-only, hyphenated."""
+    import re
+    s = name.strip().lower()
+    s = re.sub(r"[^a-z0-9]+", "-", s)
+    return s.strip("-")
+
+
+def person_slug_for_ky(name: str) -> str:
+    """Build our canonical slug from an Open States full name."""
+    return f"ky-{slugify_person_name(name)}" if name else ""
 
 
 def parse_bill(raw: dict[str, Any], session: str) -> Bill:
@@ -103,13 +117,15 @@ def _parse_action(a: dict[str, Any]) -> Action:
 def _parse_sponsor(s: dict[str, Any]) -> Sponsor:
     person = s.get("person") or {}
     role = person.get("current_role") or {}
-    party = role.get("party") or s.get("party")
+    # Open States returns party at person.party; current_role.party tends to be empty for KY.
+    party = person.get("party") or role.get("party") or s.get("party")
     district = role.get("district") or s.get("district")
     return Sponsor(
         name=s.get("name") or person.get("name") or "",
         party=party,
         district=str(district) if district is not None else None,
         primary=bool(s.get("primary")),
+        person_id=person.get("id") or None,
     )
 
 
@@ -133,6 +149,7 @@ def _parse_vote(v: dict[str, Any]) -> Vote:
             MemberVote(
                 name=vv.get("voter_name") or voter.get("name") or "",
                 option=vv.get("option") or "",
+                person_id=voter.get("id") or None,
             )
         )
 
@@ -148,6 +165,72 @@ def _parse_vote(v: dict[str, Any]) -> Vote:
         result=v.get("result") or "",
         counts=counts,
         member_votes=member_votes,
+    )
+
+
+def parse_person(raw: dict[str, Any]) -> Person | None:
+    """Convert one Open States `/people` entry into our Person.
+
+    Returns None if the entry has no current legislative role we recognise.
+    """
+    role = raw.get("current_role") or {}
+    chamber = role.get("org_classification")
+    if chamber not in _CHAMBER_TO_BODY:
+        return None
+    body_id = _CHAMBER_TO_BODY[chamber]
+
+    name = raw.get("name") or ""
+    if not name:
+        return None
+
+    offices = raw.get("offices") or []
+    contact: dict[str, Any] = {
+        "addresses": [],
+        "phones": [],
+        "emails": [],
+        "links": [],
+    }
+    for off in offices:
+        if off.get("address"):
+            contact["addresses"].append({
+                "classification": off.get("classification") or "",
+                "address": off.get("address"),
+            })
+        if off.get("voice"):
+            contact["phones"].append({
+                "classification": off.get("classification") or "",
+                "voice": off.get("voice"),
+            })
+        if off.get("email"):
+            contact["emails"].append(off.get("email"))
+    if raw.get("email"):
+        contact["emails"].append(raw["email"])
+    # Dedup emails
+    contact["emails"] = list(dict.fromkeys(contact["emails"]))
+
+    sources = []
+    for src in raw.get("sources") or []:
+        url = src.get("url") if isinstance(src, dict) else None
+        if url:
+            sources.append(url)
+    if raw.get("openstates_url"):
+        sources.append(raw["openstates_url"])
+
+    district = role.get("district")
+
+    return Person(
+        id=person_slug_for_ky(name),
+        source="openstates",
+        source_id=raw.get("id") or "",
+        name=name,
+        body_id=body_id,
+        chamber=chamber,
+        party=raw.get("party") or None,
+        district=str(district) if district is not None else None,
+        active=True,
+        photo_url=(raw.get("image") or None),
+        contact=contact,
+        sources=sources,
     )
 
 
@@ -227,6 +310,29 @@ class OpenStatesScraper:
         if sessions:
             return sessions[0]["identifier"]
         raise RuntimeError(f"no legislative sessions found for {self.jurisdiction!r}")
+
+    def list_people(self) -> Iterator[dict[str, Any]]:
+        """Paginate `GET /people?jurisdiction=ky&include=offices`.
+
+        ~138 KY legislators total → ~3 pages at per_page=50.
+        """
+        page = 1
+        per_page = 50
+        while True:
+            data = self._get(
+                "/people",
+                jurisdiction=self.jurisdiction,
+                include=["offices"],
+                page=page,
+                per_page=per_page,
+            )
+            results = data.get("results") or []
+            for p in results:
+                yield p
+            pagination = data.get("pagination") or {}
+            if page >= int(pagination.get("max_page") or 1):
+                return
+            page += 1
 
     def list_bills(self, session: str) -> Iterator[dict[str, Any]]:
         page = 1

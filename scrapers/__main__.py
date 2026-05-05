@@ -22,8 +22,9 @@ from pathlib import Path
 from typing import Iterable
 
 from scrapers.ksba import KsbaScraper, write_meeting_record as write_ksba_meeting
-from scrapers.models import Body, write_json, read_json
-from scrapers.openstates import OpenStatesScraper, parse_bill
+from scrapers.metro_council_roster import load_seed as load_metro_council_seed
+from scrapers.models import Body, Person, write_json, read_json
+from scrapers.openstates import OpenStatesScraper, parse_bill, parse_person
 from scrapers.primegov import (
     PrimeGovScraper,
     list_all_meetings,
@@ -33,6 +34,8 @@ from scrapers.primegov import (
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DATA_ROOT = REPO_ROOT / "data"
 ATTACHMENTS_DIR = DATA_ROOT / "attachments"
+PEOPLE_DIR = DATA_ROOT / "people"
+PEOPLE_INDEX_PATH = PEOPLE_DIR / "_index.json"
 STATE_PATH = DATA_ROOT / "state.json"
 BODIES_PATH = DATA_ROOT / "bodies.json"
 
@@ -86,8 +89,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     p.add_argument(
         "--sources",
         type=str,
-        default="primegov,ksba,openstates",
-        help="Comma-separated source names to run (default: primegov,ksba,openstates).",
+        default="primegov,ksba,openstates,people",
+        help=(
+            "Comma-separated source names to run "
+            "(default: primegov,ksba,openstates,people)."
+        ),
     )
     return p.parse_args(argv)
 
@@ -120,6 +126,10 @@ def main(argv: list[str] | None = None) -> int:
 
     if "openstates" in sources:
         w, s_, f = run_openstates(args, state, all_bodies)
+        written += w; skipped += s_; failed += f
+
+    if "people" in sources:
+        w, s_, f = run_people(args, all_bodies)
         written += w; skipped += s_; failed += f
 
     write_json(BODIES_PATH, all_bodies)
@@ -290,6 +300,103 @@ def run_openstates(args: argparse.Namespace, state: dict, all_bodies: dict) -> t
             failed += 1
 
     return written, skipped, failed
+
+
+def run_people(args: argparse.Namespace, all_bodies: dict) -> tuple[int, int, int]:
+    """Build the people roster.
+
+    - KY legislators come from Open States `/people` (needs OPENSTATES_API_KEY).
+    - Metro Council members come from a hand-curated seed file.
+
+    Both write `data/people/<slug>.json` and refresh `data/people/_index.json`,
+    a `source_id -> our_slug` map used at site-build time to translate the
+    upstream `person_id` on bill sponsors/voters into our profile URLs.
+    """
+    PEOPLE_DIR.mkdir(parents=True, exist_ok=True)
+    people_index: dict[str, str] = {}
+    written = skipped = failed = 0
+
+    # --- Open States KY legislators -----------------------------------------
+    api_key = os.environ.get("OPENSTATES_API_KEY", "").strip()
+    if api_key:
+        scraper = OpenStatesScraper(api_key)
+        print("\n[people] fetching KY legislators from Open States ...")
+        seen_slugs: dict[str, str] = {}  # slug -> source_id for collision check
+        count = 0
+        try:
+            for raw in scraper.list_people():
+                count += 1
+                try:
+                    person = parse_person(raw)
+                except Exception as e:  # noqa: BLE001
+                    print(f"          parse FAIL {raw.get('id')}: {e!r}")
+                    failed += 1
+                    continue
+                if person is None:
+                    skipped += 1
+                    continue
+                # Collision-safe slug: append numeric suffix if two people resolve
+                # to the same slug.
+                base_slug = person.id
+                slug = base_slug
+                n = 2
+                while slug in seen_slugs and seen_slugs[slug] != person.source_id:
+                    slug = f"{base_slug}-{n}"
+                    n += 1
+                if slug != person.id:
+                    person = dc_replace_id(person, slug)
+                seen_slugs[slug] = person.source_id
+
+                people_index[person.source_id] = person.id
+                write_json(PEOPLE_DIR / f"{person.id}.json", person.to_dict())
+                written += 1
+                if args.limit and written >= args.limit:
+                    print(f"          stopped at --limit {args.limit}")
+                    break
+        except Exception as e:  # noqa: BLE001
+            print(f"          [people] Open States listing failed: {e!r}")
+            failed += 1
+        print(f"          got {count} raw people, wrote {written} new/updated")
+    else:
+        print("\n[people] OPENSTATES_API_KEY not set; skipping KY legislators.")
+
+    # --- Metro Council from hand-curated seed -------------------------------
+    print("\n[people] loading Metro Council from seed ...")
+    try:
+        # Ensure body record exists so /body/metro-council resolves even before
+        # PrimeGov has run.
+        if "metro-council" not in all_bodies:
+            all_bodies["metro-council"] = Body(
+                id="metro-council",
+                name="Metro Council",
+                source_type="primegov",
+                source_id="1",
+            ).to_dict()
+
+        for person in load_metro_council_seed(REPO_ROOT):
+            people_index[person.source_id] = person.id
+            write_json(PEOPLE_DIR / f"{person.id}.json", person.to_dict())
+            written += 1
+        print(f"          wrote Metro Council seed roster")
+    except FileNotFoundError as e:
+        print(f"          seed missing: {e}")
+        skipped += 1
+    except Exception as e:  # noqa: BLE001
+        print(f"          [people] Metro Council seed failed: {e!r}")
+        failed += 1
+
+    # --- Merge with any prior index so partial runs don't blow it away ------
+    prior = read_json(PEOPLE_INDEX_PATH, default={}) or {}
+    prior.update(people_index)
+    write_json(PEOPLE_INDEX_PATH, prior)
+    print(f"[people] index now has {len(prior)} entries -> {PEOPLE_INDEX_PATH.relative_to(REPO_ROOT)}")
+    return written, skipped, failed
+
+
+def dc_replace_id(person: Person, new_id: str) -> Person:
+    """Return a copy of `person` with `id=new_id`."""
+    import dataclasses as _dc
+    return _dc.replace(person, id=new_id)
 
 
 def _find_or_make_body(bodies: list[Body], raw_meeting: dict) -> Body | None:

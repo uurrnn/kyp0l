@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "id": "ocd-person/18063ded-67cb-46a9-b558-14d5da92b860",
+      "name": "Phillip Wheeler",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "31",
+        "division_id": "ocd-division/country:us/state:ky/sldu:31"
+      },
+      "image": "https://data.openstates.org/images/wheeler.jpg",
+      "email": "phillip.wheeler@lrc.ky.gov",
+      "openstates_url": "https://openstates.org/person/phillip-wheeler-12345/",
+      "offices": [
+        {
+          "classification": "capitol",
+          "address": "702 Capitol Ave, Frankfort, KY 40601",
+          "voice": "502-564-8100"
+        },
+        {
+          "classification": "district",
+          "address": "Pikeville, KY",
+          "voice": "606-555-1010"
+        }
+      ],
+      "sources": [
+        {"url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=31&Chamber=S"}
+      ]
+    },
+    {
+      "id": "ocd-person/d7adea26-9f4f-477f-a0bd-4b29ae9072b4",
+      "name": "Scott Madon",
+      "party": "Republican",
+      "current_role": {
+        "title": "Senator",
+        "org_classification": "upper",
+        "district": "29"
+      },
+      "image": null,
+      "openstates_url": "https://openstates.org/person/scott-madon-12346/",
+      "offices": [],
+      "sources": []
+    },
+    {
+      "id": "ocd-person/governor-only",
+      "name": "Andy Beshear",
+      "party": "Democratic",
+      "current_role": {
+        "title": "Governor",
+        "org_classification": "executive"
+      }
+    }
+  ],
+  "pagination": {
+    "max_page": 1,
+    "page": 1,
+    "per_page": 50,
+    "total_items": 3
+  }
+}

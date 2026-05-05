@@ -1,17 +1,19 @@
 ---
-import type { Vote } from "~/lib/data";
+import type { MemberVote, Vote } from "~/lib/data";
+import { resolvePersonSlug } from "~/lib/data";
 
 interface Props { vote: Vote; defaultOpen?: boolean }
 const { vote, defaultOpen = false } = Astro.props;
+const base = import.meta.env.BASE_URL;
 
 const chamberLabel = vote.chamber === "lower" ? "House" : vote.chamber === "upper" ? "Senate" : vote.chamber;
 
-const groups: Record<string, string[]> = { yes: [], no: [], abstain: [], "not voting": [] };
+const groups: Record<string, MemberVote[]> = { yes: [], no: [], abstain: [], "not voting": [] };
 for (const mv of vote.member_votes) {
   if (!groups[mv.option]) groups[mv.option] = [];
-  groups[mv.option].push(mv.name);
+  groups[mv.option].push(mv);
 }
-for (const k of Object.keys(groups)) groups[k].sort((a, b) => a.localeCompare(b));
+for (const k of Object.keys(groups)) groups[k].sort((a, b) => a.name.localeCompare(b.name));
 
 const resultClass = vote.result === "pass" ? "passed" : vote.result === "fail" ? "fail" : "pending";
 const resultLabel = vote.result === "pass" ? "Passed" : vote.result === "fail" ? "Failed" : vote.result;
@@ -44,7 +46,18 @@ const orderedOptions = ["yes", "no", "abstain", "not voting"];
       groups[opt] && groups[opt].length > 0 && (
         <>
           <h4>{optionLabel[opt]} ({groups[opt].length})</h4>
-          <div class="members">{groups[opt].join(", ")}</div>
+          <div class="members">
+            {groups[opt].map((mv, i) => {
+              const slug = resolvePersonSlug(mv.person_id);
+              const sep = i < groups[opt].length - 1 ? ", " : "";
+              return (
+                <>
+                  {slug ? <a href={`${base}person/${slug}`}>{mv.name}</a> : <span>{mv.name}</span>}
+                  {sep}
+                </>
+              );
+            })}
+          </div>
         </>
       )
     ))}

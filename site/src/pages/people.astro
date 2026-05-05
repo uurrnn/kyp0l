@@ -1,0 +1,115 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import { getPeople, getBodyById, partyAbbrev } from "~/lib/data";
+
+const people = getPeople();
+const base = import.meta.env.BASE_URL;
+
+const grouped: Record<string, typeof people> = {};
+for (const p of people) {
+  if (!grouped[p.body_id]) grouped[p.body_id] = [];
+  grouped[p.body_id].push(p);
+}
+
+const ORDER = ["ky-senate", "ky-house", "metro-council"];
+const bodyIds = [
+  ...ORDER.filter((b) => grouped[b]),
+  ...Object.keys(grouped).filter((b) => !ORDER.includes(b)).sort(),
+];
+
+function partyClass(party: string | null): string {
+  if (!party) return "";
+  const p = party.toLowerCase();
+  if (p.startsWith("dem")) return "party-d";
+  if (p.startsWith("rep")) return "party-r";
+  return "party-i";
+}
+
+function sortByDistrict(a: typeof people[number], b: typeof people[number]): number {
+  const da = parseInt(a.district ?? "", 10);
+  const db = parseInt(b.district ?? "", 10);
+  if (Number.isFinite(da) && Number.isFinite(db) && da !== db) return da - db;
+  return a.name.localeCompare(b.name);
+}
+---
+
+<Layout title="People — kyp0l" description="Elected officials in the Kentucky General Assembly and Louisville Metro Council.">
+  <h1>People</h1>
+  <p style="color: var(--fg-muted); margin-bottom: var(--space-5);">
+    {people.length.toLocaleString()} elected officials across the Kentucky General Assembly
+    and Louisville Metro Council. Click anyone to see their voting record and bills they sponsor.
+  </p>
+
+  {people.length === 0 ? (
+    <p class="empty-state">
+      No people loaded yet — run <code>python -m scrapers --sources people</code>.
+    </p>
+  ) : (
+    bodyIds.map((bid) => {
+      const body = getBodyById(bid);
+      const rows = [...grouped[bid]].sort(sortByDistrict);
+      return (
+        <section style="margin-bottom: var(--space-6);">
+          <h2 class="dashboard-section-header">
+            {body?.name ?? bid} <span style="color: var(--fg-muted); font-weight: 400; font-size: var(--text-base);">({rows.length})</span>
+          </h2>
+          <div class="people-grid">
+            {rows.map((p) => (
+              <a class="person-row" href={`${base}person/${p.id}`}>
+                <span class="person-row-district">{p.district ? `D${p.district}` : "—"}</span>
+                <span class="person-row-name">{p.name}</span>
+                {p.party && (
+                  <span class={`party-chip ${partyClass(p.party)}`}>{partyAbbrev(p.party)}</span>
+                )}
+              </a>
+            ))}
+          </div>
+        </section>
+      );
+    })
+  )}
+</Layout>
+
+<style>
+  .people-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-2);
+  }
+  .person-row {
+    display: grid;
+    grid-template-columns: 44px 1fr auto;
+    gap: var(--space-3);
+    align-items: center;
+    padding: var(--space-2) var(--space-3);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    text-decoration: none;
+    color: inherit;
+    font-size: var(--text-sm);
+  }
+  .person-row:hover { border-color: var(--accent); text-decoration: none; }
+  .person-row-district {
+    font-variant-numeric: tabular-nums;
+    color: var(--fg-muted);
+    font-size: var(--text-xs);
+    font-weight: 600;
+  }
+  .person-row-name { font-weight: 500; line-height: 1.2; }
+  .party-chip {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: var(--text-xs);
+    font-weight: 600;
+    background: var(--bg-subtle);
+    color: var(--fg);
+    border: 1px solid var(--border);
+    min-width: 22px;
+    text-align: center;
+  }
+  .party-chip.party-d { background: #e8f0fe; color: #1a4d8c; border-color: #c3d6f5; }
+  .party-chip.party-r { background: #fde8e8; color: #8c1a1a; border-color: #f5c3c3; }
+  .party-chip.party-i { background: var(--bg-subtle); color: var(--fg-muted); }
+</style>

@@ -13,6 +13,8 @@ const DATA_ROOT = path.join(REPO_ROOT, "data");
 const MEETINGS_DIR = path.join(DATA_ROOT, "meetings");
 const BILLS_DIR = path.join(DATA_ROOT, "bills");
 const ATTACHMENTS_DIR = path.join(DATA_ROOT, "attachments");
+const PEOPLE_DIR = path.join(DATA_ROOT, "people");
+const PEOPLE_INDEX_PATH = path.join(PEOPLE_DIR, "_index.json");
 const BODIES_PATH = path.join(DATA_ROOT, "bodies.json");
 
 export type SourceType = "primegov" | "ksba" | "openstates";
@@ -133,6 +135,7 @@ export interface Sponsor {
   party: string | null;
   district: string | null;
   primary: boolean;
+  person_id?: string | null;
 }
 
 export interface Action {
@@ -145,6 +148,7 @@ export interface Action {
 export interface MemberVote {
   name: string;
   option: string;
+  person_id?: string | null;
 }
 
 export interface Vote {
@@ -246,11 +250,164 @@ export function billStatusTone(bill: Bill): StatusTone {
   return "pending";
 }
 
+// ----------------------------------------------------------- People
+
+export interface PersonContact {
+  addresses: { classification?: string; address?: string }[];
+  phones: { classification?: string; voice?: string }[];
+  emails: string[];
+  links: string[];
+}
+
+export interface Person {
+  id: string;                 // our slug, also the URL segment
+  source: "openstates" | "metro-council";
+  source_id: string;          // ocd-person/... for openstates, self-id for council
+  name: string;
+  body_id: string;
+  chamber: "lower" | "upper" | null;
+  party: string | null;
+  district: string | null;
+  active: boolean;
+  photo_url: string | null;
+  contact: PersonContact;
+  sources: string[];
+}
+
+let _people: Person[] | null = null;
+let _peopleById: Map<string, Person> | null = null;
+let _peopleIndex: Map<string, string> | null = null;  // upstream source_id -> our slug
+
+export function getPeople(): Person[] {
+  if (_people) return _people;
+  const out: Person[] = [];
+  if (!fs.existsSync(PEOPLE_DIR)) {
+    _people = [];
+    _peopleById = new Map();
+    return _people;
+  }
+  for (const entry of fs.readdirSync(PEOPLE_DIR, { withFileTypes: true })) {
+    if (!entry.isFile() || !entry.name.endsWith(".json")) continue;
+    if (entry.name.startsWith("_")) continue;  // index + seed files
+    try {
+      const raw = JSON.parse(fs.readFileSync(path.join(PEOPLE_DIR, entry.name), "utf-8")) as Person;
+      out.push(raw);
+    } catch {
+      // skip malformed
+    }
+  }
+  out.sort((a, b) => a.name.localeCompare(b.name));
+  _people = out;
+  _peopleById = new Map(out.map((p) => [p.id, p]));
+  return _people;
+}
+
+export function getPersonById(id: string): Person | undefined {
+  if (!_peopleById) getPeople();
+  return _peopleById!.get(id);
+}
+
+function loadPeopleIndex(): Map<string, string> {
+  if (_peopleIndex) return _peopleIndex;
+  if (!fs.existsSync(PEOPLE_INDEX_PATH)) {
+    _peopleIndex = new Map();
+    return _peopleIndex;
+  }
+  try {
+    const raw = JSON.parse(fs.readFileSync(PEOPLE_INDEX_PATH, "utf-8")) as Record<string, string>;
+    _peopleIndex = new Map(Object.entries(raw));
+  } catch {
+    _peopleIndex = new Map();
+  }
+  return _peopleIndex;
+}
+
+/** Resolve an upstream `person_id` (e.g. "ocd-person/...") to our slug, or null. */
+export function resolvePersonSlug(personId: string | null | undefined): string | null {
+  if (!personId) return null;
+  const idx = loadPeopleIndex();
+  return idx.get(personId) ?? null;
+}
+
+export interface PersonSponsorship {
+  bill: Bill;
+  primary: boolean;
+}
+
+let _bySponsorBuilt = false;
+const _bySponsor: Map<string, PersonSponsorship[]> = new Map();
+
+function buildSponsorshipIndex(): void {
+  if (_bySponsorBuilt) return;
+  for (const bill of getBills()) {
+    for (const s of bill.sponsors) {
+      const slug = resolvePersonSlug(s.person_id);
+      if (!slug) continue;
+      const arr = _bySponsor.get(slug) ?? [];
+      arr.push({ bill, primary: s.primary });
+      _bySponsor.set(slug, arr);
+    }
+  }
+  _bySponsorBuilt = true;
+}
+
+export function getBillsSponsoredBy(personSlug: string): PersonSponsorship[] {
+  buildSponsorshipIndex();
+  const out = _bySponsor.get(personSlug) ?? [];
+  return [...out].sort((a, b) => b.bill.last_action_date.localeCompare(a.bill.last_action_date));
+}
+
+export interface PersonVoteRow {
+  bill: Bill;
+  vote: Vote;
+  option: string;
+}
+
+let _byVoterBuilt = false;
+const _byVoter: Map<string, PersonVoteRow[]> = new Map();
+
+function buildVoterIndex(): void {
+  if (_byVoterBuilt) return;
+  for (const bill of getBills()) {
+    for (const vote of bill.votes) {
+      for (const mv of vote.member_votes) {
+        const slug = resolvePersonSlug(mv.person_id);
+        if (!slug) continue;
+        const arr = _byVoter.get(slug) ?? [];
+        arr.push({ bill, vote, option: mv.option });
+        _byVoter.set(slug, arr);
+      }
+    }
+  }
+  _byVoterBuilt = true;
+}
+
+export function getMemberVotesByPerson(personSlug: string): PersonVoteRow[] {
+  buildVoterIndex();
+  const out = _byVoter.get(personSlug) ?? [];
+  return [...out].sort((a, b) => b.vote.date.localeCompare(a.vote.date));
+}
+
+export function bodyLabelForPerson(p: Person): string {
+  const body = getBodyById(p.body_id);
+  return body?.name ?? p.body_id;
+}
+
+export function partyAbbrev(party: string | null | undefined): string {
+  if (!party) return "";
+  const p = party.toLowerCase();
+  if (p.startsWith("dem")) return "D";
+  if (p.startsWith("rep")) return "R";
+  if (p.startsWith("ind")) return "I";
+  return party.slice(0, 1).toUpperCase();
+}
+
 export const dataPaths = {
   REPO_ROOT,
   DATA_ROOT,
   MEETINGS_DIR,
   BILLS_DIR,
   ATTACHMENTS_DIR,
+  PEOPLE_DIR,
   BODIES_PATH,
 };

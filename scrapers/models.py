@@ -68,6 +68,7 @@ class AgendaItem:
 class MemberVote:
     name: str
     option: str  # "yes" | "no" | "abstain" | "not voting"
+    person_id: str | None = None  # upstream id (e.g. "ocd-person/...") if known
 
     def to_dict(self) -> dict[str, Any]:
         return dc.asdict(self)
@@ -92,6 +93,28 @@ class Sponsor:
     party: str | None
     district: str | None
     primary: bool
+    person_id: str | None = None  # upstream id (e.g. "ocd-person/...") if known
+
+    def to_dict(self) -> dict[str, Any]:
+        return dc.asdict(self)
+
+
+@dc.dataclass
+class Person:
+    """An elected official we can link bills/votes back to."""
+
+    id: str                       # our slug, stable per session, e.g. "ky-wheeler-phillip"
+    source: str                   # "openstates" | "metro-council"
+    source_id: str                # "ocd-person/<uuid>" or our own id for hand-curated
+    name: str
+    body_id: str                  # "ky-house" | "ky-senate" | "metro-council"
+    chamber: str | None           # "lower" | "upper" | None
+    party: str | None
+    district: str | None
+    active: bool
+    photo_url: str | None
+    contact: dict[str, Any]       # {email, phone, addresses[], links[]}
+    sources: list[str]            # upstream URLs to canonical bio pages
 
     def to_dict(self) -> dict[str, Any]:
         return dc.asdict(self)

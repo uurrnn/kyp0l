@@ -2,7 +2,7 @@
 import Layout from "~/layouts/Layout.astro";
 import ChamberProgress from "~/components/ChamberProgress.astro";
 import VoteCard from "~/components/VoteCard.astro";
-import { getBills, getBillById, getBodyById, billStatusTone } from "~/lib/data";
+import { getBills, getBillById, getBodyById, billStatusTone, resolvePersonSlug } from "~/lib/data";
 
 export function getStaticPaths() {
   return getBills().map((b) => ({ params: { id: b.id } }));
@@ -86,12 +86,19 @@ const hiddenPrimary = primarySponsors.slice(PRIMARY_VISIBLE);
         <aside class="bill-sidebar">
           <h3>Sponsors ({bill.sponsors.length})</h3>
           <ul class="sponsors-list">
-            {visiblePrimary.map((s) => (
-              <li>
-                <strong>{s.name}</strong>
-                {s.district && <span class="district"> · District {s.district}</span>}
-              </li>
-            ))}
+            {visiblePrimary.map((s) => {
+              const slug = resolvePersonSlug(s.person_id);
+              return (
+                <li>
+                  {slug ? (
+                    <a href={`${base}person/${slug}`}><strong>{s.name}</strong></a>
+                  ) : (
+                    <strong>{s.name}</strong>
+                  )}
+                  {s.district && <span class="district"> · District {s.district}</span>}
+                </li>
+              );
+            })}
           </ul>
           {(hiddenPrimary.length > 0 || coSponsors.length > 0) && (
             <details>
@@ -99,19 +106,29 @@ const hiddenPrimary = primarySponsors.slice(PRIMARY_VISIBLE);
                 + {hiddenPrimary.length + coSponsors.length} more
               </summary>
               <ul class="sponsors-list" style="margin-top: var(--space-2);">
-                {hiddenPrimary.map((s) => (
-                  <li>
-                    <strong>{s.name}</strong>
-                    {s.district && <span class="district"> · District {s.district}</span>}
-                  </li>
-                ))}
-                {coSponsors.map((s) => (
-                  <li>
-                    {s.name}
-                    {s.district && <span class="district"> · District {s.district}</span>}
-                    <span class="district"> · co</span>
-                  </li>
-                ))}
+                {hiddenPrimary.map((s) => {
+                  const slug = resolvePersonSlug(s.person_id);
+                  return (
+                    <li>
+                      {slug ? (
+                        <a href={`${base}person/${slug}`}><strong>{s.name}</strong></a>
+                      ) : (
+                        <strong>{s.name}</strong>
+                      )}
+                      {s.district && <span class="district"> · District {s.district}</span>}
+                    </li>
+                  );
+                })}
+                {coSponsors.map((s) => {
+                  const slug = resolvePersonSlug(s.person_id);
+                  return (
+                    <li>
+                      {slug ? <a href={`${base}person/${slug}`}>{s.name}</a> : s.name}
+                      {s.district && <span class="district"> · District {s.district}</span>}
+                      <span class="district"> · co</span>
+                    </li>
+                  );
+                })}
               </ul>
             </details>
           )}

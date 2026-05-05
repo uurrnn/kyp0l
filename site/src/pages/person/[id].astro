@@ -1,0 +1,288 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import {
+  getPeople,
+  getPersonById,
+  getBodyById,
+  getBillsSponsoredBy,
+  getMemberVotesByPerson,
+  billStatusTone,
+  partyAbbrev,
+} from "~/lib/data";
+
+export function getStaticPaths() {
+  return getPeople().map((p) => ({ params: { id: p.id } }));
+}
+
+const { id } = Astro.params;
+const person = getPersonById(id!);
+const base = import.meta.env.BASE_URL;
+
+const body = person ? getBodyById(person.body_id) : undefined;
+const sponsorships = person ? getBillsSponsoredBy(person.id) : [];
+const voteRows = person ? getMemberVotesByPerson(person.id) : [];
+
+function chamberLabel(ch: "lower" | "upper" | null): string {
+  if (ch === "lower") return "Representative";
+  if (ch === "upper") return "Senator";
+  return "Council Member";
+}
+
+function partyClass(party: string | null): string {
+  if (!party) return "";
+  const p = party.toLowerCase();
+  if (p.startsWith("dem")) return "party-d";
+  if (p.startsWith("rep")) return "party-r";
+  return "party-i";
+}
+
+function voteOptionTone(opt: string): string {
+  if (opt === "yes") return "passed";
+  if (opt === "no") return "fail";
+  return "pending";
+}
+function voteOptionLabel(opt: string): string {
+  if (opt === "yes") return "Yea";
+  if (opt === "no") return "Nay";
+  if (opt === "abstain") return "Abstain";
+  if (opt === "not voting") return "Not voting";
+  return opt;
+}
+
+const primaryCount = sponsorships.filter((s) => s.primary).length;
+const coCount = sponsorships.length - primaryCount;
+---
+
+<Layout
+  title={person ? `${person.name} — kyp0l` : "Person"}
+  description={person ? `${chamberLabel(person.chamber)} ${person.district ? "District " + person.district : ""}, ${body?.name ?? ""}` : undefined}
+>
+  {!person ? (
+    <p class="empty-state">No such person.</p>
+  ) : (
+    <article data-pagefind-body>
+      <p class="page-back">
+        <a href={base}>Home</a> · <a href={`${base}people`}>People</a>
+        {body && <> · <a href={`${base}body/${body.id}`}>{body.name}</a></>}
+      </p>
+
+      <header class="person-header">
+        {person.photo_url && (
+          <img class="person-photo" src={person.photo_url} alt={`Photo of ${person.name}`} loading="lazy" />
+        )}
+        <div class="person-bio">
+          <h1 class="person-name" data-pagefind-meta={`role:${chamberLabel(person.chamber)}`}>{person.name}</h1>
+          <div class="person-meta">
+            {person.party && (
+              <span class={`party-chip ${partyClass(person.party)}`}>{partyAbbrev(person.party)} · {person.party}</span>
+            )}
+            <span>{chamberLabel(person.chamber)}</span>
+            {person.district && <span>District {person.district}</span>}
+            {body && <a class="body-pill" href={`${base}body/${body.id}`}>{body.name}</a>}
+            {!person.active && <span class="status-badge fail">Inactive</span>}
+          </div>
+        </div>
+      </header>
+
+      <div class="bill-layout">
+        <div class="bill-main">
+          {person.source === "openstates" && (
+            <>
+              <section>
+                <h2>Bills sponsored ({sponsorships.length})</h2>
+                {sponsorships.length === 0 ? (
+                  <p class="empty-state">No sponsored bills in the active session yet.</p>
+                ) : (
+                  <table class="bills-table">
+                    <thead>
+                      <tr>
+                        <th class="col-id">Bill</th>
+                        <th class="col-title">Title</th>
+                        <th>Role</th>
+                        <th class="col-status">Status</th>
+                        <th class="col-date">Last action</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {sponsorships.map(({ bill, primary }) => (
+                        <tr>
+                          <td class="col-id">
+                            <a href={`${base}bill/${bill.id}`}>{bill.identifier}</a>
+                          </td>
+                          <td class="col-title">
+                            <a href={`${base}bill/${bill.id}`}>{bill.title}</a>
+                          </td>
+                          <td>{primary ? "Primary" : "Co"}</td>
+                          <td class="col-status">
+                            <span class={`status-badge ${billStatusTone(bill)}`}>{bill.current_status}</span>
+                          </td>
+                          <td class="col-date">{bill.last_action_date}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                )}
+              </section>
+
+              <section>
+                <h2>Voting record ({voteRows.length})</h2>
+                {voteRows.length === 0 ? (
+                  <p class="empty-state">No recorded floor votes yet for this session.</p>
+                ) : (
+                  <table class="bills-table">
+                    <thead>
+                      <tr>
+                        <th class="col-id">Bill</th>
+                        <th class="col-title">Motion</th>
+                        <th>Vote</th>
+                        <th class="col-status">Result</th>
+                        <th class="col-date">Date</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {voteRows.map(({ bill, vote, option }) => (
+                        <tr>
+                          <td class="col-id">
+                            <a href={`${base}bill/${bill.id}`}>{bill.identifier}</a>
+                          </td>
+                          <td class="col-title">{vote.motion}</td>
+                          <td>
+                            <span class={`status-badge ${voteOptionTone(option)}`}>{voteOptionLabel(option)}</span>
+                          </td>
+                          <td class="col-status">
+                            <span class={`status-badge ${vote.result === "pass" ? "passed" : vote.result === "fail" ? "fail" : "pending"}`}>
+                              {vote.result === "pass" ? "Passed" : vote.result === "fail" ? "Failed" : vote.result}
+                            </span>
+                          </td>
+                          <td class="col-date">{vote.date}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                )}
+              </section>
+            </>
+          )}
+
+          {person.source === "metro-council" && (
+            <section>
+              <h2>Activity</h2>
+              <p class="empty-state">
+                Per-member voting and sponsorship aren't yet captured for Metro Council
+                — its agendas come from PrimeGov as PDFs and roll-call votes aren't
+                parsed into structured records. See <a href={`${base}body/${person.body_id}`}>Metro Council meetings</a>.
+              </p>
+            </section>
+          )}
+        </div>
+
+        <aside class="bill-sidebar">
+          <h3>Contact</h3>
+          {person.contact.emails.length === 0 && person.contact.phones.length === 0 && person.contact.addresses.length === 0 ? (
+            <p class="meta-line">Not on file.</p>
+          ) : (
+            <>
+              {person.contact.emails.length > 0 && (
+                <ul class="sponsors-list">
+                  {person.contact.emails.map((e) => (
+                    <li><a href={`mailto:${e}`}>{e}</a></li>
+                  ))}
+                </ul>
+              )}
+              {person.contact.phones.length > 0 && (
+                <ul class="sponsors-list">
+                  {person.contact.phones.map((p) => (
+                    <li>
+                      <span class="district">{p.classification ?? ""}</span>
+                      {" "}{p.voice}
+                    </li>
+                  ))}
+                </ul>
+              )}
+              {person.contact.addresses.length > 0 && (
+                <ul class="sponsors-list">
+                  {person.contact.addresses.map((a) => (
+                    <li>
+                      <span class="district">{a.classification ?? ""}</span>
+                      {" "}{a.address}
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </>
+          )}
+
+          {person.source === "openstates" && (
+            <>
+              <h3>Tally</h3>
+              <p class="meta-line tabular">{primaryCount} primary · {coCount} co · {voteRows.length} floor votes</p>
+            </>
+          )}
+
+          {person.sources.length > 0 && (
+            <>
+              <h3>Sources</h3>
+              <ul class="sponsors-list">
+                {person.sources.map((url) => (
+                  <li><a href={url} target="_blank" rel="noopener">{url.replace(/^https?:\/\//, "").replace(/\/$/, "").slice(0, 40)}…</a></li>
+                ))}
+              </ul>
+            </>
+          )}
+        </aside>
+      </div>
+    </article>
+  )}
+</Layout>
+
+<style>
+  .person-header {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: var(--space-4);
+    align-items: center;
+    margin-bottom: var(--space-5);
+    padding-bottom: var(--space-4);
+    border-bottom: 1px solid var(--border);
+  }
+  @media (max-width: 600px) {
+    .person-header { grid-template-columns: 1fr; }
+  }
+  .person-photo {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    background: var(--bg-subtle);
+  }
+  .person-name {
+    font-family: var(--font-serif);
+    font-size: var(--text-3xl);
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0 0 var(--space-2);
+    letter-spacing: -0.02em;
+  }
+  .person-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    align-items: center;
+    font-size: var(--text-sm);
+    color: var(--fg-muted);
+  }
+  .party-chip {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 999px;
+    font-size: var(--text-xs);
+    font-weight: 600;
+    background: var(--bg-subtle);
+    color: var(--fg);
+    border: 1px solid var(--border);
+  }
+  .party-chip.party-d { background: #e8f0fe; color: #1a4d8c; border-color: #c3d6f5; }
+  .party-chip.party-r { background: #fde8e8; color: #8c1a1a; border-color: #f5c3c3; }
+  .party-chip.party-i { background: var(--bg-subtle); color: var(--fg-muted); }
+</style>

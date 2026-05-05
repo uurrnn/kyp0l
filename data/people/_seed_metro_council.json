@@ -1,0 +1,37 @@
+{
+  "_comment": [
+    "Hand-curated Louisville Metro Council roster.",
+    "Source: https://en.wikipedia.org/wiki/List_of_members_of_the_Louisville_Metro_Council",
+    "Snapshot date: 2026-05-04. Reverify when terms change (council elections every 2 years staggered).",
+    "Schema per entry: {district:int, name:str, party:str, photo_url?:str, email?:str, website?:str}.",
+    "Run `python -m scrapers --sources people` after editing to materialise data/people/metro-council-*.json."
+  ],
+  "members": [
+    {"district": 1, "name": "Ken Herndon", "party": "Democratic"},
+    {"district": 2, "name": "J.P. Lyninger", "party": "Democratic"},
+    {"district": 3, "name": "Josie Raymond", "party": "Democratic"},
+    {"district": 4, "name": "Jonathan Joseph", "party": "Republican"},
+    {"district": 5, "name": "Crystal Bast", "party": "Republican"},
+    {"district": 6, "name": "Kevin Bratcher", "party": "Republican"},
+    {"district": 7, "name": "Ginni Mulvey-Woolridge", "party": "Republican"},
+    {"district": 8, "name": "Shameka Parrish Wright", "party": "Democratic"},
+    {"district": 9, "name": "Jecorey Arthur", "party": "Democratic"},
+    {"district": 10, "name": "Cassie Chambers Armstrong", "party": "Democratic"},
+    {"district": 11, "name": "Amy Stewart", "party": "Democratic"},
+    {"district": 12, "name": "Angela Bowens", "party": "Democratic"},
+    {"district": 13, "name": "Tammy Hawkins", "party": "Democratic"},
+    {"district": 14, "name": "Kumar Rashad", "party": "Democratic"},
+    {"district": 15, "name": "Phillip Baker", "party": "Democratic"},
+    {"district": 16, "name": "Ben Reno-Weber", "party": "Democratic"},
+    {"district": 17, "name": "Andrew Owen", "party": "Democratic"},
+    {"district": 18, "name": "Dan Seum Jr.", "party": "Republican"},
+    {"district": 19, "name": "Jennifer Chappell", "party": "Democratic"},
+    {"district": 20, "name": "Betsy Ruhe", "party": "Democratic"},
+    {"district": 21, "name": "Jeff Hudson", "party": "Republican"},
+    {"district": 22, "name": "Khalil Batshon", "party": "Republican"},
+    {"district": 23, "name": "Mark Fox", "party": "Democratic"},
+    {"district": 24, "name": "Kevin Triplett", "party": "Democratic"},
+    {"district": 25, "name": "Markus Winkler", "party": "Democratic"},
+    {"district": 26, "name": "Anthony Piagentini", "party": "Republican"}
+  ]
+}

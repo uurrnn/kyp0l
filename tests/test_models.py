@@ -2,6 +2,7 @@ from scrapers.models import (
     Action,
     Bill,
     MemberVote,
+    Person,
     Sponsor,
     Vote,
 )
@@ -56,3 +57,34 @@ def test_bill_round_trip_to_dict():
     assert d["votes"][0]["counts"]["yes"] == 60
     assert d["votes"][0]["member_votes"][0]["option"] == "yes"
     assert d["chamber_progress"] == {"lower": "passed", "upper": None, "governor": None}
+    # Backward-compat: person_id absent on legacy data must default to None.
+    assert d["sponsors"][0]["person_id"] is None
+    assert d["votes"][0]["member_votes"][0]["person_id"] is None
+
+
+def test_sponsor_and_member_vote_round_trip_with_person_id():
+    s = Sponsor(name="K. Moser", party="R", district="64", primary=True, person_id="ocd-person/abc")
+    mv = MemberVote(name="Baker", option="yes", person_id="ocd-person/xyz")
+    assert s.to_dict()["person_id"] == "ocd-person/abc"
+    assert mv.to_dict()["person_id"] == "ocd-person/xyz"
+
+
+def test_person_round_trip():
+    p = Person(
+        id="ky-phillip-wheeler",
+        source="openstates",
+        source_id="ocd-person/abc",
+        name="Phillip Wheeler",
+        body_id="ky-senate",
+        chamber="upper",
+        party="Republican",
+        district="31",
+        active=True,
+        photo_url="https://example.com/p.jpg",
+        contact={"emails": ["x@y"], "phones": [], "addresses": [], "links": []},
+        sources=["https://openstates.org/..."],
+    )
+    d = p.to_dict()
+    assert d["id"] == "ky-phillip-wheeler"
+    assert d["body_id"] == "ky-senate"
+    assert d["contact"]["emails"] == ["x@y"]
