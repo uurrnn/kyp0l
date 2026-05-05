@@ -9,7 +9,9 @@ import {
   getCommitteesForPerson,
   billStatusTone,
   partyAbbrev,
+  getPersonByOcdId,
 } from "~/lib/data";
+import { getLegislatorStats } from "~/lib/analytics";
 
 export function getStaticPaths() {
   return getPeople().map((p) => ({ params: { id: p.id } }));
@@ -56,6 +58,14 @@ function voteOptionLabel(opt: string): string {
 
 const primaryCount = sponsorships.filter((s) => s.primary).length;
 const coCount = sponsorships.length - primaryCount;
+
+const stats = person && person.source === "openstates"
+  ? getLegislatorStats(person.id)
+  : undefined;
+function pct(v: number | null | undefined): string {
+  if (v == null) return "—";
+  return `${Math.round(v * 100)}%`;
+}
 ---
 
 <Layout
@@ -88,6 +98,74 @@ const coCount = sponsorships.length - primaryCount;
           </div>
         </div>
       </header>
+
+      {stats && person.source === "openstates" && (
+        <>
+          <div class="stat-grid">
+            <div class="tile">
+              <div class="tile-num">{stats.billsPrimarySponsored}</div>
+              <div class="tile-label">Bills sponsored</div>
+            </div>
+            <div class="tile">
+              <div class="tile-num">{stats.billsCoSponsored}</div>
+              <div class="tile-label">Bills co-sponsored</div>
+            </div>
+            <div class="tile">
+              <div class="tile-num">{stats.votesCast}</div>
+              <div class="tile-label">Floor votes cast</div>
+            </div>
+            <div class="tile">
+              <div
+                class={`tile-num ${stats.partyLoyaltyRate == null ? "muted" : ""}`}
+                title={stats.partyLoyaltyRate == null ? "Not enough floor votes to compute" : undefined}
+              >{pct(stats.partyLoyaltyRate)}</div>
+              <div class="tile-label">Party loyalty</div>
+            </div>
+          </div>
+
+          {stats.effectivenessRate != null && (
+            <p class="meta-line" style="margin-bottom: var(--space-4);">
+              <strong>{pct(stats.effectivenessRate)}</strong> of their {stats.billsPrimarySponsored} primary-sponsored bills passed at least one chamber.
+              {stats.lawRate != null && stats.lawRate > 0 && (
+                <> <strong>{pct(stats.lawRate)}</strong> became law.</>
+              )}
+            </p>
+          )}
+
+          {stats.topSubjects.length > 0 && (
+            <>
+              <h3 style="margin-top: 0;">Focuses on</h3>
+              <div class="subject-chips">
+                {stats.topSubjects.map((s) => (
+                  <a class="subject-chip" href={`${base}bills?subject=${encodeURIComponent(s)}`}>{s}</a>
+                ))}
+              </div>
+            </>
+          )}
+
+          {stats.topCoSponsors.length > 0 && (
+            <>
+              <h3 style="margin-top: 0;">Frequent co-sponsors</h3>
+              <ul class="cosponsor-list">
+                {stats.topCoSponsors.map((c) => {
+                  const co = getPersonByOcdId(c.personId);
+                  if (!co) return null;
+                  return (
+                    <li>
+                      <a href={`${base}person/${co.id}`}>{co.name}</a>
+                      <span class="count">{c.count} bill{c.count === 1 ? "" : "s"} together</span>
+                    </li>
+                  );
+                })}
+              </ul>
+            </>
+          )}
+
+          <p style="margin-bottom: var(--space-5);">
+            <a class="compare-cta" href={`${base}compare?ids=${person.id}`}>Compare with peers →</a>
+          </p>
+        </>
+      )}
 
       <div class="bill-layout">
         <div class="bill-main">

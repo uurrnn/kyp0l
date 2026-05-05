@@ -786,3 +786,60 @@ details.corpus pre {
   border-radius: 999px;
   font-variant-caps: small-caps;
 }
+
+/* legislator stats grid (profile + compare pages) ------------------------- */
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-3);
+  margin-bottom: var(--space-5);
+}
+@media (max-width: 600px) {
+  .stat-grid { grid-template-columns: repeat(2, 1fr); }
+}
+.stat-grid .tile-num.muted { color: var(--fg-mute2); }
+
+.subject-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin: var(--space-2) 0 var(--space-5);
+}
+.subject-chip {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: var(--text-xs);
+  background: var(--bg-subtle);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  text-decoration: none;
+}
+.subject-chip:hover { border-color: var(--accent); color: var(--accent); }
+
+.cosponsor-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+.cosponsor-list li { font-size: var(--text-sm); }
+.cosponsor-list .count {
+  font-variant-numeric: tabular-nums;
+  color: var(--fg-muted);
+  font-size: var(--text-xs);
+  margin-left: var(--space-2);
+}
+
+.compare-cta {
+  display: inline-block;
+  padding: 2px 10px;
+  font-size: var(--text-xs);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--fg-muted);
+  text-decoration: none;
+}
+.compare-cta:hover { border-color: var(--accent); color: var(--accent); }
