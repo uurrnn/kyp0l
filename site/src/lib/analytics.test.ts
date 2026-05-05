@@ -86,3 +86,86 @@ describe("counts", () => {
     expect(stats.get("ky-bob")!.votesCast).toBe(0);
   });
 });
+
+describe("partyLoyaltyRate", () => {
+  const FILLER: FixturePerson[] = Array.from({ length: 30 }, (_, i) => ({
+    id: `ky-d-${i}`,
+    chamber: "lower",
+    party: "Democratic",
+  }));
+  const FILLER_INDEX = new Map<string, string>(FILLER.map((p) => [`ocd-person/d-${p.id.slice(5)}`, p.id]));
+
+  function dvote(option: string, startIdx: number, n: number): FixtureMemberVote[] {
+    return Array.from({ length: n }, (_, i) => ({
+      person_id: `ocd-person/d-${startIdx + i}`,
+      option,
+    }));
+  }
+
+  it("rates Alice 100% loyal when she always votes with Democratic majority", () => {
+    const idx = new Map([...fixturePeopleIndex, ...FILLER_INDEX]);
+    const bills: FixtureBill[] = Array.from({ length: 25 }, (_, i) => ({
+      id: `b${i}`,
+      subjects: [],
+      chamber_progress: { lower: null, upper: null, governor: null },
+      actions: [],
+      current_status: "",
+      sponsors: [],
+      votes: [
+        {
+          chamber: "lower",
+          member_votes: [
+            { person_id: ALICE_OCD, option: "yes" },
+            ...dvote("yes", 0, 20),
+            ...dvote("no", 20, 5),
+          ],
+        },
+      ],
+    }));
+
+    const stats = computeStatsFromFixture(bills, [ALICE, BOB, ...FILLER], idx);
+    expect(stats.get("ky-alice")!.partyLoyaltyRate).toBeCloseTo(1.0);
+  });
+
+  it("suppresses loyalty rate when votesParticipated < LOYALTY_MIN_N", () => {
+    const idx = new Map([...fixturePeopleIndex, ...FILLER_INDEX]);
+    const bills: FixtureBill[] = [
+      {
+        id: "b1",
+        subjects: [],
+        chamber_progress: { lower: null, upper: null, governor: null },
+        actions: [],
+        current_status: "",
+        sponsors: [],
+        votes: [
+          {
+            chamber: "lower",
+            member_votes: [
+              { person_id: ALICE_OCD, option: "yes" },
+              ...dvote("yes", 0, 20),
+            ],
+          },
+        ],
+      },
+    ];
+    const stats = computeStatsFromFixture(bills, [ALICE, BOB, ...FILLER], idx);
+    expect(stats.get("ky-alice")!.partyLoyaltyRate).toBeNull();
+  });
+
+  it("returns null loyalty for legislators with no party", () => {
+    const NEUTRAL: FixturePerson = { id: "ky-neutral", chamber: "lower", party: null };
+    const NEUTRAL_OCD = "ocd-person/neutral";
+    const idx = new Map([...fixturePeopleIndex, [NEUTRAL_OCD, NEUTRAL.id]]);
+    const bills: FixtureBill[] = Array.from({ length: 25 }, (_, i) => ({
+      id: `b${i}`,
+      subjects: [],
+      chamber_progress: { lower: null, upper: null, governor: null },
+      actions: [],
+      current_status: "",
+      sponsors: [],
+      votes: [{ chamber: "lower", member_votes: [{ person_id: NEUTRAL_OCD, option: "yes" }] }],
+    }));
+    const stats = computeStatsFromFixture(bills, [NEUTRAL], idx);
+    expect(stats.get("ky-neutral")!.partyLoyaltyRate).toBeNull();
+  });
+});

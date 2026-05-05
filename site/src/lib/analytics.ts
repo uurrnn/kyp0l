@@ -53,6 +53,15 @@ export interface FixtureBill {
 export const LOYALTY_MIN_N = 20;
 export const EFFECT_MIN_N = 5;
 
+function normalizeParty(p: string | null): "D" | "R" | "I" | null {
+  if (!p) return null;
+  const lower = p.toLowerCase();
+  if (lower.startsWith("dem")) return "D";
+  if (lower.startsWith("rep")) return "R";
+  if (lower.startsWith("ind")) return "I";
+  return null;
+}
+
 export function computeStatsFromFixture(
   bills: FixtureBill[],
   people: FixturePerson[],
@@ -95,6 +104,57 @@ export function computeStatsFromFixture(
         if (mv.option === "yes" || mv.option === "no") row.votesParticipated++;
       }
     }
+  }
+
+  // loyalty pass: per vote, find each party's majority choice and compare
+  // each member's choice against their own-party majority.
+  const matched = new Map<string, number>();
+  const denom = new Map<string, number>();
+
+  const slugParty = new Map<string, "D" | "R" | "I" | null>();
+  for (const p of people) slugParty.set(p.id, normalizeParty(p.party));
+
+  for (const bill of bills) {
+    for (const vote of bill.votes) {
+      const tally: Record<"D" | "R", { yes: number; no: number }> = {
+        D: { yes: 0, no: 0 },
+        R: { yes: 0, no: 0 },
+      };
+      for (const mv of vote.member_votes) {
+        const slug = mv.person_id ? peopleIndex.get(mv.person_id) : undefined;
+        if (!slug) continue;
+        const party = slugParty.get(slug);
+        if (party !== "D" && party !== "R") continue;
+        if (mv.option === "yes") tally[party].yes++;
+        else if (mv.option === "no") tally[party].no++;
+      }
+
+      const majority: Partial<Record<"D" | "R", "yes" | "no">> = {};
+      for (const k of ["D", "R"] as const) {
+        const t = tally[k];
+        if (t.yes > t.no) majority[k] = "yes";
+        else if (t.no > t.yes) majority[k] = "no";
+      }
+
+      for (const mv of vote.member_votes) {
+        const slug = mv.person_id ? peopleIndex.get(mv.person_id) : undefined;
+        if (!slug) continue;
+        if (mv.option !== "yes" && mv.option !== "no") continue;
+        const party = slugParty.get(slug);
+        if (party !== "D" && party !== "R") continue;
+        const maj = majority[party];
+        if (!maj) continue;
+        denom.set(slug, (denom.get(slug) ?? 0) + 1);
+        if (mv.option === maj) matched.set(slug, (matched.get(slug) ?? 0) + 1);
+      }
+    }
+  }
+
+  for (const row of out.values()) {
+    const d = denom.get(row.personSlug) ?? 0;
+    if (d < LOYALTY_MIN_N) continue;
+    const m = matched.get(row.personSlug) ?? 0;
+    row.partyLoyaltyRate = m / d;
   }
 
   return out;
