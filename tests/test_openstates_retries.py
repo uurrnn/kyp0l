@@ -60,6 +60,8 @@ def make_scraper() -> tuple[OpenStatesScraper, FakeSession]:
     s.api_key = "fake"
     s.jurisdiction = "ky"
     s.session = fake  # type: ignore[assignment]
+    s.last_remaining = None
+    s._announced_thresholds = set()
     return s, fake
 
 
@@ -142,3 +144,39 @@ def test_4xx_other_than_429_does_not_retry() -> None:
     with pytest.raises(requests.exceptions.HTTPError):
         s._get("/jurisdictions/ky")
     assert fake.calls == 1
+
+
+def test_records_last_remaining_after_success() -> None:
+    s, fake = make_scraper()
+    fake.queue = [FakeResponse(200, body={"ok": True}, headers={"X-RateLimit-Remaining": "873"})]
+    s._get("/jurisdictions/ky")
+    assert s.last_remaining == 873
+
+
+def test_announces_threshold_crossings(capsys: pytest.CaptureFixture[str]) -> None:
+    s, fake = make_scraper()
+    fake.queue = [
+        FakeResponse(200, body={}, headers={"X-RateLimit-Remaining": "600"}),
+        FakeResponse(200, body={}, headers={"X-RateLimit-Remaining": "450"}),  # crosses 500
+        FakeResponse(200, body={}, headers={"X-RateLimit-Remaining": "440"}),  # no new threshold
+        FakeResponse(200, body={}, headers={"X-RateLimit-Remaining": "80"}),   # crosses 100
+    ]
+    for _ in range(4):
+        s._get("/x")
+    out = capsys.readouterr().out
+    assert "quota remaining: 450" in out
+    assert "quota remaining: 80" in out
+    # 440 is still under 500 but threshold already announced — no new line.
+    assert "quota remaining: 440" not in out
+
+
+def test_429_log_includes_quota_headers(capsys: pytest.CaptureFixture[str]) -> None:
+    s, fake = make_scraper()
+    fake.queue = [
+        FakeResponse(429, headers={"Retry-After": "1", "X-RateLimit-Remaining": "0", "X-RateLimit-Limit": "1000"}),
+        FakeResponse(200, body={"ok": True}),
+    ]
+    s._get("/x")
+    out = capsys.readouterr().out
+    assert "remaining=0/1000" in out
+    assert "retry-after=1" in out

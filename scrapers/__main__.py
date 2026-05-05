@@ -21,6 +21,8 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Iterable
 
+import requests
+
 from scrapers.ksba import KsbaScraper, write_meeting_record as write_ksba_meeting
 from scrapers.lrc_interim import (
     LrcInterimScraper,
@@ -413,8 +415,16 @@ def run_openstates(args: argparse.Namespace, state: dict, all_bodies: dict) -> t
 
     scraper = OpenStatesScraper(api_key)
     print("\n[openstates] resolving active session ...")
-    session = scraper.current_session()
+    try:
+        session = scraper.current_session()
+    except requests.exceptions.HTTPError as e:
+        if e.response is not None and e.response.status_code == 429:
+            print("             quota exhausted; skipping. Next cron tick will retry.")
+            return 0, 0, 0
+        raise
     print(f"             active session = {session}")
+    if scraper.last_remaining is not None:
+        print(f"             quota remaining: {scraper.last_remaining}")
 
     bills_seen_at = state.setdefault("bills_updated_at", {})
 
@@ -506,10 +516,18 @@ def run_people(args: argparse.Namespace, all_bodies: dict) -> tuple[int, int, in
                 if args.limit and written >= args.limit:
                     print(f"          stopped at --limit {args.limit}")
                     break
+        except requests.exceptions.HTTPError as e:
+            if e.response is not None and e.response.status_code == 429:
+                print("          [people] Open States quota exhausted; skipping legislators. Next cron tick will retry.")
+            else:
+                print(f"          [people] Open States listing failed: {e!r}")
+                failed += 1
         except Exception as e:  # noqa: BLE001
             print(f"          [people] Open States listing failed: {e!r}")
             failed += 1
         print(f"          got {count} raw people, wrote {written} new/updated")
+        if scraper.last_remaining is not None:
+            print(f"          quota remaining: {scraper.last_remaining}")
     else:
         print("\n[people] OPENSTATES_API_KEY not set; skipping KY legislators.")
 

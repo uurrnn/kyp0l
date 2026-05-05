@@ -271,6 +271,26 @@ class OpenStatesScraper:
             "User-Agent": USER_AGENT,
             "Accept": "application/json",
         })
+        # Last X-RateLimit-Remaining we observed; None until the first call.
+        # Useful for callers to peek before doing expensive paginated work.
+        self.last_remaining: int | None = None
+        self._announced_thresholds: set[int] = set()
+
+    def _record_quota(self, r: requests.Response) -> None:
+        """Update last_remaining and announce when crossing thresholds."""
+        rem_str = r.headers.get("X-RateLimit-Remaining")
+        if rem_str is None:
+            return
+        try:
+            remaining = int(rem_str)
+        except ValueError:
+            return
+        self.last_remaining = remaining
+        for threshold in (500, 100, 50, 20, 5):
+            if remaining <= threshold and threshold not in self._announced_thresholds:
+                self._announced_thresholds.add(threshold)
+                print(f"  [openstates] quota remaining: {remaining}")
+                break
 
     def _get(self, path: str, **params: Any) -> dict[str, Any]:
         """GET with retries + courtesy throttle.
@@ -301,10 +321,14 @@ class OpenStatesScraper:
                 continue
 
             if r.status_code == 429:
+                ra = r.headers.get("Retry-After") or "?"
+                rem = r.headers.get("X-RateLimit-Remaining") or "?"
+                lim = r.headers.get("X-RateLimit-Limit") or "?"
                 if is_last:
+                    print(f"  [openstates] 429 (remaining={rem}/{lim}, retry-after={ra}); giving up")
                     r.raise_for_status()
                 wait = max(int(r.headers.get("Retry-After") or 0), backoffs[attempt - 1])
-                print(f"  [openstates] 429 rate-limited; sleeping {wait}s before retry {attempt + 1}/{max_attempts}")
+                print(f"  [openstates] 429 (remaining={rem}/{lim}, retry-after={ra}); sleeping {wait}s before retry {attempt + 1}/{max_attempts}")
                 time.sleep(wait)
                 continue
 
@@ -320,6 +344,7 @@ class OpenStatesScraper:
             break
 
         assert r is not None
+        self._record_quota(r)
         remaining = int(r.headers.get("X-RateLimit-Remaining", "1000"))
         if remaining < 50:
             time.sleep(60)
