@@ -273,23 +273,53 @@ class OpenStatesScraper:
         })
 
     def _get(self, path: str, **params: Any) -> dict[str, Any]:
-        """GET with retry on 429 + courtesy throttle.
+        """GET with retries + courtesy throttle.
 
-        Open States enforces a per-minute burst limit on the free tier that
-        is separate from (and tighter than) the daily limit reported via
-        X-RateLimit-Remaining. We throttle to ~1 req/sec between calls and
-        retry once on a 429 with a 65s backoff.
+        Retries up to 4 attempts total on:
+          - 429 Too Many Requests (free-tier per-minute burst limit)
+          - 5xx server errors
+          - ReadTimeout / ConnectionError (transient network blips)
+        Backoff escalates: 30s, 90s, 240s. For 429s, honors Retry-After
+        if it's larger than the scheduled backoff. Other 4xx errors fail
+        immediately — they're our bugs, not transient.
         """
         url = f"{BASE_URL}{path}"
-        for attempt in (1, 2):
-            r = self.session.get(url, params=params, timeout=30)
-            if r.status_code == 429 and attempt == 1:
-                retry_after = int(r.headers.get("Retry-After") or 65)
-                print(f"  [openstates] 429 rate-limited; sleeping {retry_after}s")
-                time.sleep(retry_after)
+        backoffs = [30, 90, 240]  # waits before attempts 2, 3, 4
+        max_attempts = 4
+
+        r = None
+        for attempt in range(1, max_attempts + 1):
+            is_last = attempt == max_attempts
+            try:
+                r = self.session.get(url, params=params, timeout=30)
+            except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectionError) as e:
+                if is_last:
+                    raise
+                wait = backoffs[attempt - 1]
+                print(f"  [openstates] {type(e).__name__}; sleeping {wait}s before retry {attempt + 1}/{max_attempts}")
+                time.sleep(wait)
                 continue
-            r.raise_for_status()
+
+            if r.status_code == 429:
+                if is_last:
+                    r.raise_for_status()
+                wait = max(int(r.headers.get("Retry-After") or 0), backoffs[attempt - 1])
+                print(f"  [openstates] 429 rate-limited; sleeping {wait}s before retry {attempt + 1}/{max_attempts}")
+                time.sleep(wait)
+                continue
+
+            if 500 <= r.status_code < 600:
+                if is_last:
+                    r.raise_for_status()
+                wait = backoffs[attempt - 1]
+                print(f"  [openstates] {r.status_code}; sleeping {wait}s before retry {attempt + 1}/{max_attempts}")
+                time.sleep(wait)
+                continue
+
+            r.raise_for_status()  # raises immediately on 4xx other than 429
             break
+
+        assert r is not None
         remaining = int(r.headers.get("X-RateLimit-Remaining", "1000"))
         if remaining < 50:
             time.sleep(60)
