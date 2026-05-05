@@ -1,0 +1,161 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import { getPeople, partyAbbrev, getSessionStatus } from "~/lib/data";
+import { computeAllLegislatorStats } from "~/lib/analytics";
+
+const base = import.meta.env.BASE_URL;
+
+const peopleById = new Map(getPeople().map((p) => [p.id, p]));
+const stats = Array.from(computeAllLegislatorStats().values());
+const session = getSessionStatus().session ?? "current";
+
+function pct(v: number | null): string {
+  if (v == null) return "—";
+  return `${Math.round(v * 100)}%`;
+}
+function partyClass(party: string | null): string {
+  if (!party) return "";
+  const p = party.toLowerCase();
+  if (p.startsWith("dem")) return "party-d";
+  if (p.startsWith("rep")) return "party-r";
+  return "party-i";
+}
+
+// default sort = billsPrimarySponsored desc
+stats.sort((a, b) => (b.billsPrimarySponsored - a.billsPrimarySponsored) || a.personSlug.localeCompare(b.personSlug));
+---
+
+<Layout title="Scorecards — kyp0l" description="How Kentucky legislators stack up on activity, party loyalty, and effectiveness for the current session.">
+  <h1>Legislator scorecards</h1>
+  <p class="scorecards-caveat">
+    Based on the <strong>{session}</strong> session. Loyalty hidden for legislators with fewer than 20 floor votes; effectiveness hidden for fewer than 5 sponsored bills. Metro Council is excluded — no roll-call data available.
+  </p>
+
+  <div class="scorecards-controls" data-controls="chamber">
+    <span>Chamber:</span>
+    <a href="#" data-chamber="all" class="active">All</a>
+    <a href="#" data-chamber="upper">Senate</a>
+    <a href="#" data-chamber="lower">House</a>
+  </div>
+
+  <table class="scorecards-table" id="scorecards-table">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Party</th>
+        <th>District</th>
+        <th class="num"><a href="#" data-sort="billsPrimarySponsored" class="active">Sponsored</a></th>
+        <th class="num"><a href="#" data-sort="votesCast">Votes</a></th>
+        <th class="num"><a href="#" data-sort="partyLoyaltyRate">Loyalty</a></th>
+        <th class="num"><a href="#" data-sort="effectivenessRate">Effective</a></th>
+      </tr>
+    </thead>
+    <tbody>
+      {stats.map((r) => {
+        const p = peopleById.get(r.personSlug);
+        if (!p) return null;
+        return (
+          <tr
+            data-chamber={p.chamber ?? ""}
+            data-sponsored={r.billsPrimarySponsored}
+            data-votes={r.votesCast}
+            data-loyalty={r.partyLoyaltyRate ?? -1}
+            data-effective={r.effectivenessRate ?? -1}
+            data-name={p.name}
+          >
+            <td><a href={`${base}person/${r.personSlug}`}>{p.name}</a></td>
+            <td>{p.party && <span class={`party-chip ${partyClass(p.party)}`}>{partyAbbrev(p.party)}</span>}</td>
+            <td>{p.district ? `D${p.district}` : "—"}</td>
+            <td class="num">{r.billsPrimarySponsored}</td>
+            <td class="num">{r.votesCast}</td>
+            <td class={r.partyLoyaltyRate == null ? "num muted" : "num"}>{pct(r.partyLoyaltyRate)}</td>
+            <td class={r.effectivenessRate == null ? "num muted" : "num"}>{pct(r.effectivenessRate)}</td>
+          </tr>
+        );
+      })}
+    </tbody>
+  </table>
+</Layout>
+
+<script is:inline>
+  (function () {
+    const SORT_ATTR = {
+      billsPrimarySponsored: "sponsored",
+      votesCast: "votes",
+      partyLoyaltyRate: "loyalty",
+      effectivenessRate: "effective",
+    };
+
+    function readParams() {
+      const u = new URL(window.location.href);
+      return {
+        sort: u.searchParams.get("sort") || "billsPrimarySponsored",
+        chamber: u.searchParams.get("chamber") || "all",
+      };
+    }
+
+    function applyState(state) {
+      const table = document.getElementById("scorecards-table");
+      if (!table) return;
+      const tbody = table.querySelector("tbody");
+      if (!tbody) return;
+
+      // chamber filter
+      const rows = Array.from(tbody.querySelectorAll("tr"));
+      for (const row of rows) {
+        const ch = row.getAttribute("data-chamber") || "";
+        row.style.display = state.chamber === "all" || ch === state.chamber ? "" : "none";
+      }
+
+      // sort
+      const attr = SORT_ATTR[state.sort] || "sponsored";
+      const visible = rows.filter((r) => r.style.display !== "none");
+      visible.sort((a, b) => {
+        const av = parseFloat(a.getAttribute("data-" + attr) || "0");
+        const bv = parseFloat(b.getAttribute("data-" + attr) || "0");
+        if (bv !== av) return bv - av;
+        return (a.getAttribute("data-name") || "").localeCompare(b.getAttribute("data-name") || "");
+      });
+      for (const r of visible) tbody.appendChild(r);
+      // hidden rows tail
+      for (const r of rows) if (r.style.display === "none") tbody.appendChild(r);
+
+      // active classes
+      document.querySelectorAll("[data-controls=chamber] a").forEach((a) => {
+        a.classList.toggle("active", a.getAttribute("data-chamber") === state.chamber);
+      });
+      document.querySelectorAll("th a[data-sort]").forEach((a) => {
+        a.classList.toggle("active", a.getAttribute("data-sort") === state.sort);
+      });
+    }
+
+    function setParam(key, value) {
+      const u = new URL(window.location.href);
+      if (value && value !== (key === "chamber" ? "all" : "billsPrimarySponsored")) {
+        u.searchParams.set(key, value);
+      } else {
+        u.searchParams.delete(key);
+      }
+      window.history.replaceState(null, "", u.toString());
+    }
+
+    document.querySelectorAll("[data-controls=chamber] a").forEach((a) => {
+      a.addEventListener("click", function (e) {
+        e.preventDefault();
+        const c = a.getAttribute("data-chamber") || "all";
+        setParam("chamber", c);
+        applyState(readParams());
+      });
+    });
+    document.querySelectorAll("th a[data-sort]").forEach((a) => {
+      a.addEventListener("click", function (e) {
+        e.preventDefault();
+        const s = a.getAttribute("data-sort") || "billsPrimarySponsored";
+        setParam("sort", s);
+        applyState(readParams());
+      });
+    });
+
+    applyState(readParams());
+  })();
+</script>
