@@ -17,7 +17,7 @@ from __future__ import annotations
 import argparse
 import os
 import sys
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Iterable
 
@@ -52,6 +52,43 @@ KY_BODIES = [
     {"id": "ky-house", "name": "Kentucky House of Representatives"},
     {"id": "ky-senate", "name": "Kentucky Senate"},
 ]
+
+# Minimum hours between successful runs of each source. Cron ticks every 6h, so
+# anything not in this map effectively runs every tick. Slow-changing sources
+# (boards meeting weekly+, interim committees meeting monthly) only need ~1x/day.
+# Use 20h instead of 24 so a slightly-early cron tick still gets through.
+SOURCE_MIN_HOURS = {
+    "ksba": 20,
+    "lrc-interim": 20,
+    "people": 20,
+}
+
+
+def _utcnow() -> datetime:
+    return datetime.now(timezone.utc)
+
+
+def should_run_source(state: dict, source: str, ignore: bool = False) -> bool:
+    """True if the source hasn't run in at least SOURCE_MIN_HOURS[source]."""
+    if ignore:
+        return True
+    min_hours = SOURCE_MIN_HOURS.get(source)
+    if not min_hours:
+        return True
+    last = (state.get("sources") or {}).get(source, {}).get("last_run_at")
+    if not last:
+        return True
+    try:
+        last_dt = datetime.fromisoformat(last)
+    except ValueError:
+        return True
+    if last_dt.tzinfo is None:
+        last_dt = last_dt.replace(tzinfo=timezone.utc)
+    return _utcnow() - last_dt >= timedelta(hours=min_hours)
+
+
+def record_source_run(state: dict, source: str) -> None:
+    state.setdefault("sources", {}).setdefault(source, {})["last_run_at"] = _utcnow().isoformat()
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
@@ -100,6 +137,14 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
             "(default: primegov,ksba,openstates,people,lrc-interim)."
         ),
     )
+    p.add_argument(
+        "--ignore-min-interval",
+        action="store_true",
+        help=(
+            "Bypass the per-source minimum-interval gate (KSBA, LRC, people "
+            "default to once per ~20h). Useful for manual runs."
+        ),
+    )
     return p.parse_args(argv)
 
 
@@ -124,22 +169,36 @@ def main(argv: list[str] | None = None) -> int:
     if "primegov" in sources:
         w, s_, f = run_primegov(args, state, all_bodies)
         written += w; skipped += s_; failed += f
+        record_source_run(state, "primegov")
 
     if "ksba" in sources:
-        w, s_, f = run_ksba(args, state, all_bodies)
-        written += w; skipped += s_; failed += f
+        if should_run_source(state, "ksba", args.ignore_min_interval):
+            w, s_, f = run_ksba(args, state, all_bodies)
+            written += w; skipped += s_; failed += f
+            record_source_run(state, "ksba")
+        else:
+            print(f"\n[ksba] skipped (last run < {SOURCE_MIN_HOURS['ksba']}h ago; pass --ignore-min-interval to force)")
 
     if "openstates" in sources:
         w, s_, f = run_openstates(args, state, all_bodies)
         written += w; skipped += s_; failed += f
+        record_source_run(state, "openstates")
 
     if "people" in sources:
-        w, s_, f = run_people(args, all_bodies)
-        written += w; skipped += s_; failed += f
+        if should_run_source(state, "people", args.ignore_min_interval):
+            w, s_, f = run_people(args, all_bodies)
+            written += w; skipped += s_; failed += f
+            record_source_run(state, "people")
+        else:
+            print(f"\n[people] skipped (last run < {SOURCE_MIN_HOURS['people']}h ago; pass --ignore-min-interval to force)")
 
     if "lrc-interim" in sources:
-        w, s_, f = run_lrc_interim(args, state, all_bodies)
-        written += w; skipped += s_; failed += f
+        if should_run_source(state, "lrc-interim", args.ignore_min_interval):
+            w, s_, f = run_lrc_interim(args, state, all_bodies)
+            written += w; skipped += s_; failed += f
+            record_source_run(state, "lrc-interim")
+        else:
+            print(f"\n[lrc-interim] skipped (last run < {SOURCE_MIN_HOURS['lrc-interim']}h ago; pass --ignore-min-interval to force)")
 
     write_json(BODIES_PATH, all_bodies)
     write_json(STATE_PATH, state)
