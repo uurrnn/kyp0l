@@ -22,6 +22,11 @@ from pathlib import Path
 from typing import Iterable
 
 from scrapers.ksba import KsbaScraper, write_meeting_record as write_ksba_meeting
+from scrapers.lrc_interim import (
+    LrcInterimScraper,
+    committee_body as lrc_committee_body,
+    write_meeting_record as write_lrc_meeting,
+)
 from scrapers.metro_council_roster import load_seed as load_metro_council_seed
 from scrapers.models import Body, Person, write_json, read_json
 from scrapers.openstates import OpenStatesScraper, parse_bill, parse_person
@@ -89,10 +94,10 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     p.add_argument(
         "--sources",
         type=str,
-        default="primegov,ksba,openstates,people",
+        default="primegov,ksba,openstates,people,lrc-interim",
         help=(
             "Comma-separated source names to run "
-            "(default: primegov,ksba,openstates,people)."
+            "(default: primegov,ksba,openstates,people,lrc-interim)."
         ),
     )
     return p.parse_args(argv)
@@ -130,6 +135,10 @@ def main(argv: list[str] | None = None) -> int:
 
     if "people" in sources:
         w, s_, f = run_people(args, all_bodies)
+        written += w; skipped += s_; failed += f
+
+    if "lrc-interim" in sources:
+        w, s_, f = run_lrc_interim(args, state, all_bodies)
         written += w; skipped += s_; failed += f
 
     write_json(BODIES_PATH, all_bodies)
@@ -243,6 +252,85 @@ def run_ksba(args: argparse.Namespace, state: dict, all_bodies: dict) -> tuple[i
                 f"       [{i}/{len(rows)}] {meeting.body_id} {meeting.date} "
                 f"{meeting.title[:50]:50s} items={len(meeting.items)} attachments={len(meeting.attachments)}"
             )
+    return written, skipped, failed
+
+
+def run_lrc_interim(args: argparse.Namespace, state: dict, all_bodies: dict) -> tuple[int, int, int]:
+    """Discover KY LRC interim joint committees and scrape their meetings."""
+    scraper = LrcInterimScraper()
+    print("\n[lrc-interim] discovering interim joint committees ...")
+    try:
+        committees = scraper.list_committees()
+    except Exception as e:  # noqa: BLE001
+        print(f"             FAIL listing committees: {e!r}")
+        return 0, 0, 1
+    print(f"             found {len(committees)} committees")
+
+    selected = {s.strip() for s in (args.bodies or "").split(",") if s.strip()}
+    if selected:
+        committees = [c for c in committees if c.body_id in selected]
+        print(f"             filtered to {len(committees)} after --bodies")
+
+    written = skipped = failed = 0
+    for ci, c in enumerate(committees, 1):
+        print(f"             [{ci}/{len(committees)}] {c.name}")
+        try:
+            scraper.enrich_committee(c)
+        except Exception as e:  # noqa: BLE001
+            print(f"               enrich FAIL ({e!r}); skipping")
+            failed += 1
+            continue
+        if not c.documents_id:
+            print("               no CommitteeDocuments link; skipping")
+            skipped += 1
+            continue
+        all_bodies[c.body_id] = lrc_committee_body(c).to_dict()
+
+        try:
+            rows = scraper.list_meetings(c)
+        except Exception as e:  # noqa: BLE001
+            print(f"               list_meetings FAIL ({e!r})")
+            failed += 1
+            continue
+
+        # No --year filter for LRC: the documents page already scopes to the
+        # current interim period (older years are on separate ./<year>.html
+        # pages we don't fetch in v1).
+        if args.since:
+            rows = [r for r in rows if r.date_iso > args.since]
+        if args.limit:
+            rows = rows[: args.limit]
+        print(f"               {len(rows)} meetings to consider")
+
+        for ri, row in enumerate(rows, 1):
+            try:
+                meeting = scraper.fetch_meeting(row, c, ATTACHMENTS_DIR)
+            except Exception as e:  # noqa: BLE001
+                print(f"                 [{ri}/{len(rows)}] FAIL folder={row.folder_id}: {e!r}")
+                failed += 1
+                continue
+
+            prev = state["meetings"].get(meeting.id, {})
+            # Pick the agenda sha (first attachment with a populated sha) so the
+            # incremental check is meaningful — not all attachments are downloaded.
+            primary_sha = next(
+                (a.sha256 for a in meeting.attachments if a.sha256),
+                None,
+            )
+            if prev.get("primary_sha") == primary_sha and prev.get("items_count") == len(meeting.items):
+                skipped += 1
+            else:
+                path = write_lrc_meeting(meeting, DATA_ROOT)
+                state["meetings"][meeting.id] = {
+                    "primary_sha": primary_sha,
+                    "items_count": len(meeting.items),
+                    "path": str(path.relative_to(REPO_ROOT).as_posix()),
+                }
+                written += 1
+                print(
+                    f"                 [{ri}/{len(rows)}] {meeting.date} "
+                    f"items={len(meeting.items)} attachments={len(meeting.attachments)}"
+                )
     return written, skipped, failed
 
 

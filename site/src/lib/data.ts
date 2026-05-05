@@ -17,7 +17,7 @@ const PEOPLE_DIR = path.join(DATA_ROOT, "people");
 const PEOPLE_INDEX_PATH = path.join(PEOPLE_DIR, "_index.json");
 const BODIES_PATH = path.join(DATA_ROOT, "bodies.json");
 
-export type SourceType = "primegov" | "ksba" | "openstates";
+export type SourceType = "primegov" | "ksba" | "openstates" | "lrc-interim";
 
 export interface Body {
   id: string;

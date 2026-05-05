@@ -250,5 +250,11 @@
     "name": "Kentucky Senate",
     "source_type": "openstates",
     "source_id": "ky-senate"
+  },
+  "lrc-interim-education": {
+    "id": "lrc-interim-education",
+    "name": "Interim Joint Committee on Education",
+    "source_type": "lrc-interim",
+    "source_id": "28"
   }
 }
