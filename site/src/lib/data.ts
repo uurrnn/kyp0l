@@ -213,6 +213,45 @@ export function getRecentBills(n: number): Bill[] {
   return getBills().slice(0, n);
 }
 
+// ----------------------------------------------------------- session status
+
+export interface SessionStatus {
+  /** True if bills have moved in the last RECESS_DAYS days. */
+  inSession: boolean;
+  /** Most recent bill action date across all bills (ISO YYYY-MM-DD), or "" if none. */
+  lastActionDate: string;
+  /** Days since lastActionDate (Inf if no actions). */
+  daysSinceLastAction: number;
+  /** Active session identifier from the most recent bill, or null. */
+  session: string | null;
+}
+
+// 7 days is tight enough to flag recess promptly but loose enough that a
+// regular session weekend or 4-day pause doesn't trip it.
+const RECESS_DAYS = 7;
+
+export function getSessionStatus(now: Date = new Date()): SessionStatus {
+  const bills = getBills();
+  if (bills.length === 0) {
+    return { inSession: false, lastActionDate: "", daysSinceLastAction: Infinity, session: null };
+  }
+  // bills is already sorted by last_action_date desc.
+  const last = bills[0].last_action_date || "";
+  if (!last) {
+    return { inSession: false, lastActionDate: "", daysSinceLastAction: Infinity, session: bills[0].session };
+  }
+  const lastMs = Date.parse(last + "T00:00:00Z");
+  const daysSince = Number.isFinite(lastMs)
+    ? (now.getTime() - lastMs) / (1000 * 60 * 60 * 24)
+    : Infinity;
+  return {
+    inSession: daysSince <= RECESS_DAYS,
+    lastActionDate: last,
+    daysSinceLastAction: daysSince,
+    session: bills[0].session,
+  };
+}
+
 // ----------------------------------------------------------- formatting
 
 export function formatMeetingDate(m: Meeting): string {
