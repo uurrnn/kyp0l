@@ -1,0 +1,156 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import { getPeople, partyAbbrev } from "~/lib/data";
+import { computeAllLegislatorStats } from "~/lib/analytics";
+
+const base = import.meta.env.BASE_URL;
+
+const stats = computeAllLegislatorStats();
+const allLegislators = getPeople()
+  .filter((p) => p.source === "openstates")
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+// Embed only what the client renderer needs.
+const compareData: Record<string, {
+  name: string;
+  party: string | null;
+  partyClass: string;
+  partyAbbrev: string;
+  district: string | null;
+  primary: number;
+  co: number;
+  votes: number;
+  loyalty: number | null;
+  effective: number | null;
+  topSubject: string | null;
+}> = {};
+for (const p of allLegislators) {
+  const s = stats.get(p.id);
+  if (!s) continue;
+  const party = p.party ?? null;
+  const lowered = (party ?? "").toLowerCase();
+  const partyClass = lowered.startsWith("dem") ? "party-d" : lowered.startsWith("rep") ? "party-r" : "party-i";
+  compareData[p.id] = {
+    name: p.name,
+    party,
+    partyClass,
+    partyAbbrev: partyAbbrev(party),
+    district: p.district,
+    primary: s.billsPrimarySponsored,
+    co: s.billsCoSponsored,
+    votes: s.votesCast,
+    loyalty: s.partyLoyaltyRate,
+    effective: s.effectivenessRate,
+    topSubject: s.topSubjects[0] ?? null,
+  };
+}
+---
+
+<Layout title="Compare legislators — kyp0l" description="Pick up to three Kentucky legislators and see their metrics side-by-side.">
+  <h1>Compare legislators</h1>
+
+  <div id="compare-result"></div>
+
+  <form class="compare-picker" method="get" action={`${base}compare`} id="compare-form">
+    <h3 style="margin-top: 0;">Pick legislators (Ctrl/Cmd-click for multiple, up to 3)</h3>
+    <select name="ids" multiple size="10">
+      {allLegislators.map((p) => (
+        <option value={p.id}>
+          {p.name} — {partyAbbrev(p.party)} {p.district ? `D${p.district}` : ""}
+        </option>
+      ))}
+    </select>
+    <button type="submit">Compare</button>
+    <p class="hint">Only the first three selections are used. URL is shareable.</p>
+  </form>
+</Layout>
+
+<script id="compare-data-blob" type="application/json" set:html={JSON.stringify(compareData)}></script>
+
+<script is:inline>
+  (function () {
+    const blob = document.getElementById("compare-data-blob");
+    if (!blob) return;
+    const data = JSON.parse(blob.textContent || "{}");
+
+    function pct(v) {
+      if (v == null) return "—";
+      return Math.round(v * 100) + "%";
+    }
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"']/g, function (c) {
+        return c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : c === '"' ? "&quot;" : "&#39;";
+      });
+    }
+
+    function selectedIds() {
+      const u = new URL(window.location.href);
+      const all = u.searchParams.getAll("ids");
+      const out = [];
+      for (const id of all) {
+        if (data[id] && !out.includes(id)) out.push(id);
+        if (out.length >= 3) break;
+      }
+      return out;
+    }
+
+    function render() {
+      const ids = selectedIds();
+      const target = document.getElementById("compare-result");
+      if (!target) return;
+
+      // sync the picker
+      const select = document.querySelector("#compare-form select[name=ids]");
+      if (select) {
+        Array.from(select.options).forEach((o) => { o.selected = ids.includes(o.value); });
+      }
+
+      if (ids.length === 0) {
+        target.innerHTML = '<p style="color: var(--fg-muted); margin-bottom: var(--space-4);">Pick up to three legislators below.</p>';
+        return;
+      }
+
+      const head = ids.map((id) => {
+        const d = data[id];
+        return (
+          '<div class="person-head">' +
+            '<a href="' + escapeHtml(BASE) + 'person/' + escapeHtml(id) + '" style="color: inherit; text-decoration: none;">' + escapeHtml(d.name) + '</a>' +
+            '<div style="font-size: var(--text-xs); font-weight: 400; color: var(--fg-muted); margin-top: 2px;">' +
+              (d.party ? '<span class="party-chip ' + escapeHtml(d.partyClass) + '">' + escapeHtml(d.partyAbbrev) + '</span>' : '') +
+              (d.district ? '<span style="margin-left: var(--space-2);">D' + escapeHtml(d.district) + '</span>' : '') +
+            '</div>' +
+          '</div>'
+        );
+      }).join("");
+
+      function row(label, fn) {
+        return '<div class="row-label">' + escapeHtml(label) + '</div>' +
+          ids.map((id) => fn(data[id])).join("");
+      }
+
+      const html =
+        '<div class="compare-grid" style="--compare-cols: ' + ids.length + ';">' +
+          '<div class="row-label">&nbsp;</div>' + head +
+          row("Sponsored", (d) => '<div class="num">' + d.primary + '</div>') +
+          row("Co-sponsored", (d) => '<div class="num">' + d.co + '</div>') +
+          row("Floor votes", (d) => '<div class="num">' + d.votes + '</div>') +
+          row("Party loyalty", (d) => '<div class="num' + (d.loyalty == null ? ' muted' : '') + '">' + pct(d.loyalty) + '</div>') +
+          row("Effective", (d) => '<div class="num' + (d.effective == null ? ' muted' : '') + '">' + pct(d.effective) + '</div>') +
+          row("Top subject", (d) => '<div>' + (d.topSubject ? escapeHtml(d.topSubject) : '<span class="muted">—</span>') + '</div>') +
+        '</div>';
+
+      target.innerHTML = html;
+    }
+
+    const BASE = (function () {
+      // base path for "/person/X" links — derive from the form's action.
+      const f = document.getElementById("compare-form");
+      if (!f) return "/";
+      const action = f.getAttribute("action") || "/";
+      // action ends with "compare", strip that to get base.
+      return action.replace(/compare\/?$/, "");
+    })();
+
+    render();
+  })();
+</script>

@@ -898,3 +898,69 @@ details.corpus pre {
 .scorecards-table th a.active { color: var(--fg); }
 .scorecards-table td.num { text-align: right; font-variant-numeric: tabular-nums; }
 .scorecards-table td.muted { color: var(--fg-mute2); }
+
+/* compare grid ------------------------------------------------------------ */
+.compare-grid {
+  display: grid;
+  grid-template-columns: 200px repeat(var(--compare-cols, 1), 1fr);
+  gap: 0;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  margin-bottom: var(--space-5);
+}
+.compare-grid > div {
+  padding: var(--space-2) var(--space-3);
+  border-bottom: 1px solid var(--border);
+}
+.compare-grid > div:nth-last-child(-n + var(--compare-cols-plus-one, 2)) { border-bottom: 0; }
+.compare-grid .row-label {
+  font-size: var(--text-xs);
+  color: var(--fg-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: var(--bg-subtle);
+}
+.compare-grid .person-head {
+  font-family: var(--font-serif);
+  font-size: var(--text-base);
+  font-weight: 600;
+  background: var(--bg-subtle);
+}
+.compare-grid .num {
+  font-variant-numeric: tabular-nums;
+  font-size: var(--text-base);
+}
+.compare-grid .muted { color: var(--fg-mute2); }
+
+.compare-picker {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: var(--space-4);
+  margin-bottom: var(--space-5);
+}
+.compare-picker select {
+  font-family: inherit;
+  font-size: var(--text-sm);
+  width: 100%;
+  min-height: 200px;
+  padding: var(--space-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg);
+  color: var(--fg);
+}
+.compare-picker button {
+  margin-top: var(--space-3);
+  padding: 6px 16px;
+  background: var(--accent);
+  color: white;
+  border: 0;
+  border-radius: var(--radius);
+  font-size: var(--text-sm);
+  cursor: pointer;
+}
+.compare-picker button:hover { opacity: 0.9; }
+.compare-picker .hint { font-size: var(--text-xs); color: var(--fg-muted); margin-top: var(--space-2); }
