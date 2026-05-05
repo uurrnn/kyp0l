@@ -25,6 +25,7 @@ from scrapers.ksba import KsbaScraper, write_meeting_record as write_ksba_meetin
 from scrapers.lrc_interim import (
     LrcInterimScraper,
     committee_body as lrc_committee_body,
+    write_committee_index as write_lrc_committee_index,
     write_meeting_record as write_lrc_meeting,
 )
 from scrapers.metro_council_roster import load_seed as load_metro_council_seed
@@ -331,6 +332,7 @@ def run_lrc_interim(args: argparse.Namespace, state: dict, all_bodies: dict) -> 
         print(f"             filtered to {len(committees)} after --bodies")
 
     written = skipped = failed = 0
+    enriched: list = []
     for ci, c in enumerate(committees, 1):
         print(f"             [{ci}/{len(committees)}] {c.name}")
         try:
@@ -343,6 +345,7 @@ def run_lrc_interim(args: argparse.Namespace, state: dict, all_bodies: dict) -> 
             print("               no CommitteeDocuments link; skipping")
             skipped += 1
             continue
+        enriched.append(c)
         all_bodies[c.body_id] = lrc_committee_body(c).to_dict()
 
         try:
@@ -390,6 +393,9 @@ def run_lrc_interim(args: argparse.Namespace, state: dict, all_bodies: dict) -> 
                     f"                 [{ri}/{len(rows)}] {meeting.date} "
                     f"items={len(meeting.items)} attachments={len(meeting.attachments)}"
                 )
+    if enriched:
+        idx_path = write_lrc_committee_index(enriched, DATA_ROOT)
+        print(f"             wrote committee index ({len(enriched)} committees) -> {idx_path.relative_to(REPO_ROOT)}")
     return written, skipped, failed
 
 

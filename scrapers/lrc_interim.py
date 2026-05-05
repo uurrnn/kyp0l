@@ -414,3 +414,27 @@ def committee_body(c: LrcCommittee) -> Body:
         source_type=SOURCE_TYPE,
         source_id=c.documents_id or c.rsn,
     )
+
+
+def write_committee_index(committees: list[LrcCommittee], data_root: Path) -> Path:
+    """Emit data/committees/_index.json mapping committee body_id to its roster.
+
+    Idempotent full rewrite — only ~20 committees, so re-emission is cheap.
+    Read at site-build time to power the "Serves on" section on legislator
+    profile pages (district-based join with KY people data).
+    """
+    out_dir = data_root / "committees"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    payload: dict[str, dict] = {}
+    for c in committees:
+        if not c.documents_id:
+            continue
+        payload[c.body_id] = {
+            "name": c.display_name(),
+            "rsn": c.rsn,
+            "documents_id": c.documents_id,
+            "member_districts": list(c.member_districts),
+        }
+    out = out_dir / "_index.json"
+    write_json(out, payload)
+    return out

@@ -1,11 +1,14 @@
 """Parser tests for the LRC interim joint committee scraper."""
 
+import json
+
 from scrapers.lrc_interim import (
     LrcCommittee,
     parse_committee_detail,
     parse_documents_page,
     parse_landing,
     parse_lrc_date,
+    write_committee_index,
 )
 
 
@@ -70,3 +73,23 @@ def test_parse_lrc_date_returns_empty_on_garbage():
     assert parse_lrc_date("") == ""
     assert parse_lrc_date("Other Meeting Years") == ""
     assert parse_lrc_date("not a date") == ""
+
+
+def test_write_committee_index_round_trips_member_districts(fixtures_dir, tmp_path):
+    detail = (fixtures_dir / "lrc_committee_detail_education.html").read_text(encoding="utf-8")
+    edu = LrcCommittee(rsn="29", name="Education", detail_url="x", body_id="lrc-interim-education")
+    parse_committee_detail(detail, edu)
+    # Sanity-check enrich produced a documents id and members.
+    assert edu.documents_id == "28"
+    assert len(edu.member_districts) >= 30
+
+    out = write_committee_index([edu], tmp_path)
+    assert out.exists()
+    payload = json.loads(out.read_text("utf-8"))
+    assert "lrc-interim-education" in payload
+    rec = payload["lrc-interim-education"]
+    assert rec["name"] == "Interim Joint Committee on Education"
+    assert rec["documents_id"] == "28"
+    assert isinstance(rec["member_districts"], list)
+    assert all(isinstance(d, str) for d in rec["member_districts"])
+    assert len(rec["member_districts"]) == len(edu.member_districts)

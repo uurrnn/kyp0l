@@ -1,6 +1,6 @@
 ---
 import type { MemberVote, Vote } from "~/lib/data";
-import { resolvePersonSlug } from "~/lib/data";
+import { resolvePersonSlug, getPersonByOcdId, partyAbbrev } from "~/lib/data";
 
 interface Props { vote: Vote; defaultOpen?: boolean }
 const { vote, defaultOpen = false } = Astro.props;
@@ -14,6 +14,34 @@ for (const mv of vote.member_votes) {
   groups[mv.option].push(mv);
 }
 for (const k of Object.keys(groups)) groups[k].sort((a, b) => a.name.localeCompare(b.name));
+
+// Party breakdown: bucket member_votes by {party, option}.
+type PartyKey = "D" | "R" | "I" | "U";
+const partyBreakdown: Record<PartyKey, Record<string, number>> = {
+  D: { yes: 0, no: 0, abstain: 0, "not voting": 0 },
+  R: { yes: 0, no: 0, abstain: 0, "not voting": 0 },
+  I: { yes: 0, no: 0, abstain: 0, "not voting": 0 },
+  U: { yes: 0, no: 0, abstain: 0, "not voting": 0 },
+};
+function partyKey(party: string | null | undefined): PartyKey {
+  if (!party) return "U";
+  const p = party.toLowerCase();
+  if (p.startsWith("dem")) return "D";
+  if (p.startsWith("rep")) return "R";
+  if (p.startsWith("ind")) return "I";
+  return "U";
+}
+let totalResolved = 0;
+for (const mv of vote.member_votes) {
+  const person = getPersonByOcdId(mv.person_id);
+  const k = partyKey(person?.party);
+  if (k !== "U") totalResolved++;
+  if (partyBreakdown[k][mv.option] !== undefined) partyBreakdown[k][mv.option]++;
+}
+const showPartyBreakdown = totalResolved > 0;
+const partyOrder: PartyKey[] = ["D", "R", "I"];
+const partyLabel: Record<PartyKey, string> = { D: "Dem", R: "Rep", I: "Ind", U: "Unknown" };
+const partyClass: Record<PartyKey, string> = { D: "party-d", R: "party-r", I: "party-i", U: "party-u" };
 
 const resultClass = vote.result === "pass" ? "passed" : vote.result === "fail" ? "fail" : "pending";
 const resultLabel = vote.result === "pass" ? "Passed" : vote.result === "fail" ? "Failed" : vote.result;
@@ -33,6 +61,30 @@ const orderedOptions = ["yes", "no", "abstain", "not voting"];
       <div class="vote-meta">
         {vote.date} · {chamberLabel} · <span class={`status-badge ${resultClass}`}>{resultLabel}</span>
       </div>
+      {showPartyBreakdown && (
+        <div class="party-breakdown">
+          {partyOrder.map((k) => {
+            const b = partyBreakdown[k];
+            const total = b.yes + b.no + b.abstain + b["not voting"];
+            if (total === 0) return null;
+            return (
+              <span class={`party-tally ${partyClass[k]}`}>
+                <span class="lab">{partyLabel[k]}</span>
+                <span class="ya">{b.yes}</span>
+                <span class="sep">–</span>
+                <span class="na">{b.no}</span>
+                {b.abstain + b["not voting"] > 0 && <span class="other"> · {b.abstain + b["not voting"]} other</span>}
+              </span>
+            );
+          })}
+          {partyBreakdown.U.yes + partyBreakdown.U.no + partyBreakdown.U.abstain + partyBreakdown.U["not voting"] > 0 && (
+            <span class="party-tally party-u">
+              <span class="lab">Unknown</span>
+              <span class="ya">{partyBreakdown.U.yes + partyBreakdown.U.no + partyBreakdown.U.abstain + partyBreakdown.U["not voting"]}</span>
+            </span>
+          )}
+        </div>
+      )}
     </div>
     <div class="tally">
       <span class="y">Y {vote.counts.yes}</span>

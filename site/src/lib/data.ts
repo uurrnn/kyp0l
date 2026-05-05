@@ -15,6 +15,7 @@ const BILLS_DIR = path.join(DATA_ROOT, "bills");
 const ATTACHMENTS_DIR = path.join(DATA_ROOT, "attachments");
 const PEOPLE_DIR = path.join(DATA_ROOT, "people");
 const PEOPLE_INDEX_PATH = path.join(PEOPLE_DIR, "_index.json");
+const COMMITTEES_INDEX_PATH = path.join(DATA_ROOT, "committees", "_index.json");
 const BODIES_PATH = path.join(DATA_ROOT, "bodies.json");
 
 export type SourceType = "primegov" | "ksba" | "openstates" | "lrc-interim";
@@ -368,6 +369,78 @@ export function resolvePersonSlug(personId: string | null | undefined): string |
   return idx.get(personId) ?? null;
 }
 
+/** Resolve an upstream `person_id` directly to a Person record, or undefined. */
+export function getPersonByOcdId(personId: string | null | undefined): Person | undefined {
+  const slug = resolvePersonSlug(personId);
+  if (!slug) return undefined;
+  return getPersonById(slug);
+}
+
+// ---------- committee membership index (LRC interim joint committees) ----------
+
+export interface Committee {
+  body_id: string;
+  name: string;
+  rsn: string;
+  documents_id: string;
+  member_districts: string[];
+}
+
+let _committees: Committee[] | null = null;
+let _committeesByDistrict: Map<string, Committee[]> | null = null;
+
+export function getCommittees(): Committee[] {
+  if (_committees) return _committees;
+  if (!fs.existsSync(COMMITTEES_INDEX_PATH)) {
+    _committees = [];
+    _committeesByDistrict = new Map();
+    return _committees;
+  }
+  try {
+    const raw = JSON.parse(fs.readFileSync(COMMITTEES_INDEX_PATH, "utf-8")) as Record<string, Omit<Committee, "body_id">>;
+    _committees = Object.entries(raw).map(([body_id, c]) => ({ body_id, ...c }));
+  } catch {
+    _committees = [];
+  }
+  _committeesByDistrict = new Map();
+  for (const c of _committees) {
+    for (const d of c.member_districts) {
+      const arr = _committeesByDistrict.get(d) ?? [];
+      arr.push(c);
+      _committeesByDistrict.set(d, arr);
+    }
+  }
+  return _committees;
+}
+
+export function getCommitteesByDistrict(district: string | null | undefined): Committee[] {
+  if (!district) return [];
+  if (!_committeesByDistrict) getCommittees();
+  return _committeesByDistrict!.get(district) ?? [];
+}
+
+/**
+ * The LRC website encodes Senate districts as 100+N (Senate D27 -> "127") and
+ * House districts as just N. Open States stores the plain N for both chambers,
+ * so we need a chamber-aware translation to look up committee memberships.
+ */
+function lrcDistrictCode(person: Person): string {
+  const d = person.district ?? "";
+  if (!d) return "";
+  if (person.chamber === "upper") {
+    const n = parseInt(d, 10);
+    if (Number.isFinite(n)) return String(100 + n);
+  }
+  return d;
+}
+
+export function getCommitteesForPerson(person: Person): Committee[] {
+  if (!_committeesByDistrict) getCommittees();
+  const code = lrcDistrictCode(person);
+  if (!code) return [];
+  return _committeesByDistrict!.get(code) ?? [];
+}
+
 export interface PersonSponsorship {
   bill: Bill;
   primary: boolean;
@@ -448,5 +521,6 @@ export const dataPaths = {
   BILLS_DIR,
   ATTACHMENTS_DIR,
   PEOPLE_DIR,
+  COMMITTEES_INDEX_PATH,
   BODIES_PATH,
 };
