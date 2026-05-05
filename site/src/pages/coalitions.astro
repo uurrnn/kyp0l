@@ -1,0 +1,195 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import { partyAbbrev } from "~/lib/data";
+import { getCoalitionData } from "~/lib/coalitions";
+
+const base = import.meta.env.BASE_URL;
+const data = getCoalitionData();
+
+const topPairs = data.pairs.slice(0, 25);
+const mostConnected = data.connected.slice(0, 10);
+
+function partyClass(party: string | null): string {
+  if (!party) return "";
+  const p = party.toLowerCase();
+  if (p.startsWith("dem")) return "party-d";
+  if (p.startsWith("rep")) return "party-r";
+  return "party-i";
+}
+
+function pct(num: number, denom: number): string {
+  if (denom === 0) return "—";
+  return `${Math.round((num / denom) * 100)}%`;
+}
+
+const pmTotal = data.partyMix.withinParty + data.partyMix.crossParty;
+const pmHouse = data.partyMix.byChamber.lower;
+const pmSenate = data.partyMix.byChamber.upper;
+const houseTotal = pmHouse.within + pmHouse.cross;
+const senateTotal = pmSenate.within + pmSenate.cross;
+---
+
+<Layout title="Coalitions — kyp0l" description="Who co-sponsors with whom across the Kentucky General Assembly: top pairs, most-connected legislators, within-party vs cross-party split.">
+  <h1>Sponsor coalitions</h1>
+  <p style="color: var(--fg-muted); margin-bottom: var(--space-5);">
+    Who co-sponsors bills together in the active session. Built from the {pmTotal.toLocaleString()} pair-billings where both legislators' identifiers were captured upstream.
+    {data.pairs.length === 0 && (
+      <em> No data yet — bills pre-date the upstream <code>person_id</code> capture. The next scrape cycle will populate this page.</em>
+    )}
+  </p>
+
+  {data.pairs.length > 0 && (
+    <>
+      <section style="margin-bottom: var(--space-6);">
+        <h2>Crossing the aisle</h2>
+        <p style="color: var(--fg-muted); margin-bottom: var(--space-3); font-size: var(--text-sm);">
+          What share of co-sponsorship pair-billings happen across party lines?
+        </p>
+
+        <div class="party-split-row">
+          <div class="party-split-label">Both chambers</div>
+          <div class="party-split-bar">
+            <div class="party-split-within" style={`width: ${pmTotal === 0 ? 0 : (data.partyMix.withinParty / pmTotal) * 100}%;`}>
+              <span>Within-party {pct(data.partyMix.withinParty, pmTotal)}</span>
+            </div>
+            <div class="party-split-cross" style={`width: ${pmTotal === 0 ? 0 : (data.partyMix.crossParty / pmTotal) * 100}%;`}>
+              <span>Cross-party {pct(data.partyMix.crossParty, pmTotal)}</span>
+            </div>
+          </div>
+        </div>
+
+        {houseTotal > 0 && (
+          <div class="party-split-row">
+            <div class="party-split-label">House</div>
+            <div class="party-split-bar">
+              <div class="party-split-within" style={`width: ${(pmHouse.within / houseTotal) * 100}%;`}>
+                <span>{pct(pmHouse.within, houseTotal)}</span>
+              </div>
+              <div class="party-split-cross" style={`width: ${(pmHouse.cross / houseTotal) * 100}%;`}>
+                <span>{pct(pmHouse.cross, houseTotal)}</span>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {senateTotal > 0 && (
+          <div class="party-split-row">
+            <div class="party-split-label">Senate</div>
+            <div class="party-split-bar">
+              <div class="party-split-within" style={`width: ${(pmSenate.within / senateTotal) * 100}%;`}>
+                <span>{pct(pmSenate.within, senateTotal)}</span>
+              </div>
+              <div class="party-split-cross" style={`width: ${(pmSenate.cross / senateTotal) * 100}%;`}>
+                <span>{pct(pmSenate.cross, senateTotal)}</span>
+              </div>
+            </div>
+          </div>
+        )}
+      </section>
+
+      <section style="margin-bottom: var(--space-6);">
+        <h2>Strongest pairs</h2>
+        <p style="color: var(--fg-muted); margin-bottom: var(--space-3); font-size: var(--text-sm);">
+          Top {topPairs.length} co-sponsorship pairs by bill count. Cross-party pairs are highlighted.
+        </p>
+        <table class="scorecards-table">
+          <thead>
+            <tr>
+              <th>Legislator A</th>
+              <th>Legislator B</th>
+              <th class="num">Bills together</th>
+              <th>Cross-party</th>
+            </tr>
+          </thead>
+          <tbody>
+            {topPairs.map((p) => (
+              <tr>
+                <td>
+                  <a href={`${base}person/${p.a.id}`}>{p.a.name}</a>
+                  {p.a.party && <span class={`party-chip ${partyClass(p.a.party)}`} style="margin-left: var(--space-2);">{partyAbbrev(p.a.party)}</span>}
+                </td>
+                <td>
+                  <a href={`${base}person/${p.b.id}`}>{p.b.name}</a>
+                  {p.b.party && <span class={`party-chip ${partyClass(p.b.party)}`} style="margin-left: var(--space-2);">{partyAbbrev(p.b.party)}</span>}
+                </td>
+                <td class="num">{p.count}</td>
+                <td>{p.crossParty ? "Yes" : "—"}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+
+      <section style="margin-bottom: var(--space-6);">
+        <h2>Most connected</h2>
+        <p style="color: var(--fg-muted); margin-bottom: var(--space-3); font-size: var(--text-sm);">
+          Legislators with the largest set of distinct co-sponsorship partners.
+        </p>
+        <table class="scorecards-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Party</th>
+              <th class="num">Distinct partners</th>
+              <th class="num">Pair-billings</th>
+            </tr>
+          </thead>
+          <tbody>
+            {mostConnected.map((r) => (
+              <tr>
+                <td><a href={`${base}person/${r.person.id}`}>{r.person.name}</a></td>
+                <td>{r.person.party && <span class={`party-chip ${partyClass(r.person.party)}`}>{partyAbbrev(r.person.party)}</span>}</td>
+                <td class="num">{r.partners}</td>
+                <td class="num">{r.totalEdges}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+    </>
+  )}
+</Layout>
+
+<style>
+  .party-split-row {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: var(--space-3);
+    align-items: center;
+    margin-bottom: var(--space-2);
+  }
+  .party-split-label {
+    font-size: var(--text-sm);
+    color: var(--fg-muted);
+    font-variant-caps: small-caps;
+  }
+  .party-split-bar {
+    display: flex;
+    height: 28px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--bg-subtle);
+  }
+  .party-split-within,
+  .party-split-cross {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: var(--text-xs);
+    font-weight: 600;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .party-split-within {
+    background: var(--fg-muted);
+  }
+  .party-split-cross {
+    background: var(--accent);
+  }
+  .party-split-within span,
+  .party-split-cross span {
+    padding: 0 var(--space-2);
+  }
+</style>

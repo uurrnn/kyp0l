@@ -12,6 +12,7 @@ import {
   getPersonByOcdId,
 } from "~/lib/data";
 import { getLegislatorStats } from "~/lib/analytics";
+import { getCoalitionPartners } from "~/lib/coalitions";
 
 export function getStaticPaths() {
   return getPeople().map((p) => ({ params: { id: p.id } }));
@@ -62,6 +63,9 @@ const coCount = sponsorships.length - primaryCount;
 const stats = person && person.source === "openstates"
   ? getLegislatorStats(person.id)
   : undefined;
+const coalition = person && person.source === "openstates"
+  ? getCoalitionPartners(person.id)
+  : [];
 function pct(v: number | null | undefined): string {
   if (v == null) return "—";
   return `${Math.round(v * 100)}%`;
@@ -143,20 +147,28 @@ function pct(v: number | null | undefined): string {
             </>
           )}
 
-          {stats.topCoSponsors.length > 0 && (
+          {coalition.length > 0 && (
             <>
-              <h3 style="margin-top: 0;">Frequent co-sponsors</h3>
-              <ul class="cosponsor-list">
-                {stats.topCoSponsors.map((c) => {
-                  const co = getPersonByOcdId(c.personId);
-                  if (!co) return null;
-                  return (
+              <h3 style="margin-top: 0;">Co-sponsorship coalition <span style="font-weight: 400; color: var(--fg-muted); font-size: var(--text-sm);">({coalition.length} partners)</span></h3>
+              <details class="coalition-details">
+                <summary>Show all {coalition.length} co-sponsorship partners</summary>
+                <ul class="cosponsor-list">
+                  {coalition.map((c) => (
                     <li>
-                      <a href={`${base}person/${co.id}`}>{co.name}</a>
-                      <span class="count">{c.count} bill{c.count === 1 ? "" : "s"} together</span>
+                      <a href={`${base}person/${c.person.id}`}>{c.person.name}</a>
+                      {c.person.party && <span class={`party-chip ${(c.person.party.toLowerCase().startsWith("dem") ? "party-d" : c.person.party.toLowerCase().startsWith("rep") ? "party-r" : "party-i")}`} style="margin-left: var(--space-2);">{c.person.party.slice(0, 1).toUpperCase()}</span>}
+                      <span class="count">{c.count} bill{c.count === 1 ? "" : "s"}{c.crossParty ? " · cross-aisle" : ""}</span>
                     </li>
-                  );
-                })}
+                  ))}
+                </ul>
+              </details>
+              <ul class="cosponsor-list" style="margin-top: var(--space-3);">
+                {coalition.slice(0, 3).map((c) => (
+                  <li>
+                    <a href={`${base}person/${c.person.id}`}>{c.person.name}</a>
+                    <span class="count">{c.count} bill{c.count === 1 ? "" : "s"} together{c.crossParty ? " · cross-aisle" : ""}</span>
+                  </li>
+                ))}
               </ul>
             </>
           )}
