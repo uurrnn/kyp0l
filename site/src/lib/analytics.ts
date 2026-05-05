@@ -236,3 +236,89 @@ export function computeStatsFromFixture(
 
   return out;
 }
+
+// ----- public API: real data path
+
+import { getBills, getPeople } from "./data";
+
+let _allStats: Map<string, LegislatorStats> | null = null;
+
+export function computeAllLegislatorStats(): Map<string, LegislatorStats> {
+  if (_allStats) return _allStats;
+
+  const bills = getBills();
+  const allPeople = getPeople();
+  const targetPeople = allPeople.filter((p) => p.source === "openstates");
+
+  // Build the upstream-id → our-slug index across ALL people so co-sponsor lookups
+  // resolve even if the other party isn't in our `targetPeople` slice.
+  const idx = new Map<string, string>();
+  for (const p of allPeople) idx.set(p.source_id, p.id);
+
+  const fixturePeople: FixturePerson[] = targetPeople.map((p) => ({
+    id: p.id,
+    chamber: p.chamber,
+    party: p.party,
+  }));
+
+  const fixtureBills: FixtureBill[] = bills.map((b) => ({
+    id: b.id,
+    subjects: b.subjects,
+    chamber_progress: b.chamber_progress,
+    actions: b.actions.map((a) => ({ classification: a.classification })),
+    current_status: b.current_status,
+    sponsors: b.sponsors.map((s) => ({
+      person_id: s.person_id ?? null,
+      party: s.party,
+      primary: s.primary,
+    })),
+    votes: b.votes.map((v) => ({
+      chamber: v.chamber,
+      member_votes: v.member_votes.map((mv) => ({ person_id: mv.person_id ?? null, option: mv.option })),
+    })),
+  }));
+
+  _allStats = computeStatsFromFixture(fixtureBills, fixturePeople, idx);
+  return _allStats;
+}
+
+export function getLegislatorStats(slug: string): LegislatorStats | undefined {
+  return computeAllLegislatorStats().get(slug);
+}
+
+export type LeaderboardMetric =
+  | "billsPrimarySponsored"
+  | "votesCast"
+  | "partyLoyaltyRate"
+  | "effectivenessRate";
+
+export interface LeaderboardOptions {
+  metric: LeaderboardMetric;
+  chamber?: "lower" | "upper" | null;
+}
+
+export function getLeaderboard(opts: LeaderboardOptions): LegislatorStats[] {
+  const all = Array.from(computeAllLegislatorStats().values());
+  const filtered = opts.chamber
+    ? all.filter((s) => s.chamber === opts.chamber)
+    : all;
+  const key = opts.metric;
+  return [...filtered].sort((a, b) => {
+    const av = a[key];
+    const bv = b[key];
+    const an = av == null ? -Infinity : (av as number);
+    const bn = bv == null ? -Infinity : (bv as number);
+    if (bn !== an) return bn - an;
+    return a.personSlug.localeCompare(b.personSlug);
+  });
+}
+
+export function getComparison(slugs: string[]): LegislatorStats[] {
+  const all = computeAllLegislatorStats();
+  const out: LegislatorStats[] = [];
+  for (const slug of slugs) {
+    const s = all.get(slug);
+    if (s) out.push(s);
+  }
+  return out;
+}
