@@ -100,6 +100,16 @@ const totalSubjects = subjectCounts.size;
 // ----------------------------------------------------------- recent activity
 
 const recentActivity = bills.slice(0, 25);
+// Split local (PrimeGov + KSBA) from KY interim (LRC) so interim committees
+// have their own surface during recess instead of being buried under daily
+// Metro Council meetings.
+const recentLocalMeetings = meetings
+  .filter((m) => m.source_type === "primegov" || m.source_type === "ksba")
+  .slice(0, 10);
+const recentInterimMeetings = meetings
+  .filter((m) => m.source_type === "lrc-interim")
+  .slice(0, 8);
+// Legacy: when not in recess we still show the unified list.
 const recentMeetings = meetings.slice(0, 10);
 ---
 
@@ -214,18 +224,40 @@ const recentMeetings = meetings.slice(0, 10);
   {(() => null)()}
   {recess ? (
     <>
-      <h2 id="meetings" class="dashboard-section-header">Recent local meetings</h2>
+      {recentInterimMeetings.length > 0 && (
+        <>
+          <h2 class="dashboard-section-header">KY interim committee activity</h2>
+          <p style="color: var(--fg-muted); margin: calc(-1 * var(--space-3)) 0 var(--space-3); font-size: var(--text-sm);">
+            Where between-session policy work happens — testimony, studies, and draft bills heading into the next session.
+          </p>
+          <div data-pagefind-ignore>
+            {recentInterimMeetings.map((m) => {
+              const body = getBodyById(m.body_id);
+              return (
+                <a class="meeting-card" href={`${base}meeting/${m.id}`}>
+                  <div class="date">{formatMeetingDate(m)}</div>
+                  <div class="body-name">{body?.name ?? m.body_id}</div>
+                  {m.title && m.title !== (body?.name ?? "") && <div class="title">{m.title}</div>}
+                  <div class="meta">{m.items.length} items · {m.attachments.length} attachments</div>
+                </a>
+              );
+            })}
+          </div>
+        </>
+      )}
+
+      <h2 id="meetings" class="dashboard-section-header">Recent Louisville meetings</h2>
       <div data-pagefind-ignore>
-        {recentMeetings.length === 0 ? (
+        {recentLocalMeetings.length === 0 ? (
           <p class="empty-state">No meetings yet — run <code>python -m scrapers --sources primegov,ksba</code>.</p>
         ) : (
-          recentMeetings.map((m) => {
+          recentLocalMeetings.map((m) => {
             const body = getBodyById(m.body_id);
             return (
               <a class="meeting-card" href={`${base}meeting/${m.id}`}>
                 <div class="date">{formatMeetingDate(m)}</div>
                 <div class="body-name">{body?.name ?? m.body_id}</div>
-                <div class="title">{m.title}</div>
+                {m.title && m.title !== (body?.name ?? "") && <div class="title">{m.title}</div>}
                 <div class="meta">{m.items.length} items · {m.attachments.length} attachments</div>
               </a>
             );
@@ -308,7 +340,7 @@ const recentMeetings = meetings.slice(0, 10);
               <a class="meeting-card" href={`${base}meeting/${m.id}`}>
                 <div class="date">{formatMeetingDate(m)}</div>
                 <div class="body-name">{body?.name ?? m.body_id}</div>
-                <div class="title">{m.title}</div>
+                {m.title && m.title !== (body?.name ?? "") && <div class="title">{m.title}</div>}
                 <div class="meta">{m.items.length} items · {m.attachments.length} attachments</div>
               </a>
             );
