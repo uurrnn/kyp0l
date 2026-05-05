@@ -226,3 +226,47 @@ describe("effectiveness and law rates", () => {
     expect(stats.get("ky-alice")!.lawRate).toBeCloseTo(1.0);
   });
 });
+
+describe("topSubjects and topCoSponsors", () => {
+  it("ranks subjects by frequency across primary + co-sponsored bills", () => {
+    const idx = new Map(fixturePeopleIndex);
+    const bills: FixtureBill[] = [
+      {
+        id: "b1", subjects: ["Education", "Health"], chamber_progress: { lower: null, upper: null, governor: null }, actions: [], current_status: "",
+        sponsors: [{ person_id: ALICE_OCD, party: "D", primary: true }], votes: [],
+      },
+      {
+        id: "b2", subjects: ["Education"], chamber_progress: { lower: null, upper: null, governor: null }, actions: [], current_status: "",
+        sponsors: [{ person_id: ALICE_OCD, party: "D", primary: false }], votes: [],
+      },
+      {
+        id: "b3", subjects: ["Health", "Tax"], chamber_progress: { lower: null, upper: null, governor: null }, actions: [], current_status: "",
+        sponsors: [{ person_id: ALICE_OCD, party: "D", primary: true }], votes: [],
+      },
+    ];
+    const stats = computeStatsFromFixture(bills, [ALICE, BOB], idx);
+    expect(stats.get("ky-alice")!.topSubjects).toEqual(["Education", "Health", "Tax"]);
+  });
+
+  it("ranks co-sponsors by frequency, excluding self", () => {
+    const idx = new Map(fixturePeopleIndex);
+    const bills: FixtureBill[] = [
+      {
+        id: "b1", subjects: [], chamber_progress: { lower: null, upper: null, governor: null }, actions: [], current_status: "",
+        sponsors: [
+          { person_id: ALICE_OCD, party: "D", primary: true },
+          { person_id: BOB_OCD, party: "R", primary: false },
+        ], votes: [],
+      },
+      {
+        id: "b2", subjects: [], chamber_progress: { lower: null, upper: null, governor: null }, actions: [], current_status: "",
+        sponsors: [
+          { person_id: ALICE_OCD, party: "D", primary: false },
+          { person_id: BOB_OCD, party: "R", primary: true },
+        ], votes: [],
+      },
+    ];
+    const stats = computeStatsFromFixture(bills, [ALICE, BOB], idx);
+    expect(stats.get("ky-alice")!.topCoSponsors).toEqual([{ personId: BOB_OCD, count: 2 }]);
+  });
+});

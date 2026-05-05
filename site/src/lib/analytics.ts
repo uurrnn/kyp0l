@@ -78,6 +78,12 @@ function becameLaw(bill: FixtureBill): boolean {
   return false;
 }
 
+function topN<K>(counts: Map<K, number>, n: number, tieBreaker: (a: K, b: K) => number): { key: K; count: number }[] {
+  const entries = Array.from(counts.entries()).map(([key, count]) => ({ key, count }));
+  entries.sort((a, b) => (b.count - a.count) || tieBreaker(a.key, b.key));
+  return entries.slice(0, n);
+}
+
 export function computeStatsFromFixture(
   bills: FixtureBill[],
   people: FixturePerson[],
@@ -192,6 +198,40 @@ export function computeStatsFromFixture(
     const lawed = theirBills.filter(becameLaw).length;
     row.effectivenessRate = effective / theirBills.length;
     row.lawRate = lawed / theirBills.length;
+  }
+
+  // subjects + co-sponsors
+  const subjectCounts = new Map<string, Map<string, number>>();
+  const coCounts = new Map<string, Map<string, number>>();
+  for (const bill of bills) {
+    const billSlugs = new Set<string>();
+    for (const s of bill.sponsors) {
+      const slug = s.person_id ? peopleIndex.get(s.person_id) : undefined;
+      if (slug) billSlugs.add(slug);
+    }
+    for (const slug of billSlugs) {
+      let sm = subjectCounts.get(slug);
+      if (!sm) { sm = new Map(); subjectCounts.set(slug, sm); }
+      for (const subj of bill.subjects) sm.set(subj, (sm.get(subj) ?? 0) + 1);
+
+      let cm = coCounts.get(slug);
+      if (!cm) { cm = new Map(); coCounts.set(slug, cm); }
+      for (const s of bill.sponsors) {
+        const otherSlug = s.person_id ? peopleIndex.get(s.person_id) : undefined;
+        if (!otherSlug || otherSlug === slug || !s.person_id) continue;
+        cm.set(s.person_id, (cm.get(s.person_id) ?? 0) + 1);
+      }
+    }
+  }
+  for (const row of out.values()) {
+    const sm = subjectCounts.get(row.personSlug);
+    if (sm) {
+      row.topSubjects = topN(sm, 3, (a, b) => a.localeCompare(b)).map((e) => e.key);
+    }
+    const cm = coCounts.get(row.personSlug);
+    if (cm) {
+      row.topCoSponsors = topN(cm, 3, (a, b) => a.localeCompare(b)).map((e) => ({ personId: e.key, count: e.count }));
+    }
   }
 
   return out;
