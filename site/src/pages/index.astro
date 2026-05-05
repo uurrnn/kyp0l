@@ -11,6 +11,7 @@ import {
 } from "~/lib/data";
 import { FEATURED_SUBJECTS } from "~/lib/featured-subjects";
 import { getHotBills } from "~/lib/heat";
+import { slugifySubject } from "~/lib/topics";
 
 const meetings = getMeetings();
 const bodies = getBodies();
@@ -209,12 +210,12 @@ const recentMeetings = meetings.slice(0, 10);
       <h3>Subjects</h3>
       <div>
         {featuredWithCounts.map((s) => (
-          <a class="subject-chip" href={`${base}bills?subject=${encodeURIComponent(s.subject)}`}>
+          <a class="subject-chip" href={`${base}topic/${slugifySubject(s.subject)}`}>
             {s.subject}<span class="count">{s.count}</span>
           </a>
         ))}
-        <a class="subject-chip" href={`${base}bills`} style="font-weight: 600;">
-          All subjects ({totalSubjects}) →
+        <a class="subject-chip" href={`${base}topics`} style="font-weight: 600;">
+          All topics →
         </a>
       </div>
     </div>

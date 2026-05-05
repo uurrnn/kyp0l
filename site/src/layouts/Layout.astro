@@ -35,6 +35,7 @@ function isActive(prefix: string): boolean {
         <nav class="site-nav">
           <a href={base} class={isActive(base) ? "active" : ""}>Home</a>
           <a href={`${base}bills`} class={isActive(`${base}bills`) ? "active" : ""}>Bills</a>
+          <a href={`${base}topics`} class={isActive(`${base}topics`) || isActive(`${base}topic`) ? "active" : ""}>Topics</a>
           <a href={`${base}people`} class={isActive(`${base}people`) ? "active" : ""}>People</a>
           <a href={`${base}scorecards`} class={isActive(`${base}scorecards`) ? "active" : ""}>Scorecards</a>
           <a href={`${base}search`} class={isActive(`${base}search`) ? "active" : ""}>Search</a>
