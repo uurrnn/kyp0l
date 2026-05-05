@@ -169,3 +169,60 @@ describe("partyLoyaltyRate", () => {
     expect(stats.get("ky-neutral")!.partyLoyaltyRate).toBeNull();
   });
 });
+
+describe("effectiveness and law rates", () => {
+  function makeBill(
+    id: string,
+    primarySponsor: string,
+    progress: FixtureBill["chamber_progress"],
+    actions: { classification: string[] }[] = [],
+  ): FixtureBill {
+    return {
+      id,
+      subjects: [],
+      chamber_progress: progress,
+      actions,
+      current_status: "",
+      sponsors: [{ person_id: primarySponsor, party: "Democratic", primary: true }],
+      votes: [],
+    };
+  }
+
+  it("effectiveness counts bills past first chamber", () => {
+    const idx = new Map(fixturePeopleIndex);
+    const bills: FixtureBill[] = [
+      makeBill("b1", ALICE_OCD, { lower: "passed", upper: null, governor: null }),
+      makeBill("b2", ALICE_OCD, { lower: "passed", upper: null, governor: null }),
+      makeBill("b3", ALICE_OCD, { lower: "passed", upper: "introduced", governor: null }),
+      makeBill("b4", ALICE_OCD, { lower: "passed", upper: "passed", governor: "signed" }),
+      makeBill("b5", ALICE_OCD, { lower: "in_committee", upper: null, governor: null }),
+    ];
+    const stats = computeStatsFromFixture(bills, [ALICE, BOB], idx);
+    expect(stats.get("ky-alice")!.effectivenessRate).toBeCloseTo(4 / 5);
+    expect(stats.get("ky-alice")!.lawRate).toBeCloseTo(1 / 5);
+  });
+
+  it("suppresses both rates when billsPrimarySponsored < EFFECT_MIN_N", () => {
+    const idx = new Map(fixturePeopleIndex);
+    const bills: FixtureBill[] = [
+      makeBill("b1", ALICE_OCD, { lower: "passed", upper: null, governor: null }),
+    ];
+    const stats = computeStatsFromFixture(bills, [ALICE, BOB], idx);
+    expect(stats.get("ky-alice")!.effectivenessRate).toBeNull();
+    expect(stats.get("ky-alice")!.lawRate).toBeNull();
+  });
+
+  it("treats became-law action as law even without governor=signed", () => {
+    const idx = new Map(fixturePeopleIndex);
+    const bills: FixtureBill[] = Array.from({ length: 5 }, (_, i) =>
+      makeBill(
+        `b${i}`,
+        ALICE_OCD,
+        { lower: "passed", upper: "passed", governor: null },
+        [{ classification: ["became-law"] }],
+      ),
+    );
+    const stats = computeStatsFromFixture(bills, [ALICE, BOB], idx);
+    expect(stats.get("ky-alice")!.lawRate).toBeCloseTo(1.0);
+  });
+});

@@ -62,6 +62,22 @@ function normalizeParty(p: string | null): "D" | "R" | "I" | null {
   return null;
 }
 
+function pastFirstChamber(progress: FixtureBill["chamber_progress"]): boolean {
+  if (progress.governor === "signed") return true;
+  if (progress.lower === "passed") return true;
+  if (progress.upper === "passed") return true;
+  return false;
+}
+
+function becameLaw(bill: FixtureBill): boolean {
+  if (bill.chamber_progress.governor === "signed") return true;
+  for (const a of bill.actions) {
+    if (a.classification.includes("became-law")) return true;
+    if (a.classification.includes("veto-override-passage")) return true;
+  }
+  return false;
+}
+
 export function computeStatsFromFixture(
   bills: FixtureBill[],
   people: FixturePerson[],
@@ -155,6 +171,27 @@ export function computeStatsFromFixture(
     if (d < LOYALTY_MIN_N) continue;
     const m = matched.get(row.personSlug) ?? 0;
     row.partyLoyaltyRate = m / d;
+  }
+
+  // effectiveness pass: aggregate per primary sponsor
+  const primaryBills = new Map<string, FixtureBill[]>();
+  for (const bill of bills) {
+    for (const s of bill.sponsors) {
+      if (!s.primary) continue;
+      const slug = s.person_id ? peopleIndex.get(s.person_id) : undefined;
+      if (!slug) continue;
+      const arr = primaryBills.get(slug) ?? [];
+      arr.push(bill);
+      primaryBills.set(slug, arr);
+    }
+  }
+  for (const [slug, theirBills] of primaryBills) {
+    const row = out.get(slug);
+    if (!row || theirBills.length < EFFECT_MIN_N) continue;
+    const effective = theirBills.filter((b) => pastFirstChamber(b.chamber_progress)).length;
+    const lawed = theirBills.filter(becameLaw).length;
+    row.effectivenessRate = effective / theirBills.length;
+    row.lawRate = lawed / theirBills.length;
   }
 
   return out;
