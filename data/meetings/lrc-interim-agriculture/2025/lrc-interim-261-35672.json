@@ -24,11 +24,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "9ae07611446d9c2a2decad82fce95a3207b880b8dc817e5a5ded0bd88423946f",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/261/35672/October%2016%2C%202025%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "October 16, 2025 Agenda.pdf",
-      "extracted_text_path": "data/attachments/9ae07611446d9c2a2decad82fce95a3207b880b8dc817e5a5ded0bd88423946f.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -52,36 +52,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of September 18, 2025 minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Discussion on the Condemnation of Agricultural Land",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Discussion on the Kentucky Urban Youth Agriculture Initiative",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

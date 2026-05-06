@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "c7e2a97430564acc6d2c4c9c9e072bcec053a4331eb7fbe6c4134a89f1d6f69b",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/11/35670/October%2015%2C%202025%20Education%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "October 15, 2025 Education Agenda.pdf",
-      "extracted_text_path": "data/attachments/c7e2a97430564acc6d2c4c9c9e072bcec053a4331eb7fbe6c4134a89f1d6f69b.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -31,42 +31,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of Minutes - September 17, 2025",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Teacher Compensation",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "2024-2026 Regular Session Appropriation Update",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "The next meeting will be held on November 5, 2025.",
-      "section": null
-    },
-    {
-      "item_number": "6",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }
