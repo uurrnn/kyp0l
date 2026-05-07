@@ -836,7 +836,7 @@
       "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-9780.json"
     },
     "primegov-louisvilleky-9987": {
-      "primary_sha": "3f696ec5c67bcb416b0b87ed97d1193b791a5b88e4bd13d7aa7aa7be8086c6c6",
+      "primary_sha": "a3a37482ebb5f4d664f92c06a607889bd7862038c515a1f17d1c173e7dffee91",
       "items_count": 1,
       "path": "data/meetings/parks-and-sustainability-committee/2026/primegov-louisvilleky-9987.json"
     },
@@ -846,7 +846,7 @@
       "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-10110.json"
     },
     "primegov-louisvilleky-10242": {
-      "primary_sha": "63e8478756fc367fcc718ab57ebf27c58e62129804e78ce564a78a2803290264",
+      "primary_sha": "1f4acce656a40ff69a4bd72395773818d6e30077268c879542473d42b71be34d",
       "items_count": 4,
       "path": "data/meetings/budget-committee/2026/primegov-louisvilleky-10242.json"
     },
@@ -1584,6 +1584,11 @@
       "primary_sha": null,
       "items_count": 0,
       "path": "data/meetings/vapstat-joint-meeting/2026/primegov-louisvilleky-10245.json"
+    },
+    "primegov-louisvilleky-10243": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/code-enforcement-board/2026/primegov-louisvilleky-10243.json"
     }
   },
   "bills_updated_at": {
@@ -3336,10 +3341,10 @@
       "last_run_at": "2026-05-07T08:46:09.343614+00:00"
     },
     "primegov": {
-      "last_run_at": "2026-05-07T08:48:04.586628+00:00"
+      "last_run_at": "2026-05-07T19:36:25.646604+00:00"
     },
     "openstates": {
-      "last_run_at": "2026-05-07T08:32:10.833971+00:00"
+      "last_run_at": "2026-05-07T19:34:55.700466+00:00"
     }
   }
 }
