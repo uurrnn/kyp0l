@@ -38,43 +38,12 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "d94d40a6c0722261898517c3bc01046990ff0f377d34661ecc4de53baab75d83",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/261/35640/Sept.%2018%2C%202025%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "Sept. 18, 2025 Agenda.pdf",
-      "extracted_text_path": "data/attachments/d94d40a6c0722261898517c3bc01046990ff0f377d34661ecc4de53baab75d83.txt"
+      "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of August 21, 2025 minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Update from the Kentucky Department of Agriculture's Division of",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Discussion on Agricultural Economic Development Initiatives",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }
