@@ -17,11 +17,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "695947473f6daed0f26145e5bfb012b0c6ec09be0b1f290c9c02593ff84200b6",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/372/35573/July%2015%202025%20BR%20HFS%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "July 15 2025 BR HFS Agenda.pdf",
-      "extracted_text_path": "data/attachments/695947473f6daed0f26145e5bfb012b0c6ec09be0b1f290c9c02593ff84200b6.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -31,42 +31,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of Minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Overview and Status Update on the Long-Term Care Certification Surveys",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Overview and Status Update on Funding for the Public Health",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Status Update on the Central Laboratory Expansion Project",
-      "section": null
-    },
-    {
-      "item_number": "6",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }
