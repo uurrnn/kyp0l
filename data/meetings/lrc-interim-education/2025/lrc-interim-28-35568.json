@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "2cc2a324388cd904a5c136c54c450be2aeb216242b5c43e28b2be4f58b5dcbe4",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/28/35568/14July2025Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "14July2025Agenda.pdf",
-      "extracted_text_path": "data/attachments/2cc2a324388cd904a5c136c54c450be2aeb216242b5c43e28b2be4f58b5dcbe4.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -66,48 +66,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of Minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "New University Presidents",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "22RS HB 250 Update",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Futuriti.org Update",
-      "section": null
-    },
-    {
-      "item_number": "6",
-      "file_number": null,
-      "title": "Consideration of Referred Administrative Regulations",
-      "section": null
-    },
-    {
-      "item_number": "7",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

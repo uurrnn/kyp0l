@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "",
+      "sha256": "d3fdfcd2f45e7f1dba76f0f01c7ebcbf165441c6888c4a2ec09ca925948b2c4a",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/32/35574/071525-1-BRS%20on%20Transport%20AGENDA.pdf",
       "mime": "application/pdf",
       "template_name": "071525-1-BRS on Transport AGENDA.pdf",
-      "extracted_text_path": null
+      "extracted_text_path": "data/attachments/d3fdfcd2f45e7f1dba76f0f01c7ebcbf165441c6888c4a2ec09ca925948b2c4a.txt"
     },
     {
       "sha256": "",
@@ -38,5 +38,42 @@
       "extracted_text_path": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": null,
+      "title": "Call to Order and Roll Call",
+      "section": null
+    },
+    {
+      "item_number": "2",
+      "file_number": null,
+      "title": "Approval of Minutes",
+      "section": null
+    },
+    {
+      "item_number": "3",
+      "file_number": null,
+      "title": "Airport Projects",
+      "section": null
+    },
+    {
+      "item_number": "4",
+      "file_number": null,
+      "title": "Riverport Projects",
+      "section": null
+    },
+    {
+      "item_number": "5",
+      "file_number": null,
+      "title": "Electric Vehicle Charging Program",
+      "section": null
+    },
+    {
+      "item_number": "6",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
 }

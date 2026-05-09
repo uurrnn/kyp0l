@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "8d3c4d92c1031c7739ec0534dafdc1a94908714a1acba7088c40787a7a874d58",
+      "sha256": "388bb789475acfa0418bec82ddb52b1b81bba7931c76cd5e81b7183dedc49db4",
       "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=54059&AgencyTypeID=",
       "mime": "text/html",
       "template_name": "KSBA Meeting Page",
-      "extracted_text_path": "data/attachments/8d3c4d92c1031c7739ec0534dafdc1a94908714a1acba7088c40787a7a874d58.txt"
+      "extracted_text_path": "data/attachments/388bb789475acfa0418bec82ddb52b1b81bba7931c76cd5e81b7183dedc49db4.txt"
     },
     {
       "sha256": "",
@@ -70,6 +70,13 @@
       "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=955438",
       "mime": "application/pdf",
       "template_name": "FY27 Tentative Budget Report",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=957158",
+      "mime": "application/pdf",
+      "template_name": "FY27 TENTATIVE BUDGET DISTRICT REPORT APENDIX 05-07-26",
       "extracted_text_path": null
     },
     {

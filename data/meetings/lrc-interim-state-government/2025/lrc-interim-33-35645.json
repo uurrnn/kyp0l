@@ -31,11 +31,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "82199fcb8080aee24ad0a7ce0aaecc5ed22839a6b074a3d94b00e08f5d1ea4f1",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/33/35645/Sept%2023%202025%20State%20Gov%20agenda.pdf",
       "mime": "application/pdf",
       "template_name": "Sept 23 2025 State Gov agenda.pdf",
-      "extracted_text_path": "data/attachments/82199fcb8080aee24ad0a7ce0aaecc5ed22839a6b074a3d94b00e08f5d1ea4f1.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -45,36 +45,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of Minutes - August 21 Meeting",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Cabinet for Economic Development - Bluegrass State Skills Corporation -",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Discussion of BR 868, 2026 Regular Session - AN ACT relating to the Kentucky",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

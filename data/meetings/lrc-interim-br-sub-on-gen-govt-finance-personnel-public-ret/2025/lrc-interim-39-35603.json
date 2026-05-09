@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "",
+      "sha256": "ecdc46233137c432ce4018bf5ea07ddcd59af9ffbed675822b24197b65cf9cc0",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/39/35603/8.20.25%20GGFPPR%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "8.20.25 GGFPPR Agenda.pdf",
-      "extracted_text_path": null
+      "extracted_text_path": "data/attachments/ecdc46233137c432ce4018bf5ea07ddcd59af9ffbed675822b24197b65cf9cc0.txt"
     },
     {
       "sha256": "",
@@ -24,5 +24,48 @@
       "extracted_text_path": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": null,
+      "title": "Call to Order and Roll Call",
+      "section": null
+    },
+    {
+      "item_number": "2",
+      "file_number": null,
+      "title": "Approval of Minutes (July 15, 2025)",
+      "section": null
+    },
+    {
+      "item_number": "3",
+      "file_number": null,
+      "title": "Personnel Cabinet",
+      "section": null
+    },
+    {
+      "item_number": "4",
+      "file_number": null,
+      "title": "Department of Veterans Affairs",
+      "section": null
+    },
+    {
+      "item_number": "5",
+      "file_number": null,
+      "title": "Auditor of Public Accounts",
+      "section": null
+    },
+    {
+      "item_number": "6",
+      "file_number": null,
+      "title": "State Treasurer",
+      "section": null
+    },
+    {
+      "item_number": "7",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
 }

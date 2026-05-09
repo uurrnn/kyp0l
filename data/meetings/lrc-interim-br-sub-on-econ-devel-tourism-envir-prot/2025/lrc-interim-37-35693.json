@@ -17,11 +17,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "",
+      "sha256": "ea1e437f779659a6e9ac402a4d6dc81bbbdb35bf6f2723b656045891bb82158b",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/37/35693/November%205%2C%202025%20EDTEP%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "November 5, 2025 EDTEP Agenda.pdf",
-      "extracted_text_path": null
+      "extracted_text_path": "data/attachments/ea1e437f779659a6e9ac402a4d6dc81bbbdb35bf6f2723b656045891bb82158b.txt"
     },
     {
       "sha256": "",
@@ -45,5 +45,42 @@
       "extracted_text_path": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": null,
+      "title": "Call to Order and Roll Call",
+      "section": null
+    },
+    {
+      "item_number": "2",
+      "file_number": null,
+      "title": "Approval of Minutes - October 15, 2025",
+      "section": null
+    },
+    {
+      "item_number": "3",
+      "file_number": null,
+      "title": "Trail Authority Update",
+      "section": null
+    },
+    {
+      "item_number": "4",
+      "file_number": null,
+      "title": "Kentucky Talent Attraction Initiative",
+      "section": null
+    },
+    {
+      "item_number": "5",
+      "file_number": null,
+      "title": "Shaping Our Appalachian Region (SOAR)",
+      "section": null
+    },
+    {
+      "item_number": "6",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
 }
