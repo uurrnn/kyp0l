@@ -17,11 +17,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "",
+      "sha256": "8dfd6553127bd61aac39caa355b9695be1b224959a902401fef51372a49fbf90",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/26/35550/Jun%2024%202025%20Agenda%20IJC%20Local%20Government.pdf",
       "mime": "application/pdf",
       "template_name": "Jun 24 2025 Agenda IJC Local Government.pdf",
-      "extracted_text_path": null
+      "extracted_text_path": "data/attachments/8dfd6553127bd61aac39caa355b9695be1b224959a902401fef51372a49fbf90.txt"
     },
     {
       "sha256": "",
@@ -73,5 +73,48 @@
       "extracted_text_path": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": null,
+      "title": "Call to Order and Roll Call",
+      "section": null
+    },
+    {
+      "item_number": "2",
+      "file_number": null,
+      "title": "Discussion of Area Development Districts-History, Duties, Successes, and",
+      "section": null
+    },
+    {
+      "item_number": "3",
+      "file_number": null,
+      "title": "Discussion of Legislative Measures",
+      "section": null
+    },
+    {
+      "item_number": "4",
+      "file_number": null,
+      "title": "Discussion of County Clerks' Land Records Update",
+      "section": null
+    },
+    {
+      "item_number": "5",
+      "file_number": null,
+      "title": "Discussion of Local Taxing Sources",
+      "section": null
+    },
+    {
+      "item_number": "6",
+      "file_number": null,
+      "title": "Announcements",
+      "section": null
+    },
+    {
+      "item_number": "7",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
 }

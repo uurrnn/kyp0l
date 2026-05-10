@@ -986,8 +986,8 @@
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35672.json"
     },
     "lrc-interim-261-35640": {
-      "primary_sha": "d94d40a6c0722261898517c3bc01046990ff0f377d34661ecc4de53baab75d83",
-      "items_count": 5,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35640.json"
     },
     "lrc-interim-261-35609": {
@@ -1156,8 +1156,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-gen-govt-finance-personnel-public-ret/2025/lrc-interim-39-35603.json"
     },
     "lrc-interim-39-35571": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "5173d9d457cca2d0372d696a571213664d274d88d1113f2db865f6b935066b6c",
+      "items_count": 5,
       "path": "data/meetings/lrc-interim-br-sub-on-gen-govt-finance-personnel-public-ret/2025/lrc-interim-39-35571.json"
     },
     "lrc-interim-17-35691": {
@@ -1261,8 +1261,8 @@
       "path": "data/meetings/lrc-interim-education/2025/lrc-interim-28-35600.json"
     },
     "lrc-interim-28-35568": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "2cc2a324388cd904a5c136c54c450be2aeb216242b5c43e28b2be4f58b5dcbe4",
+      "items_count": 7,
       "path": "data/meetings/lrc-interim-education/2025/lrc-interim-28-35568.json"
     },
     "lrc-interim-28-35531": {
@@ -1416,8 +1416,8 @@
       "path": "data/meetings/lrc-interim-local-government/2025/lrc-interim-26-35581.json"
     },
     "lrc-interim-26-35550": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "8dfd6553127bd61aac39caa355b9695be1b224959a902401fef51372a49fbf90",
+      "items_count": 7,
       "path": "data/meetings/lrc-interim-local-government/2025/lrc-interim-26-35550.json"
     },
     "lrc-interim-262-35700": {
@@ -1461,8 +1461,8 @@
       "path": "data/meetings/lrc-interim-state-government/2025/lrc-interim-33-35677.json"
     },
     "lrc-interim-33-35645": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "82199fcb8080aee24ad0a7ce0aaecc5ed22839a6b074a3d94b00e08f5d1ea4f1",
+      "items_count": 5,
       "path": "data/meetings/lrc-interim-state-government/2025/lrc-interim-33-35645.json"
     },
     "lrc-interim-33-40048": {
@@ -3337,19 +3337,19 @@
   },
   "sources": {
     "ksba": {
-      "last_run_at": "2026-05-09T07:45:55.031077+00:00"
+      "last_run_at": "2026-05-10T07:59:31.896525+00:00"
     },
     "people": {
-      "last_run_at": "2026-05-09T07:59:34.088100+00:00"
+      "last_run_at": "2026-05-10T08:11:01.230770+00:00"
     },
     "lrc-interim": {
-      "last_run_at": "2026-05-09T08:08:31.775002+00:00"
+      "last_run_at": "2026-05-10T08:28:46.018950+00:00"
     },
     "primegov": {
-      "last_run_at": "2026-05-10T02:18:28.362116+00:00"
+      "last_run_at": "2026-05-10T08:29:56.933047+00:00"
     },
     "openstates": {
-      "last_run_at": "2026-05-10T02:17:17.854917+00:00"
+      "last_run_at": "2026-05-10T08:10:57.523632+00:00"
     }
   }
 }
