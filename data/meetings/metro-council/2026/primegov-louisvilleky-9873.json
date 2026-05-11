@@ -11,13 +11,26 @@
   "attachments": [
     {
       "sha256": "c91156e1553f4e9e1e94a0277949808c388db6b06e8850bc1187d5881dd6b3ea",
-      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9873/Agenda_20260427173930316.pdf?sv=2017-04-17&sr=b&sig=mtEhWu9nvLrHEqYOG9Xv%2BH%2BCdBk89oJgLakrbJQleRs%3D&st=2026-05-02T05%3A48%3A43Z&se=2026-05-04T05%3A48%3A43Z&sp=r",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9873/Agenda_20260427173930316.pdf?sv=2017-04-17&sr=b&sig=ruHDV9WAj8OmZmLjtv0%2BamCwD5ADUeTADv9HAAd4Hic%3D&st=2026-05-10T02%3A13%3A38Z&se=2026-05-12T02%3A13%3A38Z&sp=r",
       "mime": "application/pdf",
       "template_name": "Agenda",
       "extracted_text_path": "data/attachments/c91156e1553f4e9e1e94a0277949808c388db6b06e8850bc1187d5881dd6b3ea.txt"
+    },
+    {
+      "sha256": "2405600bf05912f440382ee5e14c59224b616b158a508ea8869f0bc91e5ca8ca",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9873/Minutes_20260510212610123.pdf?sv=2017-04-17&sr=b&sig=QHuzcTpY9z3iiGa692DmXWADb0Z5J4CrVqNcJ%2FXLDQU%3D&st=2026-05-10T02%3A13%3A38Z&se=2026-05-12T02%3A13%3A38Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Minutes",
+      "extracted_text_path": "data/attachments/2405600bf05912f440382ee5e14c59224b616b158a508ea8869f0bc91e5ca8ca.txt"
     }
   ],
   "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0192",
+      "title": "Mayor\u2019s Budget Address Presentation",
+      "section": null
+    },
     {
       "item_number": "1",
       "file_number": "26-0177",
@@ -31,43 +44,43 @@
       "section": "Committee Minutes"
     },
     {
-      "item_number": "3",
+      "item_number": "4",
       "file_number": "26-0166",
       "title": "Regular:  Planning and Zoning Committee - April 14, 2026",
       "section": "Committee Minutes"
     },
     {
-      "item_number": "4",
+      "item_number": "5",
       "file_number": "26-0167",
       "title": "Regular:  Labor and Economic Development Committee - April 14, 2026",
       "section": "Committee Minutes"
     },
     {
-      "item_number": "5",
+      "item_number": "6",
       "file_number": "26-0168",
       "title": "Regular:  Public Works Committee - April 14, 2026",
       "section": "Committee Minutes"
     },
     {
-      "item_number": "6",
+      "item_number": "7",
       "file_number": "26-0175",
       "title": "Regular:  Government Oversight/Audit and Appointments Committee \u2013 April 14, 2026",
       "section": "Committee Minutes"
     },
     {
-      "item_number": "7",
+      "item_number": "8",
       "file_number": "26-0169",
       "title": "Regular:  Equity, Community Affairs, Housing, Health and Education Committee - April 15, 2026",
       "section": "Committee Minutes"
     },
     {
-      "item_number": "8",
+      "item_number": "9",
       "file_number": "26-0176",
       "title": "Regular:  Appropriations Committee \u2013 April 15, 2026",
       "section": "Committee Minutes"
     },
     {
-      "item_number": "9",
+      "item_number": "10",
       "file_number": "26-0170",
       "title": "Regular:  Public Safety Committee - April 15, 2026",
       "section": "Committee Minutes"
@@ -109,13 +122,13 @@
       "section": "Communications to the Council"
     },
     {
-      "item_number": "16",
+      "item_number": "17",
       "file_number": "26-0184",
       "title": "Juneteenth Jubilee Commission \u2013 Brianne Kelly (New Appointment) and Dr. Terri Davenport (Reappointment).",
       "section": "Communications to the Council"
     },
     {
-      "item_number": "17",
+      "item_number": "18",
       "file_number": "26-0185",
       "title": "KentuckianaWorks \u2013 Greater Louisville Workforce Development Board \u2013 Trevor Pawl, Dr. Nicole Cobb, Timothy Huval, Gayle Dickerson (New Appointments).",
       "section": "Communications to the Council"
@@ -145,7 +158,7 @@
       "section": "Communications to the Council"
     },
     {
-      "item_number": "22",
+      "item_number": "23",
       "file_number": "26-0189",
       "title": "Zoo Foundation Board \u2013 Erica Tolar, Jeffrey Nally (Reappointments). Metro Council approval is not required.",
       "section": "Communications to the Council"
