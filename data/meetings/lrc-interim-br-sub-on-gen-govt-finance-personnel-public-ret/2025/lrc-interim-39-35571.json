@@ -10,43 +10,12 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "5173d9d457cca2d0372d696a571213664d274d88d1113f2db865f6b935066b6c",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/39/35571/7.15.25%20GGFPPR%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "7.15.25 GGFPPR Agenda.pdf",
-      "extracted_text_path": "data/attachments/5173d9d457cca2d0372d696a571213664d274d88d1113f2db865f6b935066b6c.txt"
+      "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Office of the Secretary of State",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Office of the Attorney General",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Department of Agriculture",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

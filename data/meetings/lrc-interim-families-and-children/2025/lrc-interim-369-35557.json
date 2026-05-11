@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "591c66b97702f31e3d504ef3a7c84d824ff4f4489ee81878df52da6ef52d1bc9",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/369/35557/06%2025%202025%201.%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "06 25 2025 1. Agenda.pdf",
-      "extracted_text_path": "data/attachments/591c66b97702f31e3d504ef3a7c84d824ff4f4489ee81878df52da6ef52d1bc9.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -45,42 +45,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Discussion of The Center for Courageous Kids",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Discussion of Adult Protective Services and State Guardianship Programs",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Discussion of Annual Report of the External Child Fatality and Near Fatality",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Consideration of Referred Administrative Regulations",
-      "section": null
-    },
-    {
-      "item_number": "6",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "c944c13f348ed4974c48734b39055aaaeb11498257cff7239f0b8dae2fef53df",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/32/35637/091725-1-BRS%20on%20Transport%20AGENDA.pdf",
       "mime": "application/pdf",
       "template_name": "091725-1-BRS on Transport AGENDA.pdf",
-      "extracted_text_path": "data/attachments/c944c13f348ed4974c48734b39055aaaeb11498257cff7239f0b8dae2fef53df.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -52,48 +52,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of Minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Maintenance Update",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Regional Offices",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "SHIFT Scoring",
-      "section": null
-    },
-    {
-      "item_number": "6",
-      "file_number": null,
-      "title": "Local Assistance Road Program",
-      "section": null
-    },
-    {
-      "item_number": "7",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }
