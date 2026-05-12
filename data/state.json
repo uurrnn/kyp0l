@@ -1581,8 +1581,8 @@
       "path": "data/meetings/jcps-board-of-education/2026/ksba-89-54296.json"
     },
     "primegov-louisvilleky-10245": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "16386ed47e780236f131586b64571d96da45b06c3dea413edf32df8cc15791ef",
+      "items_count": 1,
       "path": "data/meetings/vapstat-joint-meeting/2026/primegov-louisvilleky-10245.json"
     },
     "primegov-louisvilleky-10243": {
@@ -3346,10 +3346,10 @@
       "last_run_at": "2026-05-12T08:47:50.715003+00:00"
     },
     "primegov": {
-      "last_run_at": "2026-05-12T08:49:20.542482+00:00"
+      "last_run_at": "2026-05-12T19:38:15.532110+00:00"
     },
     "openstates": {
-      "last_run_at": "2026-05-12T08:41:06.745994+00:00"
+      "last_run_at": "2026-05-12T19:36:57.726108+00:00"
     }
   }
 }

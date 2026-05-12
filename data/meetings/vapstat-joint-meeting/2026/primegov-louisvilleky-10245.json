@@ -7,7 +7,22 @@
   "source_type": "primegov",
   "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10245",
   "source_meeting_id": "10245",
-  "video_url": null,
-  "attachments": [],
-  "items": []
+  "video_url": "https://louisvilleky.new.swagit.com/videos/387445",
+  "attachments": [
+    {
+      "sha256": "16386ed47e780236f131586b64571d96da45b06c3dea413edf32df8cc15791ef",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10245/Agenda_2026051217425433.pdf?sv=2017-04-17&sr=b&sig=w34lq50QH05x2DKtooKb6dWQ4M2XEAIw4%2FZh%2BCX6uEo%3D&st=2026-05-11T19%3A30%3A56Z&se=2026-05-13T19%3A30%3A56Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/16386ed47e780236f131586b64571d96da45b06c3dea413edf32df8cc15791ef.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0203",
+      "title": "Minutes of the April 13, 2026 Monthly Meeting of the Louisville and Jefferson County Landbank Authority, Inc.",
+      "section": null
+    }
+  ]
 }
