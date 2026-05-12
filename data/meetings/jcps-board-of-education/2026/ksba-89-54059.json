@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "388bb789475acfa0418bec82ddb52b1b81bba7931c76cd5e81b7183dedc49db4",
+      "sha256": "7ca0f06308b1dea5c891c248cccfc167a1fd64568dfcad8e249f49b06a453e8e",
       "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=54059&AgencyTypeID=",
       "mime": "text/html",
       "template_name": "KSBA Meeting Page",
-      "extracted_text_path": "data/attachments/388bb789475acfa0418bec82ddb52b1b81bba7931c76cd5e81b7183dedc49db4.txt"
+      "extracted_text_path": "data/attachments/7ca0f06308b1dea5c891c248cccfc167a1fd64568dfcad8e249f49b06a453e8e.txt"
     },
     {
       "sha256": "",
@@ -701,6 +701,12 @@
       "item_number": "I",
       "file_number": null,
       "title": "Call to Order",
+      "section": null
+    },
+    {
+      "item_number": "I.A",
+      "file_number": null,
+      "title": "Determination of Board Member Assignment for the Remainder of the Calendar Year 2026 to Implement the Provisions of Senate Bill 4 (2026 RS)",
       "section": null
     },
     {

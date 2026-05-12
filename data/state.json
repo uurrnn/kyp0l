@@ -976,8 +976,8 @@
       "path": "data/meetings/lrc-interim-education/2025/lrc-interim-28-35663.json"
     },
     "lrc-interim-261-35698": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "c6eb7d0885a8efb28211776cb872296e568885edb7c643cb4ec89ef4b322fa1f",
+      "items_count": 7,
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35698.json"
     },
     "lrc-interim-261-35672": {
@@ -1106,8 +1106,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-econ-devel-tourism-envir-prot/2025/lrc-interim-37-35604.json"
     },
     "lrc-interim-37-35570": {
-      "primary_sha": "a17fb5a3e2792c98ba18444c58547d0219816d9603a2831cb5c2b20eff6c8a49",
-      "items_count": 4,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-br-sub-on-econ-devel-tourism-envir-prot/2025/lrc-interim-37-35570.json"
     },
     "lrc-interim-11-35696": {
@@ -1156,8 +1156,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-gen-govt-finance-personnel-public-ret/2025/lrc-interim-39-35603.json"
     },
     "lrc-interim-39-35571": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "5173d9d457cca2d0372d696a571213664d274d88d1113f2db865f6b935066b6c",
+      "items_count": 5,
       "path": "data/meetings/lrc-interim-br-sub-on-gen-govt-finance-personnel-public-ret/2025/lrc-interim-39-35571.json"
     },
     "lrc-interim-17-35691": {
@@ -1201,8 +1201,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-transportation/2025/lrc-interim-32-35669.json"
     },
     "lrc-interim-32-35637": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "c944c13f348ed4974c48734b39055aaaeb11498257cff7239f0b8dae2fef53df",
+      "items_count": 7,
       "path": "data/meetings/lrc-interim-br-sub-on-transportation/2025/lrc-interim-32-35637.json"
     },
     "lrc-interim-32-35606": {
@@ -1216,8 +1216,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-transportation/2025/lrc-interim-32-35574.json"
     },
     "lrc-interim-32-35537": {
-      "primary_sha": "2e1efbc24346b53349d2fa8c1b23022fea7e25b707bb678fa45132f718baed6d",
-      "items_count": 5,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-br-sub-on-transportation/2025/lrc-interim-32-35537.json"
     },
     "lrc-interim-313-35714": {
@@ -1296,8 +1296,8 @@
       "path": "data/meetings/lrc-interim-families-and-children/2025/lrc-interim-369-35588.json"
     },
     "lrc-interim-369-35557": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "591c66b97702f31e3d504ef3a7c84d824ff4f4489ee81878df52da6ef52d1bc9",
+      "items_count": 6,
       "path": "data/meetings/lrc-interim-families-and-children/2025/lrc-interim-369-35557.json"
     },
     "lrc-interim-366-35711": {
@@ -1571,8 +1571,8 @@
       "path": "data/meetings/lrc-interim-veterans-military-affairs-public-protection/2025/lrc-interim-192-35556.json"
     },
     "ksba-89-54059": {
-      "primary_sha": "388bb789475acfa0418bec82ddb52b1b81bba7931c76cd5e81b7183dedc49db4",
-      "items_count": 78,
+      "primary_sha": "7ca0f06308b1dea5c891c248cccfc167a1fd64568dfcad8e249f49b06a453e8e",
+      "items_count": 79,
       "path": "data/meetings/jcps-board-of-education/2026/ksba-89-54059.json"
     },
     "ksba-89-54296": {
@@ -3337,19 +3337,19 @@
   },
   "sources": {
     "ksba": {
-      "last_run_at": "2026-05-11T09:01:57.742351+00:00"
+      "last_run_at": "2026-05-12T08:29:33.833067+00:00"
     },
     "people": {
-      "last_run_at": "2026-05-11T09:14:39.216539+00:00"
+      "last_run_at": "2026-05-12T08:41:10.391647+00:00"
     },
     "lrc-interim": {
-      "last_run_at": "2026-05-11T09:29:55.484833+00:00"
+      "last_run_at": "2026-05-12T08:47:50.715003+00:00"
     },
     "primegov": {
-      "last_run_at": "2026-05-12T02:23:24.763294+00:00"
+      "last_run_at": "2026-05-12T08:49:20.542482+00:00"
     },
     "openstates": {
-      "last_run_at": "2026-05-12T02:22:13.091327+00:00"
+      "last_run_at": "2026-05-12T08:41:06.745994+00:00"
     }
   }
 }
