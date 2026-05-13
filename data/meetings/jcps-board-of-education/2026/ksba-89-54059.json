@@ -10,17 +10,24 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "7ca0f06308b1dea5c891c248cccfc167a1fd64568dfcad8e249f49b06a453e8e",
+      "sha256": "94ec363ea410029d3b76130989e24b07952b58de0c515b886cf4116909811bc2",
       "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=54059&AgencyTypeID=",
       "mime": "text/html",
       "template_name": "KSBA Meeting Page",
-      "extracted_text_path": "data/attachments/7ca0f06308b1dea5c891c248cccfc167a1fd64568dfcad8e249f49b06a453e8e.txt"
+      "extracted_text_path": "data/attachments/94ec363ea410029d3b76130989e24b07952b58de0c515b886cf4116909811bc2.txt"
     },
     {
       "sha256": "",
       "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=956037",
       "mime": "application/pdf",
       "template_name": "5 12 26 Agenda",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=956133",
+      "mime": "application/pdf",
+      "template_name": "4 21 26 Minutes",
       "extracted_text_path": null
     },
     {
@@ -508,6 +515,20 @@
     },
     {
       "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=958031",
+      "mime": "application/pdf",
+      "template_name": "Board Copy of JCPS mark up version  JCBE_JCTA 2018 - 2026",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=958032",
+      "mime": "application/pdf",
+      "template_name": "JCTA Extension Agreement MOA.docx",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
       "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=955617",
       "mime": "application/pdf",
       "template_name": "DPA - ChartFlow LLC",
@@ -742,19 +763,19 @@
     {
       "item_number": "V",
       "file_number": null,
-      "title": "Action Items",
-      "section": null
-    },
-    {
-      "item_number": "V.A",
-      "file_number": null,
-      "title": "Recommendation for Approval of Tentative Budget for Fiscal Year 2026-2027",
+      "title": "Persons Requesting to Address the Board on Action Items or Consent Calendar Items to be Voted Upon Separately at Board Member Request",
       "section": null
     },
     {
       "item_number": "VI",
       "file_number": null,
-      "title": "Persons Requesting to Address the Board on Consent Calendar Items to be Voted Upon Separately at Board Member Request",
+      "title": "Action Items",
+      "section": null
+    },
+    {
+      "item_number": "VI.A",
+      "file_number": null,
+      "title": "Recommendation for Approval of Tentative Budget for Fiscal Year 2026-2027",
       "section": null
     },
     {
@@ -1126,7 +1147,7 @@
     {
       "item_number": "VII.U",
       "file_number": null,
-      "title": "17. Recommendation for Approval of Memorandum of Agreement with the Jefferson County Teachers Association",
+      "title": "17. Recommendation for Approval of Memorandum of Agreement With the Jefferson County Teachers Association for an Extension of the Collective Bargaining Agreement and Approval of Language Changes",
       "section": null
     },
     {

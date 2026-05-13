@@ -24,43 +24,12 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "629ec01fb9abb68265c90bee501f841cdc6a50cafe72a452fbdb38ad0d639a10",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/37/35635/September%2017%2C%202025%20EDTEP%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "September 17, 2025 EDTEP Agenda.pdf",
-      "extracted_text_path": "data/attachments/629ec01fb9abb68265c90bee501f841cdc6a50cafe72a452fbdb38ad0d639a10.txt"
+      "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of Minutes - August 20, 2025",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Department of Parks Capital Projects Update",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "The next meeting will be held on October 15, 2025.",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }
