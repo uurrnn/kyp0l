@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "94ec363ea410029d3b76130989e24b07952b58de0c515b886cf4116909811bc2",
+      "sha256": "700e8c89152179e3aac1f35576ff93eb792b66dd3df71f03b581b498ad11f554",
       "url": "https://portal.ksba.org/public/Meeting.aspx?PublicAgencyID=89&PublicMeetingID=54059&AgencyTypeID=",
       "mime": "text/html",
       "template_name": "KSBA Meeting Page",
-      "extracted_text_path": "data/attachments/94ec363ea410029d3b76130989e24b07952b58de0c515b886cf4116909811bc2.txt"
+      "extracted_text_path": "data/attachments/700e8c89152179e3aac1f35576ff93eb792b66dd3df71f03b581b498ad11f554.txt"
     },
     {
       "sha256": "",
@@ -34,7 +34,7 @@
       "sha256": "",
       "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=955030",
       "mime": "application/pdf",
-      "template_name": "2025-26 Comprehensive School Survey Results - Board Presentation v2",
+      "template_name": "2025-26 Comprehensive School Survey Results - Board Presentation   5 13",
       "extracted_text_path": null
     },
     {
@@ -238,6 +238,83 @@
       "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=954231",
       "mime": "application/pdf",
       "template_name": "Approval of Letter of Intent - The Tea Spot - Waller-Williams @ Riverport",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=955199",
+      "mime": "application/pdf",
+      "template_name": "*Competitive Negotiations, Bid Tabulations, Contract Renewals, and Amendment_05 12 26",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=954338",
+      "mime": "application/pdf",
+      "template_name": "Amendment on Plumbing Supplies & Equipment (Line Item)",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=954390",
+      "mime": "application/pdf",
+      "template_name": "C/N for High School Assessments",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=953990",
+      "mime": "application/pdf",
+      "template_name": "C/N for NSC Revitalization & Modernization Feasibility Study",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=955197",
+      "mime": "application/pdf",
+      "template_name": "C/N for Optional Coaching Services for Schools",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=954391",
+      "mime": "application/pdf",
+      "template_name": "C/N for SAT Preparation for High School Students",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=953991",
+      "mime": "application/pdf",
+      "template_name": "C/N for Services & Support for Students, Families, and Staff Supporting Multilingual Learners - Community Partners",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=954393",
+      "mime": "application/pdf",
+      "template_name": "Cleaning of Grease & Dishmachine Exhaust Systems",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=953993",
+      "mime": "application/pdf",
+      "template_name": "Locally Raised & Processed Protein",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=954395",
+      "mime": "application/pdf",
+      "template_name": "Printing 2026_2027 Code of Acceptable Behavior",
+      "extracted_text_path": null
+    },
+    {
+      "sha256": "",
+      "url": "https://portal.ksba.org/public/Meeting/Attachments/DisplayAttachment.aspx?AttachmentID=953992",
+      "mime": "application/pdf",
+      "template_name": "Small Lunchroom Equipment (Line Item)",
       "extracted_text_path": null
     },
     {

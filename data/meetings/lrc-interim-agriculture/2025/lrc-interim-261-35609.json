@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "852f5d8738e2d49c08eca887024fdb928ea248dcab8f1cfc9566725c7d733b34",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/261/35609/August%2021%2C%202025%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "August 21, 2025 Agenda.pdf",
-      "extracted_text_path": "data/attachments/852f5d8738e2d49c08eca887024fdb928ea248dcab8f1cfc9566725c7d733b34.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -24,42 +24,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of July 10, 2025  Minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Introduction of IJC on Agriculture Members and Kentucky State Fair Board",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Welcome",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Report of the Kentucky State Fair Board",
-      "section": null
-    },
-    {
-      "item_number": "6",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

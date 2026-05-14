@@ -59,11 +59,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "",
+      "sha256": "19fc11cc59e82bdafdd2772c1af84ed1df283659add69777538e0d839aa3edbf",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/262/35642/Sep%2018%202025%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "Sep 18 2025 Agenda.pdf",
-      "extracted_text_path": null
+      "extracted_text_path": "data/attachments/19fc11cc59e82bdafdd2772c1af84ed1df283659add69777538e0d839aa3edbf.txt"
     },
     {
       "sha256": "",
@@ -108,5 +108,54 @@
       "extracted_text_path": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": null,
+      "title": "Call to Order and Roll Call",
+      "section": null
+    },
+    {
+      "item_number": "2",
+      "file_number": null,
+      "title": "Approval of minutes for the meeting of August 29, 2025",
+      "section": null
+    },
+    {
+      "item_number": "3",
+      "file_number": null,
+      "title": "Discussion of 2025 SB 137 - Utility Service Disconnections During Extreme",
+      "section": null
+    },
+    {
+      "item_number": "4",
+      "file_number": null,
+      "title": "Outdoor Adventure Tourism Opportunities",
+      "section": null
+    },
+    {
+      "item_number": "5",
+      "file_number": null,
+      "title": "Update on the 2025 & 2026 Winter Heating Season Regarding Energy",
+      "section": null
+    },
+    {
+      "item_number": "6",
+      "file_number": null,
+      "title": "Referred Administrative Regulations",
+      "section": null
+    },
+    {
+      "item_number": "7",
+      "file_number": null,
+      "title": "Report Received",
+      "section": null
+    },
+    {
+      "item_number": "8",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
 }
