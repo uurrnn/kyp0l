@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-10067",
+  "body_id": "board-of-zoning-adjustment",
+  "title": "Board of Zoning Adjustment",
+  "date": "2026-05-18",
+  "time": "13:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10067",
+  "source_meeting_id": "10067",
+  "video_url": null,
+  "attachments": [
+    {
+      "sha256": "cd40ea10aabeb140444d6906ea63eb54f3ca078a3075e53ed235643fe68c1136",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10067/Agenda_20260514174806142.pdf?sv=2017-04-17&sr=b&sig=bNi6UTN4620XHJFJI6T9C%2BeLoVIH%2BQCm5rry8JHPZxw%3D&st=2026-05-13T19%3A43%3A10Z&se=2026-05-15T19%3A43%3A10Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/cd40ea10aabeb140444d6906ea63eb54f3ca078a3075e53ed235643fe68c1136.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0207",
+      "title": "05.04.2026 BOZA Minutes",
+      "section": null
+    }
+  ]
+}
