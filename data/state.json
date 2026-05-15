@@ -991,8 +991,8 @@
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35640.json"
     },
     "lrc-interim-261-35609": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "852f5d8738e2d49c08eca887024fdb928ea248dcab8f1cfc9566725c7d733b34",
+      "items_count": 6,
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35609.json"
     },
     "lrc-interim-261-35577": {
@@ -1001,8 +1001,8 @@
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35577.json"
     },
     "lrc-interim-261-35540": {
-      "primary_sha": "27a41b7baf3674d06b556723073ac6141f921832c1f449db35221656b2d139e6",
-      "items_count": 4,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35540.json"
     },
     "lrc-interim-10-35697": {
@@ -1036,8 +1036,8 @@
       "path": "data/meetings/lrc-interim-appropriations-revenue/2025/lrc-interim-10-35539.json"
     },
     "lrc-interim-25-42408": {
-      "primary_sha": "5ca08ee8cbac06a1a735425909c0691e612408df67b0c03fb6f4498d32c747cc",
-      "items_count": 5,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-banking-insurance/2025/lrc-interim-25-42408.json"
     },
     "lrc-interim-25-35688": {
@@ -1051,8 +1051,8 @@
       "path": "data/meetings/lrc-interim-banking-insurance/2025/lrc-interim-25-35662.json"
     },
     "lrc-interim-25-35630": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "6726769b5b086edbca4e4323fb29897c29c4a8a2f37da1067acefbcf8bdd559c",
+      "items_count": 6,
       "path": "data/meetings/lrc-interim-banking-insurance/2025/lrc-interim-25-35630.json"
     },
     "lrc-interim-372-35694": {
@@ -1111,8 +1111,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-econ-devel-tourism-envir-prot/2025/lrc-interim-37-35570.json"
     },
     "lrc-interim-11-35696": {
-      "primary_sha": "7c9a89723a5cd61d9ef04c31f7bcdbc8d849817f6241e59633bb5840f47f6ea2",
-      "items_count": 4,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-br-sub-on-education/2025/lrc-interim-11-35696.json"
     },
     "lrc-interim-11-35670": {
@@ -1171,8 +1171,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-justice-judiciary/2025/lrc-interim-17-35665.json"
     },
     "lrc-interim-17-35633": {
-      "primary_sha": "65684d88dd4200f7f0687d7763becbba202c5ef3f9e8fb69abf79eaec887284d",
-      "items_count": 4,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-br-sub-on-justice-judiciary/2025/lrc-interim-17-35633.json"
     },
     "lrc-interim-17-35602": {
@@ -1381,8 +1381,8 @@
       "path": "data/meetings/lrc-interim-licensing-occupations-administrative-regulations/2025/lrc-interim-50-35619.json"
     },
     "lrc-interim-50-35590": {
-      "primary_sha": "d0f1241ab56722d433f27abe4f3d7d7eef766c55922adc6dcbc649d43553b34f",
-      "items_count": 1,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-licensing-occupations-administrative-regulations/2025/lrc-interim-50-35590.json"
     },
     "lrc-interim-50-36832": {
@@ -1446,8 +1446,8 @@
       "path": "data/meetings/lrc-interim-natural-resources-energy/2025/lrc-interim-262-35579.json"
     },
     "lrc-interim-262-36833": {
-      "primary_sha": "f63ce95808cda53487f2795d8612b09b244b53af58bd1ffe3c880c3ccb913c00",
-      "items_count": 5,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-natural-resources-energy/2025/lrc-interim-262-36833.json"
     },
     "lrc-interim-33-35707": {
@@ -1604,6 +1604,21 @@
       "primary_sha": "cd40ea10aabeb140444d6906ea63eb54f3ca078a3075e53ed235643fe68c1136",
       "items_count": 1,
       "path": "data/meetings/board-of-zoning-adjustment/2026/primegov-louisvilleky-10067.json"
+    },
+    "ksba-89-54336": {
+      "primary_sha": "52e125cbec33c2a32494ec5325553fd793800088adcfce31738e13b7f142230e",
+      "items_count": 5,
+      "path": "data/meetings/jcps-board-of-education/2026/ksba-89-54336.json"
+    },
+    "primegov-louisvilleky-10251": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/old-louisville-architectural-review-committee/2026/primegov-louisvilleky-10251.json"
+    },
+    "primegov-louisvilleky-10250": {
+      "primary_sha": null,
+      "items_count": 0,
+      "path": "data/meetings/historic-landmarks-preservation-districts-commission/2026/primegov-louisvilleky-10250.json"
     }
   },
   "bills_updated_at": {
@@ -3347,19 +3362,19 @@
   },
   "sources": {
     "ksba": {
-      "last_run_at": "2026-05-14T08:32:16.936574+00:00"
+      "last_run_at": "2026-05-15T13:46:32.694980+00:00"
     },
     "people": {
-      "last_run_at": "2026-05-14T08:44:18.271225+00:00"
+      "last_run_at": "2026-05-15T13:59:20.959297+00:00"
     },
     "lrc-interim": {
-      "last_run_at": "2026-05-14T08:50:02.080996+00:00"
+      "last_run_at": "2026-05-15T14:12:45.934175+00:00"
     },
     "primegov": {
-      "last_run_at": "2026-05-15T02:29:14.977276+00:00"
+      "last_run_at": "2026-05-15T14:14:02.450478+00:00"
     },
     "openstates": {
-      "last_run_at": "2026-05-15T02:27:12.143928+00:00"
+      "last_run_at": "2026-05-15T13:57:16.601072+00:00"
     }
   }
 }

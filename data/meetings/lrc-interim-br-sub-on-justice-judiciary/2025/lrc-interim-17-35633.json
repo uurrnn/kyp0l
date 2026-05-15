@@ -17,11 +17,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "65684d88dd4200f7f0687d7763becbba202c5ef3f9e8fb69abf79eaec887284d",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/17/35633/Sept%2017%202025%20BR%20JJ%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "Sept 17 2025 BR JJ Agenda.pdf",
-      "extracted_text_path": "data/attachments/65684d88dd4200f7f0687d7763becbba202c5ef3f9e8fb69abf79eaec887284d.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -31,30 +31,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of Minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Update - Judicial Branch Budget",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

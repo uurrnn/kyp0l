@@ -73,43 +73,12 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "5ca08ee8cbac06a1a735425909c0691e612408df67b0c03fb6f4498d32c747cc",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/25/42408/Banking%20%26%20Insurance%20Agenda%20-%2012-17-2025.pdf",
       "mime": "application/pdf",
       "template_name": "Banking & Insurance Agenda - 12-17-2025.pdf",
-      "extracted_text_path": "data/attachments/5ca08ee8cbac06a1a735425909c0691e612408df67b0c03fb6f4498d32c747cc.txt"
+      "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of November 04, 2025 Minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Consideration of Referred Administrative Regulations:",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Proposed Legislation for the 2026 Session",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

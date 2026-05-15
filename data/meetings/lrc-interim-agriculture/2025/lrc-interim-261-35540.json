@@ -24,37 +24,12 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "27a41b7baf3674d06b556723073ac6141f921832c1f449db35221656b2d139e6",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/261/35540/June%205%2C%202025%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "June 5, 2025 Agenda.pdf",
-      "extracted_text_path": "data/attachments/27a41b7baf3674d06b556723073ac6141f921832c1f449db35221656b2d139e6.txt"
+      "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Overview of the Kentucky Farmland Transition Initiative",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Farmland Conservation in Kentucky and Update on 2024 Funding Allocations",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

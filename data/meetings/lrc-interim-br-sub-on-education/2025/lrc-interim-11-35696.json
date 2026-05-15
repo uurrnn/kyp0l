@@ -17,11 +17,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "7c9a89723a5cd61d9ef04c31f7bcdbc8d849817f6241e59633bb5840f47f6ea2",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/11/35696/November%205%2C%202025%20Education%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "November 5, 2025 Education Agenda.pdf",
-      "extracted_text_path": "data/attachments/7c9a89723a5cd61d9ef04c31f7bcdbc8d849817f6241e59633bb5840f47f6ea2.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -31,30 +31,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of Minutes - October 15, 2025.",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "2026-2028 Budget Request",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }
