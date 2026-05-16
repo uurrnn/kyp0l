@@ -8,6 +8,14 @@
   "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=10250",
   "source_meeting_id": "10250",
   "video_url": null,
-  "attachments": [],
+  "attachments": [
+    {
+      "sha256": "0b8a868f1ed62dd0171a61fef4a21fc613392cec28e21ca1597d3d2b075c08b6",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/10250/Agenda_20260515161717627.pdf?sv=2017-04-17&sr=b&sig=Xe0gGGKj7LTnZCouWznxZ4DuMlUOG2mNIly4TT3YGoI%3D&st=2026-05-15T02%3A19%3A11Z&se=2026-05-17T02%3A19%3A11Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/0b8a868f1ed62dd0171a61fef4a21fc613392cec28e21ca1597d3d2b075c08b6.txt"
+    }
+  ],
   "items": []
 }

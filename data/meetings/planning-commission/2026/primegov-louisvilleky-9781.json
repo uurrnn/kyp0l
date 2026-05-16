@@ -1,0 +1,28 @@
+{
+  "id": "primegov-louisvilleky-9781",
+  "body_id": "planning-commission",
+  "title": "Planning Commission",
+  "date": "2026-05-21",
+  "time": "13:00",
+  "source_type": "primegov",
+  "source_url": "https://louisvilleky.primegov.com/public/Portal/Meeting?meetingTemplateId=9781",
+  "source_meeting_id": "9781",
+  "video_url": null,
+  "attachments": [
+    {
+      "sha256": "db5332585e0bbe658a3eda7e6e5fbd9e479f25ce8d8f7fda4ab91f9b563d127a",
+      "url": "https://pgwest.blob.core.windows.net/louisvilleky/Meetings/9781/Agenda_20260515171100606.pdf?sv=2017-04-17&sr=b&sig=Lzw54I4CtQY%2BLGGYfLW7rQBAMMJ0%2BeK0UDKQZ9vggmo%3D&st=2026-05-15T02%3A19%3A11Z&se=2026-05-17T02%3A19%3A11Z&sp=r",
+      "mime": "application/pdf",
+      "template_name": "Agenda",
+      "extracted_text_path": "data/attachments/db5332585e0bbe658a3eda7e6e5fbd9e479f25ce8d8f7fda4ab91f9b563d127a.txt"
+    }
+  ],
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": "26-0210",
+      "title": "05.07.2026 PC Minutes",
+      "section": null
+    }
+  ]
+}

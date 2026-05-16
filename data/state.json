@@ -1611,14 +1611,29 @@
       "path": "data/meetings/jcps-board-of-education/2026/ksba-89-54336.json"
     },
     "primegov-louisvilleky-10251": {
-      "primary_sha": null,
+      "primary_sha": "492090aa84bc4b5943447dd442389f17241ca16394a74505608d5b754818a770",
       "items_count": 0,
       "path": "data/meetings/old-louisville-architectural-review-committee/2026/primegov-louisvilleky-10251.json"
     },
     "primegov-louisvilleky-10250": {
-      "primary_sha": null,
+      "primary_sha": "0b8a868f1ed62dd0171a61fef4a21fc613392cec28e21ca1597d3d2b075c08b6",
       "items_count": 0,
       "path": "data/meetings/historic-landmarks-preservation-districts-commission/2026/primegov-louisvilleky-10250.json"
+    },
+    "primegov-louisvilleky-10252": {
+      "primary_sha": "4c511e3ba9581161672babf024bfa3e733192015d7a2569f21eefa20cfc0ec12",
+      "items_count": 0,
+      "path": "data/meetings/policy-procedures-committee/2026/primegov-louisvilleky-10252.json"
+    },
+    "primegov-louisvilleky-10254": {
+      "primary_sha": "a0d33c5b597b8a4a514a42f7eacead55daa2aef85d6bc461bcb3b39090043403",
+      "items_count": 0,
+      "path": "data/meetings/development-review-committee/2026/primegov-louisvilleky-10254.json"
+    },
+    "primegov-louisvilleky-9781": {
+      "primary_sha": "db5332585e0bbe658a3eda7e6e5fbd9e479f25ce8d8f7fda4ab91f9b563d127a",
+      "items_count": 1,
+      "path": "data/meetings/planning-commission/2026/primegov-louisvilleky-9781.json"
     }
   },
   "bills_updated_at": {
@@ -3371,10 +3386,10 @@
       "last_run_at": "2026-05-15T14:12:45.934175+00:00"
     },
     "primegov": {
-      "last_run_at": "2026-05-15T14:14:02.450478+00:00"
+      "last_run_at": "2026-05-16T02:19:12.290071+00:00"
     },
     "openstates": {
-      "last_run_at": "2026-05-15T13:57:16.601072+00:00"
+      "last_run_at": "2026-05-16T02:18:11.747776+00:00"
     }
   }
 }
