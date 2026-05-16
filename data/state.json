@@ -1001,8 +1001,8 @@
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35577.json"
     },
     "lrc-interim-261-35540": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "27a41b7baf3674d06b556723073ac6141f921832c1f449db35221656b2d139e6",
+      "items_count": 4,
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35540.json"
     },
     "lrc-interim-10-35697": {
@@ -1036,8 +1036,8 @@
       "path": "data/meetings/lrc-interim-appropriations-revenue/2025/lrc-interim-10-35539.json"
     },
     "lrc-interim-25-42408": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "5ca08ee8cbac06a1a735425909c0691e612408df67b0c03fb6f4498d32c747cc",
+      "items_count": 5,
       "path": "data/meetings/lrc-interim-banking-insurance/2025/lrc-interim-25-42408.json"
     },
     "lrc-interim-25-35688": {
@@ -1111,8 +1111,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-econ-devel-tourism-envir-prot/2025/lrc-interim-37-35570.json"
     },
     "lrc-interim-11-35696": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "7c9a89723a5cd61d9ef04c31f7bcdbc8d849817f6241e59633bb5840f47f6ea2",
+      "items_count": 4,
       "path": "data/meetings/lrc-interim-br-sub-on-education/2025/lrc-interim-11-35696.json"
     },
     "lrc-interim-11-35670": {
@@ -1161,8 +1161,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-gen-govt-finance-personnel-public-ret/2025/lrc-interim-39-35571.json"
     },
     "lrc-interim-17-35691": {
-      "primary_sha": "e99fc284c5ce3bfd83d7cf39533d14e040107be676edd624dc22ec91cd017891",
-      "items_count": 5,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-br-sub-on-justice-judiciary/2025/lrc-interim-17-35691.json"
     },
     "lrc-interim-17-35665": {
@@ -1171,8 +1171,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-justice-judiciary/2025/lrc-interim-17-35665.json"
     },
     "lrc-interim-17-35633": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "65684d88dd4200f7f0687d7763becbba202c5ef3f9e8fb69abf79eaec887284d",
+      "items_count": 4,
       "path": "data/meetings/lrc-interim-br-sub-on-justice-judiciary/2025/lrc-interim-17-35633.json"
     },
     "lrc-interim-17-35602": {
@@ -1236,8 +1236,8 @@
       "path": "data/meetings/lrc-interim-economic-development-workforce-investment/2025/lrc-interim-313-35652.json"
     },
     "lrc-interim-313-35618": {
-      "primary_sha": "22974daebaedb90cd0bfae1271aa2cfed82e744d528fd46a3ef8e945ea266f79",
-      "items_count": 5,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-economic-development-workforce-investment/2025/lrc-interim-313-35618.json"
     },
     "lrc-interim-313-35589": {
@@ -1301,8 +1301,8 @@
       "path": "data/meetings/lrc-interim-families-and-children/2025/lrc-interim-369-35557.json"
     },
     "lrc-interim-366-35711": {
-      "primary_sha": "349be4bf10d166f3f6f4cb9f44d9ae83af2c5e2b39a1d844dd8f96ce75459dee",
-      "items_count": 10,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-health-services/2025/lrc-interim-366-35711.json"
     },
     "lrc-interim-366-35681": {
@@ -1446,8 +1446,8 @@
       "path": "data/meetings/lrc-interim-natural-resources-energy/2025/lrc-interim-262-35579.json"
     },
     "lrc-interim-262-36833": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "f63ce95808cda53487f2795d8612b09b244b53af58bd1ffe3c880c3ccb913c00",
+      "items_count": 5,
       "path": "data/meetings/lrc-interim-natural-resources-energy/2025/lrc-interim-262-36833.json"
     },
     "lrc-interim-33-35707": {
@@ -1511,8 +1511,8 @@
       "path": "data/meetings/lrc-interim-tourism-small-business-and-information-technology/2025/lrc-interim-317-36829.json"
     },
     "lrc-interim-34-35690": {
-      "primary_sha": "8795ab45c66ca8b43eb0f7bfe7c2f2a0bd460a56656c14997c5dcd34a746f8d2",
-      "items_count": 7,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-transportation/2025/lrc-interim-34-35690.json"
     },
     "lrc-interim-34-35664": {
@@ -3377,19 +3377,19 @@
   },
   "sources": {
     "ksba": {
-      "last_run_at": "2026-05-15T13:46:32.694980+00:00"
+      "last_run_at": "2026-05-16T18:52:49.174133+00:00"
     },
     "people": {
-      "last_run_at": "2026-05-15T13:59:20.959297+00:00"
+      "last_run_at": "2026-05-16T19:04:50.883064+00:00"
     },
     "lrc-interim": {
-      "last_run_at": "2026-05-15T14:12:45.934175+00:00"
+      "last_run_at": "2026-05-16T19:14:50.191947+00:00"
     },
     "primegov": {
-      "last_run_at": "2026-05-16T08:04:09.107642+00:00"
+      "last_run_at": "2026-05-16T19:15:19.435231+00:00"
     },
     "openstates": {
-      "last_run_at": "2026-05-16T08:03:10.646941+00:00"
+      "last_run_at": "2026-05-16T18:58:50.036687+00:00"
     }
   }
 }

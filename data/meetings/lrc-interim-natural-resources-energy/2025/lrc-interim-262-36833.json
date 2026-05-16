@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "",
+      "sha256": "f63ce95808cda53487f2795d8612b09b244b53af58bd1ffe3c880c3ccb913c00",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/262/36833/Jun%2018%202025%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "Jun 18 2025 Agenda.pdf",
-      "extracted_text_path": null
+      "extracted_text_path": "data/attachments/f63ce95808cda53487f2795d8612b09b244b53af58bd1ffe3c880c3ccb913c00.txt"
     },
     {
       "sha256": "",
@@ -115,5 +115,36 @@
       "extracted_text_path": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": null,
+      "title": "Call to Order and Roll Call",
+      "section": null
+    },
+    {
+      "item_number": "2",
+      "file_number": null,
+      "title": "Discussion of economic development opportunities and the potential",
+      "section": null
+    },
+    {
+      "item_number": "3",
+      "file_number": null,
+      "title": "Referred Administrative Regulations - No Action Required",
+      "section": null
+    },
+    {
+      "item_number": "4",
+      "file_number": null,
+      "title": "Reports Received - No Action Required",
+      "section": null
+    },
+    {
+      "item_number": "5",
+      "file_number": null,
+      "title": "Adjournment",
+      "section": null
+    }
+  ]
 }

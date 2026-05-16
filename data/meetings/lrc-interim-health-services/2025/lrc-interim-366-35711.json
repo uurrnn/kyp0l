@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "349be4bf10d166f3f6f4cb9f44d9ae83af2c5e2b39a1d844dd8f96ce75459dee",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/366/35711/11%2012%202025%201.Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "11 12 2025 1.Agenda.pdf",
-      "extracted_text_path": "data/attachments/349be4bf10d166f3f6f4cb9f44d9ae83af2c5e2b39a1d844dd8f96ce75459dee.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -94,66 +94,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of Minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "AN ACT relating to utilization controls for nonopioid analgesics in the Medicaid",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "AN ACT relating to physicians assistants (2026 Regular Session Bill Request",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Potential Legislation for the 2026 Regular Session: An Act to protect vulnerable",
-      "section": null
-    },
-    {
-      "item_number": "6",
-      "file_number": null,
-      "title": "Rural Health Cancer Innovation Coalition",
-      "section": null
-    },
-    {
-      "item_number": "7",
-      "file_number": null,
-      "title": "Aligning Kentucky's Level IV Trauma Coordination",
-      "section": null
-    },
-    {
-      "item_number": "8",
-      "file_number": null,
-      "title": "Overdose Prevention Strategies",
-      "section": null
-    },
-    {
-      "item_number": "9",
-      "file_number": null,
-      "title": "Consideration of Referred Administrative Regulations",
-      "section": null
-    },
-    {
-      "item_number": "10",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

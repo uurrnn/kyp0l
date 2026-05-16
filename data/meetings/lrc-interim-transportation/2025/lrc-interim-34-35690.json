@@ -17,11 +17,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "8795ab45c66ca8b43eb0f7bfe7c2f2a0bd460a56656c14997c5dcd34a746f8d2",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/34/35690/11-4-25%20IJC%20on%20Transportation%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "11-4-25 IJC on Transportation Agenda.pdf",
-      "extracted_text_path": "data/attachments/8795ab45c66ca8b43eb0f7bfe7c2f2a0bd460a56656c14997c5dcd34a746f8d2.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -52,48 +52,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of the October 14, 2025 minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Discussion on Hands Free Legislation (26 RS - BR 238)",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Automated Enforcement in Work Zones Implementation",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Driver's License Reports on Office and Testing",
-      "section": null
-    },
-    {
-      "item_number": "6",
-      "file_number": null,
-      "title": "KYTC's Property Procurement Process and Eminent Domain",
-      "section": null
-    },
-    {
-      "item_number": "7",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }
