@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "b831d5cd88f021816593f2d88ccdf6e300dd5cc56b9d8930fd8dec76f6ed8546",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/11/35575/July%2015%202025%20Education%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "July 15 2025 Education Agenda.pdf",
-      "extracted_text_path": "data/attachments/b831d5cd88f021816593f2d88ccdf6e300dd5cc56b9d8930fd8dec76f6ed8546.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -115,36 +115,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "2025 Regular Session House Bill 4 Compliance",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Kentucky Student Rights Coalition",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "The next meeting will be held on August 20, 2025.",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

@@ -996,8 +996,8 @@
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35609.json"
     },
     "lrc-interim-261-35577": {
-      "primary_sha": "c7e4edc2b416a624208929d18c4e1339792f2512c4953687aadeee06cf3e8bac",
-      "items_count": 5,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-agriculture/2025/lrc-interim-261-35577.json"
     },
     "lrc-interim-261-35540": {
@@ -1066,8 +1066,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-health-family-services/2025/lrc-interim-372-35668.json"
     },
     "lrc-interim-372-35636": {
-      "primary_sha": "389397600dfe6cd77cd27f1ad936b546669e2b8422b448df7b42e22938f6c2f4",
-      "items_count": 6,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-br-sub-on-health-family-services/2025/lrc-interim-372-35636.json"
     },
     "lrc-interim-372-35605": {
@@ -1131,8 +1131,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-education/2025/lrc-interim-11-35607.json"
     },
     "lrc-interim-11-35575": {
-      "primary_sha": "b831d5cd88f021816593f2d88ccdf6e300dd5cc56b9d8930fd8dec76f6ed8546",
-      "items_count": 5,
+      "primary_sha": null,
+      "items_count": 0,
       "path": "data/meetings/lrc-interim-br-sub-on-education/2025/lrc-interim-11-35575.json"
     },
     "lrc-interim-39-35692": {
@@ -1161,8 +1161,8 @@
       "path": "data/meetings/lrc-interim-br-sub-on-gen-govt-finance-personnel-public-ret/2025/lrc-interim-39-35571.json"
     },
     "lrc-interim-17-35691": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "e99fc284c5ce3bfd83d7cf39533d14e040107be676edd624dc22ec91cd017891",
+      "items_count": 5,
       "path": "data/meetings/lrc-interim-br-sub-on-justice-judiciary/2025/lrc-interim-17-35691.json"
     },
     "lrc-interim-17-35665": {
@@ -1236,8 +1236,8 @@
       "path": "data/meetings/lrc-interim-economic-development-workforce-investment/2025/lrc-interim-313-35652.json"
     },
     "lrc-interim-313-35618": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "22974daebaedb90cd0bfae1271aa2cfed82e744d528fd46a3ef8e945ea266f79",
+      "items_count": 5,
       "path": "data/meetings/lrc-interim-economic-development-workforce-investment/2025/lrc-interim-313-35618.json"
     },
     "lrc-interim-313-35589": {
@@ -1301,8 +1301,8 @@
       "path": "data/meetings/lrc-interim-families-and-children/2025/lrc-interim-369-35557.json"
     },
     "lrc-interim-366-35711": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "349be4bf10d166f3f6f4cb9f44d9ae83af2c5e2b39a1d844dd8f96ce75459dee",
+      "items_count": 10,
       "path": "data/meetings/lrc-interim-health-services/2025/lrc-interim-366-35711.json"
     },
     "lrc-interim-366-35681": {
@@ -1381,8 +1381,8 @@
       "path": "data/meetings/lrc-interim-licensing-occupations-administrative-regulations/2025/lrc-interim-50-35619.json"
     },
     "lrc-interim-50-35590": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "d0f1241ab56722d433f27abe4f3d7d7eef766c55922adc6dcbc649d43553b34f",
+      "items_count": 1,
       "path": "data/meetings/lrc-interim-licensing-occupations-administrative-regulations/2025/lrc-interim-50-35590.json"
     },
     "lrc-interim-50-36832": {
@@ -1511,8 +1511,8 @@
       "path": "data/meetings/lrc-interim-tourism-small-business-and-information-technology/2025/lrc-interim-317-36829.json"
     },
     "lrc-interim-34-35690": {
-      "primary_sha": null,
-      "items_count": 0,
+      "primary_sha": "8795ab45c66ca8b43eb0f7bfe7c2f2a0bd460a56656c14997c5dcd34a746f8d2",
+      "items_count": 7,
       "path": "data/meetings/lrc-interim-transportation/2025/lrc-interim-34-35690.json"
     },
     "lrc-interim-34-35664": {
@@ -3377,19 +3377,19 @@
   },
   "sources": {
     "ksba": {
-      "last_run_at": "2026-05-16T18:52:49.174133+00:00"
+      "last_run_at": "2026-05-17T18:56:31.236745+00:00"
     },
     "people": {
-      "last_run_at": "2026-05-16T19:04:50.883064+00:00"
+      "last_run_at": "2026-05-17T19:08:32.850739+00:00"
     },
     "lrc-interim": {
-      "last_run_at": "2026-05-16T19:14:50.191947+00:00"
+      "last_run_at": "2026-05-17T19:15:01.186666+00:00"
     },
     "primegov": {
-      "last_run_at": "2026-05-17T08:26:15.692170+00:00"
+      "last_run_at": "2026-05-17T19:15:56.309832+00:00"
     },
     "openstates": {
-      "last_run_at": "2026-05-17T08:24:12.541984+00:00"
+      "last_run_at": "2026-05-17T19:02:32.244451+00:00"
     }
   }
 }

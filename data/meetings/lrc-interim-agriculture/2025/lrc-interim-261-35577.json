@@ -17,11 +17,11 @@
       "extracted_text_path": null
     },
     {
-      "sha256": "c7e4edc2b416a624208929d18c4e1339792f2512c4953687aadeee06cf3e8bac",
+      "sha256": "",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/261/35577/July%2010%2C%202025%20Agenda.pdf",
       "mime": "application/pdf",
       "template_name": "July 10, 2025 Agenda.pdf",
-      "extracted_text_path": "data/attachments/c7e4edc2b416a624208929d18c4e1339792f2512c4953687aadeee06cf3e8bac.txt"
+      "extracted_text_path": null
     },
     {
       "sha256": "",
@@ -38,36 +38,5 @@
       "extracted_text_path": null
     }
   ],
-  "items": [
-    {
-      "item_number": "1",
-      "file_number": null,
-      "title": "Call to Order and Roll Call",
-      "section": null
-    },
-    {
-      "item_number": "2",
-      "file_number": null,
-      "title": "Approval of June 5, 2025 minutes",
-      "section": null
-    },
-    {
-      "item_number": "3",
-      "file_number": null,
-      "title": "Discussion on the Impact of the Eddyville Agri-Port Terminal",
-      "section": null
-    },
-    {
-      "item_number": "4",
-      "file_number": null,
-      "title": "Investing in Agricultural Processing",
-      "section": null
-    },
-    {
-      "item_number": "5",
-      "file_number": null,
-      "title": "Adjournment",
-      "section": null
-    }
-  ]
+  "items": []
 }

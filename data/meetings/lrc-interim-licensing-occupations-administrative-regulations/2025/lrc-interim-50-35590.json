@@ -10,11 +10,11 @@
   "video_url": null,
   "attachments": [
     {
-      "sha256": "",
+      "sha256": "d0f1241ab56722d433f27abe4f3d7d7eef766c55922adc6dcbc649d43553b34f",
       "url": "https://apps.legislature.ky.gov/CommitteeDocuments/50/35590/804-004-400_AgAmd_Enrolled.pdf",
       "mime": "application/pdf",
       "template_name": "804-004-400_AgAmd_Enrolled.pdf",
-      "extracted_text_path": null
+      "extracted_text_path": "data/attachments/d0f1241ab56722d433f27abe4f3d7d7eef766c55922adc6dcbc649d43553b34f.txt"
     },
     {
       "sha256": "",
@@ -52,5 +52,12 @@
       "extracted_text_path": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "item_number": "1",
+      "file_number": null,
+      "title": "Full agenda PDF (6 document(s))",
+      "section": null
+    }
+  ]
 }
